@@ -1,0 +1,1787 @@
+[
+    {
+        "text": "[Philip Defranco] It is\nFriday March twenty-seventh",
+        "start": 0.0,
+        "duration": 1.594
+    },
+    {
+        "text": "twenty-twenty my name is Philip Defranco.",
+        "start": 1.594,
+        "duration": 2.276
+    },
+    {
+        "text": "Welcome back to the Philip Defranco show",
+        "start": 3.87,
+        "duration": 1.32
+    },
+    {
+        "text": "and for today's Friday\nshow I have a little",
+        "start": 5.19,
+        "duration": 1.801
+    },
+    {
+        "text": "something different and special for you.",
+        "start": 6.991,
+        "duration": 1.756
+    },
+    {
+        "text": "One of the most trusted people,",
+        "start": 8.747,
+        "duration": 1.71
+    },
+    {
+        "text": "one the most trusted\nexperts in this coronavirus",
+        "start": 10.457,
+        "duration": 2.528
+    },
+    {
+        "text": "pandemic is a guy by the\nname of Dr. Anthony Fauci.",
+        "start": 12.985,
+        "duration": 3.515
+    },
+    {
+        "text": "He's an immunilogist serves as director",
+        "start": 16.5,
+        "duration": 1.67
+    },
+    {
+        "text": "of the National Insitute of\nAllergy and Infectious Diseases",
+        "start": 18.17,
+        "duration": 2.55
+    },
+    {
+        "text": "and is a member of the\ncoronavirus task force.",
+        "start": 20.72,
+        "duration": 2.246
+    },
+    {
+        "text": "And fantastically I was able\nto get ahold of Dr. Fauci",
+        "start": 22.966,
+        "duration": 2.864
+    },
+    {
+        "text": "for fifteen minutes to\nask some frequently asked",
+        "start": 25.83,
+        "duration": 1.471
+    },
+    {
+        "text": "questions from you guys\nas well there's just",
+        "start": 27.301,
+        "duration": 1.92
+    },
+    {
+        "text": "been some things I've been wondering as",
+        "start": 29.221,
+        "duration": 1.649
+    },
+    {
+        "text": "I've watched the press conferences.",
+        "start": 30.87,
+        "duration": 1.23
+    },
+    {
+        "text": "And just really quick\nbefore we jump into that",
+        "start": 32.1,
+        "duration": 1.43
+    },
+    {
+        "text": "I wanted to thank in general our sponsors",
+        "start": 33.53,
+        "duration": 2.07
+    },
+    {
+        "text": "but also for this video specifically",
+        "start": 35.6,
+        "duration": 1.2
+    },
+    {
+        "text": "thank you to Vessi Footwear.",
+        "start": 36.8,
+        "duration": 1.715
+    },
+    {
+        "text": "Who have recently committed to donating",
+        "start": 38.515,
+        "duration": 1.845
+    },
+    {
+        "text": "over thirty thousand medical masks to",
+        "start": 40.36,
+        "duration": 1.137
+    },
+    {
+        "text": "organizations that need the most in both",
+        "start": 41.497,
+        "duration": 1.548
+    },
+    {
+        "text": "the United States and Canada.",
+        "start": 43.045,
+        "duration": 1.558
+    },
+    {
+        "text": "So your Vessi purchases\nwill actually support",
+        "start": 44.603,
+        "duration": 1.687
+    },
+    {
+        "text": "our healthcare workers in\nthe fight against COVID-19.",
+        "start": 46.29,
+        "duration": 1.83
+    },
+    {
+        "text": "Which I'll talk about more later but,",
+        "start": 48.12,
+        "duration": 1.223
+    },
+    {
+        "text": "with that said here is Dr. Fauci.",
+        "start": 49.343,
+        "duration": 2.896
+    },
+    {
+        "text": "Dr. Fauci thank you so\nmuch for making the time.",
+        "start": 52.239,
+        "duration": 1.805
+    },
+    {
+        "text": "I'm gonna just gonna kinda jump into it.",
+        "start": 54.044,
+        "duration": 2.169
+    },
+    {
+        "text": "We have some prepared\nquestions some questions",
+        "start": 56.213,
+        "duration": 1.455
+    },
+    {
+        "text": "from our audience as well.",
+        "start": 57.668,
+        "duration": 2.661
+    },
+    {
+        "text": "Yesterday you said that we needa really",
+        "start": 60.329,
+        "duration": 1.951
+    },
+    {
+        "text": "be prepared for another cycle right?",
+        "start": 62.28,
+        "duration": 1.779
+    },
+    {
+        "text": "Why do you think we're\ncurrently you're currently",
+        "start": 64.059,
+        "duration": 2.339
+    },
+    {
+        "text": "seeing this as potentially seasonal?",
+        "start": 66.398,
+        "duration": 2.05
+    },
+    {
+        "text": "- [Dr. Fauci] Well I mean I don't want",
+        "start": 68.448,
+        "duration": 2.092
+    },
+    {
+        "text": "seasonal to be thinking that well its okay",
+        "start": 70.54,
+        "duration": 2.219
+    },
+    {
+        "text": "because its just gonna\nbe a plain old seasonal.",
+        "start": 72.759,
+        "duration": 2.144
+    },
+    {
+        "text": "When I said another cycle,\ngiven the robust nature",
+        "start": 74.903,
+        "duration": 3.58
+    },
+    {
+        "text": "of the transmissability\nand the fact that it is",
+        "start": 78.483,
+        "duration": 3.067
+    },
+    {
+        "text": "global throughout the world\nand we're seeing cases now",
+        "start": 81.55,
+        "duration": 2.555
+    },
+    {
+        "text": "in the southern hemisphere.",
+        "start": 84.105,
+        "duration": 1.781
+    },
+    {
+        "text": "Southern Africa in the southern hemisphere",
+        "start": 85.886,
+        "duration": 2.564
+    },
+    {
+        "text": "which are entering in their winter,",
+        "start": 88.45,
+        "duration": 1.477
+    },
+    {
+        "text": "It is concievable and maybe likely that",
+        "start": 89.927,
+        "duration": 2.836
+    },
+    {
+        "text": "they're gonna have a big surge through",
+        "start": 92.763,
+        "duration": 2.922
+    },
+    {
+        "text": "what is their winter and our summer.",
+        "start": 95.685,
+        "duration": 2.294
+    },
+    {
+        "text": "Once you have circulating\nvirus in the world,",
+        "start": 97.979,
+        "duration": 2.776
+    },
+    {
+        "text": "through our summer and\nas we get into the fall,",
+        "start": 100.755,
+        "duration": 2.999
+    },
+    {
+        "text": "invariably it would come back in the fall.",
+        "start": 103.754,
+        "duration": 3.207
+    },
+    {
+        "text": "So that's the reason\neven though we handle it",
+        "start": 106.961,
+        "duration": 3.153
+    },
+    {
+        "text": "which we will, well as we get\ninto the warmer months now.",
+        "start": 110.114,
+        "duration": 3.992
+    },
+    {
+        "text": "I feel we need to be absolutely prepared",
+        "start": 114.106,
+        "duration": 2.916
+    },
+    {
+        "text": "for another surge as we get\ninto next fall and winter.",
+        "start": 117.022,
+        "duration": 3.788
+    },
+    {
+        "text": "- [Philip Defranco] Okay so that's the",
+        "start": 120.81,
+        "duration": 1.16
+    },
+    {
+        "text": "next fall next winter. Now would this be",
+        "start": 121.97,
+        "duration": 2.53
+    },
+    {
+        "text": "would we expect this to\nbe the same virus that's",
+        "start": 124.5,
+        "duration": 2.088
+    },
+    {
+        "text": "hitting everyone now? So\nlets say obviously there's",
+        "start": 126.588,
+        "duration": 3.461
+    },
+    {
+        "text": "no magic wand that's been a you know",
+        "start": 130.049,
+        "duration": 1.219
+    },
+    {
+        "text": "a constant thing said, if\na vaccine was developed",
+        "start": 131.268,
+        "duration": 4.592
+    },
+    {
+        "text": "do we believe it would\nbe something that would",
+        "start": 135.86,
+        "duration": 1.76
+    },
+    {
+        "text": "affect the next waves?",
+        "start": 137.62,
+        "duration": 1.39
+    },
+    {
+        "text": "- [Dr. Fauci] Yeah I do in\nvaccinology and in medicine",
+        "start": 139.01,
+        "duration": 2.299
+    },
+    {
+        "text": "you never know for sure\nbut there is no indication",
+        "start": 141.309,
+        "duration": 3.883
+    },
+    {
+        "text": "as we do molecular analysis\nof the virus as it evolves",
+        "start": 145.192,
+        "duration": 4.636
+    },
+    {
+        "text": "that this is mutating to the point of",
+        "start": 149.828,
+        "duration": 2.759
+    },
+    {
+        "text": "having any functional difference.",
+        "start": 152.587,
+        "duration": 2.543
+    },
+    {
+        "text": "If you compare viruses in China, in Italy,",
+        "start": 155.13,
+        "duration": 3.41
+    },
+    {
+        "text": "in the rest of Europe,\nin the United States",
+        "start": 158.54,
+        "duration": 1.844
+    },
+    {
+        "text": "that's one of the reasons why",
+        "start": 160.384,
+        "duration": 1.878
+    },
+    {
+        "text": "you know you may have heard\nwe started a vaccine trial",
+        "start": 162.262,
+        "duration": 2.67
+    },
+    {
+        "text": "about a week and half two weeks ago.",
+        "start": 164.932,
+        "duration": 2.388
+    },
+    {
+        "text": "Its the fastest we've\never gone from discovering",
+        "start": 167.32,
+        "duration": 3.48
+    },
+    {
+        "text": "a virus to getting it to the trial.",
+        "start": 170.8,
+        "duration": 1.92
+    },
+    {
+        "text": "Even with that speed,\nit would take at least",
+        "start": 172.72,
+        "duration": 2.44
+    },
+    {
+        "text": "a year before we know if this works.",
+        "start": 175.16,
+        "duration": 2.37
+    },
+    {
+        "text": "So hopefully if we can able\nto show an efficacy signal,",
+        "start": 177.53,
+        "duration": 4.39
+    },
+    {
+        "text": "that we may be able to not\nonly have a vaccine late",
+        "start": 181.92,
+        "duration": 3.28
+    },
+    {
+        "text": "in next season, but also a\nnumber of drugs that we're",
+        "start": 185.2,
+        "duration": 3.34
+    },
+    {
+        "text": "testing on randomized control trials.",
+        "start": 188.54,
+        "duration": 1.985
+    },
+    {
+        "text": "So its gonna be a different ball game",
+        "start": 190.525,
+        "duration": 2.302
+    },
+    {
+        "text": "if we get back next season.\nIts not gonna be hit",
+        "start": 192.827,
+        "duration": 3.369
+    },
+    {
+        "text": "the way we're hit now because",
+        "start": 196.196,
+        "duration": 1.776
+    },
+    {
+        "text": "we will be much better prepared.",
+        "start": 197.972,
+        "duration": 1.998
+    },
+    {
+        "text": "- [Philip Defranco] Right\nnow actually kind of on",
+        "start": 199.97,
+        "duration": 2.57
+    },
+    {
+        "text": "preparation yesterday\nyou talked about in China",
+        "start": 202.54,
+        "duration": 2.299
+    },
+    {
+        "text": "they're seeing imported\ncases that we need to keep",
+        "start": 204.839,
+        "duration": 2.671
+    },
+    {
+        "text": "that in mind. What would\nyour recommended strategy",
+        "start": 207.51,
+        "duration": 2.73
+    },
+    {
+        "text": "be for the United States there?",
+        "start": 210.24,
+        "duration": 1.27
+    },
+    {
+        "text": "- [Dr. Fauci] Well, in\nthe United States if we",
+        "start": 211.51,
+        "duration": 2.86
+    },
+    {
+        "text": "and that's more than if its when because",
+        "start": 214.37,
+        "duration": 2.39
+    },
+    {
+        "text": "we will get it under control.",
+        "start": 216.76,
+        "duration": 1.281
+    },
+    {
+        "text": "When we get this under control, if there's",
+        "start": 218.041,
+        "duration": 3.002
+    },
+    {
+        "text": "a lot of activity in the\nrest of the world which,",
+        "start": 221.043,
+        "duration": 3.207
+    },
+    {
+        "text": "there likely will be, I would be reluctant",
+        "start": 224.25,
+        "duration": 3.76
+    },
+    {
+        "text": "to just very liberally release\nthe travel restrictions",
+        "start": 228.01,
+        "duration": 4.27
+    },
+    {
+        "text": "of people coming into the country because",
+        "start": 232.28,
+        "duration": 1.963
+    },
+    {
+        "text": "you don't want all of your hard work to",
+        "start": 234.243,
+        "duration": 2.861
+    },
+    {
+        "text": "suppress the outbreak\nonly to have it receded.",
+        "start": 237.104,
+        "duration": 4.806
+    },
+    {
+        "text": "I was on a telephone call\njust yesterday morning",
+        "start": 241.91,
+        "duration": 3.546
+    },
+    {
+        "text": "with the WHO who has like\nliterally fifty people",
+        "start": 245.456,
+        "duration": 5.0
+    },
+    {
+        "text": "on the phone from different countries and",
+        "start": 250.89,
+        "duration": 2.23
+    },
+    {
+        "text": "our Chinese colleagues\nwere there warning us",
+        "start": 253.12,
+        "duration": 2.224
+    },
+    {
+        "text": "saying we've finally got\nour epidemic under control",
+        "start": 255.344,
+        "duration": 3.529
+    },
+    {
+        "text": "but we're starting to see\nreceding now from other",
+        "start": 258.873,
+        "duration": 3.31
+    },
+    {
+        "text": "countries that are traveling into China.",
+        "start": 262.183,
+        "duration": 2.359
+    },
+    {
+        "text": "So we've really gotta be careful,",
+        "start": 264.542,
+        "duration": 1.969
+    },
+    {
+        "text": "we've really gotta be careful.",
+        "start": 266.511,
+        "duration": 1.689
+    },
+    {
+        "text": "- [Philip Defranco] Now\nwhen you're saying that",
+        "start": 268.2,
+        "duration": 0.93
+    },
+    {
+        "text": "we needa be careful for\nyou is it more of an",
+        "start": 269.13,
+        "duration": 2.07
+    },
+    {
+        "text": "international issue where\nI know that yesterday",
+        "start": 271.2,
+        "duration": 1.812
+    },
+    {
+        "text": "there was a conversation\nof people leaving New York",
+        "start": 273.012,
+        "duration": 2.978
+    },
+    {
+        "text": "which is if we wanna\nuse the word hot spot,",
+        "start": 275.99,
+        "duration": 1.522
+    },
+    {
+        "text": "possibly going to Florida\nand several other states,",
+        "start": 277.512,
+        "duration": 3.248
+    },
+    {
+        "text": "do we see this also as a potential",
+        "start": 280.76,
+        "duration": 1.517
+    },
+    {
+        "text": "domestic issue more sort term?",
+        "start": 282.277,
+        "duration": 2.23
+    },
+    {
+        "text": "- [Dr Fauci] You know short\nterm domestic its true.",
+        "start": 284.507,
+        "duration": 2.423
+    },
+    {
+        "text": "I mean the recommendation that was made",
+        "start": 286.93,
+        "duration": 2.52
+    },
+    {
+        "text": "and I was in the task force room",
+        "start": 290.762,
+        "duration": 1.985
+    },
+    {
+        "text": "when the recommendation was discussed,",
+        "start": 292.747,
+        "duration": 2.232
+    },
+    {
+        "text": "was that about a million\npeople were leaving New York.",
+        "start": 294.979,
+        "duration": 3.321
+    },
+    {
+        "text": "Because that New York\nwas suffering so badly.",
+        "start": 298.3,
+        "duration": 2.3
+    },
+    {
+        "text": "They were going to\nFlorida. They were going",
+        "start": 300.6,
+        "duration": 2.02
+    },
+    {
+        "text": "out on Long Island, to the\nHamptons and places where",
+        "start": 302.62,
+        "duration": 2.517
+    },
+    {
+        "text": "people who can afford that go and",
+        "start": 305.137,
+        "duration": 1.782
+    },
+    {
+        "text": "they were bringing the infection.",
+        "start": 306.919,
+        "duration": 2.182
+    },
+    {
+        "text": "And for that reason it was said that",
+        "start": 309.101,
+        "duration": 1.809
+    },
+    {
+        "text": "if you were in New York\nwithin the last fourteen days,",
+        "start": 310.91,
+        "duration": 2.253
+    },
+    {
+        "text": "when you reach your destination,",
+        "start": 313.163,
+        "duration": 2.256
+    },
+    {
+        "text": "you have got to essentially\nsequester yourself in place",
+        "start": 315.419,
+        "duration": 5.0
+    },
+    {
+        "text": "for a total of fourteen days.",
+        "start": 320.553,
+        "duration": 1.734
+    },
+    {
+        "text": "And that's what the\nrecommendation is right now",
+        "start": 322.287,
+        "duration": 2.065
+    },
+    {
+        "text": "to prevent the hot spot\nof New York being spread",
+        "start": 324.352,
+        "duration": 3.339
+    },
+    {
+        "text": "to the hot spot of other\nparts of the country.",
+        "start": 327.691,
+        "duration": 2.269
+    },
+    {
+        "text": "- [Philip Defranco] A few\nquestions from our audience",
+        "start": 329.96,
+        "duration": 1.9
+    },
+    {
+        "text": "just so you know the\ndifferent tone change.(laughs)",
+        "start": 331.86,
+        "duration": 2.486
+    },
+    {
+        "text": "This one from Morgan,",
+        "start": 334.346,
+        "duration": 1.671
+    },
+    {
+        "text": "\"I'm in the high-risk\ncategory and I'm already",
+        "start": 336.017,
+        "duration": 1.576
+    },
+    {
+        "text": "hearing about hospitals\nlacking supplies and beds",
+        "start": 337.593,
+        "duration": 2.523
+    },
+    {
+        "text": "for those who need treatment.\nIn the event I get sick",
+        "start": 340.116,
+        "duration": 2.584
+    },
+    {
+        "text": "and do have access to care,\nis there anything I can do",
+        "start": 342.7,
+        "duration": 2.703
+    },
+    {
+        "text": "for myself at home that would increase",
+        "start": 345.403,
+        "duration": 1.829
+    },
+    {
+        "text": "my change of making it through?\"",
+        "start": 347.232,
+        "duration": 1.828
+    },
+    {
+        "text": "- [Dr Fauci] Yeah well,\nthe general rule is",
+        "start": 349.06,
+        "duration": 1.758
+    },
+    {
+        "text": "if you get sick get a fever and",
+        "start": 350.818,
+        "duration": 1.87
+    },
+    {
+        "text": "think you might have coronavirus disease,",
+        "start": 352.688,
+        "duration": 3.347
+    },
+    {
+        "text": "you wanna go home. Then you\nwanna contact a physician",
+        "start": 356.035,
+        "duration": 3.742
+    },
+    {
+        "text": "and get instructions as\nto what you should do.",
+        "start": 359.777,
+        "duration": 2.724
+    },
+    {
+        "text": "Let them evaluate you over the phone.",
+        "start": 362.501,
+        "duration": 2.712
+    },
+    {
+        "text": "Perhaps say we're gonna get you tested.",
+        "start": 365.213,
+        "duration": 2.451
+    },
+    {
+        "text": "He may not say that he\nmay say if you're stable",
+        "start": 367.664,
+        "duration": 3.266
+    },
+    {
+        "text": "you're doing well, stay\nhome just ride it out.",
+        "start": 370.93,
+        "duration": 2.957
+    },
+    {
+        "text": "Or they may get you\ntested or if it looks like",
+        "start": 373.887,
+        "duration": 2.899
+    },
+    {
+        "text": "you're not doing well,\ndefinitely get you to a facility",
+        "start": 376.786,
+        "duration": 3.744
+    },
+    {
+        "text": "where you can be taken\ncare of. But the first move",
+        "start": 380.53,
+        "duration": 2.501
+    },
+    {
+        "text": "is not to walk into an\nemergency room because",
+        "start": 383.031,
+        "duration": 3.429
+    },
+    {
+        "text": "that's how you infect other people.",
+        "start": 386.46,
+        "duration": 1.317
+    },
+    {
+        "text": "- [Philip Defranco] \"Should we be avoiding",
+        "start": 387.777,
+        "duration": 1.523
+    },
+    {
+        "text": "food delivery service right now? Obviously",
+        "start": 389.3,
+        "duration": 1.495
+    },
+    {
+        "text": "more people are staying home\neven with no contact options.",
+        "start": 390.795,
+        "duration": 2.68
+    },
+    {
+        "text": "Someone made the food.\nSomeone packaged it.\"",
+        "start": 393.475,
+        "duration": 2.708
+    },
+    {
+        "text": "- [Dr Fauci] The answer is no with care.",
+        "start": 396.183,
+        "duration": 3.407
+    },
+    {
+        "text": "So when you get anything delivered,",
+        "start": 399.59,
+        "duration": 2.043
+    },
+    {
+        "text": "could be food, somebody\ntouching a doorknob,",
+        "start": 401.633,
+        "duration": 3.397
+    },
+    {
+        "text": "wash your hands literally in an",
+        "start": 405.03,
+        "duration": 2.42
+    },
+    {
+        "text": "obsessive and compulsive way.",
+        "start": 407.45,
+        "duration": 1.154
+    },
+    {
+        "text": "Just wash your hands as much as your can",
+        "start": 408.604,
+        "duration": 2.386
+    },
+    {
+        "text": "you know rub down doorknobs\nwith clorox or alcohol.",
+        "start": 410.99,
+        "duration": 4.59
+    },
+    {
+        "text": "But I like the idea about\npickup food or home delivery",
+        "start": 415.58,
+        "duration": 5.0
+    },
+    {
+        "text": "because its takes you out of",
+        "start": 422.02,
+        "duration": 1.31
+    },
+    {
+        "text": "the environment of a restaurant.",
+        "start": 423.33,
+        "duration": 1.758
+    },
+    {
+        "text": "It would be worse to be\nin a crowded restaurant",
+        "start": 425.088,
+        "duration": 2.88
+    },
+    {
+        "text": "than to have a single person\nwho you ask to wash their hands",
+        "start": 427.968,
+        "duration": 4.276
+    },
+    {
+        "text": "deliver a package to you\nor you go to a restaurant",
+        "start": 432.244,
+        "duration": 3.247
+    },
+    {
+        "text": "and pick it up. I did that\nmyself last night (laughs)",
+        "start": 435.491,
+        "duration": 4.704
+    },
+    {
+        "text": "I mean one of my favorite\nrestaurants in my neighborhood",
+        "start": 440.195,
+        "duration": 3.725
+    },
+    {
+        "text": "in Washington D.C. I just am\nvery sorry I don't go to it",
+        "start": 443.92,
+        "duration": 3.332
+    },
+    {
+        "text": "because I'm doing social distancing.",
+        "start": 447.252,
+        "duration": 2.288
+    },
+    {
+        "text": "So I ordered what I like,\nwent, put my credit card down,",
+        "start": 449.54,
+        "duration": 4.83
+    },
+    {
+        "text": "wiped it off with wipe,\nput it in my pocket and",
+        "start": 454.37,
+        "duration": 2.65
+    },
+    {
+        "text": "took the bag and went\nhome. It worked perfectly.",
+        "start": 457.02,
+        "duration": 2.44
+    },
+    {
+        "text": "- [Philip Defranco] Do\nwe have a clear picture",
+        "start": 459.46,
+        "duration": 1.12
+    },
+    {
+        "text": "as far as the far as the full extent of",
+        "start": 460.58,
+        "duration": 1.55
+    },
+    {
+        "text": "possible damage COVID-19 can do to lungs?",
+        "start": 462.13,
+        "duration": 2.53
+    },
+    {
+        "text": "I know there's been a big\nfocus on the fatality rate,",
+        "start": 464.66,
+        "duration": 1.802
+    },
+    {
+        "text": "the differences there but what\nabout people that get sick?",
+        "start": 466.462,
+        "duration": 3.712
+    },
+    {
+        "text": "Do you recover? Do we have an\nidea about the lung damage?",
+        "start": 470.174,
+        "duration": 2.626
+    },
+    {
+        "text": "- [Dr. Fauci] Good question.\nI mean as you know,",
+        "start": 472.8,
+        "duration": 2.347
+    },
+    {
+        "text": "the data mostly from\nChina and other places,",
+        "start": 475.147,
+        "duration": 3.23
+    },
+    {
+        "text": "about eighty plus percent of\nthe people that get infected",
+        "start": 478.377,
+        "duration": 3.125
+    },
+    {
+        "text": "spontaniously recover without\nany medical intervention.",
+        "start": 481.502,
+        "duration": 5.0
+    },
+    {
+        "text": "About fifteen percent do badly\nin the sense of requiring",
+        "start": 486.661,
+        "duration": 4.37
+    },
+    {
+        "text": "sometimes intensive\nhospital care. Among those,",
+        "start": 491.031,
+        "duration": 5.0
+    },
+    {
+        "text": "most of them are individuals\nwho are either elderly",
+        "start": 496.76,
+        "duration": 3.542
+    },
+    {
+        "text": "or have an underlying condition.",
+        "start": 500.302,
+        "duration": 1.961
+    },
+    {
+        "text": "Heart disease, lung disease, diabtes, etc.",
+        "start": 502.263,
+        "duration": 2.788
+    },
+    {
+        "text": "What we have not yet\ndone, someone is doing it",
+        "start": 505.051,
+        "duration": 3.024
+    },
+    {
+        "text": "but the data aren't out yet, is that",
+        "start": 508.075,
+        "duration": 2.775
+    },
+    {
+        "text": "when someone recovers or\non a respirator they have",
+        "start": 510.85,
+        "duration": 3.12
+    },
+    {
+        "text": "pulmonary infiltrates, they\nget out of the hospital",
+        "start": 513.97,
+        "duration": 2.042
+    },
+    {
+        "text": "and they're doing well is to follow up",
+        "start": 516.012,
+        "duration": 2.34
+    },
+    {
+        "text": "what the pulmonary function\nis, have they knocked",
+        "start": 518.352,
+        "duration": 3.068
+    },
+    {
+        "text": "out a considerable amount\nof pulmonary function?",
+        "start": 521.42,
+        "duration": 1.95
+    },
+    {
+        "text": "What's the ejection\nfraction of their heart?",
+        "start": 523.37,
+        "duration": 2.74
+    },
+    {
+        "text": "Which is a parameter\nof the function of your",
+        "start": 526.11,
+        "duration": 2.963
+    },
+    {
+        "text": "of the ability of your\nheart to pump blood around.",
+        "start": 529.073,
+        "duration": 3.261
+    },
+    {
+        "text": "We don't know that yet but we're gonna get",
+        "start": 532.334,
+        "duration": 1.434
+    },
+    {
+        "text": "that information cus\nsomebody's collecting it.",
+        "start": 533.768,
+        "duration": 2.168
+    },
+    {
+        "text": "- [Philip Defranco] I believe\nyou've answered this before",
+        "start": 535.936,
+        "duration": 1.474
+    },
+    {
+        "text": "but it was one of the most requested,",
+        "start": 537.41,
+        "duration": 1.737
+    },
+    {
+        "text": "\"Are you able to contract\nthe virus more than once?",
+        "start": 539.147,
+        "duration": 2.163
+    },
+    {
+        "text": "And even after we believe\nthat you're recovered,",
+        "start": 541.31,
+        "duration": 2.197
+    },
+    {
+        "text": "how long would you remain\na potential carrier?",
+        "start": 543.507,
+        "duration": 2.297
+    },
+    {
+        "text": "- [Dr Fauci] Okay so the\nanswer to the first question.",
+        "start": 545.804,
+        "duration": 2.069
+    },
+    {
+        "text": "Is that if this virus acts\nlike every other virus",
+        "start": 547.873,
+        "duration": 3.655
+    },
+    {
+        "text": "we know which we have no\nreason to believe it will not,",
+        "start": 551.528,
+        "duration": 2.536
+    },
+    {
+        "text": "that once you are infected and you",
+        "start": 554.064,
+        "duration": 2.846
+    },
+    {
+        "text": "clear the infection\nsuccessfully and you're well,",
+        "start": 556.91,
+        "duration": 2.761
+    },
+    {
+        "text": "you will be protected against subsequent",
+        "start": 559.671,
+        "duration": 3.536
+    },
+    {
+        "text": "exposure to the same virus.",
+        "start": 563.207,
+        "duration": 2.16
+    },
+    {
+        "text": "We haven't definitively proven that",
+        "start": 565.367,
+        "duration": 2.808
+    },
+    {
+        "text": "by any re-challenging of people.",
+        "start": 568.175,
+        "duration": 2.264
+    },
+    {
+        "text": "But it just make virilogical sense since",
+        "start": 570.439,
+        "duration": 3.861
+    },
+    {
+        "text": "that's what we we see with\nvirtually any other virus.",
+        "start": 574.3,
+        "duration": 1.964
+    },
+    {
+        "text": "How long you're infected depends on",
+        "start": 576.264,
+        "duration": 3.346
+    },
+    {
+        "text": "how long you're shedding virus.",
+        "start": 579.61,
+        "duration": 1.9
+    },
+    {
+        "text": "I mean I might get infected\nwhen I get sick and get better",
+        "start": 581.51,
+        "duration": 4.25
+    },
+    {
+        "text": "and feel well but still be shedding virus",
+        "start": 585.76,
+        "duration": 2.629
+    },
+    {
+        "text": "and that's the reason why\nbefore you can be certain,",
+        "start": 588.389,
+        "duration": 3.111
+    },
+    {
+        "text": "you should have two negative\nswabs twenty-four hours apart",
+        "start": 591.5,
+        "duration": 4.221
+    },
+    {
+        "text": "to know that you're okay to go.",
+        "start": 595.721,
+        "duration": 2.095
+    },
+    {
+        "text": "- [Philip Defranco]\nAnd regarding you know,",
+        "start": 597.816,
+        "duration": 1.354
+    },
+    {
+        "text": "people having and people not having it",
+        "start": 599.17,
+        "duration": 1.256
+    },
+    {
+        "text": "there's been more and more talk over",
+        "start": 600.426,
+        "duration": 1.684
+    },
+    {
+        "text": "the past forty-eight hours of the",
+        "start": 602.11,
+        "duration": 0.945
+    },
+    {
+        "text": "I believe its called the\nconvalecent serum treatment",
+        "start": 603.055,
+        "duration": 3.385
+    },
+    {
+        "text": "that the FDA is expedited.\nDo you know can you kind of",
+        "start": 606.44,
+        "duration": 3.332
+    },
+    {
+        "text": "expand on how and why\nor even what that is?",
+        "start": 609.772,
+        "duration": 4.322
+    },
+    {
+        "text": "- [Dr. Fauci] Okay so if I get infected",
+        "start": 614.094,
+        "duration": 2.792
+    },
+    {
+        "text": "and I clear the virus my\nbody clears the virus by",
+        "start": 616.886,
+        "duration": 3.504
+    },
+    {
+        "text": "making a protein called an antibody.",
+        "start": 620.39,
+        "duration": 2.575
+    },
+    {
+        "text": "That antibody is protected\nagainst my getting infected again",
+        "start": 622.965,
+        "duration": 4.693
+    },
+    {
+        "text": "and its also the mechanism that",
+        "start": 627.658,
+        "duration": 3.302
+    },
+    {
+        "text": "suppressed the virus in my body.",
+        "start": 630.96,
+        "duration": 1.556
+    },
+    {
+        "text": "So what we do is that we\nwithdraw from a person",
+        "start": 632.516,
+        "duration": 4.434
+    },
+    {
+        "text": "who has recovered their serum\nis called convalecent serum.",
+        "start": 636.95,
+        "duration": 4.418
+    },
+    {
+        "text": "And we either infuse it into\nsomeone else to protect them",
+        "start": 641.368,
+        "duration": 4.232
+    },
+    {
+        "text": "or to treat them or we\nconcentrate the specific component",
+        "start": 645.6,
+        "duration": 5.0
+    },
+    {
+        "text": "of that serum called immunoglobulin",
+        "start": 652.13,
+        "duration": 1.814
+    },
+    {
+        "text": "and we give it to a\nperson as immunoglobulin.",
+        "start": 653.944,
+        "duration": 3.797
+    },
+    {
+        "text": "The other way is a much\nmore sophisticated way",
+        "start": 657.741,
+        "duration": 2.941
+    },
+    {
+        "text": "where you take some of\nthe cells from a person",
+        "start": 660.682,
+        "duration": 3.621
+    },
+    {
+        "text": "that's making the\nantibody, you clone it and",
+        "start": 664.303,
+        "duration": 2.988
+    },
+    {
+        "text": "you produce covious\namounts of this antibody",
+        "start": 667.291,
+        "duration": 3.466
+    },
+    {
+        "text": "and passively infuse it that's\ncalled monoclonal antibodies.",
+        "start": 670.757,
+        "duration": 3.701
+    },
+    {
+        "text": "- [Philip Defranco] Are there\nany questions that Dr. Fauci",
+        "start": 674.458,
+        "duration": 2.339
+    },
+    {
+        "text": "wishes were being asked more in general?",
+        "start": 676.797,
+        "duration": 1.599
+    },
+    {
+        "text": "- [Dr. Fauci] I mean I think its less",
+        "start": 678.396,
+        "duration": 2.344
+    },
+    {
+        "text": "of a question to realize",
+        "start": 680.74,
+        "duration": 1.282
+    },
+    {
+        "text": "to get people to know that\nit is really effective",
+        "start": 682.022,
+        "duration": 5.0
+    },
+    {
+        "text": "when you listen to the guidelines\nof physical separation.",
+        "start": 687.218,
+        "duration": 4.27
+    },
+    {
+        "text": "You know the fifteen day\nguidelines that came out",
+        "start": 691.488,
+        "duration": 2.592
+    },
+    {
+        "text": "of the White House that\nthe President put out.",
+        "start": 694.08,
+        "duration": 1.656
+    },
+    {
+        "text": "Namely no more than ten people in a crowd,",
+        "start": 695.736,
+        "duration": 2.36
+    },
+    {
+        "text": "Tele-work when you can, stay out of bars,",
+        "start": 698.096,
+        "duration": 4.414
+    },
+    {
+        "text": "stay out of restaurants I\nmean even though you love",
+        "start": 702.51,
+        "duration": 2.04
+    },
+    {
+        "text": "sporting events and places\njust stay out of them.",
+        "start": 704.55,
+        "duration": 2.49
+    },
+    {
+        "text": "Try to physically separate yourself.",
+        "start": 707.04,
+        "duration": 2.798
+    },
+    {
+        "text": "Wash your hands very very\nfrequently and carefully.",
+        "start": 709.838,
+        "duration": 4.008
+    },
+    {
+        "text": "And if you are or have the responsibility",
+        "start": 713.846,
+        "duration": 3.517
+    },
+    {
+        "text": "for an elderly person or someone",
+        "start": 717.363,
+        "duration": 3.007
+    },
+    {
+        "text": "with an underlying condition,\nget them out of society.",
+        "start": 720.37,
+        "duration": 3.538
+    },
+    {
+        "text": "Put them in a place where they\ncan comfortably self isolate.",
+        "start": 723.908,
+        "duration": 4.994
+    },
+    {
+        "text": "You don't wanna socially\nisolate them you know",
+        "start": 728.902,
+        "duration": 2.688
+    },
+    {
+        "text": "you wanna talk to them you wanna you know",
+        "start": 731.59,
+        "duration": 1.88
+    },
+    {
+        "text": "convey things by telephone\nby YouTube or whatever.",
+        "start": 733.47,
+        "duration": 3.534
+    },
+    {
+        "text": "But physically separate\nyourself from them.",
+        "start": 737.004,
+        "duration": 2.545
+    },
+    {
+        "text": "- [Philip Defranco]\nDefinitely and Dr. Fauci",
+        "start": 739.549,
+        "duration": 1.431
+    },
+    {
+        "text": "kind of just a last question\nbecause we only see you",
+        "start": 740.98,
+        "duration": 2.512
+    },
+    {
+        "text": "for that kind of sixty\nminutes to two hours a day,",
+        "start": 743.492,
+        "duration": 3.305
+    },
+    {
+        "text": "what does a day for you\nlook like when its not",
+        "start": 746.797,
+        "duration": 3.028
+    },
+    {
+        "text": "you talking to me and I guess Seth Curry",
+        "start": 749.825,
+        "duration": 2.205
+    },
+    {
+        "text": "and other people today? (laughs)",
+        "start": 752.03,
+        "duration": 1.22
+    },
+    {
+        "text": "- [Dr Fauci] Well you know\nits very intense I mean",
+        "start": 753.25,
+        "duration": 1.59
+    },
+    {
+        "text": "the last couple of months I've\nbeen getting about four hour",
+        "start": 754.84,
+        "duration": 2.73
+    },
+    {
+        "text": "sleep a night maybe sometimes less.",
+        "start": 757.57,
+        "duration": 1.83
+    },
+    {
+        "text": "You know you get up in\nthe morning, five o'clock",
+        "start": 759.4,
+        "duration": 3.158
+    },
+    {
+        "text": "you do the morning shows you know",
+        "start": 762.558,
+        "duration": 4.352
+    },
+    {
+        "text": "the the radio and TV\nshows. I come into the NIH",
+        "start": 766.91,
+        "duration": 2.969
+    },
+    {
+        "text": "because I do have a day\njob besides this (laughs)",
+        "start": 769.879,
+        "duration": 3.406
+    },
+    {
+        "text": "and you know work with my team\nabout developing a vaccine",
+        "start": 773.285,
+        "duration": 2.701
+    },
+    {
+        "text": "you know developing drugs doing",
+        "start": 775.986,
+        "duration": 2.374
+    },
+    {
+        "text": "the kinds of things we need to do.",
+        "start": 778.36,
+        "duration": 1.476
+    },
+    {
+        "text": "Then I go down to the\nWhite House and I spend",
+        "start": 779.836,
+        "duration": 2.014
+    },
+    {
+        "text": "the rest of the afternoon\nat the White house",
+        "start": 781.85,
+        "duration": 1.49
+    },
+    {
+        "text": "We have a task force meeting\nlasts about an hour and a half.",
+        "start": 783.34,
+        "duration": 2.51
+    },
+    {
+        "text": "We do that with the Vice President.",
+        "start": 785.85,
+        "duration": 1.5
+    },
+    {
+        "text": "When we finish that everyday\nwe go in to the President",
+        "start": 787.35,
+        "duration": 2.758
+    },
+    {
+        "text": "we sit down in the Oval Office",
+        "start": 790.108,
+        "duration": 2.003
+    },
+    {
+        "text": "with him for a good half hour. Talk about",
+        "start": 792.111,
+        "duration": 1.649
+    },
+    {
+        "text": "what we need to do what're\nthe kinds of things we do.",
+        "start": 793.76,
+        "duration": 2.419
+    },
+    {
+        "text": "Then we have the daily press conference",
+        "start": 796.179,
+        "duration": 2.399
+    },
+    {
+        "text": "which goes into the early evening.",
+        "start": 798.578,
+        "duration": 1.677
+    },
+    {
+        "text": "Then I go home do more media",
+        "start": 800.255,
+        "duration": 2.613
+    },
+    {
+        "text": "to get people to be aware of it.",
+        "start": 802.868,
+        "duration": 1.699
+    },
+    {
+        "text": "Then I spend the next few\nhours reading up on things",
+        "start": 804.567,
+        "duration": 2.864
+    },
+    {
+        "text": "so that I can keep up\nwhat's going on not only",
+        "start": 807.431,
+        "duration": 2.374
+    },
+    {
+        "text": "in the United States but\nthe rest of the world.",
+        "start": 809.805,
+        "duration": 2.013
+    },
+    {
+        "text": "So its kind of a intense day\nwhich turns into intense weeks.",
+        "start": 811.818,
+        "duration": 5.0
+    },
+    {
+        "text": "- [Philip Defranco] Right\nwell thank you so much",
+        "start": 817.53,
+        "duration": 1.74
+    },
+    {
+        "text": "for your time I know\nthat you're slammed today",
+        "start": 819.27,
+        "duration": 1.57
+    },
+    {
+        "text": "I really really appreciate this.",
+        "start": 820.84,
+        "duration": 1.078
+    },
+    {
+        "text": "- [Dr. Fauci] My pleasure\nalways good to be",
+        "start": 821.918,
+        "duration": 1.732
+    },
+    {
+        "text": "with you take care.",
+        "start": 823.65,
+        "duration": 0.833
+    },
+    {
+        "text": "- [Philip Defranco] Take care.",
+        "start": 824.483,
+        "duration": 0.833
+    },
+    {
+        "text": "And that was our chat slash interview",
+        "start": 825.316,
+        "duration": 1.254
+    },
+    {
+        "text": "obviously Dr. Fauci very\nbusy I was so thankful",
+        "start": 826.57,
+        "duration": 2.62
+    },
+    {
+        "text": "that he even had fifteen\nminutes to give us.",
+        "start": 829.19,
+        "duration": 1.741
+    },
+    {
+        "text": "And hey if you like the video,\nit gave you some insight",
+        "start": 830.931,
+        "duration": 1.912
+    },
+    {
+        "text": "let us know hit the like\nbutton maybe share it",
+        "start": 832.843,
+        "duration": 2.396
+    },
+    {
+        "text": "with someone else that\ndoesn't know everything",
+        "start": 835.239,
+        "duration": 2.651
+    },
+    {
+        "text": "that they should probably know.",
+        "start": 837.89,
+        "duration": 0.89
+    },
+    {
+        "text": "And finally I wanted to give\nanother big thank you to",
+        "start": 838.78,
+        "duration": 1.812
+    },
+    {
+        "text": "Vessi Footwear for sponsoring this video.",
+        "start": 840.592,
+        "duration": 1.892
+    },
+    {
+        "text": "Our friends at Vessi\nhave already donated over",
+        "start": 842.484,
+        "duration": 1.936
+    },
+    {
+        "text": "one-thousand pairs of\ntheir sneakers to Canadian",
+        "start": 844.42,
+        "duration": 1.91
+    },
+    {
+        "text": "healthcare professionals fighting",
+        "start": 846.33,
+        "duration": 0.833
+    },
+    {
+        "text": "on the front lines of COVID-19.",
+        "start": 847.163,
+        "duration": 1.259
+    },
+    {
+        "text": "Today they're announcing\nan exciting new initiative",
+        "start": 848.422,
+        "duration": 1.915
+    },
+    {
+        "text": "to donate the profits of every sale to",
+        "start": 850.337,
+        "duration": 2.273
+    },
+    {
+        "text": "provide protective gear\nto resource constrained",
+        "start": 852.61,
+        "duration": 1.86
+    },
+    {
+        "text": "healthcare organizations in\nboth the U.S. and Canada.",
+        "start": 854.47,
+        "duration": 1.913
+    },
+    {
+        "text": "Already committing to donating over",
+        "start": 856.383,
+        "duration": 1.567
+    },
+    {
+        "text": "thirty-thousand medical masks.",
+        "start": 857.95,
+        "duration": 0.958
+    },
+    {
+        "text": "And that's not all for\na limited time Vessi",
+        "start": 858.908,
+        "duration": 2.172
+    },
+    {
+        "text": "is introducing choose\nwhat you pay model and",
+        "start": 861.08,
+        "duration": 1.684
+    },
+    {
+        "text": "we're gonna drive even larger donations",
+        "start": 862.764,
+        "duration": 1.716
+    },
+    {
+        "text": "of personal protective equipment for",
+        "start": 864.48,
+        "duration": 1.71
+    },
+    {
+        "text": "our brave healthcare professionals.",
+        "start": 866.19,
+        "duration": 1.25
+    },
+    {
+        "text": "Also I kind of got ahead of myself",
+        "start": 867.44,
+        "duration": 1.37
+    },
+    {
+        "text": "if you don't know Vessi's\nare incredibly comfortable",
+        "start": 868.81,
+        "duration": 1.297
+    },
+    {
+        "text": "and one-hundred percent water proof",
+        "start": 870.107,
+        "duration": 1.551
+    },
+    {
+        "text": "and weather proof shoes making them",
+        "start": 871.658,
+        "duration": 1.067
+    },
+    {
+        "text": "the perfect every day shoe.",
+        "start": 872.725,
+        "duration": 1.704
+    },
+    {
+        "text": "My favorites are definitely the",
+        "start": 874.429,
+        "duration": 1.301
+    },
+    {
+        "text": "men's every day in midnight black.",
+        "start": 875.73,
+        "duration": 1.042
+    },
+    {
+        "text": "So don't wait head on over\nto Vessi Footwear dot com",
+        "start": 876.772,
+        "duration": 2.345
+    },
+    {
+        "text": "slash DeFranco today and choose",
+        "start": 879.117,
+        "duration": 1.389
+    },
+    {
+        "text": "what you pay for a limited time.",
+        "start": 880.506,
+        "duration": 1.573
+    },
+    {
+        "text": "Your contributions towards Vessi's efforts",
+        "start": 882.079,
+        "duration": 2.131
+    },
+    {
+        "text": "to protect our healthcare\nheroes in these uncertain times.",
+        "start": 884.21,
+        "duration": 2.45
+    },
+    {
+        "text": "And really I love when you see\nbrands stepping up like this.",
+        "start": 886.66,
+        "duration": 1.906
+    },
+    {
+        "text": "But with that said thank\nyou for watching this video",
+        "start": 888.566,
+        "duration": 2.394
+    },
+    {
+        "text": "and also of course as always\nmy name is Philip DeFranco",
+        "start": 890.96,
+        "duration": 2.94
+    },
+    {
+        "text": "you've just been filled in I love yo faces",
+        "start": 893.9,
+        "duration": 2.027
+    },
+    {
+        "text": "and I'll see you next time.",
+        "start": 895.927,
+        "duration": 2.27
+    }
+]

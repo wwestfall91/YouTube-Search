@@ -1,0 +1,2852 @@
+[
+    {
+        "text": "- Sup ya beautiful bastards?",
+        "start": 0.0,
+        "duration": 1.59
+    },
+    {
+        "text": "Hope you've had a fantastic Wednesday,",
+        "start": 1.59,
+        "duration": 1.75
+    },
+    {
+        "text": "welcome back to The Philip Defranco show",
+        "start": 3.34,
+        "duration": 1.81
+    },
+    {
+        "text": "on a day that I believe is the first day",
+        "start": 5.15,
+        "duration": 2.07
+    },
+    {
+        "text": "I've worn a dress shirt and\npants in maybe two months?",
+        "start": 7.22,
+        "duration": 3.4
+    },
+    {
+        "text": "Big day for me, thank you for being here",
+        "start": 10.62,
+        "duration": 1.6
+    },
+    {
+        "text": "on this momentous occasion.",
+        "start": 12.22,
+        "duration": 1.51
+    },
+    {
+        "text": "And a quick note actually before\nwe jump into today's show,",
+        "start": 13.73,
+        "duration": 2.39
+    },
+    {
+        "text": "the podcast, A Conversation With,",
+        "start": 16.12,
+        "duration": 1.29
+    },
+    {
+        "text": "is officially back over at youtube.com/acw",
+        "start": 17.41,
+        "duration": 3.35
+    },
+    {
+        "text": "with brand new content.",
+        "start": 20.76,
+        "duration": 1.28
+    },
+    {
+        "text": "And the first guest back\nis the fantastic Dr. Mike,",
+        "start": 22.04,
+        "duration": 2.07
+    },
+    {
+        "text": "which means yes, we do\ncover some serious stuff.",
+        "start": 24.11,
+        "duration": 2.5
+    },
+    {
+        "text": "But a lot of this, just, if",
+        "start": 26.61,
+        "duration": 1.5
+    },
+    {
+        "text": "you've been needing escapist content,",
+        "start": 28.11,
+        "duration": 2.19
+    },
+    {
+        "text": "you definitely wanna watch and maybe even",
+        "start": 30.3,
+        "duration": 1.24
+    },
+    {
+        "text": "be a part of that conversation",
+        "start": 31.54,
+        "duration": 1.45
+    },
+    {
+        "text": "after today's show over\nat youtube.com/acw.",
+        "start": 32.99,
+        "duration": 2.867
+    },
+    {
+        "text": "But with that said,",
+        "start": 35.857,
+        "duration": 1.233
+    },
+    {
+        "text": "welcome back to The Philip Defranco Show.",
+        "start": 37.09,
+        "duration": 1.81
+    },
+    {
+        "text": "Buckle up, hit that like button,",
+        "start": 38.9,
+        "duration": 1.78
+    },
+    {
+        "text": "and let's just jump into it.",
+        "start": 40.68,
+        "duration": 1.38
+    },
+    {
+        "text": "The first thing we're\ngonna talk about today",
+        "start": 42.06,
+        "duration": 1.35
+    },
+    {
+        "text": "is why we have Red Lobster in the news.",
+        "start": 43.41,
+        "duration": 1.95
+    },
+    {
+        "text": "So apparently, Red\nLobster was the restaurant",
+        "start": 45.36,
+        "duration": 2.13
+    },
+    {
+        "text": "of choice on Mother's Day.",
+        "start": 47.49,
+        "duration": 1.43
+    },
+    {
+        "text": "With videos and images\nshared on social media",
+        "start": 48.92,
+        "duration": 1.93
+    },
+    {
+        "text": "showing these massive lines of people",
+        "start": 50.85,
+        "duration": 1.88
+    },
+    {
+        "text": "waiting to pick up orders at\nseveral different locations.",
+        "start": 52.73,
+        "duration": 2.27
+    },
+    {
+        "text": "With many customers reporting waiting",
+        "start": 55.0,
+        "duration": 1.17
+    },
+    {
+        "text": "between two to three\nhours for their orders,",
+        "start": 56.17,
+        "duration": 2.14
+    },
+    {
+        "text": "while others walked away empty\nhanded, asking for refunds.",
+        "start": 58.31,
+        "duration": 2.82
+    },
+    {
+        "text": "And though there were\ndefinitely angry customers",
+        "start": 61.13,
+        "duration": 1.53
+    },
+    {
+        "text": "at restaurants in New York,\nIllinois, all over the place,",
+        "start": 62.66,
+        "duration": 3.06
+    },
+    {
+        "text": "the angriest of them all\nseemed to be in Pennsylvania.",
+        "start": 65.72,
+        "duration": 2.73
+    },
+    {
+        "text": "In fact, at one location in the state",
+        "start": 68.45,
+        "duration": 1.21
+    },
+    {
+        "text": "police were even called to\ntry and keep things calm",
+        "start": 69.66,
+        "duration": 1.8
+    },
+    {
+        "text": "after the restaurant\ndecided it had to shut down.",
+        "start": 71.46,
+        "duration": 1.85
+    },
+    {
+        "text": "And as you may have already seen online",
+        "start": 73.31,
+        "duration": 1.56
+    },
+    {
+        "text": "there was a woman at an East\nYork Red Lobster that became so",
+        "start": 74.87,
+        "duration": 3.0
+    },
+    {
+        "text": "angry, there was this whole\nincident that got violent.",
+        "start": 77.87,
+        "duration": 2.69
+    },
+    {
+        "text": "The video opens up with somebody saying,",
+        "start": 80.56,
+        "duration": 1.387
+    },
+    {
+        "text": "\"Call 9-1-1, somebody.\"",
+        "start": 81.947,
+        "duration": 1.65
+    },
+    {
+        "text": "You then see an employee trying to force",
+        "start": 83.597,
+        "duration": 1.583
+    },
+    {
+        "text": "the angry customer out of the building.",
+        "start": 85.18,
+        "duration": 1.64
+    },
+    {
+        "text": "The woman then continues to\ntry and push her way back in,",
+        "start": 86.82,
+        "duration": 2.04
+    },
+    {
+        "text": "demanding a refund.",
+        "start": 88.86,
+        "duration": 1.638
+    },
+    {
+        "text": "- Get my mother (static\nhissing) money back.",
+        "start": 90.498,
+        "duration": 2.449
+    },
+    {
+        "text": "- You don't get it!",
+        "start": 92.947,
+        "duration": 1.083
+    },
+    {
+        "text": "- [Philip] Employees start\ntalking about finding a key",
+        "start": 94.03,
+        "duration": 1.31
+    },
+    {
+        "text": "to lock the door as she\ncontinues to demand a refund.",
+        "start": 95.34,
+        "duration": 2.44
+    },
+    {
+        "text": "And at this point there\nare now several workers",
+        "start": 97.78,
+        "duration": 1.32
+    },
+    {
+        "text": "at the front trying to\nkeep her from entering.",
+        "start": 99.1,
+        "duration": 1.48
+    },
+    {
+        "text": "At this point they tell\nher that all they need is",
+        "start": 100.58,
+        "duration": 1.54
+    },
+    {
+        "text": "her name to process the\nrefund so she shouts her name.",
+        "start": 102.12,
+        "duration": 2.742
+    },
+    {
+        "text": "- Cathy Hill!",
+        "start": 104.862,
+        "duration": 1.278
+    },
+    {
+        "text": "- Which, side note, ended\nup making it even easier",
+        "start": 106.14,
+        "duration": 2.19
+    },
+    {
+        "text": "for people on the internet\nto start doxxing her.",
+        "start": 108.33,
+        "duration": 1.47
+    },
+    {
+        "text": "And that back and forth\ncontinues, we then see",
+        "start": 109.8,
+        "duration": 2.35
+    },
+    {
+        "text": "an employee kind of nudge\nher away from the door",
+        "start": 112.15,
+        "duration": 1.81
+    },
+    {
+        "text": "trying to close it.",
+        "start": 113.96,
+        "duration": 0.9
+    },
+    {
+        "text": "At which point then Cathy\nescalates things even further",
+        "start": 114.86,
+        "duration": 2.82
+    },
+    {
+        "text": "when she smacks that employee in the face.",
+        "start": 117.68,
+        "duration": 2.19
+    },
+    {
+        "text": "That employee then starts fighting back,",
+        "start": 119.87,
+        "duration": 1.45
+    },
+    {
+        "text": "with others trying to step\nin to try and separate them.",
+        "start": 121.32,
+        "duration": 2.18
+    },
+    {
+        "text": "And after that fight's\nbroken up we see Cathy say:",
+        "start": 123.5,
+        "duration": 1.75
+    },
+    {
+        "text": "- I was assaulted, and I\nhave a whole crowd to--",
+        "start": 125.25,
+        "duration": 2.56
+    },
+    {
+        "text": "- You hit her first!\n(angry shouting)",
+        "start": 127.81,
+        "duration": 2.268
+    },
+    {
+        "text": "- She's been shoving up\non me the whole time!",
+        "start": 130.078,
+        "duration": 2.088
+    },
+    {
+        "text": "- At the end of the video, we\nhear someone off camera say:",
+        "start": 132.166,
+        "duration": 2.404
+    },
+    {
+        "text": "- [Woman] A paying customer.",
+        "start": 134.57,
+        "duration": 0.86
+    },
+    {
+        "text": "You got people out here waiting\nfor three hours for food.",
+        "start": 135.43,
+        "duration": 2.317
+    },
+    {
+        "text": "- And so that's the main reason",
+        "start": 137.747,
+        "duration": 1.133
+    },
+    {
+        "text": "we're seeing Red Lobster\nin the news right now.",
+        "start": 138.88,
+        "duration": 1.61
+    },
+    {
+        "text": "And regarding Pennsylvania specifically,",
+        "start": 140.49,
+        "duration": 1.95
+    },
+    {
+        "text": "under Governor Tom Wolf's orders,",
+        "start": 142.44,
+        "duration": 1.3
+    },
+    {
+        "text": "restaurants in Pennsylvania\nmust either be closed",
+        "start": 143.74,
+        "duration": 1.83
+    },
+    {
+        "text": "or operate with a take\nout or delivery system",
+        "start": 145.57,
+        "duration": 2.05
+    },
+    {
+        "text": "to minimize social contact\nduring the pandemic.",
+        "start": 147.62,
+        "duration": 1.91
+    },
+    {
+        "text": "Also, customers at all\nestablishments that remain operating,",
+        "start": 149.53,
+        "duration": 2.16
+    },
+    {
+        "text": "as well as their\nemployees, are all required",
+        "start": 151.69,
+        "duration": 1.6
+    },
+    {
+        "text": "to wear masks to enter, which",
+        "start": 153.29,
+        "duration": 1.24
+    },
+    {
+        "text": "I will note looking back to that video,",
+        "start": 154.53,
+        "duration": 1.57
+    },
+    {
+        "text": "that doesn't appear to be going well.",
+        "start": 156.1,
+        "duration": 1.23
+    },
+    {
+        "text": "You see people without masks,",
+        "start": 157.33,
+        "duration": 1.3
+    },
+    {
+        "text": "you see people with\nmasks, but not covering",
+        "start": 158.63,
+        "duration": 2.27
+    },
+    {
+        "text": "their mouth or nose, or\nat least just their nose.",
+        "start": 160.9,
+        "duration": 2.59
+    },
+    {
+        "text": "But really that's a whole\nother side issue to this story",
+        "start": 163.49,
+        "duration": 2.98
+    },
+    {
+        "text": "and things that we're\ngonna see in the future.",
+        "start": 166.47,
+        "duration": 1.76
+    },
+    {
+        "text": "Regarding Red Lobster\nand the issues at hand,",
+        "start": 168.23,
+        "duration": 2.17
+    },
+    {
+        "text": "we did end up seeing Red\nLobster's CEO issuing a statement",
+        "start": 170.4,
+        "duration": 2.39
+    },
+    {
+        "text": "on Tuesday apologizing to\ndisappointed customers.",
+        "start": 172.79,
+        "duration": 1.68
+    },
+    {
+        "text": "Noting that the chain had\nreceived significantly more orders",
+        "start": 174.47,
+        "duration": 2.83
+    },
+    {
+        "text": "than they've gotten on a single day",
+        "start": 177.3,
+        "duration": 1.16
+    },
+    {
+        "text": "and were unable to keep up.",
+        "start": 178.46,
+        "duration": 1.15
+    },
+    {
+        "text": "Also stressing that the\ncompany's working on",
+        "start": 179.61,
+        "duration": 1.31
+    },
+    {
+        "text": "making sure this never happens again.",
+        "start": 180.92,
+        "duration": 1.68
+    },
+    {
+        "text": "Also, in another statement\nto local news outlets,",
+        "start": 182.6,
+        "duration": 1.91
+    },
+    {
+        "text": "a company spokesperson\nattributed the issues",
+        "start": 184.51,
+        "duration": 1.77
+    },
+    {
+        "text": "to operational and staffing changes",
+        "start": 186.28,
+        "duration": 1.68
+    },
+    {
+        "text": "as a result of the coronavirus pandemic.",
+        "start": 187.96,
+        "duration": 1.8
+    },
+    {
+        "text": "And finally, as far as that brawl",
+        "start": 189.76,
+        "duration": 1.29
+    },
+    {
+        "text": "at the East York Red\nLobster, the company said,",
+        "start": 191.05,
+        "duration": 2.067
+    },
+    {
+        "text": "\"We do not tolerate\nviolence for any reason",
+        "start": 193.117,
+        "duration": 2.183
+    },
+    {
+        "text": "in our restaurants.",
+        "start": 195.3,
+        "duration": 0.85
+    },
+    {
+        "text": "We expect our team members\ntreat our guests with respect,",
+        "start": 196.15,
+        "duration": 2.45
+    },
+    {
+        "text": "and we expect our guests\nto treat our team members",
+        "start": 198.6,
+        "duration": 2.09
+    },
+    {
+        "text": "with respect in return.",
+        "start": 200.69,
+        "duration": 1.01
+    },
+    {
+        "text": "We are grateful our Manager\nand the guest involved",
+        "start": 201.7,
+        "duration": 2.2
+    },
+    {
+        "text": "were not seriously injured\nin the incident on Sunday.\"",
+        "start": 203.9,
+        "duration": 2.5
+    },
+    {
+        "text": "Which really",
+        "start": 206.4,
+        "duration": 0.88
+    },
+    {
+        "text": "is an award winning non-statement,\nif I've ever seen one.",
+        "start": 207.28,
+        "duration": 2.8
+    },
+    {
+        "text": "They essentially said,\n\"We are against bad things",
+        "start": 210.08,
+        "duration": 2.23
+    },
+    {
+        "text": "and people doing things\nthat we do not agree with,",
+        "start": 212.31,
+        "duration": 2.25
+    },
+    {
+        "text": "but we are glad that nobody got hurt.\"",
+        "start": 214.56,
+        "duration": 1.66
+    },
+    {
+        "text": "Now as far as everyone else's\nreaction to this incident,",
+        "start": 216.22,
+        "duration": 2.08
+    },
+    {
+        "text": "we saw people kind of in two camps.",
+        "start": 218.3,
+        "duration": 1.59
+    },
+    {
+        "text": "You know, some people saying,",
+        "start": 219.89,
+        "duration": 0.833
+    },
+    {
+        "text": "we don't know what happened inside.",
+        "start": 220.723,
+        "duration": 1.017
+    },
+    {
+        "text": "Obviously if you're waiting for",
+        "start": 221.74,
+        "duration": 1.21
+    },
+    {
+        "text": "your food for two to three hours",
+        "start": 222.95,
+        "duration": 1.56
+    },
+    {
+        "text": "and maybe the staff isn't\nproperly informing you,",
+        "start": 224.51,
+        "duration": 2.5
+    },
+    {
+        "text": "you're gonna be outraged.",
+        "start": 227.01,
+        "duration": 0.95
+    },
+    {
+        "text": "Also as far as who started what,",
+        "start": 227.96,
+        "duration": 1.18
+    },
+    {
+        "text": "on this side you have\npeople saying, you know,",
+        "start": 229.14,
+        "duration": 1.35
+    },
+    {
+        "text": "essentially pushing her outta the store",
+        "start": 230.49,
+        "duration": 1.35
+    },
+    {
+        "text": "was the first act of aggression.",
+        "start": 231.84,
+        "duration": 1.23
+    },
+    {
+        "text": "But on the other side of this,",
+        "start": 233.07,
+        "duration": 0.833
+    },
+    {
+        "text": "and it appeared at least on\nsocial media to be the majority,",
+        "start": 233.903,
+        "duration": 2.517
+    },
+    {
+        "text": "a lot of people just found\nthis woman to be in the wrong.",
+        "start": 236.42,
+        "duration": 1.95
+    },
+    {
+        "text": "Right, arguing with the employees",
+        "start": 238.37,
+        "duration": 1.04
+    },
+    {
+        "text": "want to give her her money back,",
+        "start": 239.41,
+        "duration": 1.62
+    },
+    {
+        "text": "but she's being belligerent.",
+        "start": 241.03,
+        "duration": 1.08
+    },
+    {
+        "text": "She actually swings at an employee,",
+        "start": 242.11,
+        "duration": 1.41
+    },
+    {
+        "text": "escalating the situation.",
+        "start": 243.52,
+        "duration": 1.44
+    },
+    {
+        "text": "A number of people calling\nher an angry Karen, which",
+        "start": 244.96,
+        "duration": 2.59
+    },
+    {
+        "text": "I will say, that name is ridiculous.",
+        "start": 247.55,
+        "duration": 2.54
+    },
+    {
+        "text": "If anything, she's a Red Lobster Laura",
+        "start": 250.09,
+        "duration": 2.27
+    },
+    {
+        "text": "or at the minimum a Cheese Biscuit Betty.",
+        "start": 252.36,
+        "duration": 2.15
+    },
+    {
+        "text": "And as far as my opinion on this",
+        "start": 254.51,
+        "duration": 1.25
+    },
+    {
+        "text": "based off of what we have\npublicly available right now,",
+        "start": 255.76,
+        "duration": 2.38
+    },
+    {
+        "text": "I end up feeling more sympathy\nfor the employees here.",
+        "start": 258.14,
+        "duration": 1.677
+    },
+    {
+        "text": "We're living in weird times",
+        "start": 259.817,
+        "duration": 1.823
+    },
+    {
+        "text": "and I think we have to pull\nback on how entitled we are",
+        "start": 261.64,
+        "duration": 1.98
+    },
+    {
+        "text": "and understand that everyone's kinda",
+        "start": 263.62,
+        "duration": 1.13
+    },
+    {
+        "text": "just trying to do their best.",
+        "start": 264.75,
+        "duration": 1.47
+    },
+    {
+        "text": "All right, if I was in this situation",
+        "start": 266.22,
+        "duration": 0.93
+    },
+    {
+        "text": "and I was having to wait",
+        "start": 267.15,
+        "duration": 0.833
+    },
+    {
+        "text": "two to three hours to\nget a Red Lobster order",
+        "start": 267.983,
+        "duration": 3.187
+    },
+    {
+        "text": "I'm just canceling that order\nand getting my money back.",
+        "start": 271.17,
+        "duration": 1.7
+    },
+    {
+        "text": "I'm leaving.",
+        "start": 272.87,
+        "duration": 0.833
+    },
+    {
+        "text": "And when I looked at Twitter\nand I see there was an example",
+        "start": 273.703,
+        "duration": 1.887
+    },
+    {
+        "text": "of a Red Lobster employee tweeting,",
+        "start": 275.59,
+        "duration": 1.417
+    },
+    {
+        "text": "\"Today was probably the\ncraziest day at Red Lobster,",
+        "start": 277.007,
+        "duration": 2.373
+    },
+    {
+        "text": "we had 212 orders at once.",
+        "start": 279.38,
+        "duration": 2.12
+    },
+    {
+        "text": "People don't understand\nhow busy we were today.",
+        "start": 281.5,
+        "duration": 1.99
+    },
+    {
+        "text": "18 people called me a dumb ass.",
+        "start": 283.49,
+        "duration": 1.57
+    },
+    {
+        "text": "9 people flipped me off.",
+        "start": 285.06,
+        "duration": 1.33
+    },
+    {
+        "text": "13 people told me to hurry the fuck up.\"",
+        "start": 286.39,
+        "duration": 2.18
+    },
+    {
+        "text": "I can't help but sympathize\nwith the employees here.",
+        "start": 288.57,
+        "duration": 1.75
+    },
+    {
+        "text": "Especially as someone that\nused to work at restaurants.",
+        "start": 290.32,
+        "duration": 2.4
+    },
+    {
+        "text": "It's also part of the\nreason I truly believe",
+        "start": 292.72,
+        "duration": 2.02
+    },
+    {
+        "text": "that you get to know who a person is",
+        "start": 294.74,
+        "duration": 1.99
+    },
+    {
+        "text": "based off of how they\ntreat restaurant staff.",
+        "start": 296.73,
+        "duration": 1.82
+    },
+    {
+        "text": "But hey, that said, that's the story.",
+        "start": 298.55,
+        "duration": 1.69
+    },
+    {
+        "text": "Some of my personal opinion\nbased off of what we've seen",
+        "start": 300.24,
+        "duration": 2.06
+    },
+    {
+        "text": "and of course I pass\nthe question off to you.",
+        "start": 302.3,
+        "duration": 1.71
+    },
+    {
+        "text": "What are your thoughts here?",
+        "start": 304.01,
+        "duration": 0.833
+    },
+    {
+        "text": "But from that, I wanna share\nsome stuff I love today,",
+        "start": 304.843,
+        "duration": 2.537
+    },
+    {
+        "text": "and today in awesome\nbrought to you by Drop.",
+        "start": 307.38,
+        "duration": 2.087
+    },
+    {
+        "text": "And you know, if you're looking for ways",
+        "start": 309.467,
+        "duration": 1.403
+    },
+    {
+        "text": "to stretch your dollar,\nespecially right now,",
+        "start": 310.87,
+        "duration": 2.21
+    },
+    {
+        "text": "you gotta check out Drop.",
+        "start": 313.08,
+        "duration": 1.08
+    },
+    {
+        "text": "It's the free app that's giving away",
+        "start": 314.16,
+        "duration": 1.39
+    },
+    {
+        "text": "millions in cash rewards every single day.",
+        "start": 315.55,
+        "duration": 2.4
+    },
+    {
+        "text": "With 300 plus brands to earn from,",
+        "start": 317.95,
+        "duration": 1.55
+    },
+    {
+        "text": "it is the fastest,\neasiest way to be rewarded",
+        "start": 319.5,
+        "duration": 2.12
+    },
+    {
+        "text": "for the shopping that\nyou're already doing.",
+        "start": 321.62,
+        "duration": 1.45
+    },
+    {
+        "text": "Also if you're not already using Drop,",
+        "start": 323.07,
+        "duration": 1.5
+    },
+    {
+        "text": "maybe you've heard me\nsay it and you're like,",
+        "start": 324.57,
+        "duration": 0.987
+    },
+    {
+        "text": "\"Yeah, I'll get around to it.\"",
+        "start": 325.557,
+        "duration": 1.243
+    },
+    {
+        "text": "Now is specifically is the time to join",
+        "start": 326.8,
+        "duration": 1.87
+    },
+    {
+        "text": "because from now until Sunday",
+        "start": 328.67,
+        "duration": 1.75
+    },
+    {
+        "text": "Drop is running its Boost Week campaign.",
+        "start": 330.42,
+        "duration": 1.92
+    },
+    {
+        "text": "Meaning, you'll earn bonus cash back",
+        "start": 332.34,
+        "duration": 1.87
+    },
+    {
+        "text": "on select offers when shopping with Drop",
+        "start": 334.21,
+        "duration": 1.64
+    },
+    {
+        "text": "and this includes brands like Apple,",
+        "start": 335.85,
+        "duration": 1.68
+    },
+    {
+        "text": "Sunglass Hut, Sam's Club, and many more.",
+        "start": 337.53,
+        "duration": 2.35
+    },
+    {
+        "text": "Also, for the next 72\nhours Drop is giving y'all",
+        "start": 339.88,
+        "duration": 2.25
+    },
+    {
+        "text": "10000 points, which is 10\ndollars when you download the app",
+        "start": 342.13,
+        "duration": 2.59
+    },
+    {
+        "text": "on the app store or Google\nPlay, with code PHILDEFRANCO.",
+        "start": 344.72,
+        "duration": 2.73
+    },
+    {
+        "text": "Right, you do that and your\nbonus will be deposited",
+        "start": 347.45,
+        "duration": 1.72
+    },
+    {
+        "text": "into your account once you earn",
+        "start": 349.17,
+        "duration": 0.99
+    },
+    {
+        "text": "your first 1000 points on the app.",
+        "start": 350.16,
+        "duration": 1.39
+    },
+    {
+        "text": "So with that said, head on\nover to earnwithdefranco.com",
+        "start": 351.55,
+        "duration": 2.74
+    },
+    {
+        "text": "or click that link down below\nto download the Drop app",
+        "start": 354.29,
+        "duration": 2.45
+    },
+    {
+        "text": "and then make sure you\nuse code PHILDEFRANCO",
+        "start": 356.74,
+        "duration": 1.97
+    },
+    {
+        "text": "to kickstart your earnings today.",
+        "start": 358.71,
+        "duration": 1.52
+    },
+    {
+        "text": "The first bit of awesome today is",
+        "start": 360.23,
+        "duration": 1.59
+    },
+    {
+        "text": "I made a Tik Tok because\nI needed another place",
+        "start": 361.82,
+        "duration": 2.37
+    },
+    {
+        "text": "to shitpost other than Twitter, I guess.",
+        "start": 364.19,
+        "duration": 1.86
+    },
+    {
+        "text": "So if you'd like to follow me there,",
+        "start": 366.05,
+        "duration": 1.01
+    },
+    {
+        "text": "to enjoy and/or mock me,",
+        "start": 367.06,
+        "duration": 1.44
+    },
+    {
+        "text": "I don't really care, it's all equal.",
+        "start": 368.5,
+        "duration": 1.13
+    },
+    {
+        "text": "My username's simple,\nit's just Philip DeFranco",
+        "start": 369.63,
+        "duration": 1.79
+    },
+    {
+        "text": "and you can just click\nthat link down below.",
+        "start": 371.42,
+        "duration": 1.59
+    },
+    {
+        "text": "Then we had Daniel\nRadcliffe and Ellie Kemper",
+        "start": 373.01,
+        "duration": 1.91
+    },
+    {
+        "text": "entering the New Yorker's\ncartoon caption contest.",
+        "start": 374.92,
+        "duration": 2.34
+    },
+    {
+        "text": "National Geographic gave us alien oceans.",
+        "start": 377.26,
+        "duration": 2.41
+    },
+    {
+        "text": "Allure gave us a fitness\ninstructor's entire routine",
+        "start": 379.67,
+        "duration": 2.16
+    },
+    {
+        "text": "from morning meditation to training",
+        "start": 381.83,
+        "duration": 1.62
+    },
+    {
+        "text": "so we could tell ourselves\nthat we'll do it,",
+        "start": 383.45,
+        "duration": 1.6
+    },
+    {
+        "text": "but then ultimately will not do it.",
+        "start": 385.05,
+        "duration": 1.678
+    },
+    {
+        "text": "We had Troye Sivan\ncollabing with Bon Appetite.",
+        "start": 386.728,
+        "duration": 2.162
+    },
+    {
+        "text": "We had the fantastic Swoozie giving us",
+        "start": 388.89,
+        "duration": 1.36
+    },
+    {
+        "text": "the Every Girlfriend Ever Video.",
+        "start": 390.25,
+        "duration": 1.417
+    },
+    {
+        "text": "And the final bit of awesome\nis we got the full documentary",
+        "start": 391.667,
+        "duration": 2.513
+    },
+    {
+        "text": "for Dude Perfect Backstage Pass.",
+        "start": 394.18,
+        "duration": 1.88
+    },
+    {
+        "text": "And I will say, once again, I'm so happy",
+        "start": 396.06,
+        "duration": 1.78
+    },
+    {
+        "text": "that YouTube Originals are\nnow not behind a paywall.",
+        "start": 397.84,
+        "duration": 2.41
+    },
+    {
+        "text": "And if you wanna see the full versions",
+        "start": 400.25,
+        "duration": 1.07
+    },
+    {
+        "text": "of everything I just shared,\nthe secret link of the day,",
+        "start": 401.32,
+        "duration": 1.89
+    },
+    {
+        "text": "really anything at all,\nlinks as always are",
+        "start": 403.21,
+        "duration": 2.3
+    },
+    {
+        "text": "in the description down below.",
+        "start": 405.51,
+        "duration": 1.07
+    },
+    {
+        "text": "And then let's talk about this story",
+        "start": 406.58,
+        "duration": 1.43
+    },
+    {
+        "text": "that's easily one of the most requested",
+        "start": 408.01,
+        "duration": 1.49
+    },
+    {
+        "text": "non-COVID stories we've seen of late.",
+        "start": 409.5,
+        "duration": 1.66
+    },
+    {
+        "text": "And at the center of this\nstory we have an entertainer",
+        "start": 411.16,
+        "duration": 2.16
+    },
+    {
+        "text": "who among other things, has\nreally been a YouTube staple",
+        "start": 413.32,
+        "duration": 2.12
+    },
+    {
+        "text": "over the past decade, Colleen\nBallinger AKA Miranda Sings.",
+        "start": 415.44,
+        "duration": 3.35
+    },
+    {
+        "text": "Now part of the reason\nthis has been so requested",
+        "start": 418.79,
+        "duration": 1.72
+    },
+    {
+        "text": "by so many different people is because",
+        "start": 420.51,
+        "duration": 1.86
+    },
+    {
+        "text": "the accusations that have\nrecently come against her",
+        "start": 422.37,
+        "duration": 2.09
+    },
+    {
+        "text": "include a number of things.",
+        "start": 424.46,
+        "duration": 1.0
+    },
+    {
+        "text": "Accusations including racism, fat shaming,",
+        "start": 425.46,
+        "duration": 2.45
+    },
+    {
+        "text": "joking about putting her dog down,",
+        "start": 427.91,
+        "duration": 1.47
+    },
+    {
+        "text": "which notably did happen\nwhen she was a child,",
+        "start": 429.38,
+        "duration": 2.09
+    },
+    {
+        "text": "but all of these accusations\nalso seemed to surface",
+        "start": 431.47,
+        "duration": 2.27
+    },
+    {
+        "text": "after she was accursed of\nsomething much more serious,",
+        "start": 433.74,
+        "duration": 2.08
+    },
+    {
+        "text": "which was grooming a child.",
+        "start": 435.82,
+        "duration": 1.49
+    },
+    {
+        "text": "And that child is now\n17-year-old Adam McIntyre.",
+        "start": 437.31,
+        "duration": 2.8
+    },
+    {
+        "text": "According to Adam, he\nused to be a huge fan",
+        "start": 440.11,
+        "duration": 1.59
+    },
+    {
+        "text": "of Ballinger, in fact he said that he used",
+        "start": 441.7,
+        "duration": 1.6
+    },
+    {
+        "text": "to run fan accounts on\nInstagram and Twitter.",
+        "start": 443.3,
+        "duration": 2.15
+    },
+    {
+        "text": "But a couple of weeks ago\nwe saw him post a video",
+        "start": 445.45,
+        "duration": 2.04
+    },
+    {
+        "text": "titled Colleen Ballinger, Stop Lying.",
+        "start": 447.49,
+        "duration": 2.27
+    },
+    {
+        "text": "And in this video he says\nthat he first met Colleen",
+        "start": 449.76,
+        "duration": 1.88
+    },
+    {
+        "text": "back in 2016, at a live\nshow when he was 13.",
+        "start": 451.64,
+        "duration": 2.63
+    },
+    {
+        "text": "Saying he met her again at a show in 2018.",
+        "start": 454.27,
+        "duration": 2.15
+    },
+    {
+        "text": "And between this time, he says\nthe two became good friends.",
+        "start": 456.42,
+        "duration": 2.57
+    },
+    {
+        "text": "He says they were talking\na lot on social media",
+        "start": 458.99,
+        "duration": 1.54
+    },
+    {
+        "text": "and notably, during this time she started",
+        "start": 460.53,
+        "duration": 1.79
+    },
+    {
+        "text": "to tell him private\ndetails about her divorce",
+        "start": 462.32,
+        "duration": 1.65
+    },
+    {
+        "text": "with Joshua Evans in 2016.",
+        "start": 463.97,
+        "duration": 1.608
+    },
+    {
+        "text": "Adam saying that his parents\nwere originally supportive",
+        "start": 465.578,
+        "duration": 1.722
+    },
+    {
+        "text": "of Colleen interacting with\nhim because he was such a fan.",
+        "start": 467.3,
+        "duration": 2.23
+    },
+    {
+        "text": "Then, saying they started\nto become cautious,",
+        "start": 469.53,
+        "duration": 1.55
+    },
+    {
+        "text": "wondering why Colleen,\nwho was 30 at the time,",
+        "start": 471.08,
+        "duration": 1.87
+    },
+    {
+        "text": "was sharing such private\ninformation with a minor.",
+        "start": 472.95,
+        "duration": 1.89
+    },
+    {
+        "text": "After that, Adam says\nthat his relationship",
+        "start": 474.84,
+        "duration": 1.58
+    },
+    {
+        "text": "with Colleen turned into\none where he was asked",
+        "start": 476.42,
+        "duration": 1.7
+    },
+    {
+        "text": "to look at drama channels to find out",
+        "start": 478.12,
+        "duration": 1.41
+    },
+    {
+        "text": "what they were saying about her,",
+        "start": 479.53,
+        "duration": 1.27
+    },
+    {
+        "text": "Evans, her ex-friends, and her fans.",
+        "start": 480.8,
+        "duration": 1.82
+    },
+    {
+        "text": "Also saying that his name\nended up getting thrown",
+        "start": 482.62,
+        "duration": 1.5
+    },
+    {
+        "text": "into a lot of those situations,",
+        "start": 484.12,
+        "duration": 1.3
+    },
+    {
+        "text": "and that he ultimately faced\ncyber bullying because of it.",
+        "start": 485.42,
+        "duration": 2.22
+    },
+    {
+        "text": "Adam claiming his parents\nencouraged him to distance himself",
+        "start": 487.64,
+        "duration": 2.27
+    },
+    {
+        "text": "also saying that he did several times,",
+        "start": 489.91,
+        "duration": 1.74
+    },
+    {
+        "text": "but that he would always\nget sucked back in",
+        "start": 491.65,
+        "duration": 1.52
+    },
+    {
+        "text": "because Colleen would be nice.",
+        "start": 493.17,
+        "duration": 1.36
+    },
+    {
+        "text": "- I try not to be upset with myself",
+        "start": 494.53,
+        "duration": 0.833
+    },
+    {
+        "text": "because I was 13 to 15 during this time.",
+        "start": 495.363,
+        "duration": 3.937
+    },
+    {
+        "text": "I'm still really young now,\nI'm only 17, but looking back",
+        "start": 499.3,
+        "duration": 3.49
+    },
+    {
+        "text": "it's hard to not get, like,",
+        "start": 502.79,
+        "duration": 2.39
+    },
+    {
+        "text": "ah, fix yourself!",
+        "start": 505.18,
+        "duration": 1.8
+    },
+    {
+        "text": "You know, stop engaging in\nthat, you're being used.",
+        "start": 506.98,
+        "duration": 2.32
+    },
+    {
+        "text": "- Also connected to this story,",
+        "start": 509.3,
+        "duration": 0.97
+    },
+    {
+        "text": "there was another\nincident between the two.",
+        "start": 510.27,
+        "duration": 1.53
+    },
+    {
+        "text": "And that is back in 2016, Colleen sent him",
+        "start": 511.8,
+        "duration": 1.91
+    },
+    {
+        "text": "a pair of women's lingerie.",
+        "start": 513.71,
+        "duration": 1.24
+    },
+    {
+        "text": "And this specific story\nstarts with a livestream",
+        "start": 514.95,
+        "duration": 1.78
+    },
+    {
+        "text": "where Colleen and her friend, Kory DeSoto,",
+        "start": 516.73,
+        "duration": 1.63
+    },
+    {
+        "text": "were showing off ugly clothes\nthey bought at Forever 21.",
+        "start": 518.36,
+        "duration": 1.74
+    },
+    {
+        "text": "And in that DeSoto puts underwear on",
+        "start": 520.1,
+        "duration": 2.15
+    },
+    {
+        "text": "over his clothes as a joke.",
+        "start": 522.25,
+        "duration": 1.58
+    },
+    {
+        "text": "They're promising to send them to fans.",
+        "start": 523.83,
+        "duration": 1.067
+    },
+    {
+        "text": "One of those fans ends\nup actually being Adam.",
+        "start": 524.897,
+        "duration": 2.713
+    },
+    {
+        "text": "- Yeah, Adam let me know what you want.",
+        "start": 527.61,
+        "duration": 2.91
+    },
+    {
+        "text": "He's in Ireland.",
+        "start": 530.52,
+        "duration": 0.833
+    },
+    {
+        "text": "Hi, Adam, I love you.",
+        "start": 531.353,
+        "duration": 1.307
+    },
+    {
+        "text": "Okay.",
+        "start": 532.66,
+        "duration": 1.66
+    },
+    {
+        "text": "I'm sending him something.",
+        "start": 534.32,
+        "duration": 1.39
+    },
+    {
+        "text": "Okay, maybe he'll want the panties,",
+        "start": 535.71,
+        "duration": 1.51
+    },
+    {
+        "text": "although then his parents will be like,",
+        "start": 537.22,
+        "duration": 1.547
+    },
+    {
+        "text": "\"You're not allowed to watch--\n(laughing)",
+        "start": 538.767,
+        "duration": 0.833
+    },
+    {
+        "text": "Who is sending you panties?\"",
+        "start": 539.6,
+        "duration": 1.617
+    },
+    {
+        "text": "(laughing)",
+        "start": 541.217,
+        "duration": 1.755
+    },
+    {
+        "text": "(mumbles) \"Mom, don't worry I watched",
+        "start": 542.972,
+        "duration": 2.318
+    },
+    {
+        "text": "a boy wearing them online first.\"",
+        "start": 545.29,
+        "duration": 1.991
+    },
+    {
+        "text": "(laughing)",
+        "start": 547.281,
+        "duration": 0.833
+    },
+    {
+        "text": "- And it would seem that\neven though she was joking",
+        "start": 548.114,
+        "duration": 1.476
+    },
+    {
+        "text": "about Adam's parents being\nmad, they were furious.",
+        "start": 549.59,
+        "duration": 2.28
+    },
+    {
+        "text": "Adam saying they took\nthe underwear right away,",
+        "start": 551.87,
+        "duration": 1.62
+    },
+    {
+        "text": "but apparently they kept\nit because in his video",
+        "start": 553.49,
+        "duration": 1.9
+    },
+    {
+        "text": "Adam says that he asked his\nmom to try to find them.",
+        "start": 555.39,
+        "duration": 1.98
+    },
+    {
+        "text": "She does, and he shows them as proof",
+        "start": 557.37,
+        "duration": 1.6
+    },
+    {
+        "text": "that she actually sent them.",
+        "start": 558.97,
+        "duration": 0.833
+    },
+    {
+        "text": "And notably with this\nwhole lingerie situation,",
+        "start": 559.803,
+        "duration": 2.107
+    },
+    {
+        "text": "it's a very large point of this story.",
+        "start": 561.91,
+        "duration": 1.88
+    },
+    {
+        "text": "It's something that Colleen has\nfaced a lot of criticism for",
+        "start": 563.79,
+        "duration": 1.97
+    },
+    {
+        "text": "and it's something we're gonna\ncome back to in a minute.",
+        "start": 565.76,
+        "duration": 1.73
+    },
+    {
+        "text": "But first, I wanna hit on one",
+        "start": 567.49,
+        "duration": 1.41
+    },
+    {
+        "text": "of the last points that Adam makes.",
+        "start": 568.9,
+        "duration": 1.48
+    },
+    {
+        "text": "And that is that not only does Adam say",
+        "start": 570.38,
+        "duration": 1.59
+    },
+    {
+        "text": "that Colleen asked him\nto lookup information",
+        "start": 571.97,
+        "duration": 1.75
+    },
+    {
+        "text": "about her ex-husband and her ex-friends,",
+        "start": 573.72,
+        "duration": 2.15
+    },
+    {
+        "text": "but according to Adam,\nshe was also asking him",
+        "start": 575.87,
+        "duration": 1.79
+    },
+    {
+        "text": "for ideas to post to social media.",
+        "start": 577.66,
+        "duration": 1.57
+    },
+    {
+        "text": "With this allegedly including\nboth her main accounts",
+        "start": 579.23,
+        "duration": 1.71
+    },
+    {
+        "text": "and her accounts as Miranda Sings.",
+        "start": 580.94,
+        "duration": 1.37
+    },
+    {
+        "text": "And he says this is because",
+        "start": 582.31,
+        "duration": 0.9
+    },
+    {
+        "text": "she didn't enjoy doing the\nMiranda character anymore,",
+        "start": 583.21,
+        "duration": 1.94
+    },
+    {
+        "text": "since she couldn't be\nproblematic as the character now.",
+        "start": 585.15,
+        "duration": 1.99
+    },
+    {
+        "text": "After that he then says\nhe stopped for awhile,",
+        "start": 587.14,
+        "duration": 1.44
+    },
+    {
+        "text": "but said that he started giving more ideas",
+        "start": 588.58,
+        "duration": 1.37
+    },
+    {
+        "text": "on March 25, this year.",
+        "start": 589.95,
+        "duration": 1.18
+    },
+    {
+        "text": "According to Adam, she then",
+        "start": 591.13,
+        "duration": 0.833
+    },
+    {
+        "text": "starts tweeting some of his ideas.",
+        "start": 591.963,
+        "duration": 1.467
+    },
+    {
+        "text": "And with that, Adam says that he pitched",
+        "start": 593.43,
+        "duration": 1.18
+    },
+    {
+        "text": "about 15 different tweet ideas.",
+        "start": 594.61,
+        "duration": 1.41
+    },
+    {
+        "text": "One of those including a\ntweet where Miranda Sings",
+        "start": 596.02,
+        "duration": 1.73
+    },
+    {
+        "text": "comes out as a Meghan Trainor fan.",
+        "start": 597.75,
+        "duration": 1.94
+    },
+    {
+        "text": "With Adam saying that she was\ninitially confused about it.",
+        "start": 599.69,
+        "duration": 1.65
+    },
+    {
+        "text": "Saying that she wasn't sure what",
+        "start": 601.34,
+        "duration": 1.07
+    },
+    {
+        "text": "he was trying to say about Meghan.",
+        "start": 602.41,
+        "duration": 1.37
+    },
+    {
+        "text": "He then says he explains the joke,",
+        "start": 603.78,
+        "duration": 1.32
+    },
+    {
+        "text": "she gives him the green light.",
+        "start": 605.1,
+        "duration": 1.21
+    },
+    {
+        "text": "Giving him the login info for",
+        "start": 606.31,
+        "duration": 1.08
+    },
+    {
+        "text": "the Miranda Sings Twitter account.",
+        "start": 607.39,
+        "duration": 1.24
+    },
+    {
+        "text": "Saying that she still\ntrusts him, and then,",
+        "start": 608.63,
+        "duration": 1.9
+    },
+    {
+        "text": "Adam posts that tweet.",
+        "start": 610.53,
+        "duration": 0.96
+    },
+    {
+        "text": "Now following that tweet going out,",
+        "start": 611.49,
+        "duration": 1.25
+    },
+    {
+        "text": "you had a lot of fans and\nothers on social media",
+        "start": 612.74,
+        "duration": 1.65
+    },
+    {
+        "text": "accusing Colleen of queerbaiting.",
+        "start": 614.39,
+        "duration": 1.68
+    },
+    {
+        "text": "Right, essentially accusing\nher of making fun of how scary",
+        "start": 616.07,
+        "duration": 1.96
+    },
+    {
+        "text": "and hard it is for so many\nLGBTQ+ people to come out.",
+        "start": 618.03,
+        "duration": 2.93
+    },
+    {
+        "text": "And Adam says that after that Colleen sent",
+        "start": 620.96,
+        "duration": 1.48
+    },
+    {
+        "text": "him a message saying that she wasn't mad,",
+        "start": 622.44,
+        "duration": 1.62
+    },
+    {
+        "text": "just paranoid because\n\"everyone always gets mad at me",
+        "start": 624.06,
+        "duration": 2.82
+    },
+    {
+        "text": "and I always have to apologize.\"",
+        "start": 626.88,
+        "duration": 1.63
+    },
+    {
+        "text": "We then see Colleen delete that tweet,",
+        "start": 628.51,
+        "duration": 1.53
+    },
+    {
+        "text": "privately telling Adam\nthat it wasn't his fault",
+        "start": 630.04,
+        "duration": 1.91
+    },
+    {
+        "text": "and that she was just too sensitive.",
+        "start": 631.95,
+        "duration": 1.4
+    },
+    {
+        "text": "Later Ballinger messages him again,",
+        "start": 633.35,
+        "duration": 1.54
+    },
+    {
+        "text": "saying she felt overwhelmed\nby all the backlash",
+        "start": 634.89,
+        "duration": 1.88
+    },
+    {
+        "text": "she was getting for that tweet.",
+        "start": 636.77,
+        "duration": 0.96
+    },
+    {
+        "text": "And that she still didn't know what to do.",
+        "start": 637.73,
+        "duration": 1.46
+    },
+    {
+        "text": "Colleen also telling him\nabout how she apologized",
+        "start": 639.19,
+        "duration": 1.61
+    },
+    {
+        "text": "to one person, saying, \"The\nthing is, I agree with them.",
+        "start": 640.8,
+        "duration": 1.61
+    },
+    {
+        "text": "Queerbating is not a joke.",
+        "start": 642.41,
+        "duration": 1.66
+    },
+    {
+        "text": "I'm super sad I've upset so many people.\"",
+        "start": 644.07,
+        "duration": 1.657
+    },
+    {
+        "text": "Now with all of that said,",
+        "start": 645.727,
+        "duration": 1.333
+    },
+    {
+        "text": "that's just how this situation started.",
+        "start": 647.06,
+        "duration": 1.75
+    },
+    {
+        "text": "Following this incident we\nstarted seeing the backlash",
+        "start": 648.81,
+        "duration": 1.81
+    },
+    {
+        "text": "and outrage against Colleen piling up.",
+        "start": 650.62,
+        "duration": 1.97
+    },
+    {
+        "text": "In addition to people sharing this,",
+        "start": 652.59,
+        "duration": 1.05
+    },
+    {
+        "text": "we also saw people starting\nto dig up her old videos",
+        "start": 653.64,
+        "duration": 2.17
+    },
+    {
+        "text": "including one where she and her sister",
+        "start": 655.81,
+        "duration": 1.34
+    },
+    {
+        "text": "pretended to be two Latina women.",
+        "start": 657.15,
+        "duration": 1.4
+    },
+    {
+        "text": "In that video it appears that\nthey've darkened their skin,",
+        "start": 658.55,
+        "duration": 1.75
+    },
+    {
+        "text": "they have fake eyebrows on.",
+        "start": 660.3,
+        "duration": 1.31
+    },
+    {
+        "text": "Also in it they sing about\ncrossing the boarder,",
+        "start": 661.61,
+        "duration": 1.73
+    },
+    {
+        "text": "working at Del Taco, making burritos.",
+        "start": 663.34,
+        "duration": 1.89
+    },
+    {
+        "text": "People also sharing a separate video",
+        "start": 665.23,
+        "duration": 1.22
+    },
+    {
+        "text": "where they accused her of fat shaming",
+        "start": 666.45,
+        "duration": 1.36
+    },
+    {
+        "text": "because of how she talks\nabout an overweight woman,",
+        "start": 667.81,
+        "duration": 1.73
+    },
+    {
+        "text": "who sat next to her on a plane.",
+        "start": 669.54,
+        "duration": 1.28
+    },
+    {
+        "text": "Also in another clip making the rounds,",
+        "start": 670.82,
+        "duration": 1.25
+    },
+    {
+        "text": "you had Ballinger telling a story",
+        "start": 672.07,
+        "duration": 1.1
+    },
+    {
+        "text": "about how when she was three",
+        "start": 673.17,
+        "duration": 0.93
+    },
+    {
+        "text": "she dug her nails into the family dog.",
+        "start": 674.1,
+        "duration": 1.72
+    },
+    {
+        "text": "It yelps, bites her in the\nface, it was then put down.",
+        "start": 675.82,
+        "duration": 2.597
+    },
+    {
+        "text": "All right and so in this she kinda jokes",
+        "start": 678.417,
+        "duration": 1.243
+    },
+    {
+        "text": "about how she murdered the family dog.",
+        "start": 679.66,
+        "duration": 1.55
+    },
+    {
+        "text": "Right, and those were\nthe three biggest videos",
+        "start": 681.21,
+        "duration": 1.25
+    },
+    {
+        "text": "that resurfaced, that\nwere making the rounds.",
+        "start": 682.46,
+        "duration": 1.56
+    },
+    {
+        "text": "A number of them, years old, I mean,",
+        "start": 684.02,
+        "duration": 1.72
+    },
+    {
+        "text": "for example, that video of\nher pretending to be Latina",
+        "start": 685.74,
+        "duration": 2.07
+    },
+    {
+        "text": "is actually 14 years old.",
+        "start": 687.81,
+        "duration": 0.937
+    },
+    {
+        "text": "Right, so you have all\nthese different things.",
+        "start": 688.747,
+        "duration": 1.993
+    },
+    {
+        "text": "Shots coming in from a\nlot of different sides.",
+        "start": 690.74,
+        "duration": 1.95
+    },
+    {
+        "text": "And then, it ultimately\nbrings us to yesterday",
+        "start": 692.69,
+        "duration": 1.98
+    },
+    {
+        "text": "because Colleen addressed\na lot of these accusations.",
+        "start": 694.67,
+        "duration": 2.31
+    },
+    {
+        "text": "And in this video she starts off",
+        "start": 696.98,
+        "duration": 1.11
+    },
+    {
+        "text": "with the claims that she was racist.",
+        "start": 698.09,
+        "duration": 1.46
+    },
+    {
+        "text": "- And the characters are completely",
+        "start": 699.55,
+        "duration": 1.09
+    },
+    {
+        "text": "based on racial stereotypes.",
+        "start": 700.64,
+        "duration": 1.31
+    },
+    {
+        "text": "It is not funny, and it\nis completely hurtful.",
+        "start": 701.95,
+        "duration": 2.41
+    },
+    {
+        "text": "I am so ashamed and embarrassed",
+        "start": 704.36,
+        "duration": 1.81
+    },
+    {
+        "text": "that I ever thought this was okay.",
+        "start": 706.17,
+        "duration": 1.78
+    },
+    {
+        "text": "I was a sheltered teenager,",
+        "start": 707.95,
+        "duration": 1.66
+    },
+    {
+        "text": "who was stupid and ignorant.",
+        "start": 709.61,
+        "duration": 1.63
+    },
+    {
+        "text": "- Also saying that she went on",
+        "start": 711.24,
+        "duration": 0.833
+    },
+    {
+        "text": "to actually delete that\nvideo from her channel",
+        "start": 712.073,
+        "duration": 1.677
+    },
+    {
+        "text": "a few years ago after it was posted.",
+        "start": 713.75,
+        "duration": 1.65
+    },
+    {
+        "text": "Following that apology, she apologized",
+        "start": 715.4,
+        "duration": 1.46
+    },
+    {
+        "text": "for fat shaming that woman on the plane.",
+        "start": 716.86,
+        "duration": 1.683
+    },
+    {
+        "text": "Also explaining that she's a huge advocate",
+        "start": 718.543,
+        "duration": 1.447
+    },
+    {
+        "text": "for body positivity now",
+        "start": 719.99,
+        "duration": 1.06
+    },
+    {
+        "text": "and accepting and loving\nof all body types.",
+        "start": 721.05,
+        "duration": 1.79
+    },
+    {
+        "text": "After that she goes on\nto clarify her comments",
+        "start": 722.84,
+        "duration": 1.81
+    },
+    {
+        "text": "about that incident with her family dog.",
+        "start": 724.65,
+        "duration": 1.59
+    },
+    {
+        "text": "Saying that a doctor told the family",
+        "start": 726.24,
+        "duration": 1.23
+    },
+    {
+        "text": "that legally the dog needed to be put down",
+        "start": 727.47,
+        "duration": 2.04
+    },
+    {
+        "text": "and this actually made her\nvery upset at the time.",
+        "start": 729.51,
+        "duration": 1.77
+    },
+    {
+        "text": "This even though the\nvideo in question appeared",
+        "start": 731.28,
+        "duration": 1.46
+    },
+    {
+        "text": "to show her being insensitive about it.",
+        "start": 732.74,
+        "duration": 1.097
+    },
+    {
+        "text": "So you had her addressing\nthose three things,",
+        "start": 733.837,
+        "duration": 1.883
+    },
+    {
+        "text": "but the meat of this\nvideo really seemed to be",
+        "start": 735.72,
+        "duration": 1.89
+    },
+    {
+        "text": "her addressing that\nvideo with Adam McIntyre",
+        "start": 737.61,
+        "duration": 1.98
+    },
+    {
+        "text": "and the backlash that\nshe's seen because of it.",
+        "start": 739.59,
+        "duration": 1.6
+    },
+    {
+        "text": "Now as to why she didn't\naddress this sooner,",
+        "start": 741.19,
+        "duration": 1.62
+    },
+    {
+        "text": "she said that McIntyre's\nmother reached out to her",
+        "start": 742.81,
+        "duration": 2.08
+    },
+    {
+        "text": "asking her not to speak his name.",
+        "start": 744.89,
+        "duration": 1.47
+    },
+    {
+        "text": "But now she said that\nit's gotten to the point",
+        "start": 746.36,
+        "duration": 1.31
+    },
+    {
+        "text": "where she felt that she needed",
+        "start": 747.67,
+        "duration": 0.84
+    },
+    {
+        "text": "to tell her side of the story.",
+        "start": 748.51,
+        "duration": 1.39
+    },
+    {
+        "text": "And with that she talks about the context",
+        "start": 749.9,
+        "duration": 1.4
+    },
+    {
+        "text": "of why she sent McIntyre women's\nunderwear when he was 13.",
+        "start": 751.3,
+        "duration": 2.69
+    },
+    {
+        "text": "- And in this livestream,\nI did a giveaway.",
+        "start": 753.99,
+        "duration": 1.39
+    },
+    {
+        "text": "I was giving away clothes that\nwere unused, tags still on,",
+        "start": 755.38,
+        "duration": 2.97
+    },
+    {
+        "text": "brand new, that I had just\nbought that I did not want.",
+        "start": 758.35,
+        "duration": 2.71
+    },
+    {
+        "text": "One of the items that was in this box",
+        "start": 761.06,
+        "duration": 2.16
+    },
+    {
+        "text": "was a really ugly pair of underwear.",
+        "start": 763.22,
+        "duration": 1.9
+    },
+    {
+        "text": "As soon as we pulled them out,",
+        "start": 765.12,
+        "duration": 0.94
+    },
+    {
+        "text": "Kory and I started laughing",
+        "start": 766.06,
+        "duration": 1.03
+    },
+    {
+        "text": "and joking around about\nhow ugly they were,",
+        "start": 767.09,
+        "duration": 2.02
+    },
+    {
+        "text": "why did I buy these ridiculous underwear?",
+        "start": 769.11,
+        "duration": 1.85
+    },
+    {
+        "text": "It was so stupid.",
+        "start": 770.96,
+        "duration": 0.91
+    },
+    {
+        "text": "- She then notes how people\nstarted asking for them.",
+        "start": 771.87,
+        "duration": 1.33
+    },
+    {
+        "text": "Adam then asks for the underwear.",
+        "start": 773.2,
+        "duration": 1.97
+    },
+    {
+        "text": "And note, the original video",
+        "start": 775.17,
+        "duration": 0.96
+    },
+    {
+        "text": "does appear to backup that claim.",
+        "start": 776.13,
+        "duration": 1.52
+    },
+    {
+        "text": "With Colleen going on\nto say that she actually",
+        "start": 777.65,
+        "duration": 1.32
+    },
+    {
+        "text": "forgot to send them and so\nAdam asked again over Twitter",
+        "start": 778.97,
+        "duration": 2.66
+    },
+    {
+        "text": "and that's when she sent them.",
+        "start": 781.63,
+        "duration": 0.833
+    },
+    {
+        "text": "And while she does know that she's",
+        "start": 782.463,
+        "duration": 1.057
+    },
+    {
+        "text": "always given away weird and random items,",
+        "start": 783.52,
+        "duration": 1.88
+    },
+    {
+        "text": "she says that she does now realize",
+        "start": 785.4,
+        "duration": 1.43
+    },
+    {
+        "text": "how inappropriate the whole situation was.",
+        "start": 786.83,
+        "duration": 1.59
+    },
+    {
+        "text": "- I've given away weird stuff.",
+        "start": 788.42,
+        "duration": 1.18
+    },
+    {
+        "text": "And so in my mind at the time,",
+        "start": 789.6,
+        "duration": 2.0
+    },
+    {
+        "text": "this was no different than",
+        "start": 791.6,
+        "duration": 0.96
+    },
+    {
+        "text": "all the other weird\nstuff I send to my fans,",
+        "start": 792.56,
+        "duration": 2.1
+    },
+    {
+        "text": "as a joke.",
+        "start": 794.66,
+        "duration": 0.833
+    },
+    {
+        "text": "Now, in hindsight I see how\ncompletely stupid of me.",
+        "start": 795.493,
+        "duration": 4.007
+    },
+    {
+        "text": "I should have never sent that.",
+        "start": 799.5,
+        "duration": 1.04
+    },
+    {
+        "text": "I don't know what part of my\nbrain was missing at the time,",
+        "start": 800.54,
+        "duration": 1.992
+    },
+    {
+        "text": "that I thought, \"Oh, this is\na normal, silly thing to do.\"",
+        "start": 802.532,
+        "duration": 3.028
+    },
+    {
+        "text": "It was never a sneaky, creepy, gross thing",
+        "start": 805.56,
+        "duration": 2.77
+    },
+    {
+        "text": "that I was doing in secret.",
+        "start": 808.33,
+        "duration": 1.28
+    },
+    {
+        "text": "It was a silly, stupid mistake",
+        "start": 809.61,
+        "duration": 2.88
+    },
+    {
+        "text": "that now is being blown\nway out of proportion.",
+        "start": 812.49,
+        "duration": 2.227
+    },
+    {
+        "text": "- Colleen also saying that",
+        "start": 814.717,
+        "duration": 1.313
+    },
+    {
+        "text": "she always believed McIntyre's mother",
+        "start": 816.03,
+        "duration": 1.43
+    },
+    {
+        "text": "was always very supportive about\nher interactions with Adam.",
+        "start": 817.46,
+        "duration": 2.17
+    },
+    {
+        "text": "And adding that if she had known",
+        "start": 819.63,
+        "duration": 0.91
+    },
+    {
+        "text": "his mother was uncomfortable\nwith the situation",
+        "start": 820.54,
+        "duration": 1.62
+    },
+    {
+        "text": "that she would have cutoff contact.",
+        "start": 822.16,
+        "duration": 1.21
+    },
+    {
+        "text": "And after that Colleen goes on to clarify",
+        "start": 823.37,
+        "duration": 1.55
+    },
+    {
+        "text": "her relationship with Adam.",
+        "start": 824.92,
+        "duration": 1.16
+    },
+    {
+        "text": "And why she allowed him to tweet for her.",
+        "start": 826.08,
+        "duration": 1.3
+    },
+    {
+        "text": "Noting that she has for\nyears publicly asked fans",
+        "start": 827.38,
+        "duration": 2.05
+    },
+    {
+        "text": "for advice on what to tweet.",
+        "start": 829.43,
+        "duration": 1.05
+    },
+    {
+        "text": "Then saying that she used some",
+        "start": 830.48,
+        "duration": 0.96
+    },
+    {
+        "text": "of Adam's tweets a few years back.",
+        "start": 831.44,
+        "duration": 1.42
+    },
+    {
+        "text": "Saying that after that Adam\nasked her multiple times",
+        "start": 832.86,
+        "duration": 2.04
+    },
+    {
+        "text": "if he could come up with ideas for posts.",
+        "start": 834.9,
+        "duration": 1.6
+    },
+    {
+        "text": "Saying that most of the time",
+        "start": 836.5,
+        "duration": 0.833
+    },
+    {
+        "text": "she actually didn't engage\nin those conversations",
+        "start": 837.333,
+        "duration": 1.827
+    },
+    {
+        "text": "until recently when he sent\nher a folder full of ideas.",
+        "start": 839.16,
+        "duration": 2.35
+    },
+    {
+        "text": "And after that, giving him what\nshe described as a test run.",
+        "start": 841.51,
+        "duration": 2.1
+    },
+    {
+        "text": "Saying that if it went well\nshe wanted to hire him.",
+        "start": 843.61,
+        "duration": 1.87
+    },
+    {
+        "text": "Notably here, because\nyou know, there was kinda",
+        "start": 845.48,
+        "duration": 1.37
+    },
+    {
+        "text": "a conversation about\nguilt in Adam's video,",
+        "start": 846.85,
+        "duration": 1.947
+    },
+    {
+        "text": "she says that while he posted the tweet",
+        "start": 848.797,
+        "duration": 1.563
+    },
+    {
+        "text": "that it was ultimately her\nfault in the first place",
+        "start": 850.36,
+        "duration": 1.743
+    },
+    {
+        "text": "because she didn't look over\nthose ideas closely enough.",
+        "start": 852.103,
+        "duration": 2.107
+    },
+    {
+        "text": "- And when he posted it, I\nput zero blame on him at all.",
+        "start": 854.21,
+        "duration": 3.85
+    },
+    {
+        "text": "It was my fault.",
+        "start": 858.06,
+        "duration": 1.048
+    },
+    {
+        "text": "I knew better,",
+        "start": 859.108,
+        "duration": 1.071
+    },
+    {
+        "text": "then to let someone else tweet for me.",
+        "start": 860.179,
+        "duration": 2.841
+    },
+    {
+        "text": "I should have reviewed\nclosely every single thing",
+        "start": 863.02,
+        "duration": 3.18
+    },
+    {
+        "text": "that was going to come\nout of Miranda's mouth.",
+        "start": 866.2,
+        "duration": 2.21
+    },
+    {
+        "text": "I let him know that I loved\nhim, he did a great job,",
+        "start": 868.41,
+        "duration": 2.34
+    },
+    {
+        "text": "it was my fault, not his.",
+        "start": 870.75,
+        "duration": 1.62
+    },
+    {
+        "text": "- With Colleen ending her video",
+        "start": 872.37,
+        "duration": 0.84
+    },
+    {
+        "text": "by saying she doesn't blame\nAdam, she wishes him success.",
+        "start": 873.21,
+        "duration": 2.57
+    },
+    {
+        "text": "And that she hopes everyone can\nmove on from this situation.",
+        "start": 875.78,
+        "duration": 2.03
+    },
+    {
+        "text": "- No, I should have never\nsent a fan underwear.",
+        "start": 877.81,
+        "duration": 1.81
+    },
+    {
+        "text": "How stupid am I?",
+        "start": 879.62,
+        "duration": 1.16
+    },
+    {
+        "text": "No, I definitely should have never given",
+        "start": 880.78,
+        "duration": 1.62
+    },
+    {
+        "text": "him access to my Twitter account.",
+        "start": 882.4,
+        "duration": 1.4
+    },
+    {
+        "text": "And no, I shouldn't have talked\nto him as often as I did.",
+        "start": 883.8,
+        "duration": 2.95
+    },
+    {
+        "text": "But I am not a monster.",
+        "start": 886.75,
+        "duration": 1.41
+    },
+    {
+        "text": "I am not groomer.",
+        "start": 888.16,
+        "duration": 0.902
+    },
+    {
+        "text": "And I shouldn't kill myself.",
+        "start": 889.062,
+        "duration": 1.978
+    },
+    {
+        "text": "- And in general, following all of this,",
+        "start": 891.04,
+        "duration": 1.41
+    },
+    {
+        "text": "the response to Colleen has\nbeen overwhelmingly positive.",
+        "start": 892.45,
+        "duration": 3.011
+    },
+    {
+        "text": "People in general finding that",
+        "start": 895.461,
+        "duration": 0.995
+    },
+    {
+        "text": "she provided much needed context.",
+        "start": 896.456,
+        "duration": 1.187
+    },
+    {
+        "text": "While also at the same time,\nowning up to past behavior.",
+        "start": 897.643,
+        "duration": 3.267
+    },
+    {
+        "text": "Which I will say, one of\nthe standouts from her video",
+        "start": 900.91,
+        "duration": 2.04
+    },
+    {
+        "text": "to me, was when she\nwas kinda talking about",
+        "start": 902.95,
+        "duration": 1.57
+    },
+    {
+        "text": "the ignorant stereotypes\nshe's done in the past.",
+        "start": 904.52,
+        "duration": 2.57
+    },
+    {
+        "text": "It should not negate her\ntalking about racism now.",
+        "start": 907.09,
+        "duration": 2.873
+    },
+    {
+        "text": "- People were saying how\ndare I talk about racism",
+        "start": 909.963,
+        "duration": 2.817
+    },
+    {
+        "text": "when I said these things 14 years ago.",
+        "start": 912.78,
+        "duration": 2.26
+    },
+    {
+        "text": "And to you I say, that\nis the exact reason why",
+        "start": 915.04,
+        "duration": 2.29
+    },
+    {
+        "text": "I should be talking about racism.",
+        "start": 917.33,
+        "duration": 1.57
+    },
+    {
+        "text": "And why I should be\nstanding up against it.",
+        "start": 918.9,
+        "duration": 1.84
+    },
+    {
+        "text": "Because I was one of the dumb ones",
+        "start": 920.74,
+        "duration": 1.59
+    },
+    {
+        "text": "who said that stupid thing,",
+        "start": 922.33,
+        "duration": 1.39
+    },
+    {
+        "text": "and grew from it, and learned from it,",
+        "start": 923.72,
+        "duration": 1.55
+    },
+    {
+        "text": "and realized how hurtful it could be.",
+        "start": 925.27,
+        "duration": 2.02
+    },
+    {
+        "text": "And now I wanna right my\nwrongs and make a difference",
+        "start": 927.29,
+        "duration": 2.32
+    },
+    {
+        "text": "so that other people don't\nmake the same mistakes",
+        "start": 929.61,
+        "duration": 2.07
+    },
+    {
+        "text": "that I made when I was a kid.",
+        "start": 931.68,
+        "duration": 1.24
+    },
+    {
+        "text": "- And that was something\nthat really stuck out to me",
+        "start": 932.92,
+        "duration": 1.24
+    },
+    {
+        "text": "because I don't think someone's past,",
+        "start": 934.16,
+        "duration": 1.27
+    },
+    {
+        "text": "especially something from 14 years ago,",
+        "start": 935.43,
+        "duration": 1.9
+    },
+    {
+        "text": "that it should lock them in a box,",
+        "start": 937.33,
+        "duration": 1.68
+    },
+    {
+        "text": "preventing them from\ntheir own personal growth.",
+        "start": 939.01,
+        "duration": 1.98
+    },
+    {
+        "text": "You know, it's a thing I kinda bring up",
+        "start": 940.99,
+        "duration": 0.94
+    },
+    {
+        "text": "from time to time, unprompted.",
+        "start": 941.93,
+        "duration": 1.36
+    },
+    {
+        "text": "I hate who I was before, I would\npunch that guy in the face.",
+        "start": 943.29,
+        "duration": 3.1
+    },
+    {
+        "text": "And kind of also like Colleen said,",
+        "start": 946.39,
+        "duration": 1.73
+    },
+    {
+        "text": "I feel like I've very much grown because",
+        "start": 948.12,
+        "duration": 1.58
+    },
+    {
+        "text": "of the conversation I've\nhad with my community.",
+        "start": 949.7,
+        "duration": 1.73
+    },
+    {
+        "text": "Yeah, ultimately that's where we are",
+        "start": 951.43,
+        "duration": 1.28
+    },
+    {
+        "text": "with this story right now.",
+        "start": 952.71,
+        "duration": 0.94
+    },
+    {
+        "text": "Though I will note, this story is",
+        "start": 953.65,
+        "duration": 1.66
+    },
+    {
+        "text": "just now starting to\nreally, really blowup.",
+        "start": 955.31,
+        "duration": 2.0
+    },
+    {
+        "text": "As we're filming today's show,",
+        "start": 957.31,
+        "duration": 0.96
+    },
+    {
+        "text": "Colleen's video hit\nnumber one on trending.",
+        "start": 958.27,
+        "duration": 2.13
+    },
+    {
+        "text": "We're starting to see the\nnews articles come out.",
+        "start": 960.4,
+        "duration": 1.87
+    },
+    {
+        "text": "Yeah, this might end up being\nan interesting one to watch.",
+        "start": 962.27,
+        "duration": 2.07
+    },
+    {
+        "text": "But with that said, of course I do wanna",
+        "start": 964.34,
+        "duration": 1.75
+    },
+    {
+        "text": "pass the question off to you.",
+        "start": 966.09,
+        "duration": 0.99
+    },
+    {
+        "text": "What are your thoughts\naround this whole situation?",
+        "start": 967.08,
+        "duration": 1.35
+    },
+    {
+        "text": "And that is where I'm\ngoing to end today's show.",
+        "start": 968.43,
+        "duration": 2.0
+    },
+    {
+        "text": "And hey, as always, thanks\nfor watching, liking,",
+        "start": 970.43,
+        "duration": 2.26
+    },
+    {
+        "text": "being a part of the conversation.",
+        "start": 972.69,
+        "duration": 1.36
+    },
+    {
+        "text": "Maybe even sharing.",
+        "start": 974.05,
+        "duration": 0.97
+    },
+    {
+        "text": "Also, if you're new\nhere you wanna be a part",
+        "start": 975.02,
+        "duration": 1.52
+    },
+    {
+        "text": "of these daily dives into the news.",
+        "start": 976.54,
+        "duration": 1.42
+    },
+    {
+        "text": "Be sure to hit that subscribe button.",
+        "start": 977.96,
+        "duration": 1.33
+    },
+    {
+        "text": "Maybe even tap that bell\nto turn on notifications.",
+        "start": 979.29,
+        "duration": 2.12
+    },
+    {
+        "text": "Also, if you're looking for more to watch,",
+        "start": 981.41,
+        "duration": 1.36
+    },
+    {
+        "text": "I definitely recommend you check out",
+        "start": 982.77,
+        "duration": 1.13
+    },
+    {
+        "text": "that brand new podcast\nI did with Dr. Mike, or",
+        "start": 983.9,
+        "duration": 2.33
+    },
+    {
+        "text": "maybe you just missed yesterday's\nshow, you wanna catch up.",
+        "start": 986.23,
+        "duration": 2.17
+    },
+    {
+        "text": "You can click or tap right there",
+        "start": 988.4,
+        "duration": 0.91
+    },
+    {
+        "text": "to watch either of those right now.",
+        "start": 989.31,
+        "duration": 1.19
+    },
+    {
+        "text": "But with that said, of course as always,",
+        "start": 990.5,
+        "duration": 1.71
+    },
+    {
+        "text": "my name's Philip DeFranco,\nyou've just been Philled in.",
+        "start": 992.21,
+        "duration": 2.46
+    },
+    {
+        "text": "I love yo' faces and\nI'll see you tomorrow.",
+        "start": 994.67,
+        "duration": 2.54
+    },
+    {
+        "text": "- I hope you like the video.",
+        "start": 997.21,
+        "duration": 1.91
+    },
+    {
+        "text": "Subscribe if you like it.",
+        "start": 999.12,
+        "duration": 2.083
+    }
+]

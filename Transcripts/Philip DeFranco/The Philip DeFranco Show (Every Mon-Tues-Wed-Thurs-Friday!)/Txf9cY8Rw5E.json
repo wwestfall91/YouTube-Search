@@ -1,0 +1,3007 @@
+[
+    {
+        "text": "- 'Sup, you beautiful bastard,",
+        "start": 0.0,
+        "duration": 1.56
+    },
+    {
+        "text": "hope you've had a fantastic Wednesday,",
+        "start": 1.56,
+        "duration": 1.74
+    },
+    {
+        "text": "welcome back to the Philip DeFranco Show.",
+        "start": 3.3,
+        "duration": 1.87
+    },
+    {
+        "text": "Buckle up, hit that like button,",
+        "start": 5.17,
+        "duration": 1.83
+    },
+    {
+        "text": "and let's just jump into it.",
+        "start": 7.0,
+        "duration": 1.017
+    },
+    {
+        "text": "And the first thing we're gonna",
+        "start": 8.017,
+        "duration": 1.063
+    },
+    {
+        "text": "talk about today is very brief,",
+        "start": 9.08,
+        "duration": 1.34
+    },
+    {
+        "text": "just happy birthday, Canada.\n(children cheering)",
+        "start": 10.42,
+        "duration": 1.78
+    },
+    {
+        "text": "When it comes to the Philip DeFranco Show,",
+        "start": 12.2,
+        "duration": 1.15
+    },
+    {
+        "text": "you are the second largest audience,",
+        "start": 13.35,
+        "duration": 1.79
+    },
+    {
+        "text": "I imagine 'cause you're like,",
+        "start": 15.14,
+        "duration": 0.897
+    },
+    {
+        "text": "\"What the hell's happening down there?\"",
+        "start": 16.037,
+        "duration": 1.523
+    },
+    {
+        "text": "But for whatever reason,\nyou're a part of this.",
+        "start": 17.56,
+        "duration": 2.53
+    },
+    {
+        "text": "Thank you.",
+        "start": 20.09,
+        "duration": 0.833
+    },
+    {
+        "text": "I will also say the nicest\nemails and messages I ever get,",
+        "start": 20.923,
+        "duration": 2.647
+    },
+    {
+        "text": "it's always Canadians and also the Irish.",
+        "start": 23.57,
+        "duration": 1.99
+    },
+    {
+        "text": "Yeah, I love you.",
+        "start": 25.56,
+        "duration": 1.06
+    },
+    {
+        "text": "Even though people often\nkind of think of Canadians",
+        "start": 26.62,
+        "duration": 2.43
+    },
+    {
+        "text": "as just one people, and it's not that.",
+        "start": 29.05,
+        "duration": 2.4
+    },
+    {
+        "text": "Back when we did live shows,",
+        "start": 31.45,
+        "duration": 0.92
+    },
+    {
+        "text": "one of my favorite things to do was",
+        "start": 32.37,
+        "duration": 1.33
+    },
+    {
+        "text": "when we were in Vancouver, I'd be like,",
+        "start": 33.7,
+        "duration": 1.357
+    },
+    {
+        "text": "\"Man, I come to Canada, I\nlove the people in Toronto,\"",
+        "start": 35.057,
+        "duration": 3.043
+    },
+    {
+        "text": "and when I'd go to Toronto, I'd say,",
+        "start": 38.1,
+        "duration": 1.007
+    },
+    {
+        "text": "\"I love the people in\nVancouver,\" just to see,",
+        "start": 39.107,
+        "duration": 1.893
+    },
+    {
+        "text": "the reaction is always so great.",
+        "start": 41.0,
+        "duration": 1.13
+    },
+    {
+        "text": "Main point, it's all love.",
+        "start": 42.13,
+        "duration": 1.28
+    },
+    {
+        "text": "And then, it always\nfeels weird to do this,",
+        "start": 43.41,
+        "duration": 2.03
+    },
+    {
+        "text": "I feel so much more\ncomfortable talking about",
+        "start": 45.44,
+        "duration": 1.89
+    },
+    {
+        "text": "other stuff than myself,",
+        "start": 47.33,
+        "duration": 1.48
+    },
+    {
+        "text": "I want to talk about\nthe future of this show.",
+        "start": 48.81,
+        "duration": 1.85
+    },
+    {
+        "text": "I was a little inspired\nto talk about it today",
+        "start": 50.66,
+        "duration": 2.01
+    },
+    {
+        "text": "'cause I saw a massive\ncreator by the name of",
+        "start": 52.67,
+        "duration": 1.93
+    },
+    {
+        "text": "Jacksepticeye announcing\nto his audience today",
+        "start": 54.6,
+        "duration": 1.83
+    },
+    {
+        "text": "that he's gonna be\ntaking a one month break",
+        "start": 56.43,
+        "duration": 1.67
+    },
+    {
+        "text": "for a number of reasons,\nincluding mental health.",
+        "start": 58.1,
+        "duration": 1.81
+    },
+    {
+        "text": "I will say, it warms my heart to see that",
+        "start": 59.91,
+        "duration": 1.46
+    },
+    {
+        "text": "the audience in general was very",
+        "start": 61.37,
+        "duration": 1.52
+    },
+    {
+        "text": "accepting and understanding,\nwhich, I will say,",
+        "start": 62.89,
+        "duration": 2.17
+    },
+    {
+        "text": "as far as communities go online,",
+        "start": 65.06,
+        "duration": 1.71
+    },
+    {
+        "text": "six years ago, I feel like\nthat wouldn't be the case",
+        "start": 66.77,
+        "duration": 2.06
+    },
+    {
+        "text": "for a lot of audiences,\nbut over the years,",
+        "start": 68.83,
+        "duration": 1.92
+    },
+    {
+        "text": "I think a lot of people\nhave realized, like,",
+        "start": 70.75,
+        "duration": 1.29
+    },
+    {
+        "text": "the people that we look at on videos",
+        "start": 72.04,
+        "duration": 2.13
+    },
+    {
+        "text": "and in papers, that they're actual people.",
+        "start": 74.17,
+        "duration": 2.13
+    },
+    {
+        "text": "And while I'm not\nannouncing that I'm taking",
+        "start": 76.3,
+        "duration": 1.4
+    },
+    {
+        "text": "some sort of break right now,",
+        "start": 77.7,
+        "duration": 1.14
+    },
+    {
+        "text": "we did just finish the first part of 2020,",
+        "start": 78.84,
+        "duration": 2.2
+    },
+    {
+        "text": "and so now my mind is on the end of 2020,",
+        "start": 81.04,
+        "duration": 2.47
+    },
+    {
+        "text": "which, if you've been watching the show",
+        "start": 83.51,
+        "duration": 1.56
+    },
+    {
+        "text": "for at least the last two, three years,",
+        "start": 85.07,
+        "duration": 1.57
+    },
+    {
+        "text": "I've been eyeing the\nend of 2020 as the place",
+        "start": 86.64,
+        "duration": 2.06
+    },
+    {
+        "text": "to potentially end this version\nof the Philip DeFranco Show.",
+        "start": 88.7,
+        "duration": 2.93
+    },
+    {
+        "text": "Now as far as what that means\nand what that looks like,",
+        "start": 91.63,
+        "duration": 2.12
+    },
+    {
+        "text": "I haven't fully figured that out yet.",
+        "start": 93.75,
+        "duration": 1.86
+    },
+    {
+        "text": "Right now, my plan is to\ncontinue on until the election",
+        "start": 95.61,
+        "duration": 1.99
+    },
+    {
+        "text": "and then figure it out some\ntime in the month after that,",
+        "start": 97.6,
+        "duration": 3.41
+    },
+    {
+        "text": "then take that Christmas\nbreak, as I always do,",
+        "start": 101.01,
+        "duration": 1.77
+    },
+    {
+        "text": "and hopefully figure it out by then.",
+        "start": 102.78,
+        "duration": 2.09
+    },
+    {
+        "text": "That said, I do want to\nmake something clear.",
+        "start": 104.87,
+        "duration": 1.61
+    },
+    {
+        "text": "No matter what everything\nends up looking like,",
+        "start": 106.48,
+        "duration": 2.41
+    },
+    {
+        "text": "I'm not abandoning you.",
+        "start": 108.89,
+        "duration": 1.05
+    },
+    {
+        "text": "Even though this job\nis sometimes miserable",
+        "start": 109.94,
+        "duration": 1.48
+    },
+    {
+        "text": "because 24/7 you're kind\nof having to look at",
+        "start": 111.42,
+        "duration": 2.48
+    },
+    {
+        "text": "the wort of the world, I love it.",
+        "start": 113.9,
+        "duration": 1.75
+    },
+    {
+        "text": "I made this show because as a younger man,",
+        "start": 115.65,
+        "duration": 1.62
+    },
+    {
+        "text": "I cared about the world\nand I didn't really have",
+        "start": 117.27,
+        "duration": 1.48
+    },
+    {
+        "text": "anyone to talk to, I\ndidn't have a community,",
+        "start": 118.75,
+        "duration": 1.98
+    },
+    {
+        "text": "a place to belong.",
+        "start": 120.73,
+        "duration": 1.01
+    },
+    {
+        "text": "Over the years, I've found\nso many of you that are like,",
+        "start": 121.74,
+        "duration": 1.647
+    },
+    {
+        "text": "\"Yes, I'm on for the ride as well,\"",
+        "start": 123.387,
+        "duration": 1.36
+    },
+    {
+        "text": "and I hope you feel that too.",
+        "start": 124.747,
+        "duration": 1.053
+    },
+    {
+        "text": "I know some of you, maybe,\nhave started watching",
+        "start": 125.8,
+        "duration": 1.33
+    },
+    {
+        "text": "in the last three weeks and you're like,",
+        "start": 127.13,
+        "duration": 1.117
+    },
+    {
+        "text": "\"What the hell are you talking about?",
+        "start": 128.247,
+        "duration": 0.91
+    },
+    {
+        "text": "\"You're coming on too strong, Phil.\"",
+        "start": 129.157,
+        "duration": 1.333
+    },
+    {
+        "text": "But I mean that genuinely, and understand,",
+        "start": 130.49,
+        "duration": 1.14
+    },
+    {
+        "text": "I'm also the same cynical bastard that...",
+        "start": 131.63,
+        "duration": 1.846
+    },
+    {
+        "text": "(laughs)",
+        "start": 133.476,
+        "duration": 0.894
+    },
+    {
+        "text": "I hate when people call\nthe people that watch them",
+        "start": 134.37,
+        "duration": 2.05
+    },
+    {
+        "text": "their friends, but I will\nsay that I think that we",
+        "start": 136.42,
+        "duration": 2.18
+    },
+    {
+        "text": "genuinely do have a community.",
+        "start": 138.6,
+        "duration": 1.16
+    },
+    {
+        "text": "And I still want to talk\nto you about the world,",
+        "start": 139.76,
+        "duration": 1.83
+    },
+    {
+        "text": "and what's happening,\nand what's important,",
+        "start": 141.59,
+        "duration": 1.83
+    },
+    {
+        "text": "things that you may have already seen",
+        "start": 143.42,
+        "duration": 1.66
+    },
+    {
+        "text": "from a different angle, or\nthings you've never heard of,",
+        "start": 145.08,
+        "duration": 1.45
+    },
+    {
+        "text": "but I think that I can also do it",
+        "start": 146.53,
+        "duration": 1.52
+    },
+    {
+        "text": "in a hopefully more\nsustainable and different,",
+        "start": 148.05,
+        "duration": 2.6
+    },
+    {
+        "text": "hopefully higher quality way.",
+        "start": 150.65,
+        "duration": 1.49
+    },
+    {
+        "text": "Or those plans will completely fall apart",
+        "start": 152.14,
+        "duration": 1.74
+    },
+    {
+        "text": "and it'll be status quo.",
+        "start": 153.88,
+        "duration": 0.94
+    },
+    {
+        "text": "It just feels like in this moment,",
+        "start": 154.82,
+        "duration": 1.2
+    },
+    {
+        "text": "and it's felt like this for a long time,",
+        "start": 156.02,
+        "duration": 1.41
+    },
+    {
+        "text": "that this is not sustainable,",
+        "start": 157.43,
+        "duration": 1.39
+    },
+    {
+        "text": "and so something's gonna\nhave to be addressed.",
+        "start": 158.82,
+        "duration": 1.73
+    },
+    {
+        "text": "But, I also think I\ncan't fully evaluate that",
+        "start": 160.55,
+        "duration": 2.33
+    },
+    {
+        "text": "until the end of November,",
+        "start": 162.88,
+        "duration": 1.26
+    },
+    {
+        "text": "and specifically then,\nbecause I want to make sure",
+        "start": 164.14,
+        "duration": 1.55
+    },
+    {
+        "text": "that if I'm leaving this house,",
+        "start": 165.69,
+        "duration": 1.97
+    },
+    {
+        "text": "I'm not leaving you inside\nof it with the house on fire.",
+        "start": 167.66,
+        "duration": 2.95
+    },
+    {
+        "text": "So, all of that said, please consider this",
+        "start": 170.61,
+        "duration": 2.27
+    },
+    {
+        "text": "your official heads-up, and\nalso just a big thank you.",
+        "start": 172.88,
+        "duration": 3.86
+    },
+    {
+        "text": "Then, very briefly, I just want to promote",
+        "start": 176.74,
+        "duration": 2.58
+    },
+    {
+        "text": "the \"Wear a Damn Mask\" challenge.",
+        "start": 179.32,
+        "duration": 1.36
+    },
+    {
+        "text": "Some are also using the hashtag, #MaskUp.",
+        "start": 180.68,
+        "duration": 1.85
+    },
+    {
+        "text": "If you looked at it on social\nmedia today, or this week,",
+        "start": 182.53,
+        "duration": 2.09
+    },
+    {
+        "text": "you may have seen some massive celebrities",
+        "start": 184.62,
+        "duration": 1.53
+    },
+    {
+        "text": "promoting this challenge.",
+        "start": 186.15,
+        "duration": 0.98
+    },
+    {
+        "text": "The likes of Trace Ellis\nRoss, noting, \"I am sure",
+        "start": 187.13,
+        "duration": 2.197
+    },
+    {
+        "text": "\"you are all seeing what I'm seeing,",
+        "start": 189.327,
+        "duration": 1.33
+    },
+    {
+        "text": "\"COVID19 rates in the USA are\nrising at a truly scary rate.\"",
+        "start": 190.657,
+        "duration": 3.153
+    },
+    {
+        "text": "Jennifer Aniston also noting,",
+        "start": 193.81,
+        "duration": 1.217
+    },
+    {
+        "text": "\"I understand masks are\ninconvenient and uncomfortable,\"",
+        "start": 195.027,
+        "duration": 2.303
+    },
+    {
+        "text": "but adding, \"Don't you feel\nit's worse that businesses",
+        "start": 197.33,
+        "duration": 1.907
+    },
+    {
+        "text": "\"are shutting down, jobs are being lost,",
+        "start": 199.237,
+        "duration": 1.78
+    },
+    {
+        "text": "\"health care workers are\nhitting absolute exhaustion,",
+        "start": 201.017,
+        "duration": 2.03
+    },
+    {
+        "text": "\"and so many lives have\nbeen taken by this virus",
+        "start": 203.047,
+        "duration": 1.79
+    },
+    {
+        "text": "\"because we aren't doing enough.\"",
+        "start": 204.837,
+        "duration": 1.153
+    },
+    {
+        "text": "Reese Witherspoon, hitting on a note",
+        "start": 205.99,
+        "duration": 1.41
+    },
+    {
+        "text": "that I very much agree\nwith, \"Wearing a mask is not",
+        "start": 207.4,
+        "duration": 1.627
+    },
+    {
+        "text": "\"a political statement,\nit means you care about",
+        "start": 209.027,
+        "duration": 1.86
+    },
+    {
+        "text": "\"other people's health and safety.\"",
+        "start": 210.887,
+        "duration": 1.793
+    },
+    {
+        "text": "And like we featured\non that clip yesterday,",
+        "start": 212.68,
+        "duration": 1.39
+    },
+    {
+        "text": "you have Dr. Fauci saying\nthe numbers are going",
+        "start": 214.07,
+        "duration": 1.8
+    },
+    {
+        "text": "in the wrong direction right now.",
+        "start": 215.87,
+        "duration": 0.98
+    },
+    {
+        "text": "We are truly at a point\nwhere we're asking others",
+        "start": 216.85,
+        "duration": 1.58
+    },
+    {
+        "text": "to do the literal least.",
+        "start": 218.43,
+        "duration": 1.62
+    },
+    {
+        "text": "Wash your hands whenever possible,",
+        "start": 220.05,
+        "duration": 1.49
+    },
+    {
+        "text": "practice social distancing, and then,",
+        "start": 221.54,
+        "duration": 2.26
+    },
+    {
+        "text": "just wear a mask.",
+        "start": 223.8,
+        "duration": 0.87
+    },
+    {
+        "text": "As someone that is not\nparticularly attractive,",
+        "start": 224.67,
+        "duration": 1.6
+    },
+    {
+        "text": "I actually think that\nit's a good look for me.",
+        "start": 226.27,
+        "duration": 1.69
+    },
+    {
+        "text": "And to my Trump supporters\nout in the audience,",
+        "start": 227.96,
+        "duration": 1.62
+    },
+    {
+        "text": "I saw someone else say this,",
+        "start": 229.58,
+        "duration": 1.19
+    },
+    {
+        "text": "think of it as a border\nwall for your face.",
+        "start": 230.77,
+        "duration": 1.62
+    },
+    {
+        "text": "Also, if that silly\nstatement offended you,",
+        "start": 232.39,
+        "duration": 1.56
+    },
+    {
+        "text": "you're definitely not gonna want to know",
+        "start": 233.95,
+        "duration": 1.05
+    },
+    {
+        "text": "what Tom Hanks said, which,\naccording to People Magazine,",
+        "start": 235.0,
+        "duration": 2.27
+    },
+    {
+        "text": "was, \"Don't be a pussy, get\non with it, do your part.",
+        "start": 237.27,
+        "duration": 3.307
+    },
+    {
+        "text": "\"It's very basic, if you're driving a car,",
+        "start": 240.577,
+        "duration": 1.79
+    },
+    {
+        "text": "\"you don't go too fast,\nyou use your turn signal,",
+        "start": 242.367,
+        "duration": 1.96
+    },
+    {
+        "text": "\"and you avoid hitting pedestrians.",
+        "start": 244.327,
+        "duration": 1.18
+    },
+    {
+        "text": "\"My Lord, it's common sense.\"",
+        "start": 245.507,
+        "duration": 1.383
+    },
+    {
+        "text": "Also, side note, Tom Hanks is a BAMF.",
+        "start": 246.89,
+        "duration": 1.88
+    },
+    {
+        "text": "He's actually donated bags of his plasma,",
+        "start": 248.77,
+        "duration": 1.79
+    },
+    {
+        "text": "which contain antibodies\nthat could help other people",
+        "start": 250.56,
+        "duration": 2.08
+    },
+    {
+        "text": "in their fight against the Coronavirus.",
+        "start": 252.64,
+        "duration": 1.28
+    },
+    {
+        "text": "Yeah, wear a mask, and also,\nif you want to promote this,",
+        "start": 253.92,
+        "duration": 3.15
+    },
+    {
+        "text": "wear one and use the\nhashtag, #WearADamnMask.",
+        "start": 257.07,
+        "duration": 2.16
+    },
+    {
+        "text": "Let's promote a little\ncommon sense together.",
+        "start": 259.23,
+        "duration": 1.5
+    },
+    {
+        "text": "But from that, I want to\nshare some stuff I love today,",
+        "start": 260.73,
+        "duration": 2.39
+    },
+    {
+        "text": "in Today In Awesome, brought\nto you by Bright Cellars,",
+        "start": 263.12,
+        "duration": 2.74
+    },
+    {
+        "text": "and I'll explain why I'm\nlaughing in a second.",
+        "start": 265.86,
+        "duration": 1.69
+    },
+    {
+        "text": "Now, given today's general uncertainty",
+        "start": 267.55,
+        "duration": 2.0
+    },
+    {
+        "text": "and focus on health and safety,",
+        "start": 269.55,
+        "duration": 1.49
+    },
+    {
+        "text": "Bright Cellars is encouraging\nall of you beautiful bastards",
+        "start": 271.04,
+        "duration": 2.15
+    },
+    {
+        "text": "to stay home, skip the store,",
+        "start": 273.19,
+        "duration": 1.62
+    },
+    {
+        "text": "and let the wine just come to you.",
+        "start": 274.81,
+        "duration": 1.19
+    },
+    {
+        "text": "And whether you're a seasoned vet",
+        "start": 276.0,
+        "duration": 1.06
+    },
+    {
+        "text": "or you can't tell a cabernet from a rose,",
+        "start": 277.06,
+        "duration": 2.44
+    },
+    {
+        "text": "Bright Cellars offers\nfantastic wine selections",
+        "start": 279.5,
+        "duration": 2.09
+    },
+    {
+        "text": "curated just for you, delivered\nstraight to your home,",
+        "start": 281.59,
+        "duration": 2.24
+    },
+    {
+        "text": "office, or wherever.",
+        "start": 283.83,
+        "duration": 0.96
+    },
+    {
+        "text": "And tailoring a wine selection\nspecifically to your tastes",
+        "start": 284.79,
+        "duration": 2.37
+    },
+    {
+        "text": "could not be simpler.",
+        "start": 287.16,
+        "duration": 0.87
+    },
+    {
+        "text": "Bright Cellars customizes\ntheir wines based on",
+        "start": 288.03,
+        "duration": 1.96
+    },
+    {
+        "text": "your answers to an easy,\nseven-question quiz.",
+        "start": 289.99,
+        "duration": 1.88
+    },
+    {
+        "text": "Not only that, each delivery\nincludes wine education cards",
+        "start": 291.87,
+        "duration": 2.82
+    },
+    {
+        "text": "with tasting notes, pairing\nsuggestions, wine origin,",
+        "start": 294.69,
+        "duration": 2.74
+    },
+    {
+        "text": "and even the best serving\ntemperature for each bottle.",
+        "start": 297.43,
+        "duration": 2.32
+    },
+    {
+        "text": "I am personally on my second delivery",
+        "start": 299.75,
+        "duration": 1.38
+    },
+    {
+        "text": "of my Bright Cellars subscription,",
+        "start": 301.13,
+        "duration": 1.24
+    },
+    {
+        "text": "and the reason I was laughing\nis that I love them so much,",
+        "start": 302.37,
+        "duration": 2.64
+    },
+    {
+        "text": "I completely forgot to save a few bottles",
+        "start": 305.01,
+        "duration": 1.92
+    },
+    {
+        "text": "to actually show in the video.",
+        "start": 306.93,
+        "duration": 1.27
+    },
+    {
+        "text": "To Bright Cellars, thank you\nfor still sponsoring this show.",
+        "start": 308.2,
+        "duration": 2.39
+    },
+    {
+        "text": "Here we go, look, it's this bottle!",
+        "start": 310.59,
+        "duration": 1.5
+    },
+    {
+        "text": "But honestly, my wife and\nI have been loving it,",
+        "start": 312.09,
+        "duration": 1.9
+    },
+    {
+        "text": "and actually, to the note\nof that seven-question quiz,",
+        "start": 313.99,
+        "duration": 2.33
+    },
+    {
+        "text": "I'm the exact opposite of a wine expert,",
+        "start": 316.32,
+        "duration": 1.75
+    },
+    {
+        "text": "I normally just drink red wines,",
+        "start": 318.07,
+        "duration": 1.56
+    },
+    {
+        "text": "but after them curating something for me,",
+        "start": 319.63,
+        "duration": 2.11
+    },
+    {
+        "text": "I realized, \"Oh wow, I\nactually love roses,\"",
+        "start": 321.74,
+        "duration": 2.1
+    },
+    {
+        "text": "there are a bunch of whites\nthat are really good.",
+        "start": 323.84,
+        "duration": 1.75
+    },
+    {
+        "text": "So in addition to it just\nbeing incredibly convenient,",
+        "start": 325.59,
+        "duration": 1.64
+    },
+    {
+        "text": "it's actually somewhat of an experience.",
+        "start": 327.23,
+        "duration": 1.98
+    },
+    {
+        "text": "And, saving the best for last, right now,",
+        "start": 329.21,
+        "duration": 1.96
+    },
+    {
+        "text": "Bright Cellar is offering\nyou beautiful bastards",
+        "start": 331.17,
+        "duration": 1.75
+    },
+    {
+        "text": "50% off your first six-bottle box.",
+        "start": 332.92,
+        "duration": 2.05
+    },
+    {
+        "text": "Just click on that link down below,",
+        "start": 334.97,
+        "duration": 1.32
+    },
+    {
+        "text": "take the quiz, and get started today.",
+        "start": 336.29,
+        "duration": 1.637
+    },
+    {
+        "text": "And the first bit of awesome today",
+        "start": 337.927,
+        "duration": 1.403
+    },
+    {
+        "text": "is to provide you with a little update.",
+        "start": 339.33,
+        "duration": 1.28
+    },
+    {
+        "text": "If you do not follow me on Twitter,",
+        "start": 340.61,
+        "duration": 1.21
+    },
+    {
+        "text": "I am 10 episodes into experiencing",
+        "start": 341.82,
+        "duration": 2.147
+    },
+    {
+        "text": "\"Avatar: The Last Airbender\"\nfor the first time,",
+        "start": 343.967,
+        "duration": 2.083
+    },
+    {
+        "text": "just met Jet, that son of a bitch,",
+        "start": 346.05,
+        "duration": 1.88
+    },
+    {
+        "text": "so if you want to keep\nup with that journey,",
+        "start": 347.93,
+        "duration": 1.09
+    },
+    {
+        "text": "I'll link down below.",
+        "start": 349.02,
+        "duration": 0.833
+    },
+    {
+        "text": "My Twitter is also twitter.com/phillyd.",
+        "start": 349.853,
+        "duration": 1.637
+    },
+    {
+        "text": "Also, when we get to the last\ntwo episodes of season one,",
+        "start": 351.49,
+        "duration": 2.08
+    },
+    {
+        "text": "I might want to stream it.",
+        "start": 353.57,
+        "duration": 1.59
+    },
+    {
+        "text": "I also gotta see what I can\ndo, legally, so just yeah,",
+        "start": 355.16,
+        "duration": 2.24
+    },
+    {
+        "text": "keep your ears open.",
+        "start": 357.4,
+        "duration": 1.43
+    },
+    {
+        "text": "But also, thank you to\neveryone that recommended it,",
+        "start": 358.83,
+        "duration": 1.7
+    },
+    {
+        "text": "I am loving it so far.",
+        "start": 360.53,
+        "duration": 0.89
+    },
+    {
+        "text": "Then we had Rosa and\nMarlene switching places",
+        "start": 361.42,
+        "duration": 2.47
+    },
+    {
+        "text": "and recreating their best videos.",
+        "start": 363.89,
+        "duration": 1.37
+    },
+    {
+        "text": "The fantastic Swoozie gave us",
+        "start": 365.26,
+        "duration": 1.337
+    },
+    {
+        "text": "\"What a Toxic Friend Looks Like,\"",
+        "start": 366.597,
+        "duration": 1.553
+    },
+    {
+        "text": "Domics gave us a very\nspecial \"Sober Convos Five,\"",
+        "start": 368.15,
+        "duration": 2.69
+    },
+    {
+        "text": "GQ gave us \"10 Things\nKehlani Can't Live Without,\"",
+        "start": 370.84,
+        "duration": 2.48
+    },
+    {
+        "text": "you got Kevin Bacon answering",
+        "start": 373.32,
+        "duration": 1.03
+    },
+    {
+        "text": "the web's most searched questions,",
+        "start": 374.35,
+        "duration": 1.29
+    },
+    {
+        "text": "and if you want to see the full version",
+        "start": 375.64,
+        "duration": 1.02
+    },
+    {
+        "text": "of everything I just shared,",
+        "start": 376.66,
+        "duration": 0.98
+    },
+    {
+        "text": "the secret link of the day,\nreally anything at all,",
+        "start": 377.64,
+        "duration": 2.6
+    },
+    {
+        "text": "links, as always are in\nthe description down below.",
+        "start": 380.24,
+        "duration": 1.88
+    },
+    {
+        "text": "And then, let's talk\nabout continued efforts",
+        "start": 382.12,
+        "duration": 2.19
+    },
+    {
+        "text": "to defund the police.",
+        "start": 384.31,
+        "duration": 1.47
+    },
+    {
+        "text": "Like we've talked about\nbefore, defunding the police",
+        "start": 385.78,
+        "duration": 1.84
+    },
+    {
+        "text": "has become one of the main\ndemands and rallying cries",
+        "start": 387.62,
+        "duration": 2.18
+    },
+    {
+        "text": "of the nation-wide protests,",
+        "start": 389.8,
+        "duration": 0.833
+    },
+    {
+        "text": "and while it appears\nthat defunding the police",
+        "start": 390.633,
+        "duration": 1.997
+    },
+    {
+        "text": "means different things\nto different people,",
+        "start": 392.63,
+        "duration": 1.95
+    },
+    {
+        "text": "the general idea is cutting\nfunds from a police budget",
+        "start": 394.58,
+        "duration": 2.43
+    },
+    {
+        "text": "and reinvesting that\nmoney in the community.",
+        "start": 397.01,
+        "duration": 1.73
+    },
+    {
+        "text": "And the argument here is\nthat in most major cities,",
+        "start": 398.74,
+        "duration": 1.82
+    },
+    {
+        "text": "the police budget is the\nhighest single expenditure.",
+        "start": 400.56,
+        "duration": 2.45
+    },
+    {
+        "text": "So you have people saying, \"What happens",
+        "start": 403.01,
+        "duration": 1.087
+    },
+    {
+        "text": "\"if we take that money\nand we put into education,",
+        "start": 404.097,
+        "duration": 2.47
+    },
+    {
+        "text": "\"healthcare, homelessness,\nand social programs?\"",
+        "start": 406.567,
+        "duration": 2.093
+    },
+    {
+        "text": "And could that address underlying issues,",
+        "start": 408.66,
+        "duration": 1.95
+    },
+    {
+        "text": "make communities safer,\nreduce the need for policing,",
+        "start": 410.61,
+        "duration": 2.46
+    },
+    {
+        "text": "and have specific solutions\nfor specific problems",
+        "start": 413.07,
+        "duration": 2.97
+    },
+    {
+        "text": "rather than throwing the\npolice at everything?",
+        "start": 416.04,
+        "duration": 1.48
+    },
+    {
+        "text": "And as we've seen these protests",
+        "start": 417.52,
+        "duration": 1.19
+    },
+    {
+        "text": "and the movement\ncontinuing, we've also seen",
+        "start": 418.71,
+        "duration": 1.56
+    },
+    {
+        "text": "a number of cities actually\nstart to take action",
+        "start": 420.27,
+        "duration": 1.95
+    },
+    {
+        "text": "and cut their police budgets.",
+        "start": 422.22,
+        "duration": 1.14
+    },
+    {
+        "text": "Of course, like we've talked about before,",
+        "start": 423.36,
+        "duration": 1.02
+    },
+    {
+        "text": "the most significant\nexample is Minneapolis,",
+        "start": 424.38,
+        "duration": 1.86
+    },
+    {
+        "text": "there, about three weeks\nago, the council voted",
+        "start": 426.24,
+        "duration": 1.54
+    },
+    {
+        "text": "to dismantle the city's police department",
+        "start": 427.78,
+        "duration": 0.943
+    },
+    {
+        "text": "and create a new system for\npublic safety, but also,",
+        "start": 428.723,
+        "duration": 2.717
+    },
+    {
+        "text": "since then, we've seen\na number of other cities",
+        "start": 431.44,
+        "duration": 1.67
+    },
+    {
+        "text": "cutting their police\nbudgets, and in some cases,",
+        "start": 433.11,
+        "duration": 1.92
+    },
+    {
+        "text": "putting it into social programs.",
+        "start": 435.03,
+        "duration": 1.51
+    },
+    {
+        "text": "Earlier this month, Baltimore City Council",
+        "start": 436.54,
+        "duration": 1.52
+    },
+    {
+        "text": "voted to cut $22 million\nfrom the police budget,",
+        "start": 438.06,
+        "duration": 2.45
+    },
+    {
+        "text": "the City Council of Portland,\nOregon cutting $15 million",
+        "start": 440.51,
+        "duration": 2.76
+    },
+    {
+        "text": "from its police budget and\nputting $5 million of that",
+        "start": 443.27,
+        "duration": 2.43
+    },
+    {
+        "text": "into a new program that'll\nsend unarmed first responders",
+        "start": 445.7,
+        "duration": 2.43
+    },
+    {
+        "text": "to answer calls regarding homelessness,",
+        "start": 448.13,
+        "duration": 1.53
+    },
+    {
+        "text": "Philadelphia also canceling\na planned increase",
+        "start": 449.66,
+        "duration": 1.92
+    },
+    {
+        "text": "of $19 million for its police department",
+        "start": 451.58,
+        "duration": 2.1
+    },
+    {
+        "text": "and reallocating 14 million\nof that police budget",
+        "start": 453.68,
+        "duration": 2.28
+    },
+    {
+        "text": "to other programs, including\naffordable housing,",
+        "start": 455.96,
+        "duration": 1.82
+    },
+    {
+        "text": "and I mean, just when I\nwas recording this video,",
+        "start": 457.78,
+        "duration": 1.69
+    },
+    {
+        "text": "we also got the news that\nthe Los Angeles City Council",
+        "start": 459.47,
+        "duration": 2.12
+    },
+    {
+        "text": "voted to cut the LAPD\nbudget by $150 million,",
+        "start": 461.59,
+        "duration": 3.18
+    },
+    {
+        "text": "with some of that money\nreportedly set to go to programs",
+        "start": 464.77,
+        "duration": 1.9
+    },
+    {
+        "text": "for communities of color.",
+        "start": 466.67,
+        "duration": 1.11
+    },
+    {
+        "text": "You have many others currently\nplanning to cut budgets,",
+        "start": 467.78,
+        "duration": 2.35
+    },
+    {
+        "text": "but, with that said, a lot\nof eyes are understandably",
+        "start": 470.13,
+        "duration": 2.6
+    },
+    {
+        "text": "on New York right now,\nand the reason for that",
+        "start": 472.73,
+        "duration": 1.63
+    },
+    {
+        "text": "is the largest and most\nexpensive police force",
+        "start": 474.36,
+        "duration": 2.06
+    },
+    {
+        "text": "in the country is the NYPD,\nthe New York Police Department,",
+        "start": 476.42,
+        "duration": 3.08
+    },
+    {
+        "text": "which reportedly has a nearly\n$6 billion operating budget.",
+        "start": 479.5,
+        "duration": 3.29
+    },
+    {
+        "text": "And, with the city's July for\nits budget deadline looming,",
+        "start": 482.79,
+        "duration": 2.22
+    },
+    {
+        "text": "there has been increased\npressure for them to act.",
+        "start": 485.01,
+        "duration": 1.81
+    },
+    {
+        "text": "And so for the last week,\nhundreds of protestors",
+        "start": 486.82,
+        "duration": 2.06
+    },
+    {
+        "text": "have been occupying the\narea outside of City Hall",
+        "start": 488.88,
+        "duration": 2.02
+    },
+    {
+        "text": "with many camping out overnight to demand",
+        "start": 490.9,
+        "duration": 1.83
+    },
+    {
+        "text": "deeper cuts to the police budget.",
+        "start": 492.73,
+        "duration": 1.43
+    },
+    {
+        "text": "The protest, reportedly\nstarting last Tuesday",
+        "start": 494.16,
+        "duration": 1.88
+    },
+    {
+        "text": "with about 100 people,",
+        "start": 496.04,
+        "duration": 1.2
+    },
+    {
+        "text": "it has grown significantly since then,",
+        "start": 497.24,
+        "duration": 1.57
+    },
+    {
+        "text": "and while some activists\nhave reportedly said",
+        "start": 498.81,
+        "duration": 1.39
+    },
+    {
+        "text": "they will stay after the budget deadline,",
+        "start": 500.2,
+        "duration": 1.7
+    },
+    {
+        "text": "the general aim, according\nto the organizers",
+        "start": 501.9,
+        "duration": 1.48
+    },
+    {
+        "text": "who put these demonstrations together,",
+        "start": 503.38,
+        "duration": 1.41
+    },
+    {
+        "text": "was the get the City Council to",
+        "start": 504.79,
+        "duration": 1.17
+    },
+    {
+        "text": "cut the police budget by $1 billion.",
+        "start": 505.96,
+        "duration": 2.62
+    },
+    {
+        "text": "And what we ended up\nseeing is, late last night,",
+        "start": 508.58,
+        "duration": 2.05
+    },
+    {
+        "text": "the New York City Council\nagreeing to that demand,",
+        "start": 510.63,
+        "duration": 2.56
+    },
+    {
+        "text": "cutting $1 billion of\nthe police department's",
+        "start": 513.19,
+        "duration": 2.007
+    },
+    {
+        "text": "$6 billion operating budget\nand moving some of those funds",
+        "start": 515.197,
+        "duration": 2.893
+    },
+    {
+        "text": "to education and social services.",
+        "start": 518.09,
+        "duration": 1.6
+    },
+    {
+        "text": "This including $115 million in\nyouth and community programs,",
+        "start": 519.69,
+        "duration": 3.087
+    },
+    {
+        "text": "$116 million in investments in education,",
+        "start": 522.777,
+        "duration": 3.093
+    },
+    {
+        "text": "and $39 million in health\nservices for school children,",
+        "start": 525.87,
+        "duration": 2.67
+    },
+    {
+        "text": "among other things.",
+        "start": 528.54,
+        "duration": 0.87
+    },
+    {
+        "text": "And while that might sound\nlike they gave the protestors",
+        "start": 529.41,
+        "duration": 2.15
+    },
+    {
+        "text": "and others calling for\nthe police budget cuts",
+        "start": 531.56,
+        "duration": 1.65
+    },
+    {
+        "text": "exactly what they wanted,",
+        "start": 533.21,
+        "duration": 1.27
+    },
+    {
+        "text": "that doesn't appear to be the case,",
+        "start": 534.48,
+        "duration": 1.39
+    },
+    {
+        "text": "and I say that because when\nyou actually look at the cuts,",
+        "start": 535.87,
+        "duration": 2.28
+    },
+    {
+        "text": "it's not actually $1 billion.",
+        "start": 538.15,
+        "duration": 2.02
+    },
+    {
+        "text": "I mean, you even had Mayor\nBill De Blasio himself",
+        "start": 540.17,
+        "duration": 2.0
+    },
+    {
+        "text": "saying in a press release\nthat it was only $430 million",
+        "start": 542.17,
+        "duration": 2.68
+    },
+    {
+        "text": "that actually is going to be cut",
+        "start": 544.85,
+        "duration": 1.17
+    },
+    {
+        "text": "from the department's budget,\nwith another $537 million",
+        "start": 546.02,
+        "duration": 2.88
+    },
+    {
+        "text": "being shifted to other departments.",
+        "start": 548.9,
+        "duration": 1.5
+    },
+    {
+        "text": "Now, notably, the City\nCouncil's press release",
+        "start": 550.4,
+        "duration": 1.86
+    },
+    {
+        "text": "on the budget gave some different numbers,",
+        "start": 552.26,
+        "duration": 1.55
+    },
+    {
+        "text": "saying it was actually\n$484 million in cuts",
+        "start": 553.81,
+        "duration": 2.8
+    },
+    {
+        "text": "and $646 million in\nshifts to other agencies,",
+        "start": 556.61,
+        "duration": 3.15
+    },
+    {
+        "text": "but regardless of which of these numbers",
+        "start": 559.76,
+        "duration": 1.6
+    },
+    {
+        "text": "is actually correct, it still means that",
+        "start": 561.36,
+        "duration": 1.65
+    },
+    {
+        "text": "less than half of these\nso-called cuts are actually cuts.",
+        "start": 563.01,
+        "duration": 2.147
+    },
+    {
+        "text": "And even then, there's a\nlot left up in the air,",
+        "start": 565.157,
+        "duration": 2.323
+    },
+    {
+        "text": "somewhat questionable.",
+        "start": 567.48,
+        "duration": 0.93
+    },
+    {
+        "text": "For example, the biggest single cut",
+        "start": 568.41,
+        "duration": 1.14
+    },
+    {
+        "text": "is more than $350 million in overtime pay,",
+        "start": 569.55,
+        "duration": 2.67
+    },
+    {
+        "text": "but De Blasio said that\nthose proposed cuts",
+        "start": 572.22,
+        "duration": 1.95
+    },
+    {
+        "text": "to police overtime might not be possible",
+        "start": 574.17,
+        "duration": 1.87
+    },
+    {
+        "text": "if protests and other things that require",
+        "start": 576.04,
+        "duration": 1.63
+    },
+    {
+        "text": "a lot of police happen.",
+        "start": 577.67,
+        "duration": 0.94
+    },
+    {
+        "text": "And for some context here, reportedly,",
+        "start": 578.61,
+        "duration": 1.41
+    },
+    {
+        "text": "just since George Floyd's\ndeath on May 25th,",
+        "start": 580.02,
+        "duration": 2.26
+    },
+    {
+        "text": "the NYPD has paid out over\n$115 million in overtime.",
+        "start": 582.28,
+        "duration": 3.65
+    },
+    {
+        "text": "So that's basically\n$115 million in a month,",
+        "start": 585.93,
+        "duration": 2.99
+    },
+    {
+        "text": "which also makes up nearly\na third of the proposed cuts",
+        "start": 588.92,
+        "duration": 2.41
+    },
+    {
+        "text": "for the full year.",
+        "start": 591.33,
+        "duration": 0.833
+    },
+    {
+        "text": "When you dig into the\nfunding that's being shifted",
+        "start": 592.163,
+        "duration": 1.447
+    },
+    {
+        "text": "to other departments, there\nare also some major holes.",
+        "start": 593.61,
+        "duration": 1.88
+    },
+    {
+        "text": "For example, nearly $400 million of funds",
+        "start": 595.49,
+        "duration": 1.93
+    },
+    {
+        "text": "they say they are shifting will be moved",
+        "start": 597.42,
+        "duration": 1.72
+    },
+    {
+        "text": "to school safety officers\nto be under the purview",
+        "start": 599.14,
+        "duration": 1.92
+    },
+    {
+        "text": "of the Department of Education,",
+        "start": 601.06,
+        "duration": 1.15
+    },
+    {
+        "text": "but according to the city's\nIndependent Budget Office,",
+        "start": 602.21,
+        "duration": 2.4
+    },
+    {
+        "text": "the Education Department\nalready funds that program",
+        "start": 604.61,
+        "duration": 2.24
+    },
+    {
+        "text": "and gives the Police Department",
+        "start": 606.85,
+        "duration": 0.867
+    },
+    {
+        "text": "$300 million a year to operate.",
+        "start": 607.717,
+        "duration": 2.113
+    },
+    {
+        "text": "Which seems to mean that one\nof the biggest shifts of money",
+        "start": 609.83,
+        "duration": 2.98
+    },
+    {
+        "text": "is not a shift at all, it just means",
+        "start": 612.81,
+        "duration": 1.25
+    },
+    {
+        "text": "that the Education\nDepartment will now operate",
+        "start": 614.06,
+        "duration": 1.7
+    },
+    {
+        "text": "a program it was already funding.",
+        "start": 615.76,
+        "duration": 1.54
+    },
+    {
+        "text": "So with this whole story,",
+        "start": 617.3,
+        "duration": 1.22
+    },
+    {
+        "text": "we've seen a lot of angry responses.",
+        "start": 618.52,
+        "duration": 1.68
+    },
+    {
+        "text": "You got a lot of people\nsaying the city is just",
+        "start": 620.2,
+        "duration": 1.45
+    },
+    {
+        "text": "shifting money around without making any",
+        "start": 621.65,
+        "duration": 1.69
+    },
+    {
+        "text": "substantive cuts to the police budget,",
+        "start": 623.34,
+        "duration": 1.82
+    },
+    {
+        "text": "this including the likes of\nAlexandria Ocasio-Cortez,",
+        "start": 625.16,
+        "duration": 2.4
+    },
+    {
+        "text": "who said in a statement,",
+        "start": 627.56,
+        "duration": 0.833
+    },
+    {
+        "text": "\"Defunding police means defunding police.",
+        "start": 628.393,
+        "duration": 2.054
+    },
+    {
+        "text": "\"It does not mean budget\ntricks or funny math.",
+        "start": 630.447,
+        "duration": 1.88
+    },
+    {
+        "text": "\"It does not mean moving\nschool police officers",
+        "start": 632.327,
+        "duration": 1.83
+    },
+    {
+        "text": "\"from the NYPD budget to the",
+        "start": 634.157,
+        "duration": 1.323
+    },
+    {
+        "text": "Department of Education's budget",
+        "start": 635.48,
+        "duration": 1.267
+    },
+    {
+        "text": "\"so the exact same\npolice remain in schools.",
+        "start": 636.747,
+        "duration": 1.83
+    },
+    {
+        "text": "\"It does not mean counting\novertime cuts as cuts,",
+        "start": 638.577,
+        "duration": 2.18
+    },
+    {
+        "text": "\"even as the NYPD ignores every attempt",
+        "start": 640.757,
+        "duration": 1.88
+    },
+    {
+        "text": "\"by City Council to curb overtime spending",
+        "start": 642.637,
+        "duration": 2.09
+    },
+    {
+        "text": "\"and overspends on overtime anyways,\"",
+        "start": 644.727,
+        "duration": 1.813
+    },
+    {
+        "text": "and adding, \"These proposed\n'cuts' to the NYPD budget",
+        "start": 646.54,
+        "duration": 2.297
+    },
+    {
+        "text": "\"are a disingenuous illusion.",
+        "start": 648.837,
+        "duration": 1.54
+    },
+    {
+        "text": "\"This is not a victory.",
+        "start": 650.377,
+        "duration": 0.95
+    },
+    {
+        "text": "\"The fight to defund policing continues.\"",
+        "start": 651.327,
+        "duration": 2.203
+    },
+    {
+        "text": "A number of protest leaders and organizers",
+        "start": 653.53,
+        "duration": 1.62
+    },
+    {
+        "text": "also echoing that sentiment,",
+        "start": 655.15,
+        "duration": 1.17
+    },
+    {
+        "text": "saying that it wasn't what they asked for,",
+        "start": 656.32,
+        "duration": 1.56
+    },
+    {
+        "text": "with one of the directing organizers",
+        "start": 657.88,
+        "duration": 1.17
+    },
+    {
+        "text": "of the Occupy City Hall\nprotests telling reporters,",
+        "start": 659.05,
+        "duration": 2.097
+    },
+    {
+        "text": "\"We are being gaslit.",
+        "start": 661.147,
+        "duration": 0.97
+    },
+    {
+        "text": "\"This movement is about so\nmuch more than the $1 billion,",
+        "start": 662.117,
+        "duration": 2.34
+    },
+    {
+        "text": "\"and this means they don't\nunderstand what we're saying.\"",
+        "start": 664.457,
+        "duration": 2.383
+    },
+    {
+        "text": "You even had numerous City Council members",
+        "start": 666.84,
+        "duration": 1.63
+    },
+    {
+        "text": "also voicing their dislike of the plan.",
+        "start": 668.47,
+        "duration": 1.7
+    },
+    {
+        "text": "This including council\nspeaker Corey Johnson,",
+        "start": 670.17,
+        "duration": 1.65
+    },
+    {
+        "text": "who helped lead the process\nin drafting the proposals,",
+        "start": 671.82,
+        "duration": 2.11
+    },
+    {
+        "text": "saying, \"To everyone who is disappointed,",
+        "start": 673.93,
+        "duration": 1.557
+    },
+    {
+        "text": "\"and I know that there\nare many, many people",
+        "start": 675.487,
+        "duration": 1.53
+    },
+    {
+        "text": "\"who are disappointed that\nwe could not go further,",
+        "start": 677.017,
+        "duration": 2.15
+    },
+    {
+        "text": "\"I am disappointed as well.",
+        "start": 679.167,
+        "duration": 1.2
+    },
+    {
+        "text": "\"I wanted us to go deeper,\"",
+        "start": 680.367,
+        "duration": 1.373
+    },
+    {
+        "text": "with him also shifting\nblame to De Blasio, adding,",
+        "start": 681.74,
+        "duration": 2.537
+    },
+    {
+        "text": "\"This is a budget process\nthat involves the mayor",
+        "start": 684.277,
+        "duration": 1.94
+    },
+    {
+        "text": "\"who would not budge on these items.\"",
+        "start": 686.217,
+        "duration": 1.633
+    },
+    {
+        "text": "And in a tweet, he also\nnoted that he and De Blasio",
+        "start": 687.85,
+        "duration": 2.02
+    },
+    {
+        "text": "started the budget process far apart",
+        "start": 689.87,
+        "duration": 1.65
+    },
+    {
+        "text": "on how they wanted to\nchange the police budget",
+        "start": 691.52,
+        "duration": 1.67
+    },
+    {
+        "text": "and the department, but adding,",
+        "start": 693.19,
+        "duration": 1.027
+    },
+    {
+        "text": "\"The Council fought hard\nto get where we are,",
+        "start": 694.217,
+        "duration": 1.77
+    },
+    {
+        "text": "\"but I know this is just a starting point,",
+        "start": 695.987,
+        "duration": 1.95
+    },
+    {
+        "text": "\"not an ending point.",
+        "start": 697.937,
+        "duration": 0.93
+    },
+    {
+        "text": "\"We need to go farther.\"",
+        "start": 698.867,
+        "duration": 1.373
+    },
+    {
+        "text": "But also, it is important to know",
+        "start": 700.24,
+        "duration": 1.19
+    },
+    {
+        "text": "that at the same time,\nthere were also plenty of",
+        "start": 701.43,
+        "duration": 1.62
+    },
+    {
+        "text": "council members that opposed the cuts",
+        "start": 703.05,
+        "duration": 1.38
+    },
+    {
+        "text": "because they didn't want any cuts at all.",
+        "start": 704.43,
+        "duration": 0.927
+    },
+    {
+        "text": "People like councilman Joseph Borelli,",
+        "start": 705.357,
+        "duration": 2.003
+    },
+    {
+        "text": "who argued that reducing the NYPD's funds",
+        "start": 707.36,
+        "duration": 1.88
+    },
+    {
+        "text": "would make the city unsafe,",
+        "start": 709.24,
+        "duration": 1.13
+    },
+    {
+        "text": "saying, \"We know what we're doing",
+        "start": 710.37,
+        "duration": 0.937
+    },
+    {
+        "text": "\"and we know that what\nwe're doing will create",
+        "start": 711.307,
+        "duration": 1.72
+    },
+    {
+        "text": "\"a more violent city, and\nyet we're doing it anyway.\"",
+        "start": 713.027,
+        "duration": 2.443
+    },
+    {
+        "text": "But, ultimately, that is where\nwe are with this right now.",
+        "start": 715.47,
+        "duration": 1.8
+    },
+    {
+        "text": "It is gonna be interesting\nto see what happens,",
+        "start": 717.27,
+        "duration": 1.103
+    },
+    {
+        "text": "and I mean that both in\nNew York and other cities",
+        "start": 718.373,
+        "duration": 2.277
+    },
+    {
+        "text": "nation-wide where we're\nseeing the movement,",
+        "start": 720.65,
+        "duration": 1.9
+    },
+    {
+        "text": "we're seeing some changes,",
+        "start": 722.55,
+        "duration": 1.14
+    },
+    {
+        "text": "especially because, as of right now,",
+        "start": 723.69,
+        "duration": 1.2
+    },
+    {
+        "text": "this movement is continuing and is showing",
+        "start": 724.89,
+        "duration": 1.67
+    },
+    {
+        "text": "no signs of stopping.",
+        "start": 726.56,
+        "duration": 0.99
+    },
+    {
+        "text": "But, with that said, I do\nwant to pass the question",
+        "start": 727.55,
+        "duration": 2.01
+    },
+    {
+        "text": "off to you, what are\nyour thoughts about this?",
+        "start": 729.56,
+        "duration": 1.66
+    },
+    {
+        "text": "Whether it be around the idea of defunding",
+        "start": 731.22,
+        "duration": 2.03
+    },
+    {
+        "text": "or taking some money from\nthe Police Department",
+        "start": 733.25,
+        "duration": 2.22
+    },
+    {
+        "text": "and putting it in other programs,",
+        "start": 735.47,
+        "duration": 1.13
+    },
+    {
+        "text": "and also, specifically, what\nwe're seeing in New York,",
+        "start": 736.6,
+        "duration": 1.85
+    },
+    {
+        "text": "especially, I would love\nto know your thoughts",
+        "start": 738.45,
+        "duration": 1.36
+    },
+    {
+        "text": "if you live in New York.",
+        "start": 739.81,
+        "duration": 1.35
+    },
+    {
+        "text": "And then, let's talk about Hong\nKong's national security law",
+        "start": 741.16,
+        "duration": 2.65
+    },
+    {
+        "text": "and the updates that we're seeing there.",
+        "start": 743.81,
+        "duration": 1.42
+    },
+    {
+        "text": "We covered part of this\nlaw yesterday, but one,",
+        "start": 745.23,
+        "duration": 2.13
+    },
+    {
+        "text": "we're now actually seeing\nit in practice, and two,",
+        "start": 747.36,
+        "duration": 2.28
+    },
+    {
+        "text": "the full text of the law\nhas finally been released,",
+        "start": 749.64,
+        "duration": 2.6
+    },
+    {
+        "text": "and it is absolutely insane.",
+        "start": 752.24,
+        "duration": 1.96
+    },
+    {
+        "text": "If you're unfamiliar, last month,",
+        "start": 754.2,
+        "duration": 1.35
+    },
+    {
+        "text": "China proposed a new national security law",
+        "start": 755.55,
+        "duration": 1.82
+    },
+    {
+        "text": "against Hong Kong, this\nmainly to crack down",
+        "start": 757.37,
+        "duration": 2.13
+    },
+    {
+        "text": "on the 15 months of protests\nthat have rocked the city,",
+        "start": 759.5,
+        "duration": 2.11
+    },
+    {
+        "text": "and the crazy thing was, as\nthis was being pushed through",
+        "start": 761.61,
+        "duration": 2.2
+    },
+    {
+        "text": "by Beijing loyalists, we\nonly knew some of the details",
+        "start": 763.81,
+        "duration": 2.76
+    },
+    {
+        "text": "because China wouldn't\nactually reveal the full text.",
+        "start": 766.57,
+        "duration": 2.17
+    },
+    {
+        "text": "And what's even crazier is that law passed",
+        "start": 768.74,
+        "duration": 1.93
+    },
+    {
+        "text": "and no one really knew\nwhat was actually in it",
+        "start": 770.67,
+        "duration": 2.16
+    },
+    {
+        "text": "until yesterday.",
+        "start": 772.83,
+        "duration": 1.48
+    },
+    {
+        "text": "So we're gonna try and walk through this.",
+        "start": 774.31,
+        "duration": 1.85
+    },
+    {
+        "text": "You have four big offenses,",
+        "start": 776.16,
+        "duration": 1.26
+    },
+    {
+        "text": "you have secession, subversion,",
+        "start": 777.42,
+        "duration": 1.5
+    },
+    {
+        "text": "terrorism, and foreign activities.",
+        "start": 778.92,
+        "duration": 1.58
+    },
+    {
+        "text": "And the text here regarding these laws,",
+        "start": 780.5,
+        "duration": 1.41
+    },
+    {
+        "text": "they're super-defined, they're clear,",
+        "start": 781.91,
+        "duration": 1.75
+    },
+    {
+        "text": "everything is meticulously laid out,",
+        "start": 783.66,
+        "duration": 1.81
+    },
+    {
+        "text": "and I'm lying, not it isn't.",
+        "start": 785.47,
+        "duration": 1.19
+    },
+    {
+        "text": "It is vague as hell\nbecause that is what you do",
+        "start": 786.66,
+        "duration": 1.89
+    },
+    {
+        "text": "when you're the Chinese Communist Party",
+        "start": 788.55,
+        "duration": 1.74
+    },
+    {
+        "text": "and you wanna crack down on freedoms.",
+        "start": 790.29,
+        "duration": 1.74
+    },
+    {
+        "text": "And, as the New York Times points out,",
+        "start": 792.03,
+        "duration": 1.67
+    },
+    {
+        "text": "the four major offenses in\nthe law are ambiguously worded",
+        "start": 793.7,
+        "duration": 2.62
+    },
+    {
+        "text": "and give the authorities\nextensive power to target",
+        "start": 796.32,
+        "duration": 2.05
+    },
+    {
+        "text": "activists who criticize the\nChinese Communist Party.",
+        "start": 798.37,
+        "duration": 2.46
+    },
+    {
+        "text": "For example, we talked about\nthis briefly yesterday,",
+        "start": 800.83,
+        "duration": 1.79
+    },
+    {
+        "text": "but collusion with foreign\nforces is partially defined as",
+        "start": 802.62,
+        "duration": 2.72
+    },
+    {
+        "text": "working with foreign governments\nto enact laws and policies",
+        "start": 805.34,
+        "duration": 2.9
+    },
+    {
+        "text": "that can cause serious obstruction",
+        "start": 808.24,
+        "duration": 1.37
+    },
+    {
+        "text": "or serious consequences\nto Hong Kong or China.",
+        "start": 809.61,
+        "duration": 2.62
+    },
+    {
+        "text": "So, notably, it does not clearly spell out",
+        "start": 812.23,
+        "duration": 1.85
+    },
+    {
+        "text": "what constitutes serious\nobstruction or consequences.",
+        "start": 814.08,
+        "duration": 2.69
+    },
+    {
+        "text": "So that's why you have\na lot of people worried",
+        "start": 816.77,
+        "duration": 1.64
+    },
+    {
+        "text": "that this definition is\nmeant to target lobbyists",
+        "start": 818.41,
+        "duration": 1.95
+    },
+    {
+        "text": "asking foreign governments\nto impose sanctions.",
+        "start": 820.36,
+        "duration": 2.01
+    },
+    {
+        "text": "Let's say you get charged with a crime,",
+        "start": 822.37,
+        "duration": 1.58
+    },
+    {
+        "text": "according to the Hong Kong Free Press,",
+        "start": 823.95,
+        "duration": 1.83
+    },
+    {
+        "text": "serious cases will\ngenerally attract penalties",
+        "start": 825.78,
+        "duration": 2.22
+    },
+    {
+        "text": "of at least 10 years and\nup to life in prison.",
+        "start": 828.0,
+        "duration": 2.57
+    },
+    {
+        "text": "And remember, they get to\ndecide what is serious or not.",
+        "start": 830.57,
+        "duration": 2.88
+    },
+    {
+        "text": "Also, related to being charged,\none article in this law",
+        "start": 833.45,
+        "duration": 2.45
+    },
+    {
+        "text": "explicitly states that it\noverrides local Hong Kong law",
+        "start": 835.9,
+        "duration": 2.96
+    },
+    {
+        "text": "if there are inconsistencies.",
+        "start": 838.86,
+        "duration": 1.33
+    },
+    {
+        "text": "For example, another article in this law",
+        "start": 840.19,
+        "duration": 1.61
+    },
+    {
+        "text": "states that bail will not be\ngranted to suspects, quote,",
+        "start": 841.8,
+        "duration": 2.507
+    },
+    {
+        "text": "\"unless the judge has\nconvincing reasons to believe",
+        "start": 844.307,
+        "duration": 1.98
+    },
+    {
+        "text": "\"he or she will not continue acts",
+        "start": 846.287,
+        "duration": 1.75
+    },
+    {
+        "text": "\"that endanger national security.\"",
+        "start": 848.037,
+        "duration": 1.423
+    },
+    {
+        "text": "However, that is at odds with Hong Kong's",
+        "start": 849.46,
+        "duration": 1.93
+    },
+    {
+        "text": "Criminal Procedure Ordinance,\nwhich presumes innocence",
+        "start": 851.39,
+        "duration": 2.33
+    },
+    {
+        "text": "and leans in favor of granting bail.",
+        "start": 853.72,
+        "duration": 1.57
+    },
+    {
+        "text": "While this national security law also says",
+        "start": 855.29,
+        "duration": 1.76
+    },
+    {
+        "text": "that it presumes innocence,\nit doesn't really explain",
+        "start": 857.05,
+        "duration": 2.14
+    },
+    {
+        "text": "what those protections\nare, and so many have fear",
+        "start": 859.19,
+        "duration": 1.9
+    },
+    {
+        "text": "that this leaves an open\ndoor for China to impose",
+        "start": 861.09,
+        "duration": 1.97
+    },
+    {
+        "text": "some of the same harsh practices",
+        "start": 863.06,
+        "duration": 1.21
+    },
+    {
+        "text": "that are common on the mainland.",
+        "start": 864.27,
+        "duration": 1.09
+    },
+    {
+        "text": "For example, as one NYU\nLaw professor explained,",
+        "start": 865.36,
+        "duration": 2.087
+    },
+    {
+        "text": "\"As a national security\nsuspect, you can be locked up",
+        "start": 867.447,
+        "duration": 2.37
+    },
+    {
+        "text": "\"for as long as six months incommunicado,",
+        "start": 869.817,
+        "duration": 2.15
+    },
+    {
+        "text": "\"subject to torture, coerced confession,",
+        "start": 871.967,
+        "duration": 2.09
+    },
+    {
+        "text": "\"no access to counsel,\nor family, or friends,",
+        "start": 874.057,
+        "duration": 2.41
+    },
+    {
+        "text": "\"before the police decide",
+        "start": 876.467,
+        "duration": 1.48
+    },
+    {
+        "text": "\"whether to process you for a crime.\"",
+        "start": 877.947,
+        "duration": 1.453
+    },
+    {
+        "text": "We also need to talk about\nthe trials themselves",
+        "start": 879.4,
+        "duration": 1.66
+    },
+    {
+        "text": "because one article states\nthat trials may be closed",
+        "start": 881.06,
+        "duration": 2.51
+    },
+    {
+        "text": "to the public for reasons such\nas maintaining state secrets",
+        "start": 883.57,
+        "duration": 2.33
+    },
+    {
+        "text": "and public order, and whether\nor not a trial involves",
+        "start": 885.9,
+        "duration": 2.23
+    },
+    {
+        "text": "state secrets is actually\ndecided by the chief executive,",
+        "start": 888.13,
+        "duration": 2.56
+    },
+    {
+        "text": "AKA Beijing's favorite puppet.",
+        "start": 890.69,
+        "duration": 1.95
+    },
+    {
+        "text": "Also, with this whole situation,",
+        "start": 892.64,
+        "duration": 1.31
+    },
+    {
+        "text": "we're learning about the new\nNational Security Office.",
+        "start": 893.95,
+        "duration": 2.22
+    },
+    {
+        "text": "For example, it is not actually\nbound to Hong Kong's laws,",
+        "start": 896.17,
+        "duration": 2.76
+    },
+    {
+        "text": "and in fact, the Hong Kong\ngovernment is actually required",
+        "start": 898.93,
+        "duration": 2.74
+    },
+    {
+        "text": "to cooperate and prevent\nany obstruction of its work.",
+        "start": 901.67,
+        "duration": 2.81
+    },
+    {
+        "text": "And in addition to that office,",
+        "start": 904.48,
+        "duration": 1.22
+    },
+    {
+        "text": "a new National Security\nDepartment will be created",
+        "start": 905.7,
+        "duration": 1.95
+    },
+    {
+        "text": "within the Hong Kong police force,",
+        "start": 907.65,
+        "duration": 1.34
+    },
+    {
+        "text": "and there, it is required to\nkeep its operations secret.",
+        "start": 908.99,
+        "duration": 2.86
+    },
+    {
+        "text": "And maybe it's the \"all\nof human history\" talking,",
+        "start": 911.85,
+        "duration": 2.96
+    },
+    {
+        "text": "but it doesn't sound great\nthat you have secret police.",
+        "start": 914.81,
+        "duration": 3.19
+    },
+    {
+        "text": "Police who, reportedly,\nin that department,",
+        "start": 918.0,
+        "duration": 1.59
+    },
+    {
+        "text": "have a host of new powers, including,",
+        "start": 919.59,
+        "duration": 2.323
+    },
+    {
+        "text": "(inhales deeply)",
+        "start": 921.913,
+        "duration": 0.833
+    },
+    {
+        "text": "search powers, restricting\noverseas travel,",
+        "start": 922.746,
+        "duration": 1.834
+    },
+    {
+        "text": "freezing and confiscation of property,",
+        "start": 924.58,
+        "duration": 1.9
+    },
+    {
+        "text": "requiring service providers\nto delete information",
+        "start": 926.48,
+        "duration": 2.3
+    },
+    {
+        "text": "and provide assistance,",
+        "start": 928.78,
+        "duration": 1.23
+    },
+    {
+        "text": "requiring foreign political organizations",
+        "start": 930.01,
+        "duration": 1.71
+    },
+    {
+        "text": "to provide information,\nsecret surveillance",
+        "start": 931.72,
+        "duration": 2.19
+    },
+    {
+        "text": "and interception of telecommunications,",
+        "start": 933.91,
+        "duration": 1.45
+    },
+    {
+        "text": "and requiring people implicated in cases",
+        "start": 935.36,
+        "duration": 2.31
+    },
+    {
+        "text": "to answer questions or\nprovide information.",
+        "start": 937.67,
+        "duration": 2.0
+    },
+    {
+        "text": "Please understand, all of\nthis is very concerning.",
+        "start": 939.67,
+        "duration": 2.67
+    },
+    {
+        "text": "As that NYU Law professor pointed out,",
+        "start": 942.34,
+        "duration": 1.807
+    },
+    {
+        "text": "\"All in all, this is a\ntakeover of Hong Kong.\"",
+        "start": 944.147,
+        "duration": 2.563
+    },
+    {
+        "text": "But one of the most outrageous\narticles in this entire law",
+        "start": 946.71,
+        "duration": 2.74
+    },
+    {
+        "text": "is Article 38, which states\nthat non-Hong Kong residents",
+        "start": 949.45,
+        "duration": 3.12
+    },
+    {
+        "text": "can be prosecuted for their\nacts outside of Hong Kong.",
+        "start": 952.57,
+        "duration": 3.01
+    },
+    {
+        "text": "And really, I think the\nreaction that best summed up",
+        "start": 955.58,
+        "duration": 2.75
+    },
+    {
+        "text": "the situation came from an\nAxios reporter on Twitter,",
+        "start": 958.33,
+        "duration": 2.11
+    },
+    {
+        "text": "who said, \"Oh my God,\nam I reading this right?",
+        "start": 960.44,
+        "duration": 1.937
+    },
+    {
+        "text": "\"Did Beijing just grant itself\nsweeping extraterritoriality",
+        "start": 962.377,
+        "duration": 2.81
+    },
+    {
+        "text": "\"to everyone on the planet?\"",
+        "start": 965.187,
+        "duration": 1.473
+    },
+    {
+        "text": "And, I mean, just think of\nhow massive that could be,",
+        "start": 966.66,
+        "duration": 2.54
+    },
+    {
+        "text": "especially just for tourists.",
+        "start": 969.2,
+        "duration": 1.29
+    },
+    {
+        "text": "If you're on China's shit\nlist, you could be arrested",
+        "start": 970.49,
+        "duration": 1.94
+    },
+    {
+        "text": "just for arriving in Hong Kong.",
+        "start": 972.43,
+        "duration": 1.71
+    },
+    {
+        "text": "Not only does that potentially threaten",
+        "start": 974.14,
+        "duration": 1.33
+    },
+    {
+        "text": "independent journalism on\nthe ground in the city,",
+        "start": 975.47,
+        "duration": 2.28
+    },
+    {
+        "text": "think of if you were\noriginally from Hong Kong",
+        "start": 977.75,
+        "duration": 1.88
+    },
+    {
+        "text": "but now you're living outside China.",
+        "start": 979.63,
+        "duration": 1.31
+    },
+    {
+        "text": "You are now essentially\nforced to either one,",
+        "start": 980.94,
+        "duration": 1.99
+    },
+    {
+        "text": "keep advocating for basic human freedoms",
+        "start": 982.93,
+        "duration": 1.77
+    },
+    {
+        "text": "but never visit home again, or two,",
+        "start": 984.7,
+        "duration": 1.71
+    },
+    {
+        "text": "shut up and keep quiet\neven outside of China",
+        "start": 986.41,
+        "duration": 2.09
+    },
+    {
+        "text": "so you can potentially go back\nhome to visit your family.",
+        "start": 988.5,
+        "duration": 2.03
+    },
+    {
+        "text": "And like I said, part of the reason",
+        "start": 990.53,
+        "duration": 0.99
+    },
+    {
+        "text": "we're talking about this today",
+        "start": 991.52,
+        "duration": 0.93
+    },
+    {
+        "text": "is we're already seeing\nthis law implemented.",
+        "start": 992.45,
+        "duration": 2.07
+    },
+    {
+        "text": "We've now seen the Hong Kong police force",
+        "start": 994.52,
+        "duration": 1.67
+    },
+    {
+        "text": "using it to make arrests,\nwith the first happening",
+        "start": 996.19,
+        "duration": 1.93
+    },
+    {
+        "text": "after a man displayed a flag",
+        "start": 998.12,
+        "duration": 1.23
+    },
+    {
+        "text": "reading \"Hong Kong Independence.\"",
+        "start": 999.35,
+        "duration": 1.68
+    },
+    {
+        "text": "So, to be clear, this\nman's crime was literally",
+        "start": 1001.03,
+        "duration": 2.43
+    },
+    {
+        "text": "displaying a pro-democracy flag.",
+        "start": 1003.46,
+        "duration": 2.11
+    },
+    {
+        "text": "We got some more arrested\nafter a few thousand people",
+        "start": 1005.57,
+        "duration": 2.1
+    },
+    {
+        "text": "demonstrating in a major\ncommercial district",
+        "start": 1007.67,
+        "duration": 1.71
+    },
+    {
+        "text": "were forced off the streets by police,",
+        "start": 1009.38,
+        "duration": 1.54
+    },
+    {
+        "text": "and there, police reportedly\narrested nearly 400 people",
+        "start": 1010.92,
+        "duration": 2.12
+    },
+    {
+        "text": "including nine for offenses\nrelated to this new law.",
+        "start": 1013.04,
+        "duration": 2.55
+    },
+    {
+        "text": "One of those nine reportedly\nis a 15 year old girl",
+        "start": 1015.59,
+        "duration": 2.37
+    },
+    {
+        "text": "who was waving a \"Hong\nKong Independence\" flag,",
+        "start": 1017.96,
+        "duration": 2.08
+    },
+    {
+        "text": "which, once again, is absolutely insane.",
+        "start": 1020.04,
+        "duration": 2.63
+    },
+    {
+        "text": "Also, to switch gears for a second,",
+        "start": 1022.67,
+        "duration": 1.05
+    },
+    {
+        "text": "we've seen a number of\nresponses internationally,",
+        "start": 1023.72,
+        "duration": 2.02
+    },
+    {
+        "text": "this including Canada,\nwhich has now updated",
+        "start": 1025.74,
+        "duration": 1.51
+    },
+    {
+        "text": "its travel advisory warning to Hong Kong,",
+        "start": 1027.25,
+        "duration": 1.81
+    },
+    {
+        "text": "that advisory now reading, \"You\nmay be at an increased risk",
+        "start": 1029.06,
+        "duration": 2.257
+    },
+    {
+        "text": "\"of arbitrary detention on\nnational security grounds",
+        "start": 1031.317,
+        "duration": 2.25
+    },
+    {
+        "text": "\"and possible extradition\nto mainland China.\"",
+        "start": 1033.567,
+        "duration": 2.203
+    },
+    {
+        "text": "You saw British Prime\nMinister, Boris Johnson",
+        "start": 1035.77,
+        "duration": 1.87
+    },
+    {
+        "text": "pledging to introduce a new five-year visa",
+        "start": 1037.64,
+        "duration": 1.94
+    },
+    {
+        "text": "in his promise to provide refuge",
+        "start": 1039.58,
+        "duration": 1.29
+    },
+    {
+        "text": "for up to 3 million Hong Kong citizens,",
+        "start": 1040.87,
+        "duration": 1.86
+    },
+    {
+        "text": "and yesterday evening, we saw\nsecretary of state Mike Pompeo",
+        "start": 1042.73,
+        "duration": 2.43
+    },
+    {
+        "text": "threatening further action\nfrom the United States,",
+        "start": 1045.16,
+        "duration": 1.73
+    },
+    {
+        "text": "writing on Twitter, \"The CCP's draconian",
+        "start": 1046.89,
+        "duration": 1.597
+    },
+    {
+        "text": "\"national security law ends free Hong Kong",
+        "start": 1048.487,
+        "duration": 2.09
+    },
+    {
+        "text": "\"and exposes the party's greatest fear,",
+        "start": 1050.577,
+        "duration": 1.54
+    },
+    {
+        "text": "\"free will and free\nthinking of its own people,\"",
+        "start": 1052.117,
+        "duration": 2.173
+    },
+    {
+        "text": "and then adding in a statement,",
+        "start": 1054.29,
+        "duration": 1.127
+    },
+    {
+        "text": "\"The United States will not stand idly by",
+        "start": 1055.417,
+        "duration": 2.07
+    },
+    {
+        "text": "\"while China swallows Hong Kong\ninto its authoritarian maw.\"",
+        "start": 1057.487,
+        "duration": 2.963
+    },
+    {
+        "text": "But ultimately, that is\nwhere we are with this.",
+        "start": 1060.45,
+        "duration": 1.69
+    },
+    {
+        "text": "It's obviously something that\nwe're gonna keep our eyes on",
+        "start": 1062.14,
+        "duration": 2.34
+    },
+    {
+        "text": "because it is the Communist Party of China",
+        "start": 1064.48,
+        "duration": 2.45
+    },
+    {
+        "text": "stomping out democracy, stomping\nout individual liberties",
+        "start": 1066.93,
+        "duration": 3.18
+    },
+    {
+        "text": "with the lightest of smokescreens,",
+        "start": 1070.11,
+        "duration": 2.07
+    },
+    {
+        "text": "this is a very transparent move.",
+        "start": 1072.18,
+        "duration": 1.62
+    },
+    {
+        "text": "So I guess if there's a place\nthat I can end this story,",
+        "start": 1073.8,
+        "duration": 2.19
+    },
+    {
+        "text": "just a massive, giant\n\"fuck you\" to President Xi",
+        "start": 1075.99,
+        "duration": 3.17
+    },
+    {
+        "text": "and his band of goons.",
+        "start": 1079.16,
+        "duration": 1.17
+    },
+    {
+        "text": "You Winnie the Pooh looking motherfucker.",
+        "start": 1080.33,
+        "duration": 1.48
+    },
+    {
+        "text": "And that is where I'm\ngoing to end today's show.",
+        "start": 1081.81,
+        "duration": 1.67
+    },
+    {
+        "text": "As always, thank you for being\na part of these daily dives",
+        "start": 1083.48,
+        "duration": 2.33
+    },
+    {
+        "text": "into the news, it makes me\nfeel less alone in the chaos,",
+        "start": 1085.81,
+        "duration": 2.77
+    },
+    {
+        "text": "and also, more specifically,\nthank you for watching,",
+        "start": 1088.58,
+        "duration": 1.95
+    },
+    {
+        "text": "liking the video, sharing\nit with friends and family,",
+        "start": 1090.53,
+        "duration": 2.5
+    },
+    {
+        "text": "being a part of the conversation",
+        "start": 1093.03,
+        "duration": 1.21
+    },
+    {
+        "text": "in those comments down below.",
+        "start": 1094.24,
+        "duration": 1.17
+    },
+    {
+        "text": "Also, if you're new here\nand you liked today's show,",
+        "start": 1095.41,
+        "duration": 1.55
+    },
+    {
+        "text": "you want me to be your daily\nor weekly bringer of sadness,",
+        "start": 1096.96,
+        "duration": 3.14
+    },
+    {
+        "text": "hit that subscribe button\nand then tap that bell",
+        "start": 1100.1,
+        "duration": 1.83
+    },
+    {
+        "text": "so it looks like this so you get",
+        "start": 1101.93,
+        "duration": 1.01
+    },
+    {
+        "text": "all notifications when I post.",
+        "start": 1102.94,
+        "duration": 1.52
+    },
+    {
+        "text": "But, with that said, of course, as always,",
+        "start": 1104.46,
+        "duration": 1.56
+    },
+    {
+        "text": "my name's Philip DeFranco,\nyou've just been filled in,",
+        "start": 1106.02,
+        "duration": 2.6
+    },
+    {
+        "text": "I love yo' faces, and\nI'll see you tomorrow.",
+        "start": 1108.62,
+        "duration": 2.65
+    },
+    {
+        "text": "- I hope you like the video.",
+        "start": 1111.27,
+        "duration": 2.025
+    },
+    {
+        "text": "Subscribe if you like it.",
+        "start": 1113.295,
+        "duration": 2.025
+    }
+]

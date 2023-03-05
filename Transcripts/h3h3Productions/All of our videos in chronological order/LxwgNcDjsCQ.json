@@ -1,0 +1,487 @@
+[
+    {
+        "text": "[Liz] My name's Liz, how can I help?",
+        "start": 0.0,
+        "duration": 2.22
+    },
+    {
+        "text": "[Ethan] Hi, I appear -- my car is actually, uh...",
+        "start": 4.0,
+        "duration": 2.82
+    },
+    {
+        "text": "My car -- I took -- took a little tumble in my car.",
+        "start": 8.94,
+        "duration": 2.6
+    },
+    {
+        "text": "[Liz] Ok.",
+        "start": 13.88,
+        "duration": 0.52
+    },
+    {
+        "text": "Can I have your full name sir?",
+        "start": 15.26,
+        "duration": 1.78
+    },
+    {
+        "text": "[Ethan] I'm sorry?",
+        "start": 18.7,
+        "duration": 0.6
+    },
+    {
+        "text": "[Liz] Can I have your full name please, sir?",
+        "start": 19.62,
+        "duration": 2.38
+    },
+    {
+        "text": "[Ethan holding back laughter] Yes.",
+        "start": 24.56,
+        "duration": 0.5
+    },
+    {
+        "text": "It's, uh,",
+        "start": 26.44,
+        "duration": 0.52
+    },
+    {
+        "text": "BEEEEEEEAAAAANNNN!",
+        "start": 27.8,
+        "duration": 2.12
+    },
+    {
+        "text": "[Liz] Sorry sir?",
+        "start": 34.86,
+        "duration": 0.76
+    },
+    {
+        "text": "[Ethan] I took a bit of a tumble.",
+        "start": 37.12,
+        "duration": 1.76
+    },
+    {
+        "text": "[Liz] Yes, well can I have your full name, sir?",
+        "start": 39.22,
+        "duration": 1.94
+    },
+    {
+        "text": "Do you have a breakdown with your car?",
+        "start": 41.16,
+        "duration": 1.96
+    },
+    {
+        "text": "[Ethan] I'm trying...",
+        "start": 43.58,
+        "duration": 0.74
+    },
+    {
+        "text": "I'm tryyyyuuhhhh",
+        "start": 44.9,
+        "duration": 1.4
+    },
+    {
+        "text": "it's Ben.",
+        "start": 46.4,
+        "duration": 1.08
+    },
+    {
+        "text": "Ben.",
+        "start": 48.02,
+        "duration": 0.5
+    },
+    {
+        "text": "[Liz] Yeah, and your second name, sir?",
+        "start": 48.78,
+        "duration": 1.66
+    },
+    {
+        "text": "[Ethan] Beeeeeennnnnnnnnnnnnnnnnnnnnnn...",
+        "start": 51.2,
+        "duration": 4.64
+    },
+    {
+        "text": "Buh.",
+        "start": 56.6,
+        "duration": 0.66
+    },
+    {
+        "text": "Jeffery.",
+        "start": 59.4,
+        "duration": 0.96
+    },
+    {
+        "text": "[Liz] Ok.",
+        "start": 60.6,
+        "duration": 0.58
+    },
+    {
+        "text": "Ok, mister Jeffery, can I have the registration of the vehicle, please?",
+        "start": 62.08,
+        "duration": 3.04
+    },
+    {
+        "text": "[Ethan] Well, I can't see --",
+        "start": 66.2,
+        "duration": 1.2
+    },
+    {
+        "text": "I took a little tumble here.",
+        "start": 67.66,
+        "duration": 1.84
+    },
+    {
+        "text": "And I can't get --",
+        "start": 69.78,
+        "duration": 0.92
+    },
+    {
+        "text": "I can't get into the glove...",
+        "start": 70.78,
+        "duration": 1.68
+    },
+    {
+        "text": "box.",
+        "start": 73.2,
+        "duration": 0.52
+    },
+    {
+        "text": "Because of the tumble.",
+        "start": 74.16,
+        "duration": 1.48
+    },
+    {
+        "text": "[Liz] But you wouldn't need -- you wouldn't need to get into the glove box to give me the registration of your vehicle, sir.",
+        "start": 76.0,
+        "duration": 6.16
+    },
+    {
+        "text": "It's on the outside of the car.",
+        "start": 82.42,
+        "duration": 2.0
+    },
+    {
+        "text": "[Ethan] Oh, I see. Well that's also a bit of a problem because I'm actually --",
+        "start": 84.64,
+        "duration": 3.38
+    },
+    {
+        "text": "I'm a little bit above the ground,",
+        "start": 88.52,
+        "duration": 2.18
+    },
+    {
+        "text": "and I don't believe that my -- f -- that I can --",
+        "start": 90.7,
+        "duration": 2.42
+    },
+    {
+        "text": "m -- f --",
+        "start": 93.12,
+        "duration": 0.74
+    },
+    {
+        "text": "If I get out the car I probably won't be able to call you back, ever.",
+        "start": 93.86,
+        "duration": 3.12
+    },
+    {
+        "text": "Let's put it that way.",
+        "start": 97.36,
+        "duration": 0.92
+    },
+    {
+        "text": "[Liz] And how would that be, sir?",
+        "start": 99.08,
+        "duration": 1.48
+    },
+    {
+        "text": "[Ethan] Well, I'm in a tree.",
+        "start": 101.08,
+        "duration": 0.94
+    },
+    {
+        "text": "[Liz] You're in a tree, sir?",
+        "start": 104.2,
+        "duration": 1.14
+    },
+    {
+        "text": "And where is your car?",
+        "start": 105.52,
+        "duration": 1.42
+    },
+    {
+        "text": "[Ethan] Well, it's in the tree.",
+        "start": 107.84,
+        "duration": 1.12
+    },
+    {
+        "text": "I took a tumble.\n[Liz] Your car is in the tree?",
+        "start": 109.16,
+        "duration": 1.52
+    },
+    {
+        "text": "Okay!",
+        "start": 110.72,
+        "duration": 0.56
+    },
+    {
+        "text": "[Ethan] A bit of a tumble.",
+        "start": 111.68,
+        "duration": 0.96
+    },
+    {
+        "text": "Let me see if I can crawl back --",
+        "start": 112.86,
+        "duration": 1.42
+    },
+    {
+        "text": "Let me try to crawl -- I'm gonna crawl back and see if I can,",
+        "start": 114.28,
+        "duration": 2.76
+    },
+    {
+        "text": "take a look at the registration, hang on one sec.",
+        "start": 117.34,
+        "duration": 2.4
+    },
+    {
+        "text": "[Liz] That would be good sir, thank you.",
+        "start": 120.02,
+        "duration": 1.96
+    },
+    {
+        "text": "[Ethan screaming as if he fell]",
+        "start": 122.86,
+        "duration": 1.18
+    },
+    {
+        "text": "[Thump of Ethan hitting the ground]",
+        "start": 124.04,
+        "duration": 0.82
+    },
+    {
+        "text": "[Distorted noises]",
+        "start": 126.28,
+        "duration": 4.5
+    },
+    {
+        "text": "[Ethan yelling] Can you tell me what's my registration number?",
+        "start": 131.0,
+        "duration": 2.86
+    },
+    {
+        "text": "I can't see the back of the car!",
+        "start": 134.04,
+        "duration": 2.1
+    },
+    {
+        "text": "[\"Bystander\" of Ethan's incident] Sir?",
+        "start": 137.32,
+        "duration": 0.5
+    },
+    {
+        "text": "[Ethan] No, the registration number!",
+        "start": 138.18,
+        "duration": 2.06
+    },
+    {
+        "text": "[Bystander] Are you okay, sir?",
+        "start": 141.5,
+        "duration": 1.16
+    },
+    {
+        "text": "Sir?",
+        "start": 144.4,
+        "duration": 0.5
+    },
+    {
+        "text": "[Ethan] Yeahhh!",
+        "start": 145.26,
+        "duration": 0.88
+    },
+    {
+        "text": "I took a bit of a tumble!",
+        "start": 146.34,
+        "duration": 1.46
+    },
+    {
+        "text": "[Bystander] Do you want me to call an ambulance, sir?",
+        "start": 148.54,
+        "duration": 1.92
+    },
+    {
+        "text": "[Ethan] Well, I got the green piece on the phone, they're gonna help me.",
+        "start": 150.94,
+        "duration": 4.66
+    },
+    {
+        "text": "I think I'm ok, if you could just read the registration number on the back to me.",
+        "start": 155.8,
+        "duration": 4.08
+    },
+    {
+        "text": "[Bystander] What the fuck's happend here?",
+        "start": 160.68,
+        "duration": 1.58
+    },
+    {
+        "text": "[Ethan] I took a bit of a tumble!",
+        "start": 164.7,
+        "duration": 1.72
+    },
+    {
+        "text": "I tumbled uh--",
+        "start": 170.5,
+        "duration": 1.04
+    },
+    {
+        "text": "[Bystander] Damn, son!",
+        "start": 172.68,
+        "duration": 0.96
+    },
+    {
+        "text": "[Ethan] Could you read...",
+        "start": 174.08,
+        "duration": 0.7
+    },
+    {
+        "text": "the...",
+        "start": 175.22,
+        "duration": 0.5
+    },
+    {
+        "text": "Sir?!",
+        "start": 177.26,
+        "duration": 0.68
+    },
+    {
+        "text": "Hi, you still there? Hold on one sec...",
+        "start": 179.86,
+        "duration": 1.36
+    },
+    {
+        "text": "[Liz] Yes, I'm still here, sir.",
+        "start": 181.22,
+        "duration": 1.62
+    },
+    {
+        "text": "[Ethan] I think he's gonna read me the number.",
+        "start": 182.84,
+        "duration": 1.26
+    },
+    {
+        "text": "[Liz] Ok...",
+        "start": 184.48,
+        "duration": 0.7
+    },
+    {
+        "text": "[Ethan] I just bumped my head a little bit, so I'm a little...",
+        "start": 185.38,
+        "duration": 2.44
+    },
+    {
+        "text": "[Liz] Ok, I hope you're ok, sir.",
+        "start": 187.82,
+        "duration": 1.44
+    },
+    {
+        "text": "[Ethan] No, I think I'm ok, I just took a little bump.",
+        "start": 189.48,
+        "duration": 2.14
+    },
+    {
+        "text": "[Liz] I'm glad to hear that, sir.",
+        "start": 191.86,
+        "duration": 1.6
+    },
+    {
+        "text": "[Ethan] When I tumbled.",
+        "start": 193.46,
+        "duration": 0.52
+    },
+    {
+        "text": "Ok, here -- I think he's helping me.",
+        "start": 194.6,
+        "duration": 1.58
+    },
+    {
+        "text": "Uhhhh, yeah, read me the numbers, ok?",
+        "start": 196.5,
+        "duration": 2.8
+    },
+    {
+        "text": "[Bystander] Uh, this thing is smashed.",
+        "start": 199.48,
+        "duration": 1.84
+    },
+    {
+        "text": "[Ethan] Uhhh, can you make any of it out?",
+        "start": 202.18,
+        "duration": 2.46
+    },
+    {
+        "text": "[Bystander] Uh, not really.",
+        "start": 206.32,
+        "duration": 1.08
+    },
+    {
+        "text": "[Ethan] So it's \"h2\"",
+        "start": 209.58,
+        "duration": 1.8
+    },
+    {
+        "text": "[Liz] \"h2\"",
+        "start": 212.66,
+        "duration": 0.8
+    },
+    {
+        "text": "[Ethan] \"3\"",
+        "start": 214.16,
+        "duration": 0.5
+    },
+    {
+        "text": "[Liz] \"3\"",
+        "start": 215.04,
+        "duration": 0.5
+    },
+    {
+        "text": "[Ethan] Hey, can you see the fourth one down there?",
+        "start": 215.84,
+        "duration": 2.06
+    },
+    {
+        "text": "I took a tumble!",
+        "start": 219.28,
+        "duration": 1.18
+    },
+    {
+        "text": "\"7\"",
+        "start": 223.22,
+        "duration": 0.5
+    },
+    {
+        "text": "[Liz] 237...",
+        "start": 224.94,
+        "duration": 1.12
+    },
+    {
+        "text": "[Ethan] 69, blaze it.",
+        "start": 226.64,
+        "duration": 1.4
+    },
+    {
+        "text": "You just got BUUUUUUURNED!",
+        "start": 228.54,
+        "duration": 1.62
+    },
+    {
+        "text": "[Ethan and Bystander screaming and laughing]",
+        "start": 230.16,
+        "duration": 7.88
+    },
+    {
+        "text": "[laughter]",
+        "start": 238.04,
+        "duration": 2.82
+    }
+]

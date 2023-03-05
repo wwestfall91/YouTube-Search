@@ -1,0 +1,732 @@
+[
+    {
+        "text": "Sup you beautiful bastards hope you're having a fantastic Tuesday",
+        "start": 0.0,
+        "duration": 3.0
+    },
+    {
+        "text": "welcome back to the Philip DeFranco Show and lets just jump into it",
+        "start": 3.0,
+        "duration": 3.3
+    },
+    {
+        "text": "and the first thing I want to talk about today is net neutrality",
+        "start": 6.3,
+        "duration": 2.7
+    },
+    {
+        "text": "There were some yesterday asking why I didn't talk about this sto-",
+        "start": 9.0,
+        "duration": 1.9
+    },
+    {
+        "text": "well, there were a ton of people asking about why I didn't talk about a ton of stories",
+        "start": 10.9,
+        "duration": 3.56
+    },
+    {
+        "text": "and thats because I'm trying to still talk about new news while still catching up on things last week",
+        "start": 14.46,
+        "duration": 4.62
+    },
+    {
+        "text": "but, lets talk about John Oliver, the FCC, and net neutrality",
+        "start": 19.08,
+        "duration": 3.34
+    },
+    {
+        "text": "if you haven't heard about it yet, John Oliver, host of Last Week Tonight",
+        "start": 22.42,
+        "duration": 2.44
+    },
+    {
+        "text": "he dedicated a large portion of his show to talk about net neutrality and the FCC",
+        "start": 24.94,
+        "duration": 4.38
+    },
+    {
+        "text": "We've talked a lot in the past but for those in the back net neutrality is essentially a free and open and fair internet",
+        "start": 29.32,
+        "duration": 5.5
+    },
+    {
+        "text": "one that enables access to all without favouring or blocking",
+        "start": 34.82,
+        "duration": 3.0
+    },
+    {
+        "text": "its the reason you should be able to access YouTube just as fast as if you accessed one of their competitors",
+        "start": 37.82,
+        "duration": 4.74
+    },
+    {
+        "text": "without it you could technically have a Comcast deciding",
+        "start": 42.56,
+        "duration": 2.36
+    },
+    {
+        "text": "ah, you know what, YouTube doesn't want to foot the bill for the really expensive fast road",
+        "start": 44.92,
+        "duration": 4.4
+    },
+    {
+        "text": "our users can get to our business assosiates website way faster",
+        "start": 49.32,
+        "duration": 3.38
+    },
+    {
+        "text": "they're a video competitor YouTube and screw YouTube",
+        "start": 52.7,
+        "duration": 2.14
+    },
+    {
+        "text": "YouTube gets the slow road",
+        "start": 54.84,
+        "duration": 0.76
+    },
+    {
+        "text": "and thats were the FCC comes in because existing FCC rules ban ISP's from blocking or throttling content",
+        "start": 55.6,
+        "duration": 6.02
+    },
+    {
+        "text": "also in 2015 the FCC identified internet services as a common carrier",
+        "start": 61.62,
+        "duration": 3.86
+    },
+    {
+        "text": "as a regulatory designation known as Title 2",
+        "start": 65.48,
+        "duration": 2.48
+    },
+    {
+        "text": "which essentially means its a utility",
+        "start": 67.96,
+        "duration": 1.64
+    },
+    {
+        "text": "and many who support net neutrality point to this, to Title 2, as the way that the FCC can actually help net neutrality",
+        "start": 69.6,
+        "duration": 5.76
+    },
+    {
+        "text": "it allows the FCC to enforce a set of rules that the ISP's have to follow",
+        "start": 75.36,
+        "duration": 3.38
+    },
+    {
+        "text": "but now there's a new FCC chairman saying he wants to reverse the mistake of Title 2, reclassify it as a Title 1",
+        "start": 78.74,
+        "duration": 5.72
+    },
+    {
+        "text": "FCC chairman, Ajit Pai, saying",
+        "start": 84.46,
+        "duration": 1.14
+    },
+    {
+        "text": "\"The truth of the matter is that we decided to abandon successful policies solely because of the hypothetical harms and hysterical prophecies of doom\"",
+        "start": 85.6,
+        "duration": 6.08
+    },
+    {
+        "text": "and before I move forward, just so you know where I stand on this I believe that it should remain in Title 2, that it should remain as a utility",
+        "start": 91.68,
+        "duration": 6.82
+    },
+    {
+        "text": "we need a free and open internet and it boggles my mind that the FCC chairman could talk about future hypothetical harms",
+        "start": 98.62,
+        "duration": 7.56
+    },
+    {
+        "text": "when we're talking about the internet and connected to that, technology in general, which is advancing at a mind numbing rate these days",
+        "start": 106.18,
+        "duration": 5.4
+    },
+    {
+        "text": "you have to stay ahead of the curve and keep things fair and open",
+        "start": 111.58,
+        "duration": 2.62
+    },
+    {
+        "text": "a fair and open internet is not anti-business it is pro-business",
+        "start": 114.2,
+        "duration": 4.3
+    },
+    {
+        "text": "it follows that belief that I was fed growing up that as long as I busted my ass I could accomplish something and the internet allows that",
+        "start": 118.5,
+        "duration": 6.52
+    },
+    {
+        "text": "the internet allows a stupid shmuk like myself to bypass all of the hurtles that people have systematically put in place",
+        "start": 125.12,
+        "duration": 6.62
+    },
+    {
+        "text": "to make sure that they are still successful and others are not",
+        "start": 131.74,
+        "duration": 2.76
+    },
+    {
+        "text": "maybe Pai's plan works in a country where there are   countless options for ISP's but in places where usually you have 1 to 3 options max",
+        "start": 134.54,
+        "duration": 7.84
+    },
+    {
+        "text": "not standing by a free and open internet, one that is seen by the FCC as a utility is pro monopoly, its anti-business and its disgusting to me that this is even a possibility",
+        "start": 142.5,
+        "duration": 9.6
+    },
+    {
+        "text": "but thats my opinion, back to the story, Pai makes this proposal, the FCC is going to vote on it later this month and then John Oliver makes his video",
+        "start": 152.1,
+        "duration": 6.78
+    },
+    {
+        "text": "one that he ends by providing a link to a comment page on FCC.gov where you can tell the FCC that you want a strong net neutrality",
+        "start": 158.88,
+        "duration": 6.88
+    },
+    {
+        "text": "Now in the description down below, I'll provide a link to the page if you want the FCC to know your opinions that you want a strong net neutrality",
+        "start": 165.76,
+        "duration": 5.94
+    },
+    {
+        "text": "provide the actual link as well as the vanity URL that John Oliver purchased which was go FCC yourself",
+        "start": 171.7,
+        "duration": 5.6
+    },
+    {
+        "text": "it should be working now, it was slow, it was sometimes not working after John Oliver did his piece",
+        "start": 177.3,
+        "duration": 4.94
+    },
+    {
+        "text": "now one might assume that the reason the website was having problems was because John Oliver",
+        "start": 182.24,
+        "duration": 3.7
+    },
+    {
+        "text": "told his massive audience on his HBO show to go to  a single website",
+        "start": 185.94,
+        "duration": 3.54
+    },
+    {
+        "text": "that spiking traffic might have made the website not work properly",
+        "start": 189.48,
+        "duration": 2.9
+    },
+    {
+        "text": "but the FCC had a different story, releasing a statement that said,",
+        "start": 192.38,
+        "duration": 2.5
+    },
+    {
+        "text": "\"Beginning on Sunday night at midnight out analysis reveals that the FCC was subject to multiple disturbes denial-of-service attacks.",
+        "start": 194.88,
+        "duration": 6.16
+    },
+    {
+        "text": "\"These were deliberate attempts by externam actors to bombard the FCC's comment system with a high amount of traffic to our commercial cloud host.",
+        "start": 201.04,
+        "duration": 5.62
+    },
+    {
+        "text": "\"These actors were not attempting to file comments themselves; rather they made it difficult for legitimate commenters to access and file with the FCC.",
+        "start": 206.66,
+        "duration": 5.96
+    },
+    {
+        "text": "\"While the comment system remained up and running the entire time, these DDoS events tied up the servers and prevented them from responding to people attempting to submit comments.\"",
+        "start": 212.68,
+        "duration": 7.0
+    },
+    {
+        "text": "Now some are claiming BS, it was actually from John Oliver's audience",
+        "start": 219.68,
+        "duration": 3.86
+    },
+    {
+        "text": "There were also some conspiracy theories out there saying that the site was actually attacked but it wasn't by people that supported net neutrality",
+        "start": 223.54,
+        "duration": 5.4
+    },
+    {
+        "text": "but people that were trying to troll John Oliver's audience, keep them from filing disputes",
+        "start": 228.94,
+        "duration": 3.7
+    },
+    {
+        "text": "as an outsider looking in I honestly don't know",
+        "start": 232.64,
+        "duration": 2.3
+    },
+    {
+        "text": "other likes the organization, Fight For The Future, have called on the FCC to release there logs so they can actually prove that they were hit with a DDoS attack",
+        "start": 234.94,
+        "duration": 6.96
+    },
+    {
+        "text": "and it wasn't just John Oliver's viewers",
+        "start": 241.9,
+        "duration": 1.74
+    },
+    {
+        "text": "and it seems like the allegation there is making up this story, to say that they were attacked and that the website didn't crumble just because there was so much support for a strong net neutrality",
+        "start": 243.72,
+        "duration": 8.58
+    },
+    {
+        "text": "but I will say, I do recommend, if you are for net neutrality you can go to that website log your comment",
+        "start": 252.3,
+        "duration": 5.5
+    },
+    {
+        "text": "net neutrality is a massive issue for any and all who use the internet",
+        "start": 257.8,
+        "duration": 3.7
+    },
+    {
+        "text": "obviously, you don't have to if you're not passionate about it, you don't have to do it",
+        "start": 261.5,
+        "duration": 3.08
+    },
+    {
+        "text": "but a question I do want to pass off to you about this story, obviously I have my opinion but do you think that the FCC should pull back these regulations?",
+        "start": 264.58,
+        "duration": 6.28
+    },
+    {
+        "text": "You think the less regulations here the better? Is everyone that's concerned about this, are they alarmists?",
+        "start": 270.86,
+        "duration": 4.42
+    },
+    {
+        "text": "Or, no, you think this is a big deal, because there isn't enough competition or the ability for other new internet service providers to provide competition that you have to have some regulation?",
+        "start": 276.68,
+        "duration": 7.0
+    },
+    {
+        "text": "By pulling back these regulations means you're allowing people to be prayed upon, i'd love to know your thoughts here",
+        "start": 283.68,
+        "duration": 3.94
+    },
+    {
+        "text": "and from there I want to share some stuff I love today in today in awesome",
+        "start": 287.62,
+        "duration": 3.76
+    },
+    {
+        "text": "and the first bit of awesome, I missed it yesterday, shame on me, is the new trailer for Blade Runner 2049",
+        "start": 291.38,
+        "duration": 4.86
+    },
+    {
+        "text": "Gosling, Ford, Leto, yes please,",
+        "start": 296.32,
+        "duration": 2.24
+    },
+    {
+        "text": "then we got our first look at season five of Orange Is The New Black and it looks pretty awesome",
+        "start": 298.56,
+        "duration": 4.08
+    },
+    {
+        "text": "I can't really explain what happens in the trailer without spoiling last season for you but, the new dynamics look awesome",
+        "start": 302.64,
+        "duration": 5.3
+    },
+    {
+        "text": "then I have to pimp out an amazing artist and it turns out member of the nation",
+        "start": 307.94,
+        "duration": 3.54
+    },
+    {
+        "text": "The Box Office Artist just put out a video called, \"Drawing Every Live Action Star Wars Film Ever\"",
+        "start": 311.48,
+        "duration": 4.82
+    },
+    {
+        "text": "and he did just that he said it took over 7 months with 400+ hours of work",
+        "start": 316.3,
+        "duration": 4.18
+    },
+    {
+        "text": "I want a poster version of this even though he would probably end up getting sued",
+        "start": 320.48,
+        "duration": 3.74
+    },
+    {
+        "text": "I love seeing people work on their passion projects",
+        "start": 324.22,
+        "duration": 1.94
+    },
+    {
+        "text": "and if you want to see the full versions of everything I shared today, the secret link of the day, anything at all, links as always are in the description down below",
+        "start": 326.16,
+        "duration": 6.36
+    },
+    {
+        "text": "then lets talk about 68 year old Nancy James in the news",
+        "start": 332.52,
+        "duration": 2.6
+    },
+    {
+        "text": "Nancy is smack dab in the middle of a public outrage story coming out of Florida",
+        "start": 335.12,
+        "duration": 3.68
+    },
+    {
+        "text": "reportedly there was a party of around 200 people at an apartment complex. She went there to ask them if they could turn the music down",
+        "start": 338.8,
+        "duration": 5.74
+    },
+    {
+        "text": "as far as she went there, according to the police reports, she and a friend usually watched the apartment complex's amenities",
+        "start": 344.54,
+        "duration": 5.04
+    },
+    {
+        "text": "Nancy saying that were also several other neighbours who complained about the noise so she called the police, filed a noise complaint, and then went down there",
+        "start": 349.58,
+        "duration": 5.78
+    },
+    {
+        "text": "so she's down there with her 2 dogs, she's asking them to turn down the music and then this happened",
+        "start": 355.36,
+        "duration": 3.8
+    },
+    {
+        "text": "(screaming and shouting)",
+        "start": 359.26,
+        "duration": 11.98
+    },
+    {
+        "text": "and uh, its the the clips, the clips, it doesn't and there, its not over yet",
+        "start": 371.24,
+        "duration": 4.14
+    },
+    {
+        "text": "(screaming and shouting)",
+        "start": 375.58,
+        "duration": 8.5
+    },
+    {
+        "text": "that is a thing that actually happened, it makes me wonder, did he go,",
+        "start": 384.12,
+        "duration": 2.04
+    },
+    {
+        "text": "\"hmm, should I stop being an idiot, garbage person after I just threw this woman, this 68 year old woman face first into the ground, nah i'm gonna drag her over to the pool and toss her in\"",
+        "start": 386.2,
+        "duration": 8.76
+    },
+    {
+        "text": "so that happens, people run away, videos of this go up, because yes, there were multiple angles",
+        "start": 394.96,
+        "duration": 4.66
+    },
+    {
+        "text": "as a quick side note, its so interesting to me that we live in a time that because everyone has a camera in there pocket, essentially",
+        "start": 399.62,
+        "duration": 4.74
+    },
+    {
+        "text": "when assaults like this happen, not only is it likely that it's going to be filmed but, people are going to have angle options",
+        "start": 404.36,
+        "duration": 5.2
+    },
+    {
+        "text": "but back on topic, these videos go up, they blow up and people start looking for the man in red",
+        "start": 409.56,
+        "duration": 4.16
+    },
+    {
+        "text": "now the big update today is that the guy in red has been identified as, Lean Balfour Jr. and he was turned himself into police",
+        "start": 413.72,
+        "duration": 5.46
+    },
+    {
+        "text": "and I will give him credit for turning himself in except for the fact that he didn't do it until people on the internet",
+        "start": 419.18,
+        "duration": 4.54
+    },
+    {
+        "text": "started looking into it, researching, diving deep, they found his social media accounts and made them public",
+        "start": 423.74,
+        "duration": 4.12
+    },
+    {
+        "text": "now as far as Nancy, she's okay, she has some bruises and she's also far more forgiving than I think most people would be in this situation",
+        "start": 427.88,
+        "duration": 6.22
+    },
+    {
+        "text": "when talking to her local new, she said,",
+        "start": 434.1,
+        "duration": 1.6
+    },
+    {
+        "text": "\"kids are kids no matter what. They're going to have parties, just lower the music.",
+        "start": 435.7,
+        "duration": 3.06
+    },
+    {
+        "text": "\"This kid has not evolved yet into that you're supposed to be as a human being.\"",
+        "start": 438.76,
+        "duration": 3.12
+    },
+    {
+        "text": "adding that she think's this whole situation is going to teach him a lesson and \"Black and blue but you know what, he's never ever gonna do this to anyone else\"",
+        "start": 441.88,
+        "duration": 5.4
+    },
+    {
+        "text": "and I have to say props to Nancy James for such an even head about this because in my mind, if you're sixteen years old",
+        "start": 447.28,
+        "duration": 4.84
+    },
+    {
+        "text": "I-I know that when most of us think back to our sixteen year old selves, we think, oh my God I was so stupid",
+        "start": 452.12,
+        "duration": 5.94
+    },
+    {
+        "text": "but I feel like and hope that the majority was not the level of stupid where you go",
+        "start": 458.06,
+        "duration": 3.94
+    },
+    {
+        "text": "hey, you know whats a great idea, i'm gonna pick up this old lady and throw her in the pool, oh no I fell,",
+        "start": 462.0,
+        "duration": 3.94
+    },
+    {
+        "text": "oh no she slammed into the ground maybe I should stop oh never mind, i'm still gonna throw her ass in the pool",
+        "start": 465.94,
+        "duration": 4.44
+    },
+    {
+        "text": "because when people think Lean Balfour they're not gonna think quitter",
+        "start": 470.38,
+        "duration": 3.18
+    },
+    {
+        "text": "Also, as a side, go fuck yourself",
+        "start": 473.56,
+        "duration": 1.76
+    },
+    {
+        "text": "fuck you to anyone that was there that thought it was hilarious that this was happening to this old woman",
+        "start": 475.32,
+        "duration": 3.86
+    },
+    {
+        "text": "and the two main lessons I wanna draw from this is, one, maybe just don't be a shitty person",
+        "start": 479.18,
+        "duration": 4.18
+    },
+    {
+        "text": "and two while there is this beautiful idea out there of like, dance like no ones watching,",
+        "start": 483.36,
+        "duration": 3.92
+    },
+    {
+        "text": "uh, when you're not dancing act like there is a camera on you at all times",
+        "start": 487.28,
+        "duration": 3.06
+    },
+    {
+        "text": "the best way to not be caught being a shitty person or being exposed as a shitty person is to not do shitty things, just a thought",
+        "start": 490.34,
+        "duration": 5.68
+    },
+    {
+        "text": "and then we have more new out of Florida, because apparently today is the Florida show",
+        "start": 496.02,
+        "duration": 4.4
+    },
+    {
+        "text": "this time the story took place at a Fort Lauderdale airport",
+        "start": 500.42,
+        "duration": 2.48
+    },
+    {
+        "text": "where there was a massive fight, some calling it a riot",
+        "start": 502.9,
+        "duration": 2.96
+    },
+    {
+        "text": "so the set up you need to know for this is for the past seven days, Spirit Airlines needed to cancel around 300 flights",
+        "start": 505.86,
+        "duration": 5.56
+    },
+    {
+        "text": "on Sunday alone Spirit Airlines had to cancel 81 flights, that was around 17% of the flight they had scheduled for that day",
+        "start": 511.42,
+        "duration": 5.82
+    },
+    {
+        "text": "and the airlines explanation for this is that its the pilots fault",
+        "start": 517.24,
+        "duration": 2.58
+    },
+    {
+        "text": "a spokesmen for Spirit Airlines saying,",
+        "start": 519.82,
+        "duration": 1.62
+    },
+    {
+        "text": "\"These pilots have put their quest for a new contract ahead of getting customers to their destinations and the safety or their fellow Spirit Team Members\"",
+        "start": 521.44,
+        "duration": 6.26
+    },
+    {
+        "text": "the airline even filed a federal lawsuit where they claimed,",
+        "start": 527.7,
+        "duration": 1.8
+    },
+    {
+        "text": "\"The airline cancelations have been caused by pilot unavailability and is accusing the pilots union of orchestrating an unlawful slowdown\"",
+        "start": 529.5,
+        "duration": 5.56
+    },
+    {
+        "text": "although in response to that, the airlines pilot association said,",
+        "start": 535.06,
+        "duration": 2.64
+    },
+    {
+        "text": "\"ALPA and the Spirit pilots are continuing to do everything possible to help restore the company's operations",
+        "start": 537.7,
+        "duration": 4.34
+    },
+    {
+        "text": "\"which have had several significant problems over the past several days\"",
+        "start": 542.04,
+        "duration": 2.48
+    },
+    {
+        "text": "so that gives you the back story of why Spirit Airlines is having this problem",
+        "start": 544.52,
+        "duration": 3.2
+    },
+    {
+        "text": "but lets go back to Fort Lauderdale",
+        "start": 547.72,
+        "duration": 1.4
+    },
+    {
+        "text": "now in Fort Lauderdale Hollywood International Airport, 11 Spirit Airlines flights were cancelled and 26 were delayed",
+        "start": 549.12,
+        "duration": 5.8
+    },
+    {
+        "text": "now the best news to get late Monday night",
+        "start": 554.92,
+        "duration": 1.78
+    },
+    {
+        "text": "and according to several passengers there were already people waiting in line for Spirit Airlines to hopefully fix their situation",
+        "start": 556.7,
+        "duration": 5.1
+    },
+    {
+        "text": "they're waiting a very long time, many people are not finding it helpful and all of a sudden there is a new surge of angry passengers",
+        "start": 561.8,
+        "duration": 5.82
+    },
+    {
+        "text": "some people are getting off the airplane, some people are bypassing the line in general, they're swarming the ticket counter",
+        "start": 567.62,
+        "duration": 5.36
+    },
+    {
+        "text": "so then the police show up and it gets even crazier and of course the phones come out",
+        "start": 572.98,
+        "duration": 4.02
+    },
+    {
+        "text": "from all this video that's been released, there have been people saying that the people in the video are being mistreated by police.",
+        "start": 577.0,
+        "duration": 4.3
+    },
+    {
+        "text": "others pointing out there are people that look to be pushing the police officers, flailing their hands at them",
+        "start": 581.3,
+        "duration": 4.62
+    },
+    {
+        "text": "some are resisting arrest and thats what we're seeing when they tumble over that rope",
+        "start": 585.92,
+        "duration": 2.86
+    },
+    {
+        "text": "now from all of this several people were detained at the airport",
+        "start": 588.78,
+        "duration": 2.52
+    },
+    {
+        "text": "3 were charged with inciting a riot, disorderly conduct, trespassing",
+        "start": 591.3,
+        "duration": 4.34
+    },
+    {
+        "text": "and actually with this story I want to pass them question off to you, who is in the wrong here? What is your take away?",
+        "start": 595.64,
+        "duration": 4.5
+    },
+    {
+        "text": "need more footage before you condemn one or the other, I want to know what you think",
+        "start": 600.14,
+        "duration": 3.74
+    },
+    {
+        "text": "I mean my personal take away is I am just horrified by any large amount of people all congested together",
+        "start": 603.88,
+        "duration": 5.8
+    },
+    {
+        "text": "i've always found that when that many people are together it is emotions over logic",
+        "start": 609.68,
+        "duration": 4.54
+    },
+    {
+        "text": "like I think I'm reasonable by myself but if I was angry and then I was surrounded by hundreds of other angry people I think I'd just revert to caveman",
+        "start": 614.34,
+        "duration": 7.0
+    },
+    {
+        "text": "I'm not excusing anyones actions, i'm just saying why I get scared with large groups of people like that",
+        "start": 621.34,
+        "duration": 4.44
+    },
+    {
+        "text": "and thats actually where i'm going to end todays show",
+        "start": 625.78,
+        "duration": 1.68
+    },
+    {
+        "text": "and remember, if you liked this video, you like what i'm trying to do on this channel, hit that like button",
+        "start": 627.46,
+        "duration": 3.44
+    },
+    {
+        "text": "If you're new here, hit that subscribe button also, if you missed and want to catch up on yesterdays Philip DeFranco Show you can click or tap right there to watch that",
+        "start": 630.9,
+        "duration": 6.5
+    },
+    {
+        "text": "If you want to see the studio reveal it is still in the early days- click or tap right there, my mouth just stopped working",
+        "start": 637.4,
+        "duration": 5.16
+    },
+    {
+        "text": "but that said of course, as always, my name is Philip DeFranco, you've just been philed in, i love yo faces and i'll see you tomorrow",
+        "start": 642.56,
+        "duration": 7.28
+    }
+]

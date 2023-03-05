@@ -1,0 +1,2497 @@
+[
+    {
+        "text": "- 'Sup you beautiful bastards,",
+        "start": 0.0,
+        "duration": 1.48
+    },
+    {
+        "text": "hope you're having a fantastic Friday,",
+        "start": 1.48,
+        "duration": 1.59
+    },
+    {
+        "text": "welcome back to the Philip DeFranco show,",
+        "start": 3.07,
+        "duration": 1.82
+    },
+    {
+        "text": "and if you're new here,",
+        "start": 4.89,
+        "duration": 0.833
+    },
+    {
+        "text": "on Fridays we do things\na little bit different.",
+        "start": 5.723,
+        "duration": 1.537
+    },
+    {
+        "text": "On Fridays, I like to deep\ndive into just one topic,",
+        "start": 7.26,
+        "duration": 2.26
+    },
+    {
+        "text": "sometimes it's light and interesting,",
+        "start": 9.52,
+        "duration": 1.64
+    },
+    {
+        "text": "sometimes dark and important,",
+        "start": 11.16,
+        "duration": 1.7
+    },
+    {
+        "text": "and I figured with E3 happening this week,",
+        "start": 12.86,
+        "duration": 1.59
+    },
+    {
+        "text": "let's talk deeper into video games.",
+        "start": 14.45,
+        "duration": 1.56
+    },
+    {
+        "text": "And specifically, we're\ntalking bout eSports,",
+        "start": 16.01,
+        "duration": 1.73
+    },
+    {
+        "text": "and just how commercially\nsuccessful it has become.",
+        "start": 17.74,
+        "duration": 2.07
+    },
+    {
+        "text": "But, before we jump into\nit, two quick shout outs,",
+        "start": 19.81,
+        "duration": 2.08
+    },
+    {
+        "text": "one to the sponsor of today's video,",
+        "start": 21.89,
+        "duration": 1.53
+    },
+    {
+        "text": "Manscaped.com, because when Manscaping,",
+        "start": 23.42,
+        "duration": 2.05
+    },
+    {
+        "text": "you must use the right tools for the job.",
+        "start": 25.47,
+        "duration": 2.28
+    },
+    {
+        "text": "I'm just going to leave that there,",
+        "start": 27.75,
+        "duration": 0.9
+    },
+    {
+        "text": "with no more context for\nnow, you'll learn more later.",
+        "start": 28.65,
+        "duration": 2.08
+    },
+    {
+        "text": "And two, July first is\ngetting closer and closer,",
+        "start": 30.73,
+        "duration": 2.19
+    },
+    {
+        "text": "which is of course when we are launching",
+        "start": 32.92,
+        "duration": 1.42
+    },
+    {
+        "text": "the YouTube.com/RogueRocket channel.",
+        "start": 34.34,
+        "duration": 2.22
+    },
+    {
+        "text": "And that's where you'll be able\nto get even more deep dives,",
+        "start": 36.56,
+        "duration": 2.07
+    },
+    {
+        "text": "so if you took a second right\nnow, go to the description,",
+        "start": 38.63,
+        "duration": 2.45
+    },
+    {
+        "text": "click the link to\nsubscribe to that channel,",
+        "start": 41.08,
+        "duration": 1.9
+    },
+    {
+        "text": "thank you, and I am excited.",
+        "start": 42.98,
+        "duration": 1.44
+    },
+    {
+        "text": "But, with that being\nsaid, back to eSports.",
+        "start": 44.42,
+        "duration": 2.05
+    },
+    {
+        "text": "Which I will say, it is\njust insane when you compare",
+        "start": 46.47,
+        "duration": 1.95
+    },
+    {
+        "text": "what's happening with today's tournaments,",
+        "start": 48.42,
+        "duration": 1.37
+    },
+    {
+        "text": "to those that were happening\nnearly 20 years ago.",
+        "start": 49.79,
+        "duration": 2.14
+    },
+    {
+        "text": "For example, here's a video\nshowing the winning moment and",
+        "start": 51.93,
+        "duration": 2.18
+    },
+    {
+        "text": "awards ceremony of the 2002\nCPL Winter Counter-Strike",
+        "start": 54.11,
+        "duration": 2.586
+    },
+    {
+        "text": "1.6 tournament.",
+        "start": 56.696,
+        "duration": 1.266
+    },
+    {
+        "text": "(techno music)",
+        "start": 57.962,
+        "duration": 1.958
+    },
+    {
+        "text": "(group cheers and claps)",
+        "start": 59.92,
+        "duration": 3.417
+    },
+    {
+        "text": "- And in first place,",
+        "start": 73.086,
+        "duration": 1.712
+    },
+    {
+        "text": "the underdogs winning $30\nthousand dollars, Team 3D.",
+        "start": 74.798,
+        "duration": 4.932
+    },
+    {
+        "text": "(crowd cheers and claps)",
+        "start": 79.73,
+        "duration": 2.87
+    },
+    {
+        "text": "- Okay. Now compare\nthat to a tournament for",
+        "start": 82.6,
+        "duration": 1.61
+    },
+    {
+        "text": "Counter-Strike: Global\nOffensive that took place",
+        "start": 84.21,
+        "duration": 1.85
+    },
+    {
+        "text": "in Poland earlier this year.",
+        "start": 86.06,
+        "duration": 1.77
+    },
+    {
+        "text": "- [Narrator] And walk\nin the smoke, gla1ve,",
+        "start": 87.83,
+        "duration": 1.35
+    },
+    {
+        "text": "he'll only punish one, but\nit's just Aerial to find,",
+        "start": 89.18,
+        "duration": 1.829
+    },
+    {
+        "text": "and it's done! (crowd cheers)",
+        "start": 91.009,
+        "duration": 2.731
+    },
+    {
+        "text": "(upbeat electronic music)",
+        "start": 93.74,
+        "duration": 2.54
+    },
+    {
+        "text": "- Intel Extreme Masters,\nchampions, majors, back to back,",
+        "start": 96.28,
+        "duration": 3.508
+    },
+    {
+        "text": "are strawless again! It's time to mix up!",
+        "start": 99.788,
+        "duration": 2.567
+    },
+    {
+        "text": "(intense orchestral music)\n(crowd cheering and shouting)",
+        "start": 102.355,
+        "duration": 5.0
+    },
+    {
+        "text": "- And the differences\nrange from prize money,",
+        "start": 111.247,
+        "duration": 2.063
+    },
+    {
+        "text": "and production value, to\npopularity and brand integrations.",
+        "start": 113.31,
+        "duration": 3.17
+    },
+    {
+        "text": "But, before we get into the\n$25 million dollar prize pools,",
+        "start": 116.48,
+        "duration": 2.46
+    },
+    {
+        "text": "the sold out event\ncenters around the world,",
+        "start": 118.94,
+        "duration": 2.19
+    },
+    {
+        "text": "we have to go back a few years.",
+        "start": 121.13,
+        "duration": 1.49
+    },
+    {
+        "text": "And there are few different\nstart dates for eSports,",
+        "start": 122.62,
+        "duration": 1.84
+    },
+    {
+        "text": "depending on what you think of as eSports.",
+        "start": 124.46,
+        "duration": 1.78
+    },
+    {
+        "text": "In 1972, Stanford\nUniversity held a tournament",
+        "start": 126.24,
+        "duration": 2.41
+    },
+    {
+        "text": "for a game called Space War,",
+        "start": 128.65,
+        "duration": 1.39
+    },
+    {
+        "text": "where two opponents operating\nspace ships basically",
+        "start": 130.04,
+        "duration": 1.93
+    },
+    {
+        "text": "hurdle around a black hole\ntrying to shoot one another,",
+        "start": 131.97,
+        "duration": 2.13
+    },
+    {
+        "text": "and the prize for that\ntournament, with only 24 players,",
+        "start": 134.1,
+        "duration": 2.28
+    },
+    {
+        "text": "was a subscription to\nRolling Stone magazine.",
+        "start": 136.38,
+        "duration": 2.35
+    },
+    {
+        "text": "Also in 1980, you had a\ntournament for Atari's",
+        "start": 138.73,
+        "duration": 2.04
+    },
+    {
+        "text": "Space Invaders game, with\naround 10 thousand competitors,",
+        "start": 140.77,
+        "duration": 2.43
+    },
+    {
+        "text": "although obviously that wasn't\nexactly head-to-head play,",
+        "start": 143.2,
+        "duration": 2.01
+    },
+    {
+        "text": "but a high score tournament.",
+        "start": 145.21,
+        "duration": 0.867
+    },
+    {
+        "text": "And the prize there was a cabinet,",
+        "start": 146.077,
+        "duration": 1.633
+    },
+    {
+        "text": "or a sit-down version of the\n1980 game, Missile Command.",
+        "start": 147.71,
+        "duration": 2.46
+    },
+    {
+        "text": "And then in the late 90's, we\nstarted to see things pick up.",
+        "start": 150.17,
+        "duration": 2.29
+    },
+    {
+        "text": "You have the 1996 Street\nFighter Alpha 2 tournament",
+        "start": 152.46,
+        "duration": 2.23
+    },
+    {
+        "text": "in the San Francisco Bay\narea with 40 competitors",
+        "start": 154.69,
+        "duration": 2.22
+    },
+    {
+        "text": "and a grand prize of $91 dollars.",
+        "start": 156.91,
+        "duration": 2.117
+    },
+    {
+        "text": "(cash register ding)",
+        "start": 159.027,
+        "duration": 0.973
+    },
+    {
+        "text": "The next year, there was\nthe Quake Red Annihilation",
+        "start": 160.0,
+        "duration": 1.93
+    },
+    {
+        "text": "Tournament with two thousand entrants,",
+        "start": 161.93,
+        "duration": 1.5
+    },
+    {
+        "text": "and an interesting side-note\nhere, is that the winner,",
+        "start": 163.43,
+        "duration": 1.88
+    },
+    {
+        "text": "Dennis Fong, is actually\nthe guy who popularized",
+        "start": 165.31,
+        "duration": 2.15
+    },
+    {
+        "text": "the W-A-S-D movement method\nfor first person shooters.",
+        "start": 167.46,
+        "duration": 2.56
+    },
+    {
+        "text": "So, if you didn't know, now you know.",
+        "start": 170.02,
+        "duration": 1.54
+    },
+    {
+        "text": "It's just a random interesting\nfact that you can act like",
+        "start": 171.56,
+        "duration": 1.77
+    },
+    {
+        "text": "you already knew, that you can show off.",
+        "start": 173.33,
+        "duration": 1.62
+    },
+    {
+        "text": "And also interestingly enough,\nthe Ferrari of John Carmac,",
+        "start": 174.95,
+        "duration": 3.91
+    },
+    {
+        "text": "a lead developer for that game.",
+        "start": 178.86,
+        "duration": 1.007
+    },
+    {
+        "text": "And right around this time,",
+        "start": 179.867,
+        "duration": 0.88
+    },
+    {
+        "text": "the internet was spreading far and wide,",
+        "start": 180.747,
+        "duration": 1.763
+    },
+    {
+        "text": "allowing for more than\njust single player games.",
+        "start": 182.51,
+        "duration": 1.67
+    },
+    {
+        "text": "Right, and so that meant\nplaying online with people",
+        "start": 184.18,
+        "duration": 1.75
+    },
+    {
+        "text": "around the world, and\nthat was really one of",
+        "start": 185.93,
+        "duration": 1.15
+    },
+    {
+        "text": "the first triggers for eSports explosion.",
+        "start": 187.08,
+        "duration": 2.33
+    },
+    {
+        "text": "You had the Cyber Athlete\nProfessional League,",
+        "start": 189.41,
+        "duration": 1.57
+    },
+    {
+        "text": "formed in 1997, and they\nactually hosted the tournament",
+        "start": 190.98,
+        "duration": 2.66
+    },
+    {
+        "text": "we showed at the very\nbeginning of this video,",
+        "start": 193.64,
+        "duration": 1.58
+    },
+    {
+        "text": "and soon after this, a\ncouple of games have became",
+        "start": 195.22,
+        "duration": 1.63
+    },
+    {
+        "text": "long-lasting successes\nfor eSports were released.",
+        "start": 196.85,
+        "duration": 2.67
+    },
+    {
+        "text": "StarCraft was released in 1998,",
+        "start": 199.52,
+        "duration": 2.0
+    },
+    {
+        "text": "Counter-Strike 1.6 was\nofficially released in 2000,",
+        "start": 201.52,
+        "duration": 2.719
+    },
+    {
+        "text": "in fact, some competitive\nteams that we still see around",
+        "start": 204.239,
+        "duration": 2.301
+    },
+    {
+        "text": "today were formed around this time.",
+        "start": 206.54,
+        "duration": 1.57
+    },
+    {
+        "text": "You had SK Gaming in '97,",
+        "start": 208.11,
+        "duration": 1.77
+    },
+    {
+        "text": "Evil Geniuses and KT Rollster in '99,",
+        "start": 209.88,
+        "duration": 2.49
+    },
+    {
+        "text": "Team Liquid in 2000.",
+        "start": 212.37,
+        "duration": 1.337
+    },
+    {
+        "text": "But the line between eSports in 2000",
+        "start": 213.707,
+        "duration": 1.753
+    },
+    {
+        "text": "and the $1.1 billion dollar\nrevenue stream that we're seeing",
+        "start": 215.46,
+        "duration": 2.67
+    },
+    {
+        "text": "today was not inevitable.",
+        "start": 218.13,
+        "duration": 1.5
+    },
+    {
+        "text": "In fact, global eSports\ndidn't exactly take off",
+        "start": 219.63,
+        "duration": 1.71
+    },
+    {
+        "text": "until the beginning of this decade.",
+        "start": 221.34,
+        "duration": 1.39
+    },
+    {
+        "text": "For example, even in 2007,\nthere were only around 500",
+        "start": 222.73,
+        "duration": 2.753
+    },
+    {
+        "text": "eSports tournaments and\naround $7.4 million dollars",
+        "start": 225.483,
+        "duration": 2.927
+    },
+    {
+        "text": "in prize money across all games,",
+        "start": 228.41,
+        "duration": 1.55
+    },
+    {
+        "text": "with some of the top\ngames at the time being",
+        "start": 229.96,
+        "duration": 1.66
+    },
+    {
+        "text": "Counter-Strike, StarCraft,\nWarcraft III and Halo 2.",
+        "start": 231.62,
+        "duration": 2.83
+    },
+    {
+        "text": "And there were a couple of\ndevelopments that really",
+        "start": 234.45,
+        "duration": 1.52
+    },
+    {
+        "text": "influenced just how big eSports is today.",
+        "start": 235.97,
+        "duration": 2.29
+    },
+    {
+        "text": "The first being that eSports\nwas massively popular in",
+        "start": 238.26,
+        "duration": 2.31
+    },
+    {
+        "text": "South Korea long before\nNorth America and Europe,",
+        "start": 240.57,
+        "duration": 2.13
+    },
+    {
+        "text": "and some gaming executives likely noticed.",
+        "start": 242.7,
+        "duration": 1.86
+    },
+    {
+        "text": "And in the late 90's,",
+        "start": 244.56,
+        "duration": 0.833
+    },
+    {
+        "text": "the South Korean government\ninvested heavily in",
+        "start": 245.393,
+        "duration": 1.827
+    },
+    {
+        "text": "telecommunications and\ninternet infrastructure.",
+        "start": 247.22,
+        "duration": 1.98
+    },
+    {
+        "text": "By around 2000, this had\ncaused many internet cafes to",
+        "start": 249.2,
+        "duration": 2.46
+    },
+    {
+        "text": "pop up, which in turn, helped produce",
+        "start": 251.66,
+        "duration": 1.112
+    },
+    {
+        "text": "gamers and competitions.",
+        "start": 252.772,
+        "duration": 1.668
+    },
+    {
+        "text": "With the South Korean\ngovernment even founding the",
+        "start": 254.44,
+        "duration": 2.21
+    },
+    {
+        "text": "Korea eSports Association\nin 2000 to help regulate",
+        "start": 256.65,
+        "duration": 2.71
+    },
+    {
+        "text": "the emerging industry.",
+        "start": 259.36,
+        "duration": 0.97
+    },
+    {
+        "text": "And there, if you're\neven remotely familiar",
+        "start": 260.33,
+        "duration": 1.77
+    },
+    {
+        "text": "with South Korea, or gaming,",
+        "start": 262.1,
+        "duration": 1.59
+    },
+    {
+        "text": "StarCraft was the game of choice.",
+        "start": 263.69,
+        "duration": 1.65
+    },
+    {
+        "text": "In fact, it was so popular,\nall the way back in 1999,",
+        "start": 265.34,
+        "duration": 3.08
+    },
+    {
+        "text": "KT, the Korean telecoms\ncompany, was sponsoring a team,",
+        "start": 268.42,
+        "duration": 3.08
+    },
+    {
+        "text": "and many more would\nfollow, including Samsung,",
+        "start": 271.5,
+        "duration": 2.1
+    },
+    {
+        "text": "and the Korean conglomerate, CJ.",
+        "start": 273.6,
+        "duration": 1.53
+    },
+    {
+        "text": "By the mid-2000's, multiple\ncompanies were sponsoring teams",
+        "start": 275.13,
+        "duration": 2.43
+    },
+    {
+        "text": "to live in communal houses,\nsomething fairly common today,",
+        "start": 277.56,
+        "duration": 2.26
+    },
+    {
+        "text": "and all the way back in 2004,\nthe finals of the StarCraft",
+        "start": 279.82,
+        "duration": 1.997
+    },
+    {
+        "text": "Sky Pro League attracted 100\nthousand fans to watch live.",
+        "start": 281.817,
+        "duration": 3.743
+    },
+    {
+        "text": "There were even live\ntelevision broadcasts,",
+        "start": 285.56,
+        "duration": 1.74
+    },
+    {
+        "text": "and entire channels dedicated to eSports.",
+        "start": 287.3,
+        "duration": 1.837
+    },
+    {
+        "text": "And this wasn't something\nthat even Blizzard,",
+        "start": 289.137,
+        "duration": 1.793
+    },
+    {
+        "text": "the company that developed\nStarCraft, had expected.",
+        "start": 290.93,
+        "duration": 1.95
+    },
+    {
+        "text": "But the South Korean eSports scene",
+        "start": 292.88,
+        "duration": 1.36
+    },
+    {
+        "text": "basically showed what\neSports could be globally.",
+        "start": 294.24,
+        "duration": 2.03
+    },
+    {
+        "text": "And in the words of Grubby,\nand former professional",
+        "start": 296.27,
+        "duration": 1.67
+    },
+    {
+        "text": "Warcraft III and StarCraft 2 player,",
+        "start": 297.94,
+        "duration": 1.417
+    },
+    {
+        "text": "\"Pro gaming exists in it's current form",
+        "start": 299.357,
+        "duration": 2.033
+    },
+    {
+        "text": "and size in large part\nthanks to the people who",
+        "start": 301.39,
+        "duration": 2.14
+    },
+    {
+        "text": "made it possible in South Korea.",
+        "start": 303.53,
+        "duration": 1.51
+    },
+    {
+        "text": "Other countries took years to\ncatch up and are to this date,",
+        "start": 305.04,
+        "duration": 2.57
+    },
+    {
+        "text": "trying to mimic some of their successes.\"",
+        "start": 307.61,
+        "duration": 1.78
+    },
+    {
+        "text": "And keep in mind, there were\nattempts to bring eSports",
+        "start": 309.39,
+        "duration": 2.0
+    },
+    {
+        "text": "mainstream elsewhere in the mid-2000's.",
+        "start": 311.39,
+        "duration": 1.71
+    },
+    {
+        "text": "For example, the finale of\nthe CPL World Tour in 2005",
+        "start": 313.1,
+        "duration": 2.73
+    },
+    {
+        "text": "was broadcast live on\nMTV, in 2006 and 2007,",
+        "start": 315.83,
+        "duration": 3.22
+    },
+    {
+        "text": "the USA TV Network broadcast recordings",
+        "start": 319.05,
+        "duration": 2.19
+    },
+    {
+        "text": "of MLG's Halo 2 Pro Circuit.",
+        "start": 321.24,
+        "duration": 1.77
+    },
+    {
+        "text": "But ultimately, when eSports\nreally started taking off",
+        "start": 323.01,
+        "duration": 2.3
+    },
+    {
+        "text": "worldwide was when we all got Twitch.",
+        "start": 325.31,
+        "duration": 1.787
+    },
+    {
+        "text": "The livestreaming platform, Twitch.",
+        "start": 327.097,
+        "duration": 2.473
+    },
+    {
+        "text": "In 2010, according to esportsearnings.com,",
+        "start": 329.57,
+        "duration": 2.32
+    },
+    {
+        "text": "there were 964 eSports tournaments\nand around $6.2 million",
+        "start": 331.89,
+        "duration": 3.31
+    },
+    {
+        "text": "dollars in prize pool money up for grabs.",
+        "start": 335.2,
+        "duration": 1.93
+    },
+    {
+        "text": "The next year, when Twitch launched,",
+        "start": 337.13,
+        "duration": 1.24
+    },
+    {
+        "text": "the number of tournaments\nand prize pool money",
+        "start": 338.37,
+        "duration": 1.28
+    },
+    {
+        "text": "both nearly doubled, 1,644 tournaments,",
+        "start": 339.65,
+        "duration": 2.556
+    },
+    {
+        "text": "and almost $10.5 million dollars.",
+        "start": 342.206,
+        "duration": 2.154
+    },
+    {
+        "text": "And those numbers kept growing,\nand growing, and by 2014,",
+        "start": 344.36,
+        "duration": 3.37
+    },
+    {
+        "text": "the number of tournaments\nhad almost doubled again,",
+        "start": 347.73,
+        "duration": 1.62
+    },
+    {
+        "text": "to 3,062, and the prize pool\nmoney had nearly quadrupled,",
+        "start": 349.35,
+        "duration": 3.71
+    },
+    {
+        "text": "to $37 million dollars.",
+        "start": 353.06,
+        "duration": 1.54
+    },
+    {
+        "text": "And not only that, Twitch\nis beginning signal growth",
+        "start": 354.6,
+        "duration": 1.89
+    },
+    {
+        "text": "in the eSports industry.",
+        "start": 356.49,
+        "duration": 1.11
+    },
+    {
+        "text": "It also continues to propel a lot of",
+        "start": 357.6,
+        "duration": 1.46
+    },
+    {
+        "text": "the eSports industry to this day.",
+        "start": 359.06,
+        "duration": 1.64
+    },
+    {
+        "text": "For example, the January 2017 final of",
+        "start": 360.7,
+        "duration": 2.01
+    },
+    {
+        "text": "Counter-Strike's Elite,\ncarried about 228 thousand",
+        "start": 362.71,
+        "duration": 2.47
+    },
+    {
+        "text": "total viewers on television.",
+        "start": 365.18,
+        "duration": 1.22
+    },
+    {
+        "text": "But, on Twitch, the same\nevent broke Twitch's record",
+        "start": 366.4,
+        "duration": 2.31
+    },
+    {
+        "text": "for concurrent viewers at that time,",
+        "start": 368.71,
+        "duration": 1.54
+    },
+    {
+        "text": "with one million viewers.",
+        "start": 370.25,
+        "duration": 1.187
+    },
+    {
+        "text": "Right, and what made Twitch\nsuch an important part of",
+        "start": 371.437,
+        "duration": 2.423
+    },
+    {
+        "text": "eSports was the fact\nthat it was live, right?",
+        "start": 373.86,
+        "duration": 2.27
+    },
+    {
+        "text": "Arguably, one of the biggest\nreasons that traditional",
+        "start": 376.13,
+        "duration": 1.85
+    },
+    {
+        "text": "sports events like football,\nbasketball, whatever,",
+        "start": 377.98,
+        "duration": 1.99
+    },
+    {
+        "text": "can be so captivating, is\nyou're seeing it develop",
+        "start": 379.97,
+        "duration": 2.24
+    },
+    {
+        "text": "in real time, it's happening live.",
+        "start": 382.21,
+        "duration": 2.0
+    },
+    {
+        "text": "And of course, not only that with Twitch,",
+        "start": 384.21,
+        "duration": 1.75
+    },
+    {
+        "text": "it's not just a watching platform,",
+        "start": 385.96,
+        "duration": 1.36
+    },
+    {
+        "text": "you can also engage with the stream itself",
+        "start": 387.32,
+        "duration": 2.34
+    },
+    {
+        "text": "or with one another in the\nchat, even if at times,",
+        "start": 389.66,
+        "duration": 2.19
+    },
+    {
+        "text": "live chats can be\nhorrible, horrible chaos.",
+        "start": 391.85,
+        "duration": 2.62
+    },
+    {
+        "text": "And along with Twitch's explosion,",
+        "start": 394.47,
+        "duration": 1.2
+    },
+    {
+        "text": "the top three games that\nare the most popular,",
+        "start": 395.67,
+        "duration": 1.89
+    },
+    {
+        "text": "long-lasting, and carry\nthe most prize money today,",
+        "start": 397.56,
+        "duration": 2.54
+    },
+    {
+        "text": "were released around the same time.",
+        "start": 400.1,
+        "duration": 1.57
+    },
+    {
+        "text": "League of Legends in 2009,",
+        "start": 401.67,
+        "duration": 1.57
+    },
+    {
+        "text": "Counter-Strike: Global Offensive in 2012,",
+        "start": 403.24,
+        "duration": 2.01
+    },
+    {
+        "text": "and Dota 2 in 2013.",
+        "start": 405.25,
+        "duration": 1.62
+    },
+    {
+        "text": "Last year, tournaments for\nthose three games alone",
+        "start": 406.87,
+        "duration": 2.27
+    },
+    {
+        "text": "made up half of the $159 million dollars",
+        "start": 409.14,
+        "duration": 2.08
+    },
+    {
+        "text": "available in prize pools.",
+        "start": 411.22,
+        "duration": 1.367
+    },
+    {
+        "text": "And when you look at some\nof the most important",
+        "start": 412.587,
+        "duration": 0.853
+    },
+    {
+        "text": "tournaments for those games\nsince Twitch came out,",
+        "start": 413.44,
+        "duration": 2.24
+    },
+    {
+        "text": "it really just shows how much eSports",
+        "start": 415.68,
+        "duration": 1.54
+    },
+    {
+        "text": "has taken off in recent years.",
+        "start": 417.22,
+        "duration": 1.28
+    },
+    {
+        "text": "The audience has grown, events\nbecome huge productions,",
+        "start": 418.5,
+        "duration": 2.56
+    },
+    {
+        "text": "both computer and non-computer\nbrands alike are investing in",
+        "start": 421.06,
+        "duration": 3.01
+    },
+    {
+        "text": "and sponsoring tournaments,\nfor example, this was the",
+        "start": 424.07,
+        "duration": 1.86
+    },
+    {
+        "text": "League of Legends world\nchampionship back in 2011.",
+        "start": 425.93,
+        "duration": 2.257
+    },
+    {
+        "text": "- A hundred thousand\ndollar tournament held by",
+        "start": 428.187,
+        "duration": 1.823
+    },
+    {
+        "text": "League of Legends and Riot\nGames, with the Pay Safe card,",
+        "start": 430.01,
+        "duration": 2.895
+    },
+    {
+        "text": "HD stream is what you're viewing,",
+        "start": 432.905,
+        "duration": 1.865
+    },
+    {
+        "text": "Steel Series helping out\nwith some of the peripherals,",
+        "start": 434.77,
+        "duration": 1.89
+    },
+    {
+        "text": "and as well as the Alienware computers,",
+        "start": 436.66,
+        "duration": 1.67
+    },
+    {
+        "text": "taking these guys all the\nway to the finish line.",
+        "start": 438.33,
+        "duration": 1.09
+    },
+    {
+        "text": "- Alienware?",
+        "start": 439.42,
+        "duration": 1.389
+    },
+    {
+        "text": "- All right, there's some\ncomputer and non computer",
+        "start": 440.809,
+        "duration": 0.921
+    },
+    {
+        "text": "brand sponsorship, there's\na commentator team,",
+        "start": 441.73,
+        "duration": 2.24
+    },
+    {
+        "text": "but that tournament also wasn't held",
+        "start": 443.97,
+        "duration": 1.227
+    },
+    {
+        "text": "in a massive convention center.",
+        "start": 445.197,
+        "duration": 1.853
+    },
+    {
+        "text": "Now, fast forward to the\n2018 League of Legends",
+        "start": 447.05,
+        "duration": 2.39
+    },
+    {
+        "text": "Championship between\nFNATIC and Invictus Gaming.",
+        "start": 449.44,
+        "duration": 2.49
+    },
+    {
+        "text": "Which, by the way, pulled\n99.6 million unique viewers,",
+        "start": 451.93,
+        "duration": 3.88
+    },
+    {
+        "text": "and 44 million concurrent\nviewers at it's peak.",
+        "start": 455.81,
+        "duration": 3.03
+    },
+    {
+        "text": "And the sponsorships at\nthe bottom of the screen,",
+        "start": 458.84,
+        "duration": 1.73
+    },
+    {
+        "text": "they're not just computer\nbrands, you've got State Farm,",
+        "start": 460.57,
+        "duration": 2.185
+    },
+    {
+        "text": "and MasterCard, you've got\na very professional looking",
+        "start": 462.755,
+        "duration": 0.833
+    },
+    {
+        "text": "commentator team hosting the\ngames in a huge stadium in",
+        "start": 463.588,
+        "duration": 4.312
+    },
+    {
+        "text": "South Korea, and the awards\nceremony is very pumped up, too.",
+        "start": 467.9,
+        "duration": 2.85
+    },
+    {
+        "text": "Riot Games, the game's developer,",
+        "start": 470.75,
+        "duration": 1.31
+    },
+    {
+        "text": "also told us that besides\nthe world championship,",
+        "start": 472.06,
+        "duration": 1.95
+    },
+    {
+        "text": "there's sponsors in other leagues include:",
+        "start": 474.01,
+        "duration": 1.281
+    },
+    {
+        "text": "Nike, Mercedes-Benz, and Gillette,",
+        "start": 475.291,
+        "duration": 2.369
+    },
+    {
+        "text": "and that's hugely important\nbecause that means that not just",
+        "start": 477.66,
+        "duration": 2.04
+    },
+    {
+        "text": "computer or game relevant\ncompanies are paying attention.",
+        "start": 479.7,
+        "duration": 2.38
+    },
+    {
+        "text": "It's past the small bubble,",
+        "start": 482.08,
+        "duration": 1.28
+    },
+    {
+        "text": "and when you have these\nkind of household names that",
+        "start": 483.36,
+        "duration": 1.767
+    },
+    {
+        "text": "you would see on legacy sports properties,",
+        "start": 485.127,
+        "duration": 3.043
+    },
+    {
+        "text": "it's helps legitimize the\nnewer things, and with eSports,",
+        "start": 488.17,
+        "duration": 2.38
+    },
+    {
+        "text": "it also allowed bigger prize pools.",
+        "start": 490.55,
+        "duration": 1.58
+    },
+    {
+        "text": "Which actually, on that note,",
+        "start": 492.13,
+        "duration": 0.833
+    },
+    {
+        "text": "the prize pool for last\nyears League of Legends",
+        "start": 492.963,
+        "duration": 1.377
+    },
+    {
+        "text": "Championship was about\n$6.5 million dollars,",
+        "start": 494.34,
+        "duration": 2.32
+    },
+    {
+        "text": "with the winning team taking home",
+        "start": 496.66,
+        "duration": 1.12
+    },
+    {
+        "text": "almost $2.5 million dollars.",
+        "start": 497.78,
+        "duration": 1.905
+    },
+    {
+        "text": "And you can look at the\ncontrast between Dota 2's",
+        "start": 499.685,
+        "duration": 1.935
+    },
+    {
+        "text": "tournament, the international,\nand 2012, and 2018,",
+        "start": 501.62,
+        "duration": 2.611
+    },
+    {
+        "text": "and it really makes some things clear.",
+        "start": 504.231,
+        "duration": 1.699
+    },
+    {
+        "text": "The prize pool back in 2012\nwas $1.6 million dollars,",
+        "start": 505.93,
+        "duration": 2.56
+    },
+    {
+        "text": "the audience didn't quite\nfill up the auditorium",
+        "start": 508.49,
+        "duration": 1.87
+    },
+    {
+        "text": "for the event, and then we\nfast forward to the 2018 event,",
+        "start": 510.36,
+        "duration": 2.5
+    },
+    {
+        "text": "and the growth is incredible.",
+        "start": 512.86,
+        "duration": 1.59
+    },
+    {
+        "text": "For one thing, the prize\npool was $25 million dollars,",
+        "start": 514.45,
+        "duration": 2.68
+    },
+    {
+        "text": "the most of any eSports\ntournament ever, and for Dota 2,",
+        "start": 517.13,
+        "duration": 2.47
+    },
+    {
+        "text": "the way that the prize\nmoney was raised, is unique.",
+        "start": 519.6,
+        "duration": 2.13
+    },
+    {
+        "text": "Fans have the option,",
+        "start": 521.73,
+        "duration": 0.88
+    },
+    {
+        "text": "and I apologize for the gamers out there,",
+        "start": 522.61,
+        "duration": 2.112
+    },
+    {
+        "text": "(laughter)",
+        "start": 524.722,
+        "duration": 0.833
+    },
+    {
+        "text": "fans have the option to buy\nsomething called a battle pass.",
+        "start": 525.555,
+        "duration": 1.431
+    },
+    {
+        "text": "Right, it features\nvarious perks, features,",
+        "start": 526.986,
+        "duration": 2.264
+    },
+    {
+        "text": "cosmetic items for fans, for example,",
+        "start": 529.25,
+        "duration": 1.85
+    },
+    {
+        "text": "this year there are different\nlevels of battle passes",
+        "start": 531.1,
+        "duration": 1.95
+    },
+    {
+        "text": "ranging from 10 to 45 dollars,",
+        "start": 533.05,
+        "duration": 1.0
+    },
+    {
+        "text": "and you can buy an\nunlimited number of those,",
+        "start": 534.05,
+        "duration": 2.09
+    },
+    {
+        "text": "since they just give you more items.",
+        "start": 536.14,
+        "duration": 1.19
+    },
+    {
+        "text": "But the key here is that a\nportion of the money for the",
+        "start": 537.33,
+        "duration": 1.5
+    },
+    {
+        "text": "battle pass goes directly into\nincreasing the prize pool.",
+        "start": 538.83,
+        "duration": 2.26
+    },
+    {
+        "text": "In other words, the prize\npool is somewhat related",
+        "start": 541.09,
+        "duration": 1.89
+    },
+    {
+        "text": "to the popularity of the game.",
+        "start": 542.98,
+        "duration": 1.18
+    },
+    {
+        "text": "And looking at the prize pool,",
+        "start": 544.16,
+        "duration": 1.19
+    },
+    {
+        "text": "as well as just the\nproduction of the broadcast,",
+        "start": 545.35,
+        "duration": 2.47
+    },
+    {
+        "text": "you know there was a\nlot of money involved.",
+        "start": 547.82,
+        "duration": 2.45
+    },
+    {
+        "text": "There were 3D animated characters,",
+        "start": 550.27,
+        "duration": 1.6
+    },
+    {
+        "text": "a sleek commentator stage,\neven in-field reporting,",
+        "start": 551.87,
+        "duration": 2.8
+    },
+    {
+        "text": "everything you'd expect\nfrom a major sports event.",
+        "start": 554.67,
+        "duration": 2.3
+    },
+    {
+        "text": "And of course, the branding\nand the sponsorships.",
+        "start": 556.97,
+        "duration": 2.69
+    },
+    {
+        "text": "And the reason sponsorships\nand how the audience",
+        "start": 559.66,
+        "duration": 1.39
+    },
+    {
+        "text": "engages are so important is\nbecause companies are very",
+        "start": 561.05,
+        "duration": 1.766
+    },
+    {
+        "text": "interested in reaching\nthe eSports audience.",
+        "start": 562.816,
+        "duration": 2.164
+    },
+    {
+        "text": "Especially because they're\nconsidered far more difficult",
+        "start": 564.98,
+        "duration": 1.85
+    },
+    {
+        "text": "to reach than non-eSports audiences.",
+        "start": 566.83,
+        "duration": 1.76
+    },
+    {
+        "text": "And Nielsen, the marketing\nanalytics company,",
+        "start": 568.59,
+        "duration": 1.42
+    },
+    {
+        "text": "probably best known for the rating system",
+        "start": 570.01,
+        "duration": 1.186
+    },
+    {
+        "text": "on broadcast television, they\nsum up why that's the case",
+        "start": 571.196,
+        "duration": 2.315
+    },
+    {
+        "text": "in their eSports playbook\nfor brands, writing:",
+        "start": 573.511,
+        "duration": 2.256
+    },
+    {
+        "text": "\"Interest in professional\ncompetitive video gaming",
+        "start": 575.767,
+        "duration": 2.053
+    },
+    {
+        "text": "is growing, with one in five\nfans globally beginning to",
+        "start": 577.82,
+        "duration": 2.52
+    },
+    {
+        "text": "follow eSports just within the past year.",
+        "start": 580.34,
+        "duration": 2.029
+    },
+    {
+        "text": "eSports fans around the\nworld include some of the",
+        "start": 582.369,
+        "duration": 1.811
+    },
+    {
+        "text": "hardest to reach consumers for brands,",
+        "start": 584.18,
+        "duration": 1.397
+    },
+    {
+        "text": "because of their cord-cutting\nand ad-blocking tendencies.\"",
+        "start": 585.577,
+        "duration": 2.903
+    },
+    {
+        "text": "And so, as a part of this,\nthere's the question:",
+        "start": 588.48,
+        "duration": 1.063
+    },
+    {
+        "text": "\"Well, just how bit is eSports\nnow that it's convincing some",
+        "start": 589.543,
+        "duration": 2.787
+    },
+    {
+        "text": "of the biggest household names\nto sponsor teams and events?\"",
+        "start": 592.33,
+        "duration": 2.71
+    },
+    {
+        "text": "And the focus here, is eyeball\neconomy, right, attention.",
+        "start": 595.04,
+        "duration": 2.77
+    },
+    {
+        "text": "The top three games in\nthe space each carry",
+        "start": 597.81,
+        "duration": 1.72
+    },
+    {
+        "text": "more than 250 million watch hours in 2018,",
+        "start": 599.53,
+        "duration": 2.691
+    },
+    {
+        "text": "and keep in mind, that is just eSports,",
+        "start": 602.221,
+        "duration": 2.419
+    },
+    {
+        "text": "that's not Let's Play videos,",
+        "start": 604.64,
+        "duration": 1.36
+    },
+    {
+        "text": "that's not causal gaming streams,",
+        "start": 606.0,
+        "duration": 1.65
+    },
+    {
+        "text": "it is an audience that is\ndedicated, it's interested,",
+        "start": 607.65,
+        "duration": 2.48
+    },
+    {
+        "text": "it is engaged, it's\nlarge, and it's growing.",
+        "start": 610.13,
+        "duration": 2.75
+    },
+    {
+        "text": "Last year, there was an estimated audience",
+        "start": 612.88,
+        "duration": 1.68
+    },
+    {
+        "text": "of 395 million people, or just\nso you understand the growth,",
+        "start": 614.56,
+        "duration": 3.24
+    },
+    {
+        "text": "here, about a 17% increase\nfrom the year before.",
+        "start": 617.8,
+        "duration": 2.98
+    },
+    {
+        "text": "And when making comparisons, right,",
+        "start": 620.78,
+        "duration": 1.03
+    },
+    {
+        "text": "if you're looking at just\nAmerican men aged 21-35,",
+        "start": 621.81,
+        "duration": 3.241
+    },
+    {
+        "text": "eSports popularity is on-par\nwith baseball, and ice hockey.",
+        "start": 625.051,
+        "duration": 3.129
+    },
+    {
+        "text": "And so now, the money just\nseems to be pouring in.",
+        "start": 628.18,
+        "duration": 2.16
+    },
+    {
+        "text": "Total eSports revenue was\nprojected to jump to $1.1 billion",
+        "start": 630.34,
+        "duration": 2.708
+    },
+    {
+        "text": "dollars by the end of this year,",
+        "start": 633.048,
+        "duration": 1.592
+    },
+    {
+        "text": "with sponsorship and ad revenue alone",
+        "start": 634.64,
+        "duration": 1.49
+    },
+    {
+        "text": "making up more than half of that,",
+        "start": 636.13,
+        "duration": 0.833
+    },
+    {
+        "text": "and while these numbers are significant,",
+        "start": 636.963,
+        "duration": 1.757
+    },
+    {
+        "text": "they look even larger\nat the individual level.",
+        "start": 638.72,
+        "duration": 2.17
+    },
+    {
+        "text": "The top earning eSports\nprofessional, Kuro,",
+        "start": 640.89,
+        "duration": 1.59
+    },
+    {
+        "text": "has made $4.2 million\ndollars in lifetime earnings",
+        "start": 642.48,
+        "duration": 2.68
+    },
+    {
+        "text": "from Dota 2 tournaments.",
+        "start": 645.16,
+        "duration": 1.07
+    },
+    {
+        "text": "The top 50 eSports pros have made at",
+        "start": 646.23,
+        "duration": 1.337
+    },
+    {
+        "text": "least $1.3 million dollars each,",
+        "start": 647.567,
+        "duration": 2.643
+    },
+    {
+        "text": "and the top 500 are said to have made",
+        "start": 650.21,
+        "duration": 1.87
+    },
+    {
+        "text": "at least $200 grand during their careers.",
+        "start": 652.08,
+        "duration": 2.08
+    },
+    {
+        "text": "And understand, that's not even including:",
+        "start": 654.16,
+        "duration": 1.67
+    },
+    {
+        "text": "signing bonuses, sponsorship deals,",
+        "start": 655.83,
+        "duration": 2.03
+    },
+    {
+        "text": "the money made during streaming,",
+        "start": 657.86,
+        "duration": 1.66
+    },
+    {
+        "text": "and so unsurprisingly,",
+        "start": 659.52,
+        "duration": 1.07
+    },
+    {
+        "text": "these numbers have made it so that",
+        "start": 660.59,
+        "duration": 1.37
+    },
+    {
+        "text": "those on the outside have\nbecome very attracted.",
+        "start": 661.96,
+        "duration": 2.27
+    },
+    {
+        "text": "For example, FNATIC, who has\nteams across Counter-Strike,",
+        "start": 664.23,
+        "duration": 2.22
+    },
+    {
+        "text": "Dota 2, League of Legends and more,",
+        "start": 666.45,
+        "duration": 1.51
+    },
+    {
+        "text": "has attracted venture capital\ninvestment from places",
+        "start": 667.96,
+        "duration": 2.08
+    },
+    {
+        "text": "as far as London and Hong Kong,",
+        "start": 670.04,
+        "duration": 1.57
+    },
+    {
+        "text": "we've also seen people like Drake,",
+        "start": 671.61,
+        "duration": 0.962
+    },
+    {
+        "text": "and Scooter Braun\ninvesting in 100 Thieves,",
+        "start": 672.572,
+        "duration": 2.928
+    },
+    {
+        "text": "you have the likes of Steph\nCurry and Andre Iguodala",
+        "start": 675.5,
+        "duration": 1.89
+    },
+    {
+        "text": "getting in on a $37\nmillion dollar investment",
+        "start": 677.39,
+        "duration": 1.96
+    },
+    {
+        "text": "with TeamSoloMid, and the\nnames getting involved,",
+        "start": 679.35,
+        "duration": 1.095
+    },
+    {
+        "text": "it just goes on and on, right,",
+        "start": 680.445,
+        "duration": 1.555
+    },
+    {
+        "text": "you have the likes of\nShaq, Alex Rodriguez,",
+        "start": 682.0,
+        "duration": 2.79
+    },
+    {
+        "text": "Mark Cuban, Jennifer\nLopez, and as of right now,",
+        "start": 684.79,
+        "duration": 2.455
+    },
+    {
+        "text": "everything is still projected\nto get bigger, and bigger.",
+        "start": 687.245,
+        "duration": 3.275
+    },
+    {
+        "text": "Analytics groups are\nprojecting continued growth",
+        "start": 690.52,
+        "duration": 1.77
+    },
+    {
+        "text": "of audience, and continued\ngrowth of revenue.",
+        "start": 692.29,
+        "duration": 2.02
+    },
+    {
+        "text": "NewZoom, market analytics group,",
+        "start": 694.31,
+        "duration": 1.11
+    },
+    {
+        "text": "even openly shows where\nbrands can get involved",
+        "start": 695.42,
+        "duration": 1.91
+    },
+    {
+        "text": "in different eSports leagues,\nthere's still tons of",
+        "start": 697.33,
+        "duration": 1.77
+    },
+    {
+        "text": "opportunities in League of Legends Leagues",
+        "start": 699.1,
+        "duration": 1.8
+    },
+    {
+        "text": "and the Overwatch League,\nwhich actually, in recent days,",
+        "start": 700.9,
+        "duration": 2.25
+    },
+    {
+        "text": "Overwatch League has been a\nparticularly unique success.",
+        "start": 703.15,
+        "duration": 2.69
+    },
+    {
+        "text": "Blizzard, who owns the game, struck a deal",
+        "start": 705.84,
+        "duration": 1.57
+    },
+    {
+        "text": "to broadcast Overatch League\non Disney XD, ESPN, and ABC.",
+        "start": 707.41,
+        "duration": 3.96
+    },
+    {
+        "text": "Overwatch League and Twitch have also",
+        "start": 711.37,
+        "duration": 1.2
+    },
+    {
+        "text": "introduced a new way to\nmake eSports tournaments",
+        "start": 712.57,
+        "duration": 1.76
+    },
+    {
+        "text": "even more engaging with their audience.",
+        "start": 714.33,
+        "duration": 1.62
+    },
+    {
+        "text": "Last year, Twitch introduced\na viewer rewards system,",
+        "start": 715.95,
+        "duration": 2.32
+    },
+    {
+        "text": "where Overwatch League fans\ncan earn in-game skins,",
+        "start": 718.27,
+        "duration": 2.3
+    },
+    {
+        "text": "and exclusive emotes, but how\nthey showed their support,",
+        "start": 720.57,
+        "duration": 2.19
+    },
+    {
+        "text": "was a bit different, by\nusing Twitch currency,",
+        "start": 722.76,
+        "duration": 1.72
+    },
+    {
+        "text": "known as bits, they could\nshare with specific emotes,",
+        "start": 724.48,
+        "duration": 2.2
+    },
+    {
+        "text": "that would go towards\nunlocking skins and emotes",
+        "start": 726.68,
+        "duration": 1.89
+    },
+    {
+        "text": "for the entire Overwatch community.",
+        "start": 728.57,
+        "duration": 1.73
+    },
+    {
+        "text": "And fans ended up spending\nabout $150 thousand dollars",
+        "start": 730.3,
+        "duration": 2.8
+    },
+    {
+        "text": "on those bits, and that\nis the kind of engagement,",
+        "start": 733.1,
+        "duration": 2.17
+    },
+    {
+        "text": "of course, that an advertiser\nwould be interested, right?",
+        "start": 735.27,
+        "duration": 1.99
+    },
+    {
+        "text": "We kind of talked about\nthis a little bit on the",
+        "start": 737.26,
+        "duration": 1.33
+    },
+    {
+        "text": "last Friday's show, right,",
+        "start": 738.59,
+        "duration": 1.04
+    },
+    {
+        "text": "with the choose your own adventure genre.",
+        "start": 739.63,
+        "duration": 1.57
+    },
+    {
+        "text": "The more the audience participates,",
+        "start": 741.2,
+        "duration": 1.2
+    },
+    {
+        "text": "the more likely they're going to see",
+        "start": 742.4,
+        "duration": 1.03
+    },
+    {
+        "text": "sponsorship spots, the more\nlikely it's going to stick.",
+        "start": 743.43,
+        "duration": 2.39
+    },
+    {
+        "text": "But the thing is, this is\nnot a win for everyone.",
+        "start": 745.82,
+        "duration": 2.19
+    },
+    {
+        "text": "Right, the future of\nindividual eSports titles",
+        "start": 748.01,
+        "duration": 1.92
+    },
+    {
+        "text": "can seem a lot more\nuncertain if you compare",
+        "start": 749.93,
+        "duration": 1.64
+    },
+    {
+        "text": "them to traditional sports.",
+        "start": 751.57,
+        "duration": 1.16
+    },
+    {
+        "text": "The unique thing about eSports\nis that games aren't quite",
+        "start": 752.73,
+        "duration": 1.764
+    },
+    {
+        "text": "as static as say,\nbasketball or soccer, right?",
+        "start": 754.494,
+        "duration": 2.096
+    },
+    {
+        "text": "It's not like the fundamental mechanics",
+        "start": 756.59,
+        "duration": 1.68
+    },
+    {
+        "text": "of playing soccer are going\nto change so much that,",
+        "start": 758.27,
+        "duration": 1.8
+    },
+    {
+        "text": "they have to make like a soccer two.",
+        "start": 760.07,
+        "duration": 1.239
+    },
+    {
+        "text": "\"You have to use your hands\nnow, the legs were too OP!\"",
+        "start": 761.309,
+        "duration": 2.481
+    },
+    {
+        "text": "Whereas, with video games the technology",
+        "start": 763.79,
+        "duration": 1.42
+    },
+    {
+        "text": "and game engines are constantly advancing.",
+        "start": 765.21,
+        "duration": 1.74
+    },
+    {
+        "text": "And while some of the\nstill major eSports titles",
+        "start": 766.95,
+        "duration": 1.876
+    },
+    {
+        "text": "have been around for years, right,",
+        "start": 768.826,
+        "duration": 1.504
+    },
+    {
+        "text": "like the Counter-Strike:\nGlobal Offensive, the Dota 2,",
+        "start": 770.33,
+        "duration": 2.42
+    },
+    {
+        "text": "to the point that they almost\nlook graphically low-quality,",
+        "start": 772.75,
+        "duration": 2.59
+    },
+    {
+        "text": "you still have to be on the\nlookout for the new stuff",
+        "start": 775.34,
+        "duration": 1.68
+    },
+    {
+        "text": "taking over, kind of like a game cycle.",
+        "start": 777.02,
+        "duration": 2.09
+    },
+    {
+        "text": "Last year, for example, I\nknow people at this point",
+        "start": 779.11,
+        "duration": 1.8
+    },
+    {
+        "text": "have been like, how has he\nnot talked about Fortnite?",
+        "start": 780.91,
+        "duration": 1.9
+    },
+    {
+        "text": "Last year, for example,\nFortnite tournaments offered the",
+        "start": 782.81,
+        "duration": 1.89
+    },
+    {
+        "text": "third most when it came\nto prize pool money,",
+        "start": 784.7,
+        "duration": 1.72
+    },
+    {
+        "text": "with $20 million dollars,\nwhich put them behind Dota 2,",
+        "start": 786.42,
+        "duration": 2.137
+    },
+    {
+        "text": "and Counter-Strike, and behind Fortnite,",
+        "start": 788.557,
+        "duration": 1.933
+    },
+    {
+        "text": "you had Overwatch and PUBG,\nrelatively newer games,",
+        "start": 790.49,
+        "duration": 2.53
+    },
+    {
+        "text": "followed by the 10 year\nold League of Legends.",
+        "start": 793.02,
+        "duration": 2.078
+    },
+    {
+        "text": "All right, so this is\nsignaling a potential change in",
+        "start": 795.098,
+        "duration": 1.982
+    },
+    {
+        "text": "the top eSports titles, and\nin case you're wondering,",
+        "start": 797.08,
+        "duration": 1.846
+    },
+    {
+        "text": "how this year's shaking up\nin terms of prize money,",
+        "start": 798.926,
+        "duration": 2.234
+    },
+    {
+        "text": "Epic Games, the developer\nof Fortnite, is putting up,",
+        "start": 801.16,
+        "duration": 2.26
+    },
+    {
+        "text": "and we talked about this on the\nshow when they announced it,",
+        "start": 803.42,
+        "duration": 1.737
+    },
+    {
+        "text": "$100 million dollars in prize pool money.",
+        "start": 805.157,
+        "duration": 2.103
+    },
+    {
+        "text": "Right, so, it's incredibly\nlikely they're going to take",
+        "start": 807.26,
+        "duration": 1.55
+    },
+    {
+        "text": "that number one spot in\nthe category this year.",
+        "start": 808.81,
+        "duration": 1.88
+    },
+    {
+        "text": "But one of the big things to understand,",
+        "start": 810.69,
+        "duration": 1.34
+    },
+    {
+        "text": "is that is this year, and\nanything could change.",
+        "start": 812.03,
+        "duration": 1.975
+    },
+    {
+        "text": "I mean, maybe Fortnite, and\nthe battle royale game style,",
+        "start": 814.005,
+        "duration": 2.175
+    },
+    {
+        "text": "will fall out of popularity, I think that,",
+        "start": 816.18,
+        "duration": 2.19
+    },
+    {
+        "text": "it's not likely, any time soon.",
+        "start": 818.37,
+        "duration": 2.28
+    },
+    {
+        "text": "I mean you're talking about a genre,",
+        "start": 820.65,
+        "duration": 1.2
+    },
+    {
+        "text": "and specifically games\nthat have lowered the bar",
+        "start": 821.85,
+        "duration": 2.71
+    },
+    {
+        "text": "as much as you can, and I\nmean that in a positive way,",
+        "start": 824.56,
+        "duration": 1.72
+    },
+    {
+        "text": "they're free to play,\nit's on PC, consoles,",
+        "start": 826.28,
+        "duration": 2.379
+    },
+    {
+        "text": "you can get it on your phone!",
+        "start": 828.659,
+        "duration": 1.431
+    },
+    {
+        "text": "I don't know how people\neffectively play the game,",
+        "start": 830.09,
+        "duration": 2.56
+    },
+    {
+        "text": "on their phones, although\nI see kids doing it,",
+        "start": 832.65,
+        "duration": 1.877
+    },
+    {
+        "text": "and I think that, specifically,\nis only going to get bigger,",
+        "start": 834.527,
+        "duration": 2.233
+    },
+    {
+        "text": "and bigger with the introduction of 5G.",
+        "start": 836.76,
+        "duration": 1.97
+    },
+    {
+        "text": "But hey, maybe a change is,\nmaybe people start finding the",
+        "start": 838.73,
+        "duration": 2.11
+    },
+    {
+        "text": "genres stale, and they want\nto go back towards narratives,",
+        "start": 840.84,
+        "duration": 3.63
+    },
+    {
+        "text": "it's hard to predict the market.",
+        "start": 844.47,
+        "duration": 1.49
+    },
+    {
+        "text": "But with all that said, in the\nmeantime, eSports as a whole,",
+        "start": 845.96,
+        "duration": 2.71
+    },
+    {
+        "text": "will almost certainly continue to grow.",
+        "start": 848.67,
+        "duration": 1.34
+    },
+    {
+        "text": "And it's really going to be\nup to the big stakeholders",
+        "start": 850.01,
+        "duration": 1.37
+    },
+    {
+        "text": "in the community to\nfigure out the best way",
+        "start": 851.38,
+        "duration": 1.4
+    },
+    {
+        "text": "to push the eSports industry forward.",
+        "start": 852.78,
+        "duration": 1.53
+    },
+    {
+        "text": "For example, Twitch, you know,",
+        "start": 854.31,
+        "duration": 1.02
+    },
+    {
+        "text": "I'll also say YouTube Gaming, Swaze,",
+        "start": 855.33,
+        "duration": 1.74
+    },
+    {
+        "text": "I already know you're already texting me,",
+        "start": 857.07,
+        "duration": 1.11
+    },
+    {
+        "text": "they have a responsibility,\nneed and benefit,",
+        "start": 858.18,
+        "duration": 2.03
+    },
+    {
+        "text": "from figuring out how\nto keep viewers engaged,",
+        "start": 860.21,
+        "duration": 1.98
+    },
+    {
+        "text": "kind of like with the\npartnership that we saw",
+        "start": 862.19,
+        "duration": 1.28
+    },
+    {
+        "text": "with the Overwatch League,\nand developers will be",
+        "start": 863.47,
+        "duration": 1.61
+    },
+    {
+        "text": "tasked with creating and definitely",
+        "start": 865.08,
+        "duration": 1.715
+    },
+    {
+        "text": "updating games that are competitive.",
+        "start": 866.795,
+        "duration": 2.105
+    },
+    {
+        "text": "But, with all of that said,\nthat's the end of the video,",
+        "start": 868.9,
+        "duration": 2.86
+    },
+    {
+        "text": "and that brings us to where I\npass the question off to you,",
+        "start": 871.76,
+        "duration": 2.22
+    },
+    {
+        "text": "what are your thoughts\nabout eSports in general,",
+        "start": 873.98,
+        "duration": 2.22
+    },
+    {
+        "text": "now, what do you think\nin regards to the future,",
+        "start": 876.2,
+        "duration": 2.52
+    },
+    {
+        "text": "do you think the games that\nwe're seeing at the top,",
+        "start": 878.72,
+        "duration": 1.54
+    },
+    {
+        "text": "right now, are going to be\nthe top games in three years,",
+        "start": 880.26,
+        "duration": 2.78
+    },
+    {
+        "text": "five years, 10, 20, or do\nyou maybe disagree with me?",
+        "start": 883.04,
+        "duration": 2.89
+    },
+    {
+        "text": "Do you think that, eSports is a fad?",
+        "start": 885.93,
+        "duration": 2.114
+    },
+    {
+        "text": "That this is kind of in the\nlarge scale of entertainment,",
+        "start": 888.044,
+        "duration": 2.586
+    },
+    {
+        "text": "just kind of a flash in the pan?",
+        "start": 890.63,
+        "duration": 1.09
+    },
+    {
+        "text": "Any and all thoughts, I'd\nlove to hear from you,",
+        "start": 891.72,
+        "duration": 1.41
+    },
+    {
+        "text": "in those comments down below.",
+        "start": 893.13,
+        "duration": 1.23
+    },
+    {
+        "text": "And while you do that, I\nonce again want to thank the",
+        "start": 894.36,
+        "duration": 1.54
+    },
+    {
+        "text": "sponsor of today's video, Manscaped.com.",
+        "start": 895.9,
+        "duration": 2.65
+    },
+    {
+        "text": "As you might have already guessed,",
+        "start": 898.55,
+        "duration": 0.833
+    },
+    {
+        "text": "they are the best in men's\nbelow the belt grooming,",
+        "start": 899.383,
+        "duration": 1.711
+    },
+    {
+        "text": "and hygiene, which I will\nsay, on a personal note,",
+        "start": 901.094,
+        "duration": 1.915
+    },
+    {
+        "text": "I first found out about\nManscaped because they were",
+        "start": 903.009,
+        "duration": 2.401
+    },
+    {
+        "text": "on Shark Tank, which I watch religiously,",
+        "start": 905.41,
+        "duration": 1.91
+    },
+    {
+        "text": "Mark Cuban offered them\na deal, so obviously,",
+        "start": 907.32,
+        "duration": 1.62
+    },
+    {
+        "text": "I was excited to partner up. (laughter)",
+        "start": 908.94,
+        "duration": 1.92
+    },
+    {
+        "text": "And specifically, the\nPerfect Package 2.0 kit",
+        "start": 910.86,
+        "duration": 1.94
+    },
+    {
+        "text": "features their Lawn Mower 2.0,",
+        "start": 912.8,
+        "duration": 1.023
+    },
+    {
+        "text": "and it's going to be hard for me",
+        "start": 913.823,
+        "duration": 1.807
+    },
+    {
+        "text": "to read this without laughing,",
+        "start": 915.63,
+        "duration": 1.014
+    },
+    {
+        "text": "it's a waterproof manscaping trimmer,",
+        "start": 916.644,
+        "duration": 1.716
+    },
+    {
+        "text": "that has a replaceable ceramic blade head,",
+        "start": 918.36,
+        "duration": 1.357
+    },
+    {
+        "text": "and uses skin-safe technology,",
+        "start": 919.717,
+        "duration": 1.893
+    },
+    {
+        "text": "which prevents nicks and snags,",
+        "start": 921.61,
+        "duration": 1.57
+    },
+    {
+        "text": "the kit also comes with\nthe Crop Preserver,",
+        "start": 923.18,
+        "duration": 2.68
+    },
+    {
+        "text": "a 24 hour, moisturizing\ndeodorant for below the waist,",
+        "start": 925.86,
+        "duration": 2.563
+    },
+    {
+        "text": "and the Crop Reviver, an all-natural,",
+        "start": 928.423,
+        "duration": 2.037
+    },
+    {
+        "text": "spray-on body toner and refresher.",
+        "start": 930.46,
+        "duration": 2.02
+    },
+    {
+        "text": "And for those of you beautiful\nbastards who are looking",
+        "start": 932.48,
+        "duration": 1.74
+    },
+    {
+        "text": "to go bare, the Plow is a\nstainless steel, double-edged,",
+        "start": 934.22,
+        "duration": 2.7
+    },
+    {
+        "text": "single blade safety razor\nthat can get the job done.",
+        "start": 936.92,
+        "duration": 2.43
+    },
+    {
+        "text": "And Manscape products feature\na 30 day money back guarantee,",
+        "start": 939.35,
+        "duration": 1.931
+    },
+    {
+        "text": "so you can try it out\nrisk-free, and best of all,",
+        "start": 941.281,
+        "duration": 2.159
+    },
+    {
+        "text": "because you're a beautiful bastard,",
+        "start": 943.44,
+        "duration": 1.37
+    },
+    {
+        "text": "you can get 20% off your Mascaped order,",
+        "start": 944.81,
+        "duration": 1.74
+    },
+    {
+        "text": "plus free shipping, and a free gift,",
+        "start": 946.55,
+        "duration": 2.02
+    },
+    {
+        "text": "by entering code: PHIL20 at checkout.",
+        "start": 948.57,
+        "duration": 2.13
+    },
+    {
+        "text": "So click the link in the\ndescription down below,",
+        "start": 950.7,
+        "duration": 1.56
+    },
+    {
+        "text": "or head over to Manscaped.com,",
+        "start": 952.26,
+        "duration": 1.4
+    },
+    {
+        "text": "and just enter in code PHIL20,\nand start Manscaping today.",
+        "start": 953.66,
+        "duration": 2.41
+    },
+    {
+        "text": "And, or, also remember to go subscribe to",
+        "start": 956.07,
+        "duration": 2.35
+    },
+    {
+        "text": "YouTube.com/RogueRocket, oh wow,",
+        "start": 958.42,
+        "duration": 1.433
+    },
+    {
+        "text": "the pairing of these two things\ntogether didn't just hit me,",
+        "start": 959.853,
+        "duration": 2.592
+    },
+    {
+        "text": "'till right now. (laughter)\nOh, yeah. PHIL20.",
+        "start": 962.445,
+        "duration": 4.995
+    },
+    {
+        "text": "But, with that said, that is the end",
+        "start": 967.44,
+        "duration": 1.83
+    },
+    {
+        "text": "of this Friday Deep Dive,\nthank you for hanging out,",
+        "start": 969.27,
+        "duration": 2.7
+    },
+    {
+        "text": "I hope it was a pleasant\nway to enter the weekend,",
+        "start": 971.97,
+        "duration": 2.31
+    },
+    {
+        "text": "or something you watch during the weekend,",
+        "start": 974.28,
+        "duration": 1.56
+    },
+    {
+        "text": "because you don't watch my\nvideos in the first hour",
+        "start": 975.84,
+        "duration": 2.13
+    },
+    {
+        "text": "they're released, how dare you,",
+        "start": 977.97,
+        "duration": 0.94
+    },
+    {
+        "text": "but witH that said, if\nyou liked today's video,",
+        "start": 978.91,
+        "duration": 1.86
+    },
+    {
+        "text": "hit us with a like, if you're\nnew here and you want more,",
+        "start": 980.77,
+        "duration": 2.0
+    },
+    {
+        "text": "(laughter)",
+        "start": 982.77,
+        "duration": 0.833
+    },
+    {
+        "text": "hit that subscribe button, sorry,",
+        "start": 983.603,
+        "duration": 1.037
+    },
+    {
+        "text": "I'm laughing because\nI'm slowly going crazy,",
+        "start": 984.64,
+        "duration": 1.39
+    },
+    {
+        "text": "I haven't slept, also, if\nyou're not 100% filled in,",
+        "start": 986.03,
+        "duration": 2.02
+    },
+    {
+        "text": "if you missed the last Deep Dive,",
+        "start": 988.05,
+        "duration": 1.22
+    },
+    {
+        "text": "or yesterday's Philip DeFranco show,",
+        "start": 989.27,
+        "duration": 1.26
+    },
+    {
+        "text": "you can click or tap right\nthere to watch those,",
+        "start": 990.53,
+        "duration": 1.777
+    },
+    {
+        "text": "but with that said, of course as always,",
+        "start": 992.307,
+        "duration": 1.703
+    },
+    {
+        "text": "my name is Philip DeFranco,\nyou've just been filled in,",
+        "start": 994.01,
+        "duration": 2.53
+    },
+    {
+        "text": "I love 'yo faces, and\nI will see you Monday.",
+        "start": 996.54,
+        "duration": 3.053
+    }
+]

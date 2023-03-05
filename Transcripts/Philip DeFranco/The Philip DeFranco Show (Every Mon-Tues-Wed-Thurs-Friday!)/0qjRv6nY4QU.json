@@ -1,0 +1,1522 @@
+[
+    {
+        "text": "Sup' you beautiful bastards, hope you're having a fantastic Wednesday",
+        "start": 0.0,
+        "duration": 2.96
+    },
+    {
+        "text": "Welcome back to the Philip DeFranco Show and let's just jump into it",
+        "start": 2.96,
+        "duration": 3.14
+    },
+    {
+        "text": "And the first thing we're gonna talk about today is a story that is just blown up",
+        "start": 6.12,
+        "duration": 2.16
+    },
+    {
+        "text": "Over the past 24-36 hours that hits on a few things right: trustworthiness, mob mentality,",
+        "start": 8.4,
+        "duration": 5.38
+    },
+    {
+        "text": "actually trying to call something out versus something that's just a hit piece.",
+        "start": 14.06,
+        "duration": 3.46
+    },
+    {
+        "text": "The situation we're talking about is this controversy and scandal that has popped up around Kurzgesagt and its founder Philipp Dettmer.",
+        "start": 17.52,
+        "duration": 5.86
+    },
+    {
+        "text": "And if you're not already familiar with Philipp's channel",
+        "start": 23.38,
+        "duration": 1.54
+    },
+    {
+        "text": "it's a very popular science channel, it has over 8 million subscribers. They're best known for their in a nutshell videos which take complex topics",
+        "start": 24.93,
+        "duration": 5.969
+    },
+    {
+        "text": "and try to break it down into more digestible pieces",
+        "start": 30.9,
+        "duration": 1.8
+    },
+    {
+        "text": "we've even included them on Today in Awesome, and the reason the spotlight is on Philip is that yesterday a channel called Coffee Break, which",
+        "start": 32.7,
+        "duration": 5.099
+    },
+    {
+        "text": "is run by a guy named Stephen, released a video where in the thumbnail he claims that Philipp is lying.",
+        "start": 37.8,
+        "duration": 3.98
+    },
+    {
+        "text": "And in this video, in part,",
+        "start": 41.78,
+        "duration": 0.88
+    },
+    {
+        "text": "He talks about his experience where he communicated Philipp Detmer",
+        "start": 42.66,
+        "duration": 2.62
+    },
+    {
+        "text": "And the way I'm gonna try and cover this story is to include parts of the original",
+        "start": 45.28,
+        "duration": 2.94
+    },
+    {
+        "text": "Accusations in the original video as well as counter points from Philip and things that have come out",
+        "start": 48.22,
+        "duration": 4.42
+    },
+    {
+        "text": "Afterwards as well as things that didn't seem to be touched on. So Stephen starts off his video like this:",
+        "start": 52.68,
+        "duration": 4.199
+    },
+    {
+        "text": "Can you trust Kurzgesagt videos?",
+        "start": 56.879,
+        "duration": 2.04
+    },
+    {
+        "text": "no, and",
+        "start": 59.59,
+        "duration": 1.859
+    },
+    {
+        "text": "ironically the reason you can't trust them is that this video exists at all.",
+        "start": 61.449,
+        "duration": 5.27
+    },
+    {
+        "text": "He goes on to say that he's working on a series about the pop science genre,",
+        "start": 66.72,
+        "duration": 2.58
+    },
+    {
+        "text": "how the simplification of complicated topics can lead the misinformation. He then specifically cites a TED talk by Johann Hari called \"Everything",
+        "start": 69.3,
+        "duration": 6.68
+    },
+    {
+        "text": "You Know about Addiction is Wrong\" as well as Philipp's 2015 adaptation of the TED talk called \"Addiction\"",
+        "start": 75.98,
+        "duration": 4.84
+    },
+    {
+        "text": "Stephen says he reached out to Johan and Philipp to talk about the video and ask questions about the errors in it",
+        "start": 80.82,
+        "duration": 4.5
+    },
+    {
+        "text": "Stephen said Philipp responded almost",
+        "start": 85.32,
+        "duration": 1.36
+    },
+    {
+        "text": "immediately and requested not to be quoted and so in that video Stephen only shares his half of the emails and gives kind of vague",
+        "start": 86.68,
+        "duration": 5.54
+    },
+    {
+        "text": "summaries of Philipp's responses, but after the Coffee Break video was uploaded Philipp started an AMA on Reddit",
+        "start": 92.22,
+        "duration": 4.6
+    },
+    {
+        "text": "so people could ask him questions regarding the video.",
+        "start": 96.82,
+        "duration": 1.9
+    },
+    {
+        "text": "And in that thread one of the first things Philipp did was he authorized the release of his half of the emails which Stephen uploaded to Imgur and so now that we have all the emails and more a Philipp's side from the AMA,",
+        "start": 98.729,
+        "duration": 7.86
+    },
+    {
+        "text": "let's break it all down. Also a quick note the horror music or the evil things are happening music",
+        "start": 106.659,
+        "duration": 5.0
+    },
+    {
+        "text": "that is not from us that is from Stephens video. Stephen shows his first email to Philipp",
+        "start": 111.66,
+        "duration": 4.32
+    },
+    {
+        "text": "On February 2nd, I emailed him have some tough questions about the video on addiction that Kurzgesagt caused that did. It's one of your most popular videos",
+        "start": 115.98,
+        "duration": 6.14
+    },
+    {
+        "text": "I'm worried that some of the major claims in that video are vastly oversimplified if not outright incorrect",
+        "start": 122.13,
+        "duration": 5.669
+    },
+    {
+        "text": "Did Kurzgesagt conduct an independent fact checking of Johann Hari's book before agreeing to this?",
+        "start": 127.9,
+        "duration": 4.64
+    },
+    {
+        "text": "He then goes on to paraphrase Phillipp's first email and responds:",
+        "start": 132.54,
+        "duration": 2.82
+    },
+    {
+        "text": "Phillip responds on February 2nd, essentially he's not thrilled about the interview or video idea. He was worried that the video might be a call-out",
+        "start": 135.36,
+        "duration": 6.8
+    },
+    {
+        "text": "He basically says \"Hey the addiction video wasn't perfect",
+        "start": 142.51,
+        "duration": 3.02
+    },
+    {
+        "text": "but I feel it was good enough,\" and then he asks",
+        "start": 145.53,
+        "duration": 2.549
+    },
+    {
+        "text": "what is your video all about but in the actual email Phillip doesn't really seem to say that fact",
+        "start": 148.079,
+        "duration": 4.08
+    },
+    {
+        "text": "He directly says he would not make a video like that today for obvious reasons",
+        "start": 152.159,
+        "duration": 3.06
+    },
+    {
+        "text": "He acknowledges that it's not difficult to find critique of Hari's work nowadays",
+        "start": 155.319,
+        "duration": 3.11
+    },
+    {
+        "text": "But that it wasn't as common when the video was made",
+        "start": 158.43,
+        "duration": 1.71
+    },
+    {
+        "text": "He then goes on to say that I received countless",
+        "start": 160.14,
+        "duration": 1.72
+    },
+    {
+        "text": "Messages from people who told him the video helped them and so he couldn't bring himself to take it down",
+        "start": 161.86,
+        "duration": 3.709
+    },
+    {
+        "text": "He concludes that email at the time by saying that while addiction is a complicated topic",
+        "start": 165.569,
+        "duration": 3.12
+    },
+    {
+        "text": "He believes the video can exist as a helpful opinion. It's also important to note the criticisms of Hari here as well",
+        "start": 168.69,
+        "duration": 4.739
+    },
+    {
+        "text": "Hari's argument was that addiction is largely psychological and not chemical a theory that has received pushback from many experts there he asks",
+        "start": 173.459,
+        "duration": 5.88
+    },
+    {
+        "text": "if Phillip was aware of the public scandal Hari had that through his credibility into question for some background there",
+        "start": 179.34,
+        "duration": 4.289
+    },
+    {
+        "text": "The scandal Phillip was referring to was back in 2011 when Hari was accused of plagiarizing other journalists work and then anonymously editing Wikipedia pages",
+        "start": 183.629,
+        "duration": 6.57
+    },
+    {
+        "text": "To discredit people who criticized him Stephen then goes on to describe the next two email interactions with Phillip",
+        "start": 190.2,
+        "duration": 4.68
+    },
+    {
+        "text": "I share with him my idea and some of the questions and criticisms I had and he replied to me that he would be",
+        "start": 194.91,
+        "duration": 4.5
+    },
+    {
+        "text": "Interested in doing an interview provided I wait",
+        "start": 199.51,
+        "duration": 2.539
+    },
+    {
+        "text": "He was busy traveling and told me to wait till early March before we could do the interview now",
+        "start": 202.239,
+        "duration": 4.399
+    },
+    {
+        "text": "Let's talk about what's in these two emails that aren't said in the video",
+        "start": 206.639,
+        "duration": 2.7
+    },
+    {
+        "text": "Stephen does explain his project but he also challenges Phillips claim that criticisms of Hari's work weren't available at that time saying there are problems",
+        "start": 209.34,
+        "duration": 5.85
+    },
+    {
+        "text": "with Hari's work not just looking back from",
+        "start": 215.19,
+        "duration": 1.689
+    },
+    {
+        "text": "2019 but holes in his research that were easily available at the time to which Phillip responded that he did confront Hari about the critique",
+        "start": 216.879,
+        "duration": 5.69
+    },
+    {
+        "text": "But he wasn't comfortable",
+        "start": 222.569,
+        "duration": 0.941
+    },
+    {
+        "text": "Discussing it with Steven this seemingly because he thought Stephens project was a gotcha video then after showing the email Steven launches into the main",
+        "start": 223.51,
+        "duration": 5.93
+    },
+    {
+        "text": "Accusations he's making and March 3rd was the day I found out what Phillip had been really busy doing too busy to answer my questions",
+        "start": 229.5,
+        "duration": 7.56
+    },
+    {
+        "text": "He had been busy making my video for me for his channel",
+        "start": 237.31,
+        "duration": 4.609
+    },
+    {
+        "text": "He even did me the favor and interviewed himself by answering all my questions",
+        "start": 241.93,
+        "duration": 3.559
+    },
+    {
+        "text": "Stephen goes on to show clips from the video and how they correspond with the questions and his emails he has if they independently fact-checked",
+        "start": 245.769,
+        "duration": 5.33
+    },
+    {
+        "text": "Hari's book and he shows this clip",
+        "start": 251.099,
+        "duration": 1.871
+    },
+    {
+        "text": "unfortunately",
+        "start": 252.97,
+        "duration": 0.5
+    },
+    {
+        "text": "We did not reach out to",
+        "start": 253.47,
+        "duration": 1.359
+    },
+    {
+        "text": "Scientists or do extra research on the papers that were the basis for the videos thesis. He then goes on to show clips from the video",
+        "start": 254.829,
+        "duration": 6.079
+    },
+    {
+        "text": "where it talks about",
+        "start": 260.909,
+        "duration": 1.06
+    },
+    {
+        "text": "Oversimplification and how can distorting and he gives us a brief clip where they say they deleted the addiction video",
+        "start": 261.969,
+        "duration": 4.24
+    },
+    {
+        "text": "so today we deleted them but then if you watch the full video that was posted they actually go in-depth explaining how they do their",
+        "start": 266.21,
+        "duration": 5.13
+    },
+    {
+        "text": "Research how the process has evolved over time",
+        "start": 271.34,
+        "duration": 2.16
+    },
+    {
+        "text": "It's also not just about one video, but it would be dishonest to say that we've always worked this way",
+        "start": 273.5,
+        "duration": 5.13
+    },
+    {
+        "text": "Some older videos don't live up to the standards we set ourselves today",
+        "start": 279.33,
+        "duration": 4.01
+    },
+    {
+        "text": "The two that annoy us the most are the refugee and addiction videos",
+        "start": 283.95,
+        "duration": 3.949
+    },
+    {
+        "text": "But we never made anything like them again and have been discussing how to deal with them for a long time",
+        "start": 287.9,
+        "duration": 4.77
+    },
+    {
+        "text": "It doesn't help that both videos are loved by many people",
+        "start": 292.92,
+        "duration": 3.529
+    },
+    {
+        "text": "We want to be proud of our work and these two videos don't make us proud",
+        "start": 296.85,
+        "duration": 4.699
+    },
+    {
+        "text": "So today we deleted them Stephen then accuses Phillip of pre-empting his own research installing the interview so he could get ahead of the criticism",
+        "start": 301.83,
+        "duration": 6.29
+    },
+    {
+        "text": "He says it's unfair for large creators to steal content from smaller creators",
+        "start": 308.12,
+        "duration": 2.94
+    },
+    {
+        "text": "Which is how he's characterizing Phillip addressing the issues from their past",
+        "start": 311.06,
+        "duration": 3.48
+    },
+    {
+        "text": "He also goes on to say that there is no way this could be a coincidence firstly",
+        "start": 314.54,
+        "duration": 2.819
+    },
+    {
+        "text": "He never once mentions to me that he had a video response in the works about the exact topic",
+        "start": 317.36,
+        "duration": 4.2
+    },
+    {
+        "text": "I was emailing him about he then also reiterates that Phillip seemed happy with the video being good enough and didn't want to take it",
+        "start": 321.56,
+        "duration": 5.279
+    },
+    {
+        "text": "down. In his emails with me, he seemed happy with the addiction video and didn't want to take it down essentially",
+        "start": 326.84,
+        "duration": 5.339
+    },
+    {
+        "text": "He knew the video was incorrect, but he said he felt it was good enough to keep up",
+        "start": 332.18,
+        "duration": 3.929
+    },
+    {
+        "text": "anyway",
+        "start": 336.11,
+        "duration": 0.51
+    },
+    {
+        "text": "however",
+        "start": 336.62,
+        "duration": 0.299
+    },
+    {
+        "text": "Phillip refutes this in the AMA when asked if he removed the addiction video because of the Coffee Break video Phillip says that he'd been working",
+        "start": 336.919,
+        "duration": 5.19
+    },
+    {
+        "text": "On a script regarding the addiction video and removing it for two years responding: it was absolutely one motivation for it",
+        "start": 342.11,
+        "duration": 5.01
+    },
+    {
+        "text": "But I've been writing this script for the better part of two years",
+        "start": 347.12,
+        "duration": 1.93
+    },
+    {
+        "text": "So it was not like we did it just because of him and this is a claim that was also backed by another massive creator",
+        "start": 349.05,
+        "duration": 4.67
+    },
+    {
+        "text": "by the name of",
+        "start": 353.72,
+        "duration": 0.4
+    },
+    {
+        "text": "CGP grey, who says that Phillip had been talking about this for essentially two years",
+        "start": 354.12,
+        "duration": 3.44
+    },
+    {
+        "text": "And when asked why he didn't tell Stephen he was working on a video like this",
+        "start": 357.56,
+        "duration": 2.609
+    },
+    {
+        "text": "He said he didn't want to give him more information because he felt Steven's video was going to be a hostile take down then Stephen",
+        "start": 360.169,
+        "duration": 5.01
+    },
+    {
+        "text": "Talks about Johann Hari and gives us a clip",
+        "start": 365.18,
+        "duration": 2.07
+    },
+    {
+        "text": "The addiction video was based on only one source that has amassed a lot of criticism over the years that addiction is purely psychological",
+        "start": 367.25,
+        "duration": 6.989
+    },
+    {
+        "text": "And based on the life",
+        "start": 374.49,
+        "duration": 1.62
+    },
+    {
+        "text": "Circumstances of the individual even explains that Hari doesn't believe that addiction is purely psychological",
+        "start": 376.11,
+        "duration": 4.1
+    },
+    {
+        "text": "And that the idea was only a simplification that came from condensing his book into a 15 minute TED Talk",
+        "start": 380.34,
+        "duration": 4.13
+    },
+    {
+        "text": "He says if you look at Hari's book and any interview, he's done",
+        "start": 384.47,
+        "duration": 2.699
+    },
+    {
+        "text": "He doesn't actually hold such a simplified view and so because of this Stephen says that it is clear that Phillip never read Hari's book",
+        "start": 387.169,
+        "duration": 5.34
+    },
+    {
+        "text": "He then goes on to play a clip of a phone conversation",
+        "start": 392.51,
+        "duration": 1.589
+    },
+    {
+        "text": "He had with Hari where he essentially says no one believes addiction is purely environmental or purely chemical and",
+        "start": 394.099,
+        "duration": 4.7
+    },
+    {
+        "text": "He accuses Philip of scapegoating Hari and portraying him as crazy but Philip refutes this as well",
+        "start": 398.8,
+        "duration": 4.529
+    },
+    {
+        "text": "When asked if he did read Hari's book Philip said, \"Of course I did, after reading it",
+        "start": 403.33,
+        "duration": 3.57
+    },
+    {
+        "text": "I very enthusiastically emailed him and asked him to collaborate on the video,\" continuing,",
+        "start": 406.9,
+        "duration": 3.54
+    },
+    {
+        "text": "\"Yeah, he wrote most of the script which is the reason why it has such a big overlap with his TED talk\" and Philips claim that",
+        "start": 410.48,
+        "duration": 4.58
+    },
+    {
+        "text": "Hari largely wrote the script is an important segue to the last thing we're gonna talk about which is that there were two emails that",
+        "start": 415.06,
+        "duration": 4.38
+    },
+    {
+        "text": "Stephen really didn't talk about in his video. In the last of Stephen's emails that he released",
+        "start": 419.44,
+        "duration": 3.18
+    },
+    {
+        "text": "He says that he spoke to Hari and that his story changed considerably after their conversation",
+        "start": 422.62,
+        "duration": 3.659
+    },
+    {
+        "text": "Which makes sense as to why he starts defending Hari's work later in the video and doesn't discuss the controversies",
+        "start": 426.28,
+        "duration": 4.47
+    },
+    {
+        "text": "He claims discredit Hari and prove that his work could be considered false information",
+        "start": 430.75,
+        "duration": 3.13
+    },
+    {
+        "text": "This despite the fact that the discussion of the factual basis of Harry's work was a huge talking point in the emails between Stephen and Philip",
+        "start": 433.88,
+        "duration": 5.24
+    },
+    {
+        "text": "But it's the final email that we see that makes me personally not trust Stephen. The final email in this exchange",
+        "start": 439.12,
+        "duration": 5.26
+    },
+    {
+        "text": "Actually comes from Phillip On February 21st",
+        "start": 444.47,
+        "duration": 2.18
+    },
+    {
+        "text": "and in that email",
+        "start": 446.65,
+        "duration": 0.87
+    },
+    {
+        "text": "He asked Stephen to send him questions and he tells Stephen he can talk with him next week",
+        "start": 447.52,
+        "duration": 4.019
+    },
+    {
+        "text": "And it was Stephen who never responded to Philips email asking him for questions or to try to schedule the interview a fact that Stephen",
+        "start": 451.54,
+        "duration": 5.88
+    },
+    {
+        "text": "admitted to in a reddit thread where he tried to explain why he didn't saying the reason I didn't reply immediately is",
+        "start": 457.48,
+        "duration": 5.74
+    },
+    {
+        "text": "\"1. I was polishing a video about comedy and 2. I was going to follow up after a trip in Lake Tahoe,\" adding \"If I had known I should be in a hurry",
+        "start": 463.22,
+        "duration": 5.84
+    },
+    {
+        "text": "I would have been noting suggested that it seemed like something we were going to work out over a few weeks\" and then two weeks",
+        "start": 469.06,
+        "duration": 4.38
+    },
+    {
+        "text": "After that email that Phillip sent out that Stephen didn't respond to Phillip put out a video where he talked about the past video",
+        "start": 473.51,
+        "duration": 5.54
+    },
+    {
+        "text": "So if Stephen during that time couldn't be troubled to respond back to Phillip this person that he was trying to get information out of couldn't",
+        "start": 479.05,
+        "duration": 5.43
+    },
+    {
+        "text": "Be troubled to respond, how is that landing on Philips head?",
+        "start": 484.48,
+        "duration": 3.0
+    },
+    {
+        "text": "Also I think it's interesting that Stephen says that Phillip, you know",
+        "start": 487.48,
+        "duration": 2.34
+    },
+    {
+        "text": "He w- he was stalling seemingly in reference to Phillip being busy with",
+        "start": 489.82,
+        "duration": 3.76
+    },
+    {
+        "text": "VidCon, EduCon, and what appears to be rest after chemo and so ultimately to me this situation looks very much like y-you",
+        "start": 493.82,
+        "duration": 6.41
+    },
+    {
+        "text": "have someone",
+        "start": 500.23,
+        "duration": 0.79
+    },
+    {
+        "text": "Stephen who is very angry and bitter that the target of his hit piece",
+        "start": 501.02,
+        "duration": 3.889
+    },
+    {
+        "text": "talked about the things in his past before he could because he decided to address this thing that if you looked into the comments section",
+        "start": 504.98,
+        "duration": 5.48
+    },
+    {
+        "text": "On those videos before they were removed people have a lot of the same complaints and call-outs that you had",
+        "start": 510.46,
+        "duration": 4.349
+    },
+    {
+        "text": "Way before you but because you get on those same points and same questions, obviously, it's something nefarious with Phillip",
+        "start": 514.94,
+        "duration": 5.33
+    },
+    {
+        "text": "No to me that seems like another example of a mid-tier youtuber trying to generate mob mentality and a lot of anger to take down",
+        "start": 520.27,
+        "duration": 6.299
+    },
+    {
+        "text": "Someone bigger to pull in their own new subscribers as far as if there was malicious intent from the get-go",
+        "start": 526.57,
+        "duration": 4.64
+    },
+    {
+        "text": "I don't know if you like Stephen maybe feeling like he was screwed over, messed with his bias and his ability to work on something objectively",
+        "start": 531.21,
+        "duration": 6.45
+    },
+    {
+        "text": "But it's really troubling to me because a Philip wasn't so quick to respond to this video with an AMA just being very transparent",
+        "start": 537.66,
+        "duration": 6.04
+    },
+    {
+        "text": "Yes",
+        "start": 543.76,
+        "duration": 0.5
+    },
+    {
+        "text": "release all the emails I'm gonna respond to as many people as possible this",
+        "start": 544.26,
+        "duration": 3.12
+    },
+    {
+        "text": "paraphrased version",
+        "start": 547.5,
+        "duration": 1.06
+    },
+    {
+        "text": "Of the situation that Stephen put out there that could have spread even further and one thing I know from personal experience on both ends of it",
+        "start": 548.56,
+        "duration": 5.9
+    },
+    {
+        "text": "Is ooooh once there is blood in the water people will strike and on a lot of different situations very",
+        "start": 554.48,
+        "duration": 4.82
+    },
+    {
+        "text": "Unfortunately for the person being accused truth doesn't matter",
+        "start": 559.39,
+        "duration": 2.239
+    },
+    {
+        "text": "And I personally find it very funny th- that Stephen, one of his criticisms is that when you're trying to simplify something, right, make it",
+        "start": 561.63,
+        "duration": 5.849
+    },
+    {
+        "text": "more consumable that can lead to",
+        "start": 567.48,
+        "duration": 2.08
+    },
+    {
+        "text": "Misinformation and here we are. Actually, of note here, Phillips sent me a statement saying I did install him with malice in mind",
+        "start": 569.56,
+        "duration": 6.2
+    },
+    {
+        "text": "But I also didn't motivate him to work faster. Of course. I wanted to have the first word on my own failings",
+        "start": 575.76,
+        "duration": 4.26
+    },
+    {
+        "text": "I've been working on and off on the video since early 2017 which made it extra frustrating",
+        "start": 580.02,
+        "duration": 4.229
+    },
+    {
+        "text": "So I decided to finish the video and release it felt like the right thing to do",
+        "start": 584.25,
+        "duration": 3.0
+    },
+    {
+        "text": "I never would have thought that he'd go this far and purposefully misrepresented our email conversation. It is sad this whole thing happened",
+        "start": 587.25,
+        "duration": 5.609
+    },
+    {
+        "text": "I really would have done the interview with him and adding I said anything else that is relevant in the AMA and ourselves",
+        "start": 592.86,
+        "duration": 4.44
+    },
+    {
+        "text": "Oh and since one of the last things Stephen aka Coffee Break did in his video is to kind of like cast doubt or discredit",
+        "start": 597.3,
+        "duration": 5.19
+    },
+    {
+        "text": "Anyone that's even remotely attached to Phillip saying \"He co-owns the smart YouTube mafia\"",
+        "start": 602.49,
+        "duration": 3.75
+    },
+    {
+        "text": "Also in other places online saying those people have a COI, a conflict of interest, one of the reasons",
+        "start": 606.24,
+        "duration": 4.14
+    },
+    {
+        "text": "I wanted to cover this story is I have no personal connection to Phillip",
+        "start": 610.38,
+        "duration": 2.76
+    },
+    {
+        "text": "We include him in TIA, but honestly if his company went to hell the whole thing burnt down wouldn't change anything for me",
+        "start": 613.14,
+        "duration": 5.489
+    },
+    {
+        "text": "So that's why I felt the need to do what Steven said to do at the end of his video",
+        "start": 618.63,
+        "duration": 2.909
+    },
+    {
+        "text": "\"Please say something. Speak out.\" So I did and also to co-op that last line",
+        "start": 621.54,
+        "duration": 3.09
+    },
+    {
+        "text": "be sure to share this video because you know",
+        "start": 624.63,
+        "duration": 1.38
+    },
+    {
+        "text": "One of the unfortunate realities of the Internet is the big claim",
+        "start": 626.01,
+        "duration": 2.37
+    },
+    {
+        "text": "Usually gets a lot more traction than the reality of the situation. And as someone that hasn't gotten it right every single time one",
+        "start": 628.48,
+        "duration": 5.03
+    },
+    {
+        "text": "I think it's important that we don't villainize people who go back",
+        "start": 633.51,
+        "duration": 2.99
+    },
+    {
+        "text": "They look at what they've done whether it be a long time ago or something recently and they go",
+        "start": 636.5,
+        "duration": 3.48
+    },
+    {
+        "text": "You know what I evolved, or I didn't look at the whole situation, I got things wrong",
+        "start": 639.989,
+        "duration": 3.391
+    },
+    {
+        "text": "That's not up to my standards and they and they fix it",
+        "start": 643.38,
+        "duration": 1.98
+    },
+    {
+        "text": "If we do that",
+        "start": 645.36,
+        "duration": 0.56
+    },
+    {
+        "text": "we incentivize people to double down on the wrong. And if you're expecting perfection from anyone that you consume content from you will just eventually be",
+        "start": 645.92,
+        "duration": 6.5
+    },
+    {
+        "text": "Disappointed that is a guarantee. And two I think it's important that when we realize the situation is not completely as it appeared to be",
+        "start": 652.42,
+        "duration": 5.27
+    },
+    {
+        "text": "In the beginning we get the word out on the other side the reality the situation",
+        "start": 657.69,
+        "duration": 3.45
+    },
+    {
+        "text": "What are the differences but with that said that's why I'm gonna end this story",
+        "start": 661.24,
+        "duration": 2.929
+    },
+    {
+        "text": "That's that's the story as I've seen all the facts my personal take away from it",
+        "start": 664.169,
+        "duration": 3.691
+    },
+    {
+        "text": "And of course I passed the question off to you. What are your thoughts around this? Who's in the right?",
+        "start": 667.86,
+        "duration": 3.18
+    },
+    {
+        "text": "Who's in the wrong? Do you see this as",
+        "start": 671.04,
+        "duration": 1.44
+    },
+    {
+        "text": "Misrepresentation trying to get mob mentality to boost views? Any and all thoughts",
+        "start": 672.48,
+        "duration": 4.14
+    },
+    {
+        "text": "I'd love to hear from you in those comments down below from that",
+        "start": 676.62,
+        "duration": 2.429
+    },
+    {
+        "text": "I want to share some stuff I loved today in today in awesome brought to you by Post Mates and PostDeFranco.com. Post Mates",
+        "start": 679.05,
+        "duration": 5.669
+    },
+    {
+        "text": "If you don't know is the fantastic delivery on-demand service. You want something from the store your favorite restaurant?",
+        "start": 684.72,
+        "duration": 4.41
+    },
+    {
+        "text": "You want to snag some drinks for yourself for the party or whatever?",
+        "start": 689.13,
+        "duration": 1.98
+    },
+    {
+        "text": "All you got to do is open up the app put in your order and boom they will deliver it to where you live where you work",
+        "start": 691.11,
+        "duration": 4.43
+    },
+    {
+        "text": "Wherever it is by far one of my favorite apps because it saves me in that time that I'd otherwise have to go out there",
+        "start": 695.56,
+        "duration": 4.76
+    },
+    {
+        "text": "and interact with people",
+        "start": 700.32,
+        "duration": 0.66
+    },
+    {
+        "text": "I don't want to have to and I can use that time to be either more productive or just do nothing which is",
+        "start": 700.98,
+        "duration": 4.59
+    },
+    {
+        "text": "That's the dream. More and more that's my personal dream",
+        "start": 705.67,
+        "duration": 2.78
+    },
+    {
+        "text": "but best of all if you download the app",
+        "start": 708.45,
+        "duration": 1.35
+    },
+    {
+        "text": "Which you can click the link in the description down below. You can go to postDeFranco.com",
+        "start": 709.8,
+        "duration": 2.94
+    },
+    {
+        "text": "Make sure you enter in code phillyd",
+        "start": 712.74,
+        "duration": 2.02
+    },
+    {
+        "text": "Cause when you do that post mates will give you",
+        "start": 714.76,
+        "duration": 1.54
+    },
+    {
+        "text": "$100 in free delivery fee credit and the first bit of awesome today is actually a congratulations",
+        "start": 716.34,
+        "duration": 4.8
+    },
+    {
+        "text": "Congratulations to the two winners of our email signup for beautiful bastard. Be sure to check your email your spam folder",
+        "start": 721.39,
+        "duration": 4.669
+    },
+    {
+        "text": "We're reaching out so we can give you some free product and everyone else who's been going to beautiful bastard calm buying all the products",
+        "start": 726.06,
+        "duration": 5.13
+    },
+    {
+        "text": "Sending us this I love you guys sending us tweets and pictures of you getting the product using keep doing it because I love that",
+        "start": 731.19,
+        "duration": 5.339
+    },
+    {
+        "text": "you guys love it as much as I do although I do get annoyed that some of you look better with it but enough about",
+        "start": 736.529,
+        "duration": 5.1
+    },
+    {
+        "text": "My low self-esteem. Then we have 2 Chainz showing off his insane jewelry collection. We have a trailer for long shot. We have Troye Sivan",
+        "start": 741.629,
+        "duration": 6.031
+    },
+    {
+        "text": "Exploring ASMR. We have TierZoo asking and answering or dolphins OP?",
+        "start": 747.74,
+        "duration": 4.26
+    },
+    {
+        "text": "We have DudePerfect giving us Airplane Trick Shots 2. We have Oscar Isaac and Pedro Pascal answering the web's most searched",
+        "start": 752.0,
+        "duration": 4.84
+    },
+    {
+        "text": "Questions. If you want to see the full versions of everything",
+        "start": 756.91,
+        "duration": 2.0
+    },
+    {
+        "text": "I just shared the secret link of the day really anything at all links as always on the description down below. And then oh wow",
+        "start": 758.91,
+        "duration": 5.79
+    },
+    {
+        "text": "Oh, wow, let's talk about this insane story that dropped yesterday. If you didn't see yesterday",
+        "start": 764.83,
+        "duration": 4.339
+    },
+    {
+        "text": "the Department of Justice indicted 50 people including TV stars and other prominent wealthy figures for participating in a bribery scam to get students into",
+        "start": 769.17,
+        "duration": 6.869
+    },
+    {
+        "text": "elite colleges and of those indicted",
+        "start": 776.04,
+        "duration": 1.84
+    },
+    {
+        "text": "33 are parents of high school students who paid anywhere from fifteen thousand to five hundred thousand dollars to get their children into colleges with",
+        "start": 777.88,
+        "duration": 6.169
+    },
+    {
+        "text": "Andrew Lelling a US attorney calling the parents involved a catalog of wealth and privilege",
+        "start": 784.05,
+        "duration": 3.809
+    },
+    {
+        "text": "But it wasn't just limited to parents others indicted include college coaches exam Proctor's and college",
+        "start": 787.86,
+        "duration": 4.739
+    },
+    {
+        "text": "administrators and reportedly the colleges targeted by this scam included Yale UCLA the University of Southern",
+        "start": 792.72,
+        "duration": 4.96
+    },
+    {
+        "text": "California Stanford and Georgetown among others the indictment states of the scam started back in 2011 and the FBI dubbed their investigation into this operation",
+        "start": 797.68,
+        "duration": 7.68
+    },
+    {
+        "text": "\"Varsity Blues.\" I feel like Billy Bob would rate that name a ten",
+        "start": 805.46,
+        "duration": 3.14
+    },
+    {
+        "text": "A TEN, A F- TEN",
+        "start": 808.6,
+        "duration": 1.26
+    },
+    {
+        "text": "But reportedly the man behind the operation is William Rick Singer who owned a business called edge college and career network?",
+        "start": 809.86,
+        "duration": 5.63
+    },
+    {
+        "text": "And he created a nonprofit that he called the key worldwide foundation reportedly parents would pay him with money that was marked as charitable",
+        "start": 815.49,
+        "duration": 5.83
+    },
+    {
+        "text": "Donations to cheat on their child's SAT or ACT scores or to use connections to Division One athletics to fake",
+        "start": 821.32,
+        "duration": 5.42
+    },
+    {
+        "text": "Their child is a sports recruit regardless of whether or not their child actually played sports according to the indictment",
+        "start": 826.74,
+        "duration": 4.319
+    },
+    {
+        "text": "He described what he did as making a side door into College Admissions on a phone call",
+        "start": 831.059,
+        "duration": 4.11
+    },
+    {
+        "text": "He reportedly said \"Okay, so who we are what we do is we help the wealthiest families in the u.s",
+        "start": 835.17,
+        "duration": 4.38
+    },
+    {
+        "text": "Get their kids into school",
+        "start": 839.55,
+        "duration": 1.079
+    },
+    {
+        "text": "There is a front door, which means you get in on your own the back door is their institutional advancement",
+        "start": 840.629,
+        "duration": 3.63
+    },
+    {
+        "text": "Which is ten times as much money",
+        "start": 844.259,
+        "duration": 1.471
+    },
+    {
+        "text": "and I've created this side door because the back door when you go through institutional advancement as you know,",
+        "start": 845.73,
+        "duration": 4.2
+    },
+    {
+        "text": "Everybody's got a friend of a friend who knows somebody who knows somebody but there's no guarantee.\" Wow",
+        "start": 849.93,
+        "duration": 3.899
+    },
+    {
+        "text": "This just sounds like all my dad's friends who just ran really sketchy scams",
+        "start": 853.829,
+        "duration": 3.33
+    },
+    {
+        "text": "Like this sounds like a thing that comes from someone named Rick Singer",
+        "start": 857.16,
+        "duration": 2.58
+    },
+    {
+        "text": "He goes on to say \"They're just gonna give you a second look. My families want a guarantee",
+        "start": 859.74,
+        "duration": 3.179
+    },
+    {
+        "text": "So if you said to me here's our grades, here's our scores",
+        "start": 862.92,
+        "duration": 2.339
+    },
+    {
+        "text": "Here's our ability and we want to go to X school and you give me one or two schools and then I'll go after those",
+        "start": 865.259,
+        "duration": 4.559
+    },
+    {
+        "text": "Schools and try to get a guarantee done,\" and Singer allegedly made twenty five million dollars from all of this",
+        "start": 869.819,
+        "duration": 5.34
+    },
+    {
+        "text": "But and not happy funtime news for him",
+        "start": 875.16,
+        "duration": 2.01
+    },
+    {
+        "text": "He was charged with racketeering money laundering tax evasion and obstruction of justice and just yesterday, he pleaded guilty to those counts",
+        "start": 877.17,
+        "duration": 6.389
+    },
+    {
+        "text": "So how exactly did these scams work? Well, it actually gets pretty complicated. So to break it down",
+        "start": 883.559,
+        "duration": 4.38
+    },
+    {
+        "text": "We're gonna start with cheating on the entrance exam according to the indictment singer would do this by bribing college entrance exam",
+        "start": 887.94,
+        "duration": 5.28
+    },
+    {
+        "text": "Administrators to allow a third party to facilitate cheating on college entrance exams in some cases, posing as the actual students and in others",
+        "start": 893.24,
+        "duration": 6.399
+    },
+    {
+        "text": "by providing students with answers during the exams or by correcting their answers after they had completed the exam. And parents will pay anywhere from",
+        "start": 899.639,
+        "duration": 5.61
+    },
+    {
+        "text": "fifteen thousand dollars to seventy five thousand dollars per",
+        "start": 905.29,
+        "duration": 2.719
+    },
+    {
+        "text": "test and they would also say that their child had a learning disability so they could take the test privately either in West Hollywood or",
+        "start": 908.17,
+        "duration": 5.479
+    },
+    {
+        "text": "Houston in centers that Singer claimed to have control of and as far as that third party hired to take the exam reportedly that was",
+        "start": 913.649,
+        "duration": 5.4
+    },
+    {
+        "text": "A man named Mark Wright down right now is a director of college exam preparation at IMG Academy in Florida",
+        "start": 919.05,
+        "duration": 4.679
+    },
+    {
+        "text": "Although he has been suspended from this role as a result of the indictment",
+        "start": 923.73,
+        "duration": 2.549
+    },
+    {
+        "text": "that's also probably the least of his worries as he's also been charged with conspiracy to commit mail fraud and honest services mail fraud and",
+        "start": 926.279,
+        "duration": 6.089
+    },
+    {
+        "text": "conspiracy to commit money laundering",
+        "start": 932.369,
+        "duration": 1.421
+    },
+    {
+        "text": "additionally to exam administrators who were bribed to allow him to take the tests are also being charged of a conspiracy to commit",
+        "start": 933.79,
+        "duration": 5.059
+    },
+    {
+        "text": "Racketeering also among the clients were allegedly paid for all of this who had actress Felicity Huffman",
+        "start": 938.98,
+        "duration": 3.979
+    },
+    {
+        "text": "She is said to have paid fifteen thousand dollars to have one of her daughters receive a fourteen twenty on the SAT",
+        "start": 942.959,
+        "duration": 4.409
+    },
+    {
+        "text": "And so she is being charged with conspiracy to commit mail fraud and honest services mail fraud",
+        "start": 947.369,
+        "duration": 3.69
+    },
+    {
+        "text": "however",
+        "start": 951.059,
+        "duration": 0.45
+    },
+    {
+        "text": "Her husband actor William H Macy who knew about the bribes via a phone call according to the indictment is not being charged. Although before",
+        "start": 951.509,
+        "duration": 6.059
+    },
+    {
+        "text": "We jump into more names. We should jump into the fake Athletics recruiting. While college coaches don't get to single-handedly admit students into schools",
+        "start": 957.569,
+        "duration": 5.4
+    },
+    {
+        "text": "They can eye particular students as potential recruits",
+        "start": 962.97,
+        "duration": 2.219
+    },
+    {
+        "text": "Which has a great influence on their admission. Singer would bribe college coaches to quote designate applicants as purported athletic recruits",
+        "start": 965.189,
+        "duration": 6.0
+    },
+    {
+        "text": "Regardless of their athletic ability. So basically you'd have these coaches telling admissions the clients children their all-star athletes",
+        "start": 971.41,
+        "duration": 5.389
+    },
+    {
+        "text": "They're very important",
+        "start": 976.799,
+        "duration": 1.111
+    },
+    {
+        "text": "Even though they didn't play the sport in question. Singer even reportedly would take stock photos of someone playing a sport and edit the student's",
+        "start": 977.91,
+        "duration": 6.029
+    },
+    {
+        "text": "Face onto the photo to make it look like they were an athlete at this point. You hear that you go",
+        "start": 983.939,
+        "duration": 3.66
+    },
+    {
+        "text": "well",
+        "start": 987.6,
+        "duration": 0.149
+    },
+    {
+        "text": "there's no way the kids didn't know well and a piece from the indictment which is a",
+        "start": 987.749,
+        "duration": 3.54
+    },
+    {
+        "text": "Conversation between singer and Elizabeth Kimmel who is a mother who owns a media company",
+        "start": 991.389,
+        "duration": 3.289
+    },
+    {
+        "text": "we see the lengths some parents went to not only to get their kids into school but to keep that fact from them with",
+        "start": 994.679,
+        "duration": 4.68
+    },
+    {
+        "text": "Elizabeth Kimmel saying, so my son and I just got back from USC orientation. It went great",
+        "start": 999.36,
+        "duration": 3.839
+    },
+    {
+        "text": "The only kind of glitch was and I he didn't my son didn't tell me this at the time yesterday when he went to meet",
+        "start": 1003.319,
+        "duration": 5.099
+    },
+    {
+        "text": "with his advisor, he stayed after a little bit and apparently the advisor said something to the effect of oh",
+        "start": 1008.419,
+        "duration": 4.59
+    },
+    {
+        "text": "So you're a track athlete and my son said no because my son has no idea and that's what the way we want to keep",
+        "start": 1013.009,
+        "duration": 4.979
+    },
+    {
+        "text": "It you know this aspect of the scandal involves even more big names. We had Lori Loughlin who played Aunt Becky on Full House",
+        "start": 1017.989,
+        "duration": 5.19
+    },
+    {
+        "text": "Her husband Mossimo Giannulli who was a prominent",
+        "start": 1023.179,
+        "duration": 2.0
+    },
+    {
+        "text": "fashion designer paying half a million dollars for their two daughters to be recruited to the crew team at USC even though neither of their",
+        "start": 1025.199,
+        "duration": 5.959
+    },
+    {
+        "text": "Daughters actually rowed crew and also of note here part of the reason that there has been so much focus on these two",
+        "start": 1031.159,
+        "duration": 4.44
+    },
+    {
+        "text": "daughters isn't just because Aunt Becky isn't just because of the amount of money but also because one of their daughters is an influencer and",
+        "start": 1035.669,
+        "duration": 5.21
+    },
+    {
+        "text": "Youtuber by the name of Olivia Jade who has used her college student status and paid promotions on her Instagram",
+        "start": 1040.88,
+        "duration": 4.619
+    },
+    {
+        "text": "and to make matters worse for her people have found a video where she seems incredibly",
+        "start": 1045.5,
+        "duration": 3.089
+    },
+    {
+        "text": "ungrateful for this college experience at USC which according to these reports",
+        "start": 1048.779,
+        "duration": 2.9
+    },
+    {
+        "text": "She shouldn't even have. A note that people  have pointed out is that back in August",
+        "start": 1051.679,
+        "duration": 3.119
+    },
+    {
+        "text": "She posted a video where she claimed she didn't care about academics and that she only goes to college for parties",
+        "start": 1054.799,
+        "duration": 4.05
+    },
+    {
+        "text": "But I do want the experience of like game days, partying",
+        "start": 1059.07,
+        "duration": 3.709
+    },
+    {
+        "text": "I don't really care about school as you guys all know. But also back in 2018 before this whole news situation",
+        "start": 1063.51,
+        "duration": 4.489
+    },
+    {
+        "text": "She did post an apology video. I just genuinely want to say I'm sorry for anyone",
+        "start": 1068.0,
+        "duration": 3.63
+    },
+    {
+        "text": "I've offended by saying that I know that it's a privilege and it's a blessing and I'm",
+        "start": 1071.63,
+        "duration": 4.439
+    },
+    {
+        "text": "really grateful",
+        "start": 1076.679,
+        "duration": 0.74
+    },
+    {
+        "text": "But now of course many of the comments on both of those videos reference the bribes that got her into USC to begin with right",
+        "start": 1077.42,
+        "duration": 5.04
+    },
+    {
+        "text": "top comments",
+        "start": 1082.46,
+        "duration": 0.599
+    },
+    {
+        "text": "Like you're just a spoiled brat that cheated into college when others had to actually work hard to get in, can you do a video",
+        "start": 1083.059,
+        "duration": 4.469
+    },
+    {
+        "text": "Too about how your parents paid 500k to scam your way into USC",
+        "start": 1087.529,
+        "duration": 2.88
+    },
+    {
+        "text": "Also how your SAT score and sports profile is fake",
+        "start": 1090.409,
+        "duration": 2.64
+    },
+    {
+        "text": "And as you can likely tell one of the big things is that they felt that you stole a spot from a deserving",
+        "start": 1093.049,
+        "duration": 3.831
+    },
+    {
+        "text": "Qualified student. Right, people seeing it as just another example",
+        "start": 1097.06,
+        "duration": 2.16
+    },
+    {
+        "text": "Of ungrateful rich people screwing over your everyday Joe along with all of this around Olivia",
+        "start": 1099.299,
+        "duration": 4.79
+    },
+    {
+        "text": "Jade, you even have people asking brands to drop their ties with her and as far as Olivia's reaction to all of this?",
+        "start": 1104.09,
+        "duration": 4.709
+    },
+    {
+        "text": "right now we don't know she hasn't posted anything to YouTube Twitter or Instagram since this whole thing is unfolded and honestly given that it",
+        "start": 1108.799,
+        "duration": 5.58
+    },
+    {
+        "text": "Is a legal situation, I think that's probably the smartest move. Yeah, it's gonna be very interesting to see how this situation unfolds",
+        "start": 1114.38,
+        "duration": 5.399
+    },
+    {
+        "text": "What other information comes out I mean looking through the evidence for these parents?",
+        "start": 1119.779,
+        "duration": 3.359
+    },
+    {
+        "text": "It is damning, like the only way some of this could be even more transparently a crime is if they said yes",
+        "start": 1123.139,
+        "duration": 5.73
+    },
+    {
+        "text": "I would like to do the crime, please. Yes, that's correct",
+        "start": 1128.87,
+        "duration": 2.309
+    },
+    {
+        "text": "I'd like to full crimes with the option for a third crime on the side",
+        "start": 1131.179,
+        "duration": 3.119
+    },
+    {
+        "text": "And also I think the situation highlights part of a problem with college",
+        "start": 1134.299,
+        "duration": 3.359
+    },
+    {
+        "text": "I mean in the past we talked about the legacy issue at colleges something that is very briefly mentioned",
+        "start": 1137.659,
+        "duration": 4.44
+    },
+    {
+        "text": "Here is the donations to the school, right that backdoor, it's such bullsh-",
+        "start": 1142.1,
+        "duration": 3.27
+    },
+    {
+        "text": "I mean that is very",
+        "start": 1145.37,
+        "duration": 0.88
+    },
+    {
+        "text": "transparently paying so that someone can get in despite whether they were good or",
+        "start": 1146.25,
+        "duration": 3.109
+    },
+    {
+        "text": "Bad and so it kind of appears that people that wanted to take advantage of a busted school system",
+        "start": 1149.46,
+        "duration": 4.64
+    },
+    {
+        "text": "But on a budget they're the ones that are getting hit and understand, I'm not saying what they did is",
+        "start": 1154.1,
+        "duration": 3.78
+    },
+    {
+        "text": "Okay, I think that they should be properly punished",
+        "start": 1157.88,
+        "duration": 1.919
+    },
+    {
+        "text": "But I think we need to look at this as a full situation, but that is where I'm gonna end it",
+        "start": 1159.799,
+        "duration": 4.44
+    },
+    {
+        "text": "Of course, I'd love to know your thoughts on it regarding the the parents the kids really just the story in general",
+        "start": 1164.24,
+        "duration": 5.069
+    },
+    {
+        "text": "I'd love to hear from you in those comments down below and that's where we're going to end",
+        "start": 1169.309,
+        "duration": 2.67
+    },
+    {
+        "text": "today's show and remember if you like this video hit us with a like share the video also if you're new here be sure to",
+        "start": 1171.98,
+        "duration": 4.859
+    },
+    {
+        "text": "Hit that subscribe button. Definitely click that bell to turn on notifications",
+        "start": 1176.84,
+        "duration": 2.489
+    },
+    {
+        "text": "also",
+        "start": 1179.399,
+        "duration": 0.5
+    },
+    {
+        "text": "If you missed the last philip defranco show or the extra morning news deep dive you want to catch up on those you can click",
+        "start": 1179.9,
+        "duration": 4.16
+    },
+    {
+        "text": "Or tap right there to watch those. But with that said of course as always my name's Philip Defranco",
+        "start": 1184.06,
+        "duration": 3.76
+    },
+    {
+        "text": "You've just been Phil'd in, I love yo' faces and I'll see you tomorrow.",
+        "start": 1187.86,
+        "duration": 3.73
+    }
+]

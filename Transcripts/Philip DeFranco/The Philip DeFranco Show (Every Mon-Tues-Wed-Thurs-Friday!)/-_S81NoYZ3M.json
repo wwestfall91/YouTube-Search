@@ -1,0 +1,4122 @@
+[
+    {
+        "text": "- Sup you beautiful bastards,",
+        "start": 0.047,
+        "duration": 1.503
+    },
+    {
+        "text": "hope you're having a fantastic Thursday.",
+        "start": 1.55,
+        "duration": 1.8
+    },
+    {
+        "text": "Welcome back to the Philip DeFranco show.",
+        "start": 3.35,
+        "duration": 2.01
+    },
+    {
+        "text": "Buckle up, hit that like button,",
+        "start": 5.36,
+        "duration": 1.82
+    },
+    {
+        "text": "and let's just jump into it.",
+        "start": 7.18,
+        "duration": 1.237
+    },
+    {
+        "text": "The first thing we're\ngonna talk about today",
+        "start": 8.417,
+        "duration": 1.443
+    },
+    {
+        "text": "are updates around the massive situation",
+        "start": 9.86,
+        "duration": 1.96
+    },
+    {
+        "text": "involving the FTC and YouTube.",
+        "start": 11.82,
+        "duration": 2.13
+    },
+    {
+        "text": "As you might remember, we\ncovered it back in September,",
+        "start": 13.95,
+        "duration": 1.83
+    },
+    {
+        "text": "the Federal Trade Commission\nsettled with YouTube",
+        "start": 15.78,
+        "duration": 1.86
+    },
+    {
+        "text": "and its parent company\nfor 170 million dollars.",
+        "start": 17.64,
+        "duration": 2.587
+    },
+    {
+        "text": "And that nine figure settlement",
+        "start": 20.227,
+        "duration": 1.443
+    },
+    {
+        "text": "stemming from alleged violations of",
+        "start": 21.67,
+        "duration": 1.53
+    },
+    {
+        "text": "the Children's Online\nPrivacy Protection Act,",
+        "start": 23.2,
+        "duration": 2.05
+    },
+    {
+        "text": "or COPPPA, which to kind of boil down,",
+        "start": 25.25,
+        "duration": 2.07
+    },
+    {
+        "text": "COPPA was passed back in 1998",
+        "start": 27.32,
+        "duration": 1.71
+    },
+    {
+        "text": "and basically the act requires websites",
+        "start": 29.03,
+        "duration": 1.71
+    },
+    {
+        "text": "to first obtain parental\nconsent before collecting",
+        "start": 30.74,
+        "duration": 1.98
+    },
+    {
+        "text": "or using the personal\ninformation of children under 13.",
+        "start": 32.72,
+        "duration": 2.34
+    },
+    {
+        "text": "And specifically, in the complaint,",
+        "start": 35.06,
+        "duration": 1.23
+    },
+    {
+        "text": "the FTC and New York attorney\ngeneral Letitia James",
+        "start": 36.29,
+        "duration": 2.25
+    },
+    {
+        "text": "said although YouTube has\nan audience of all ages,",
+        "start": 38.54,
+        "duration": 2.3
+    },
+    {
+        "text": "some of its individual channels,",
+        "start": 40.84,
+        "duration": 1.17
+    },
+    {
+        "text": "such as toy review channels,\nare child directed,",
+        "start": 42.01,
+        "duration": 2.23
+    },
+    {
+        "text": "meaning they must comply with COPPA.",
+        "start": 44.24,
+        "duration": 1.77
+    },
+    {
+        "text": "And specifically here,\nthe concern was around",
+        "start": 46.01,
+        "duration": 1.45
+    },
+    {
+        "text": "personalized ads, ads that\nuse your viewing history.",
+        "start": 47.46,
+        "duration": 2.53
+    },
+    {
+        "text": "And had the FTC and James alleging",
+        "start": 49.99,
+        "duration": 1.38
+    },
+    {
+        "text": "that YouTube had been\ncollecting personal information",
+        "start": 51.37,
+        "duration": 2.16
+    },
+    {
+        "text": "from children to show them targeted ads.",
+        "start": 53.53,
+        "duration": 1.68
+    },
+    {
+        "text": "Right, and as far as the\ntargeting of the channel",
+        "start": 55.21,
+        "duration": 1.55
+    },
+    {
+        "text": "putting out the content,",
+        "start": 56.76,
+        "duration": 1.02
+    },
+    {
+        "text": "it appears the focus there, is you know,",
+        "start": 57.78,
+        "duration": 1.3
+    },
+    {
+        "text": "well, YouTube can take something\nlike the YouTube kids app,",
+        "start": 59.08,
+        "duration": 2.59
+    },
+    {
+        "text": "and they can say hey, we know\nthat kids are using this app,",
+        "start": 61.67,
+        "duration": 2.23
+    },
+    {
+        "text": "we'll make sure there's no tracking.",
+        "start": 63.9,
+        "duration": 1.35
+    },
+    {
+        "text": "There's really no way to know or stop",
+        "start": 65.25,
+        "duration": 1.76
+    },
+    {
+        "text": "if someone using the website\nwithout being logged in,",
+        "start": 67.01,
+        "duration": 3.01
+    },
+    {
+        "text": "or just on a parent's\naccount is watching a video.",
+        "start": 70.02,
+        "duration": 2.14
+    },
+    {
+        "text": "With this, the FTC said that\nit would hear public comments",
+        "start": 72.16,
+        "duration": 2.21
+    },
+    {
+        "text": "until October 23rd before\nenforcing new COPPA guidelines.",
+        "start": 74.37,
+        "duration": 2.84
+    },
+    {
+        "text": "And so of course, this was massive news,",
+        "start": 77.21,
+        "duration": 1.51
+    },
+    {
+        "text": "not only because of the fine,",
+        "start": 78.72,
+        "duration": 1.21
+    },
+    {
+        "text": "but also because YouTube\nended up announcing",
+        "start": 79.93,
+        "duration": 1.78
+    },
+    {
+        "text": "that changes we're coming,\nand one of the most notable",
+        "start": 81.71,
+        "duration": 1.86
+    },
+    {
+        "text": "is that it would stop\nserving personalized ads",
+        "start": 83.57,
+        "duration": 1.99
+    },
+    {
+        "text": "on all children's content in January,",
+        "start": 85.56,
+        "duration": 1.94
+    },
+    {
+        "text": "with YouTube saying one, that\nit would use machine learning",
+        "start": 87.5,
+        "duration": 2.08
+    },
+    {
+        "text": "to find videos that\ntarget a young audience.",
+        "start": 89.58,
+        "duration": 1.84
+    },
+    {
+        "text": "And on top of that, creators\nwould be given the tool",
+        "start": 91.42,
+        "duration": 1.81
+    },
+    {
+        "text": "and be required to flag their content",
+        "start": 93.23,
+        "duration": 1.87
+    },
+    {
+        "text": "if it falls under into\nchildren's category.",
+        "start": 95.1,
+        "duration": 1.8
+    },
+    {
+        "text": "If it did, along with\nlosing personalized ads,",
+        "start": 96.9,
+        "duration": 2.13
+    },
+    {
+        "text": "it would also lose things like comments.",
+        "start": 99.03,
+        "duration": 1.72
+    },
+    {
+        "text": "So that gets announced,",
+        "start": 100.75,
+        "duration": 1.15
+    },
+    {
+        "text": "a lot of people end up freaking out,",
+        "start": 101.9,
+        "duration": 1.22
+    },
+    {
+        "text": "this because while\nremoving personalized ads",
+        "start": 103.12,
+        "duration": 1.98
+    },
+    {
+        "text": "does not remove all ads,",
+        "start": 105.1,
+        "duration": 1.35
+    },
+    {
+        "text": "the majority of ads that\nwe're being displayed",
+        "start": 106.45,
+        "duration": 1.66
+    },
+    {
+        "text": "were personalized, and\ngeneralized ads in general",
+        "start": 108.11,
+        "duration": 2.82
+    },
+    {
+        "text": "bring in anywhere from 60 to\n90% less than personalized ads.",
+        "start": 110.93,
+        "duration": 2.707
+    },
+    {
+        "text": "All right, so essentially imagine",
+        "start": 113.637,
+        "duration": 1.323
+    },
+    {
+        "text": "you go into work and your boss says",
+        "start": 114.96,
+        "duration": 1.58
+    },
+    {
+        "text": "hey, by the way, in January,",
+        "start": 116.54,
+        "duration": 2.26
+    },
+    {
+        "text": "we're gonna pay ya 60 to 90% less,",
+        "start": 118.8,
+        "duration": 2.07
+    },
+    {
+        "text": "and that's if you maintain\nthe same output and success.",
+        "start": 120.87,
+        "duration": 2.81
+    },
+    {
+        "text": "And so obviously\ndevastating news for those",
+        "start": 123.68,
+        "duration": 1.81
+    },
+    {
+        "text": "putting out content that's\ndirected towards children,",
+        "start": 125.49,
+        "duration": 2.38
+    },
+    {
+        "text": "it's also part of the reason\nwe've seen several big",
+        "start": 127.87,
+        "duration": 1.67
+    },
+    {
+        "text": "kids' content creators speaking out.",
+        "start": 129.54,
+        "duration": 1.6
+    },
+    {
+        "text": "Pointing out that in addition\nto the money troubles,",
+        "start": 131.14,
+        "duration": 1.89
+    },
+    {
+        "text": "which can make what they're\ndoing unsustainable,",
+        "start": 133.03,
+        "duration": 2.15
+    },
+    {
+        "text": "they are also worried that they could be",
+        "start": 135.18,
+        "duration": 1.35
+    },
+    {
+        "text": "directly fined for violating COPPA.",
+        "start": 136.53,
+        "duration": 2.04
+    },
+    {
+        "text": "Which is very notable because reportedly",
+        "start": 138.57,
+        "duration": 1.53
+    },
+    {
+        "text": "for each violation, a\nfine can be up to $42,530.",
+        "start": 140.1,
+        "duration": 4.157
+    },
+    {
+        "text": "And of course there's also the concerns",
+        "start": 144.257,
+        "duration": 1.443
+    },
+    {
+        "text": "of what content this is going to hit,",
+        "start": 145.7,
+        "duration": 1.8
+    },
+    {
+        "text": "which isn't completely\nunfounded because reportedly",
+        "start": 147.5,
+        "duration": 2.17
+    },
+    {
+        "text": "there's actually been\ndiscussion within the FTC",
+        "start": 149.67,
+        "duration": 2.05
+    },
+    {
+        "text": "that this ruling not only would affect",
+        "start": 151.72,
+        "duration": 1.64
+    },
+    {
+        "text": "kid directed content, but\nexpand to other content",
+        "start": 153.36,
+        "duration": 2.6
+    },
+    {
+        "text": "that is simply kid friendly.",
+        "start": 155.96,
+        "duration": 1.52
+    },
+    {
+        "text": "Which, if that turns out to be the case,",
+        "start": 157.48,
+        "duration": 1.54
+    },
+    {
+        "text": "I would briefly like to say",
+        "start": 159.02,
+        "duration": 1.06
+    },
+    {
+        "text": "shit, motherfucker, bitch,",
+        "start": 160.08,
+        "duration": 1.06
+    },
+    {
+        "text": "that's fucking wild.",
+        "start": 161.14,
+        "duration": 1.26
+    },
+    {
+        "text": "Also quick side note,\nI had someone complain",
+        "start": 162.4,
+        "duration": 2.09
+    },
+    {
+        "text": "on Twitter yesterday that\nmy language was filthy.",
+        "start": 164.49,
+        "duration": 3.03
+    },
+    {
+        "text": "That I said the F word\ntoo many times yesterday,",
+        "start": 167.52,
+        "duration": 1.63
+    },
+    {
+        "text": "and their six year old was watching",
+        "start": 169.15,
+        "duration": 1.46
+    },
+    {
+        "text": "and that they were disgusted.",
+        "start": 170.61,
+        "duration": 1.23
+    },
+    {
+        "text": "Quick friendly DeFranco recommendation,",
+        "start": 171.84,
+        "duration": 2.06
+    },
+    {
+        "text": "you should probably\nnot be watching my show",
+        "start": 173.9,
+        "duration": 2.18
+    },
+    {
+        "text": "with a six year old.",
+        "start": 176.08,
+        "duration": 0.85
+    },
+    {
+        "text": "I mean, personally, that's\njust my recommendation,",
+        "start": 176.93,
+        "duration": 1.6
+    },
+    {
+        "text": "maybe get headphones.",
+        "start": 178.53,
+        "duration": 1.03
+    },
+    {
+        "text": "You can hear me and all the horrible stuff",
+        "start": 179.56,
+        "duration": 1.44
+    },
+    {
+        "text": "that we're having to talk about,",
+        "start": 181.0,
+        "duration": 0.84
+    },
+    {
+        "text": "and your kid can laugh\nat the funny looking man",
+        "start": 181.84,
+        "duration": 2.19
+    },
+    {
+        "text": "with the forehead wrinkle\nand the moving hands.",
+        "start": 184.03,
+        "duration": 1.74
+    },
+    {
+        "text": "But back on track, a big\npart of the update today,",
+        "start": 185.77,
+        "duration": 1.99
+    },
+    {
+        "text": "are YouTubers lobbying the FTC.",
+        "start": 187.76,
+        "duration": 2.0
+    },
+    {
+        "text": "Because yes, there are things\nlike a change.org petition",
+        "start": 189.76,
+        "duration": 2.2
+    },
+    {
+        "text": "that as of this morning\nhad over 37,000 signatures.",
+        "start": 191.96,
+        "duration": 2.34
+    },
+    {
+        "text": "With creators who've signed that petition",
+        "start": 194.3,
+        "duration": 1.49
+    },
+    {
+        "text": "asking the FTC to provide",
+        "start": 195.79,
+        "duration": 1.423
+    },
+    {
+        "text": "an enforcement statement for creators.",
+        "start": 197.213,
+        "duration": 1.977
+    },
+    {
+        "text": "Clarify the definition of\nchild-directed content.",
+        "start": 199.19,
+        "duration": 2.82
+    },
+    {
+        "text": "They're also asking the FTC not to expand",
+        "start": 202.01,
+        "duration": 1.85
+    },
+    {
+        "text": "the ruling to cover\nchild-attractive content.",
+        "start": 203.86,
+        "duration": 2.27
+    },
+    {
+        "text": "Also asking them to delay enforcement",
+        "start": 206.13,
+        "duration": 1.57
+    },
+    {
+        "text": "until the FTC finishes reviewing COPPA.",
+        "start": 207.7,
+        "duration": 1.89
+    },
+    {
+        "text": "And to allow parents just\nuse ads like YouTube Kids",
+        "start": 209.59,
+        "duration": 2.42
+    },
+    {
+        "text": "instead of forcing creators\nto turn off personalized ads.",
+        "start": 212.01,
+        "duration": 2.367
+    },
+    {
+        "text": "Though I wanna note there, in my opinion,",
+        "start": 214.377,
+        "duration": 1.803
+    },
+    {
+        "text": "that does not address the problem",
+        "start": 216.18,
+        "duration": 1.39
+    },
+    {
+        "text": "that people are saying is there.",
+        "start": 217.57,
+        "duration": 1.1
+    },
+    {
+        "text": "Because according to Bloomberg,",
+        "start": 218.67,
+        "duration": 1.23
+    },
+    {
+        "text": "YouTube Kids currently only attracts",
+        "start": 219.9,
+        "duration": 1.53
+    },
+    {
+        "text": "1% of YouTube's total audience,\neven though kids content",
+        "start": 221.43,
+        "duration": 3.18
+    },
+    {
+        "text": "is the most viewed content on YouTube.",
+        "start": 224.61,
+        "duration": 2.08
+    },
+    {
+        "text": "Also notably, that change.org petition",
+        "start": 226.69,
+        "duration": 1.72
+    },
+    {
+        "text": "was started by Jeremy Johnston",
+        "start": 228.41,
+        "duration": 1.39
+    },
+    {
+        "text": "of the family vlog channel J House Vlogs.",
+        "start": 229.8,
+        "duration": 1.95
+    },
+    {
+        "text": "Also, in addition to having a channel",
+        "start": 231.75,
+        "duration": 1.48
+    },
+    {
+        "text": "that would most likely be affected here,",
+        "start": 233.23,
+        "duration": 1.33
+    },
+    {
+        "text": "he is also a lawyer,",
+        "start": 234.56,
+        "duration": 0.92
+    },
+    {
+        "text": "who actually ended up traveling to DC",
+        "start": 235.48,
+        "duration": 1.96
+    },
+    {
+        "text": "to talk directly to the FTC.",
+        "start": 237.44,
+        "duration": 1.69
+    },
+    {
+        "text": "And in videos, Johnston has\nargued that he thinks the FTC",
+        "start": 239.13,
+        "duration": 2.17
+    },
+    {
+        "text": "is legitimately trying to do what is best",
+        "start": 241.3,
+        "duration": 1.68
+    },
+    {
+        "text": "for children, but notably here,",
+        "start": 242.98,
+        "duration": 1.31
+    },
+    {
+        "text": "he also said that the\nFTC was largely unaware",
+        "start": 244.29,
+        "duration": 2.05
+    },
+    {
+        "text": "of these creators concerns beforehand,",
+        "start": 246.34,
+        "duration": 1.76
+    },
+    {
+        "text": "and in fact, this morning,\nwe spoke to Johnston",
+        "start": 248.1,
+        "duration": 1.57
+    },
+    {
+        "text": "about his meeting with FTC commissioners.",
+        "start": 249.67,
+        "duration": 1.84
+    },
+    {
+        "text": "And it was really eye opening.",
+        "start": 251.51,
+        "duration": 1.31
+    },
+    {
+        "text": "He told us that at first,",
+        "start": 252.82,
+        "duration": 1.05
+    },
+    {
+        "text": "the FTC thought general\nand personalized ads",
+        "start": 253.87,
+        "duration": 2.36
+    },
+    {
+        "text": "paid the same amount.",
+        "start": 256.23,
+        "duration": 0.89
+    },
+    {
+        "text": "And actually, after explaining that that",
+        "start": 257.12,
+        "duration": 1.23
+    },
+    {
+        "text": "was not the case, Johnston\nthen filed a request",
+        "start": 258.35,
+        "duration": 2.07
+    },
+    {
+        "text": "to extend the FTC's public comment period",
+        "start": 260.42,
+        "duration": 1.86
+    },
+    {
+        "text": "from October 23rd to December 9th.",
+        "start": 262.28,
+        "duration": 1.79
+    },
+    {
+        "text": "That request has then\nactually been approved,",
+        "start": 264.07,
+        "duration": 1.92
+    },
+    {
+        "text": "and since then, we've\nalso seen YouTube itself",
+        "start": 265.99,
+        "duration": 2.17
+    },
+    {
+        "text": "urging creators to talk\nabout their concerns.",
+        "start": 268.16,
+        "duration": 1.763
+    },
+    {
+        "text": "With the YouTube Creators\nTwitter account tweeting,",
+        "start": 269.923,
+        "duration": 2.004
+    },
+    {
+        "text": "\"Creators: you are a\nvital part of YouTube,",
+        "start": 271.927,
+        "duration": 1.88
+    },
+    {
+        "text": "\"and we support you\nmaking your voices heard.",
+        "start": 273.807,
+        "duration": 1.87
+    },
+    {
+        "text": "\"If you are interested in\nsharing your views on COPPA,",
+        "start": 275.677,
+        "duration": 2.01
+    },
+    {
+        "text": "\"the FTC is receiving\ncomments on its website",
+        "start": 277.687,
+        "duration": 2.17
+    },
+    {
+        "text": "\"until December 9th.",
+        "start": 279.857,
+        "duration": 1.003
+    },
+    {
+        "text": "But still, while speaking\nwith Johnston this morning,",
+        "start": 280.86,
+        "duration": 1.86
+    },
+    {
+        "text": "you can see this already having\nan impact on the business.",
+        "start": 282.72,
+        "duration": 2.82
+    },
+    {
+        "text": "He said that he and his wife",
+        "start": 285.54,
+        "duration": 0.833
+    },
+    {
+        "text": "have already decided to pull the plug",
+        "start": 286.373,
+        "duration": 1.157
+    },
+    {
+        "text": "on some of their planned kids' content.",
+        "start": 287.53,
+        "duration": 1.46
+    },
+    {
+        "text": "And he really emphasized how",
+        "start": 288.99,
+        "duration": 1.02
+    },
+    {
+        "text": "this is going to effect the little guy,",
+        "start": 290.01,
+        "duration": 1.32
+    },
+    {
+        "text": "because yes, big creators\nwill be able to find",
+        "start": 291.33,
+        "duration": 2.29
+    },
+    {
+        "text": "other ways to generate money.",
+        "start": 293.62,
+        "duration": 1.264
+    },
+    {
+        "text": "Remember, things sure as brand deals,",
+        "start": 294.884,
+        "duration": 1.426
+    },
+    {
+        "text": "and on that he said.",
+        "start": 296.31,
+        "duration": 0.94
+    },
+    {
+        "text": "- That isn't gonna be available",
+        "start": 297.25,
+        "duration": 1.28
+    },
+    {
+        "text": "for the small creators in the future.",
+        "start": 298.53,
+        "duration": 1.68
+    },
+    {
+        "text": "And that's a big reason\nwhy I'm speaking out.",
+        "start": 300.21,
+        "duration": 2.23
+    },
+    {
+        "text": "I wouldn't be doing all of this",
+        "start": 302.44,
+        "duration": 1.15
+    },
+    {
+        "text": "if it was just about my channel.",
+        "start": 303.59,
+        "duration": 1.71
+    },
+    {
+        "text": "But I'm considered other people like me,",
+        "start": 305.3,
+        "duration": 2.24
+    },
+    {
+        "text": "or other people five\nyears, ten years from now,",
+        "start": 307.54,
+        "duration": 2.23
+    },
+    {
+        "text": "who wanna get going.",
+        "start": 309.77,
+        "duration": 1.52
+    },
+    {
+        "text": "And I'm so grateful that",
+        "start": 311.29,
+        "duration": 1.36
+    },
+    {
+        "text": "when I took that leap of faith to say,",
+        "start": 312.65,
+        "duration": 1.59
+    },
+    {
+        "text": "I'm gonna do YouTube full time,",
+        "start": 314.24,
+        "duration": 1.96
+    },
+    {
+        "text": "that ad revenue made that possible.",
+        "start": 316.2,
+        "duration": 2.3
+    },
+    {
+        "text": "- And with all of that, Johnston also said",
+        "start": 318.5,
+        "duration": 1.27
+    },
+    {
+        "text": "that he understands the need for parents",
+        "start": 319.77,
+        "duration": 1.42
+    },
+    {
+        "text": "to have control of their\nkids' privacy online,",
+        "start": 321.19,
+        "duration": 1.72
+    },
+    {
+        "text": "but notably, he argued\nthat this isn't doing that.",
+        "start": 322.91,
+        "duration": 2.35
+    },
+    {
+        "text": "- We care about children's privacy,",
+        "start": 325.26,
+        "duration": 2.4
+    },
+    {
+        "text": "we are just saying that this regulation",
+        "start": 327.66,
+        "duration": 2.25
+    },
+    {
+        "text": "is gonna do more harm than good.",
+        "start": 329.91,
+        "duration": 1.97
+    },
+    {
+        "text": "I think it's really important that we all",
+        "start": 331.88,
+        "duration": 1.66
+    },
+    {
+        "text": "recognize that the majority of parents",
+        "start": 333.54,
+        "duration": 1.96
+    },
+    {
+        "text": "are letting their children\nwatch YouTube main.",
+        "start": 335.5,
+        "duration": 2.54
+    },
+    {
+        "text": "We're wanting parents to continue",
+        "start": 338.04,
+        "duration": 1.21
+    },
+    {
+        "text": "to be able to make that choice",
+        "start": 339.25,
+        "duration": 1.01
+    },
+    {
+        "text": "without the government coming in",
+        "start": 340.26,
+        "duration": 1.45
+    },
+    {
+        "text": "and overriding the parents' decision.",
+        "start": 341.71,
+        "duration": 2.44
+    },
+    {
+        "text": "If parents were really concerned\nabout personalized ads,",
+        "start": 344.15,
+        "duration": 2.446
+    },
+    {
+        "text": "it raises the question,",
+        "start": 346.596,
+        "duration": 1.594
+    },
+    {
+        "text": "why are they all letting\ntheir kids watch YouTube main.",
+        "start": 348.19,
+        "duration": 2.27
+    },
+    {
+        "text": "- But hey, ultimately, that is",
+        "start": 350.46,
+        "duration": 1.05
+    },
+    {
+        "text": "where we are with the story now.",
+        "start": 351.51,
+        "duration": 1.05
+    },
+    {
+        "text": "Of course, like with any story,",
+        "start": 352.56,
+        "duration": 1.2
+    },
+    {
+        "text": "I definitely would love\nto know what you think,",
+        "start": 353.76,
+        "duration": 2.0
+    },
+    {
+        "text": "but I would also say today, if\nyou do have strong opinions,",
+        "start": 355.76,
+        "duration": 2.78
+    },
+    {
+        "text": "strong concerns, I'm also\ngoing to link down below",
+        "start": 358.54,
+        "duration": 2.4
+    },
+    {
+        "text": "where you can leave a comment for the FTC.",
+        "start": 360.94,
+        "duration": 1.87
+    },
+    {
+        "text": "It'd also be interesting to\nsee over the next few months",
+        "start": 362.81,
+        "duration": 1.98
+    },
+    {
+        "text": "to see how and if the FTC responds",
+        "start": 364.79,
+        "duration": 2.26
+    },
+    {
+        "text": "to these creators' concerns.",
+        "start": 367.05,
+        "duration": 1.26
+    },
+    {
+        "text": "But yeah, ultimately, we're\ngonna have to wait and see.",
+        "start": 368.31,
+        "duration": 1.86
+    },
+    {
+        "text": "But from that, I wanna share\nsome stuff I love today,",
+        "start": 370.17,
+        "duration": 2.67
+    },
+    {
+        "text": "and today I'm also brought\nto you by Dollar Shave Club.",
+        "start": 372.84,
+        "duration": 2.86
+    },
+    {
+        "text": "And we all know that Dollar Shave Club",
+        "start": 375.7,
+        "duration": 1.2
+    },
+    {
+        "text": "has you covered for all\nyour grooming needs.",
+        "start": 376.9,
+        "duration": 1.5
+    },
+    {
+        "text": "For your shower, oral care, deodorant,",
+        "start": 378.4,
+        "duration": 1.83
+    },
+    {
+        "text": "and most importantly, shaving.",
+        "start": 380.23,
+        "duration": 1.51
+    },
+    {
+        "text": "And this holiday season,\nthey also have your back",
+        "start": 381.74,
+        "duration": 1.83
+    },
+    {
+        "text": "for all of your gifting needs.",
+        "start": 383.57,
+        "duration": 1.44
+    },
+    {
+        "text": "From awesome members'\nfavorite gifts and gift cards",
+        "start": 385.01,
+        "duration": 2.17
+    },
+    {
+        "text": "to their brand new roblancho.",
+        "start": 387.18,
+        "duration": 1.56
+    },
+    {
+        "text": "Which I have been told\nis definitely a word",
+        "start": 388.74,
+        "duration": 2.39
+    },
+    {
+        "text": "and not a random combination\nof robe, blanket, and poncho,",
+        "start": 391.13,
+        "duration": 3.41
+    },
+    {
+        "text": "but the main point, Dollar Shave Club",
+        "start": 394.54,
+        "duration": 1.56
+    },
+    {
+        "text": "has something for everyone.",
+        "start": 396.1,
+        "duration": 1.25
+    },
+    {
+        "text": "They even sent me their shave starter set",
+        "start": 397.35,
+        "duration": 1.39
+    },
+    {
+        "text": "that I've been using for a while now,",
+        "start": 398.74,
+        "duration": 1.14
+    },
+    {
+        "text": "and it's especially nice just to keep",
+        "start": 399.88,
+        "duration": 1.6
+    },
+    {
+        "text": "in the office for when I need to quickly",
+        "start": 401.48,
+        "duration": 1.15
+    },
+    {
+        "text": "get ready for a shoot.",
+        "start": 402.63,
+        "duration": 0.833
+    },
+    {
+        "text": "And what's included there is\nyou get this executive handle,",
+        "start": 403.463,
+        "duration": 2.397
+    },
+    {
+        "text": "the blades, the one ounce tube\nof a Dr. Carver shave butter.",
+        "start": 405.86,
+        "duration": 2.97
+    },
+    {
+        "text": "Helps you get that much\nmore of a precise shave.",
+        "start": 408.83,
+        "duration": 1.99
+    },
+    {
+        "text": "And so the main thing is if\nyou wanna check them out,",
+        "start": 410.82,
+        "duration": 1.75
+    },
+    {
+        "text": "just head on over to the\nDollarShaveClub.com/Phil,",
+        "start": 412.57,
+        "duration": 2.5
+    },
+    {
+        "text": "or just click that link in the description",
+        "start": 415.07,
+        "duration": 1.31
+    },
+    {
+        "text": "where all you beautiful bastards",
+        "start": 416.38,
+        "duration": 1.27
+    },
+    {
+        "text": "can get your shave\nstarter set for only $5.",
+        "start": 417.65,
+        "duration": 2.59
+    },
+    {
+        "text": "And hey, while you're\nat it, maybe check out",
+        "start": 420.24,
+        "duration": 1.29
+    },
+    {
+        "text": "all of their great holiday gift sets.",
+        "start": 421.53,
+        "duration": 1.29
+    },
+    {
+        "text": "Main point, click it,\ncheck it out, and enjoy.",
+        "start": 422.82,
+        "duration": 2.41
+    },
+    {
+        "text": "The first bit of awesome\ntoday is if you're looking",
+        "start": 425.23,
+        "duration": 1.69
+    },
+    {
+        "text": "for some extra news after today's show,",
+        "start": 426.92,
+        "duration": 1.95
+    },
+    {
+        "text": "we also put out an extra\nbonus news deep dive.",
+        "start": 428.87,
+        "duration": 2.22
+    },
+    {
+        "text": "This one taking a look at cults,",
+        "start": 431.09,
+        "duration": 1.59
+    },
+    {
+        "text": "and the programming is really interesting.",
+        "start": 432.68,
+        "duration": 1.65
+    },
+    {
+        "text": "I highly recommend it.",
+        "start": 434.33,
+        "duration": 1.1
+    },
+    {
+        "text": "Then we had Emilia\nClarke and Henry Golding",
+        "start": 435.43,
+        "duration": 1.95
+    },
+    {
+        "text": "playing a holiday movie quote game.",
+        "start": 437.38,
+        "duration": 1.57
+    },
+    {
+        "text": "We also got an interesting teaser trailer",
+        "start": 438.95,
+        "duration": 1.49
+    },
+    {
+        "text": "for the new Pixar movie \"Soul.\"",
+        "start": 440.44,
+        "duration": 1.42
+    },
+    {
+        "text": "I'm feeling this movie\nis gonna be a great way",
+        "start": 441.86,
+        "duration": 1.58
+    },
+    {
+        "text": "to get some tears out of me.",
+        "start": 443.44,
+        "duration": 1.13
+    },
+    {
+        "text": "Then we got the official trailer",
+        "start": 444.57,
+        "duration": 1.31
+    },
+    {
+        "text": "for \"The Knight Before Christmas.\"",
+        "start": 445.88,
+        "duration": 1.71
+    },
+    {
+        "text": "Because it really for sometimes feels like",
+        "start": 447.59,
+        "duration": 2.19
+    },
+    {
+        "text": "as long as you can get\na good pun in the title,",
+        "start": 449.78,
+        "duration": 2.69
+    },
+    {
+        "text": "people will just green light stuff.",
+        "start": 452.47,
+        "duration": 1.14
+    },
+    {
+        "text": "We also got a trailer\nfor \"The Invisible Man,\"",
+        "start": 453.61,
+        "duration": 1.81
+    },
+    {
+        "text": "then we had David Dobrik doing",
+        "start": 455.42,
+        "duration": 1.29
+    },
+    {
+        "text": "the grossest things with gum.",
+        "start": 456.71,
+        "duration": 1.48
+    },
+    {
+        "text": "We had DaBaby on hot ones.",
+        "start": 458.19,
+        "duration": 1.79
+    },
+    {
+        "text": "We had a former jewel thief\nreviewing famous heist movies.",
+        "start": 459.98,
+        "duration": 2.62
+    },
+    {
+        "text": "And if you wanna see the full versions",
+        "start": 462.6,
+        "duration": 1.33
+    },
+    {
+        "text": "of everything I just shared,",
+        "start": 463.93,
+        "duration": 0.97
+    },
+    {
+        "text": "the secret link of the day,",
+        "start": 464.9,
+        "duration": 1.06
+    },
+    {
+        "text": "really, anything at all,",
+        "start": 465.96,
+        "duration": 1.64
+    },
+    {
+        "text": "links, as always, are in\nthe description down below.",
+        "start": 467.6,
+        "duration": 1.91
+    },
+    {
+        "text": "And then, let's talk about\nthis really interesting",
+        "start": 469.51,
+        "duration": 2.18
+    },
+    {
+        "text": "technology slash business news.",
+        "start": 471.69,
+        "duration": 1.827
+    },
+    {
+        "text": "And it involves a question and debate",
+        "start": 473.517,
+        "duration": 2.063
+    },
+    {
+        "text": "that I think we're gonna see",
+        "start": 475.58,
+        "duration": 0.833
+    },
+    {
+        "text": "more and more of as the years go on,",
+        "start": 476.413,
+        "duration": 2.027
+    },
+    {
+        "text": "and that is just because\nwe have the technology,",
+        "start": 478.44,
+        "duration": 2.28
+    },
+    {
+        "text": "should we do something.",
+        "start": 480.72,
+        "duration": 1.5
+    },
+    {
+        "text": "And specifically, the instance and debate",
+        "start": 482.22,
+        "duration": 1.82
+    },
+    {
+        "text": "that we're talking about today",
+        "start": 484.04,
+        "duration": 0.86
+    },
+    {
+        "text": "is around an upcoming movie\nthat will star James Dean.",
+        "start": 484.9,
+        "duration": 2.6
+    },
+    {
+        "text": "To which you're probably\nwondering one of two things,",
+        "start": 487.5,
+        "duration": 2.33
+    },
+    {
+        "text": "and it probably tells us\na lot about who you are.",
+        "start": 489.83,
+        "duration": 2.5
+    },
+    {
+        "text": "You're either thinking one, the porn guy,",
+        "start": 492.33,
+        "duration": 2.15
+    },
+    {
+        "text": "or two, wait, the dead guy.",
+        "start": 494.48,
+        "duration": 1.77
+    },
+    {
+        "text": "And the answer is yes, the dead one.",
+        "start": 496.25,
+        "duration": 1.7
+    },
+    {
+        "text": "James Dean, of course,\npassed away over 60 years ago",
+        "start": 497.95,
+        "duration": 2.26
+    },
+    {
+        "text": "in a car crash when he\nwas just 24 years old.",
+        "start": 500.21,
+        "duration": 1.97
+    },
+    {
+        "text": "And as far as how this person\nwho died over six decades ago",
+        "start": 502.18,
+        "duration": 2.66
+    },
+    {
+        "text": "could star in a new movie\ncalled \"Finding Jack,\"",
+        "start": 504.84,
+        "duration": 2.36
+    },
+    {
+        "text": "they reportedly will use\na CGI version of Dean",
+        "start": 507.2,
+        "duration": 2.09
+    },
+    {
+        "text": "for one of the characters.",
+        "start": 509.29,
+        "duration": 0.88
+    },
+    {
+        "text": "And according to The Hollywood Reporter,",
+        "start": 510.17,
+        "duration": 1.23
+    },
+    {
+        "text": "Dean's performance will be\nconstructed via full body CGI",
+        "start": 511.4,
+        "duration": 2.78
+    },
+    {
+        "text": "using actual footage and photos,",
+        "start": 514.18,
+        "duration": 1.98
+    },
+    {
+        "text": "and adding another actor will voice him.",
+        "start": 516.16,
+        "duration": 1.7
+    },
+    {
+        "text": "The movie will be based off of\nthe book with the same name,",
+        "start": 517.86,
+        "duration": 2.23
+    },
+    {
+        "text": "and according to the\nIMDb summary of the film,",
+        "start": 520.09,
+        "duration": 2.07
+    },
+    {
+        "text": "it follows a character\nwho's forced to abandon",
+        "start": 522.16,
+        "duration": 1.65
+    },
+    {
+        "text": "an injured dog that he met\nwhile serving in Vietnam.",
+        "start": 523.81,
+        "duration": 2.24
+    },
+    {
+        "text": "Which, it is worth noting,",
+        "start": 526.05,
+        "duration": 0.92
+    },
+    {
+        "text": "that Dean isn't the main\ncharacter mentioned,",
+        "start": 526.97,
+        "duration": 1.76
+    },
+    {
+        "text": "he'll be a secondary lead.",
+        "start": 528.73,
+        "duration": 1.16
+    },
+    {
+        "text": "And as far why they landed on Dean",
+        "start": 529.89,
+        "duration": 1.43
+    },
+    {
+        "text": "for their casting decision,\none of the directors said,",
+        "start": 531.32,
+        "duration": 2.077
+    },
+    {
+        "text": "\"We searched high and low\nfor the perfect character",
+        "start": 533.397,
+        "duration": 1.87
+    },
+    {
+        "text": "\"to portray the role of Rogan,",
+        "start": 535.267,
+        "duration": 1.43
+    },
+    {
+        "text": "\"which has some extreme\ncomplex character arcs,",
+        "start": 536.697,
+        "duration": 2.26
+    },
+    {
+        "text": "\"and after months of research,\nwe decided on James Dean.\"",
+        "start": 538.957,
+        "duration": 3.033
+    },
+    {
+        "text": "And also adding that they got the right",
+        "start": 541.99,
+        "duration": 1.21
+    },
+    {
+        "text": "to use Dean's image\nfrom his family, saying,",
+        "start": 543.2,
+        "duration": 1.757
+    },
+    {
+        "text": "\"We feel very honored that\nhis family supports us",
+        "start": 544.957,
+        "duration": 2.13
+    },
+    {
+        "text": "\"and will take every precaution to ensure",
+        "start": 547.087,
+        "duration": 1.64
+    },
+    {
+        "text": "\"that his legacy as one of\nthe most epic film stars",
+        "start": 548.727,
+        "duration": 2.18
+    },
+    {
+        "text": "\"to date is kept firmly intact.",
+        "start": 550.907,
+        "duration": 1.7
+    },
+    {
+        "text": "\"The family views this\nas his fourth movie,",
+        "start": 552.607,
+        "duration": 1.96
+    },
+    {
+        "text": "\"a movie he never got to make.",
+        "start": 554.567,
+        "duration": 1.31
+    },
+    {
+        "text": "\"We do not intend to let his fans down.\"",
+        "start": 555.877,
+        "duration": 2.203
+    },
+    {
+        "text": "But family's opinion or not, right,",
+        "start": 558.08,
+        "duration": 1.54
+    },
+    {
+        "text": "this idea of having a dead person",
+        "start": 559.62,
+        "duration": 1.45
+    },
+    {
+        "text": "cast in a movie posthumously\nisn't sitting well",
+        "start": 561.07,
+        "duration": 2.35
+    },
+    {
+        "text": "with a lot of people.",
+        "start": 563.42,
+        "duration": 0.86
+    },
+    {
+        "text": "This, including Zelda Williams,",
+        "start": 564.28,
+        "duration": 1.34
+    },
+    {
+        "text": "the daughter of Robin Williams,",
+        "start": 565.62,
+        "duration": 1.19
+    },
+    {
+        "text": "which, interesting thing to note here,",
+        "start": 566.81,
+        "duration": 1.45
+    },
+    {
+        "text": "there's actually restricted\nuse of Robin Williams' image",
+        "start": 568.26,
+        "duration": 2.3
+    },
+    {
+        "text": "for at least 25 years after his death.",
+        "start": 570.56,
+        "duration": 2.03
+    },
+    {
+        "text": "It was actually a decision\nmade by his family.",
+        "start": 572.59,
+        "duration": 1.81
+    },
+    {
+        "text": "So this is something that Zelda",
+        "start": 574.4,
+        "duration": 0.93
+    },
+    {
+        "text": "has a certain kind of\npersonal experience with,",
+        "start": 575.33,
+        "duration": 1.79
+    },
+    {
+        "text": "and so she tweeted,",
+        "start": 577.12,
+        "duration": 0.833
+    },
+    {
+        "text": "\"I've talked to friends\nabout this for years",
+        "start": 577.953,
+        "duration": 1.954
+    },
+    {
+        "text": "\"and no one ever believed\nme that the industry",
+        "start": 579.907,
+        "duration": 1.84
+    },
+    {
+        "text": "\"would stoop this low\nonce tech got better.",
+        "start": 581.747,
+        "duration": 2.13
+    },
+    {
+        "text": "\"Publicity stunt or not,\nthis is puppeteering the dead",
+        "start": 583.877,
+        "duration": 2.38
+    },
+    {
+        "text": "\"for their clout alone,",
+        "start": 586.257,
+        "duration": 1.1
+    },
+    {
+        "text": "\"and it sets such an awful precedent",
+        "start": 587.357,
+        "duration": 1.6
+    },
+    {
+        "text": "\"for the future of performance.\"",
+        "start": 588.957,
+        "duration": 1.373
+    },
+    {
+        "text": "We also saw big name actors\njoining the conversation.",
+        "start": 590.33,
+        "duration": 2.42
+    },
+    {
+        "text": "Chris Evans putting out a sarcastic",
+        "start": 592.75,
+        "duration": 1.627
+    },
+    {
+        "text": "\"I'm sure he'd be thrilled,\"",
+        "start": 594.377,
+        "duration": 1.423
+    },
+    {
+        "text": "followed by \"This is awful.\"",
+        "start": 595.8,
+        "duration": 1.187
+    },
+    {
+        "text": "\"Maybe we can get a computer\nto paint us a new Picasso,",
+        "start": 596.987,
+        "duration": 1.97
+    },
+    {
+        "text": "\"or write a couple new John Lennon tunes.",
+        "start": 598.957,
+        "duration": 1.5
+    },
+    {
+        "text": "\"The complete lack of\nunderstanding here is shameful.\"",
+        "start": 600.457,
+        "duration": 2.513
+    },
+    {
+        "text": "You also had Elijah Wood who simply said,",
+        "start": 602.97,
+        "duration": 1.497
+    },
+    {
+        "text": "\"Nope, this shouldn't be a thing.\"",
+        "start": 604.467,
+        "duration": 0.893
+    },
+    {
+        "text": "You also had Julie Ann Emery",
+        "start": 605.36,
+        "duration": 1.63
+    },
+    {
+        "text": "who's been in things like \"Preacher\"",
+        "start": 606.99,
+        "duration": 1.27
+    },
+    {
+        "text": "and \"Better Call Saul\" add in,",
+        "start": 608.26,
+        "duration": 1.237
+    },
+    {
+        "text": "\"Yeah, that's not James Dean.",
+        "start": 609.497,
+        "duration": 1.38
+    },
+    {
+        "text": "\"It's his face on a\nmotion capture performance",
+        "start": 610.877,
+        "duration": 1.93
+    },
+    {
+        "text": "\"and an anonymous actor providing\nvoice pattern and choices.",
+        "start": 612.807,
+        "duration": 2.72
+    },
+    {
+        "text": "\"I'd like to know how it will be credited.",
+        "start": 615.527,
+        "duration": 1.47
+    },
+    {
+        "text": "\"How the real actors will be paid.",
+        "start": 616.997,
+        "duration": 1.43
+    },
+    {
+        "text": "\"And how little this team\nunderstands the acting craft.",
+        "start": 618.427,
+        "duration": 2.913
+    },
+    {
+        "text": "And later saying, \"How\ndid Dean's descendants",
+        "start": 621.34,
+        "duration": 1.787
+    },
+    {
+        "text": "\"know that he would want\nto be in a Vietnam movie?",
+        "start": 623.127,
+        "duration": 2.09
+    },
+    {
+        "text": "\"That he would support that?\"",
+        "start": 625.217,
+        "duration": 1.213
+    },
+    {
+        "text": "Though, of course, it is\nimportant to point out",
+        "start": 626.43,
+        "duration": 1.02
+    },
+    {
+        "text": "that not everyone had that feeling,",
+        "start": 627.45,
+        "duration": 1.81
+    },
+    {
+        "text": "it wasn't completely universal.",
+        "start": 629.26,
+        "duration": 1.29
+    },
+    {
+        "text": "And one of the main\ndefenses was essentially",
+        "start": 630.55,
+        "duration": 1.35
+    },
+    {
+        "text": "if the family approved of it,",
+        "start": 631.9,
+        "duration": 1.07
+    },
+    {
+        "text": "all right, this is probably good.",
+        "start": 632.97,
+        "duration": 1.38
+    },
+    {
+        "text": "And while this is a very specific story,",
+        "start": 634.35,
+        "duration": 1.91
+    },
+    {
+        "text": "we're talking about one movie,",
+        "start": 636.26,
+        "duration": 1.32
+    },
+    {
+        "text": "it's also bigger.",
+        "start": 637.58,
+        "duration": 0.98
+    },
+    {
+        "text": "Right, because are reports\nthat this kind of CGI",
+        "start": 638.56,
+        "duration": 1.74
+    },
+    {
+        "text": "in film doesn't stop with James Dean.",
+        "start": 640.3,
+        "duration": 1.71
+    },
+    {
+        "text": "You know, the company\nthat's making this CGI,",
+        "start": 642.01,
+        "duration": 1.49
+    },
+    {
+        "text": "you have a Canadian group\ncalled Imagine Engine,",
+        "start": 643.5,
+        "duration": 2.02
+    },
+    {
+        "text": "and a South African group\ncalled MLI Worldwide,",
+        "start": 645.52,
+        "duration": 2.49
+    },
+    {
+        "text": "and they could have more\nprojects like this in the future,",
+        "start": 648.01,
+        "duration": 1.83
+    },
+    {
+        "text": "with one of the directors saying,",
+        "start": 649.84,
+        "duration": 1.017
+    },
+    {
+        "text": "\"Our partners in South Africa\nare very excited about this,",
+        "start": 650.857,
+        "duration": 2.79
+    },
+    {
+        "text": "\"as this technology would\nalso be employed down the line",
+        "start": 653.647,
+        "duration": 1.94
+    },
+    {
+        "text": "\"to re-create historical icons,",
+        "start": 655.587,
+        "duration": 1.66
+    },
+    {
+        "text": "\"such as Nelson Mandela to tell stories",
+        "start": 657.247,
+        "duration": 1.81
+    },
+    {
+        "text": "\"of cultural heritage significance.\"",
+        "start": 659.057,
+        "duration": 1.773
+    },
+    {
+        "text": "All right, so this is in the same realm,",
+        "start": 660.83,
+        "duration": 1.25
+    },
+    {
+        "text": "but also not completely\na one to one comparison.",
+        "start": 662.08,
+        "duration": 2.3
+    },
+    {
+        "text": "Nelson Mandela wasn't an actor.",
+        "start": 664.38,
+        "duration": 1.79
+    },
+    {
+        "text": "And also in recent history,\nwe saw a similar debate.",
+        "start": 666.17,
+        "duration": 2.32
+    },
+    {
+        "text": "For example, in Rogue One,",
+        "start": 668.49,
+        "duration": 1.06
+    },
+    {
+        "text": "Peter Cushing, who had died two decades",
+        "start": 669.55,
+        "duration": 1.56
+    },
+    {
+        "text": "before the film's release,",
+        "start": 671.11,
+        "duration": 0.96
+    },
+    {
+        "text": "he still made an\nappearance, thanks to CGI.",
+        "start": 672.07,
+        "duration": 1.86
+    },
+    {
+        "text": "Though of course, there once again,",
+        "start": 673.93,
+        "duration": 1.28
+    },
+    {
+        "text": "not a complete one to one comparison.",
+        "start": 675.21,
+        "duration": 1.65
+    },
+    {
+        "text": "You had people arguing\nthis is a different case,",
+        "start": 676.86,
+        "duration": 1.78
+    },
+    {
+        "text": "he had previously agreed\nto play the character.",
+        "start": 678.64,
+        "duration": 1.97
+    },
+    {
+        "text": "So I think more people\nsaw that as honoring",
+        "start": 680.61,
+        "duration": 1.89
+    },
+    {
+        "text": "and including someone\nrather than exploiting.",
+        "start": 682.5,
+        "duration": 1.85
+    },
+    {
+        "text": "Whereas James Dean here would be used",
+        "start": 684.35,
+        "duration": 1.41
+    },
+    {
+        "text": "for a film that he had no\nunderstanding of, no knowledge of,",
+        "start": 685.76,
+        "duration": 2.437
+    },
+    {
+        "text": "and so I was really\nfascinated by that story,",
+        "start": 688.197,
+        "duration": 1.943
+    },
+    {
+        "text": "I was also really fascinated to know",
+        "start": 690.14,
+        "duration": 1.56
+    },
+    {
+        "text": "what you guys would think.",
+        "start": 691.7,
+        "duration": 1.09
+    },
+    {
+        "text": "I'm kind of torn on it,",
+        "start": 692.79,
+        "duration": 1.05
+    },
+    {
+        "text": "but I'm definitely leaning\nmore towards it feels wrong.",
+        "start": 693.84,
+        "duration": 2.57
+    },
+    {
+        "text": "Right now that the tech is here,",
+        "start": 696.41,
+        "duration": 1.07
+    },
+    {
+        "text": "you know I feel like for living actors,",
+        "start": 697.48,
+        "duration": 1.48
+    },
+    {
+        "text": "this can be part of the\nconversation of like hey,",
+        "start": 698.96,
+        "duration": 2.81
+    },
+    {
+        "text": "would you be cool if after you died,",
+        "start": 701.77,
+        "duration": 1.57
+    },
+    {
+        "text": "we turned you into a digital puppet,",
+        "start": 703.34,
+        "duration": 1.61
+    },
+    {
+        "text": "and your family could make some money.",
+        "start": 704.95,
+        "duration": 1.33
+    },
+    {
+        "text": "I dunno, that's just kind\nof my immediate feeling,",
+        "start": 706.28,
+        "duration": 1.77
+    },
+    {
+        "text": "and so I pass the question off to you.",
+        "start": 708.05,
+        "duration": 1.77
+    },
+    {
+        "text": "What are your thoughts on this?",
+        "start": 709.82,
+        "duration": 0.87
+    },
+    {
+        "text": "And then it's been a little while,",
+        "start": 710.69,
+        "duration": 1.63
+    },
+    {
+        "text": "but let's talk about some\nhuge updates regarding Trump,",
+        "start": 712.32,
+        "duration": 2.82
+    },
+    {
+        "text": "Ukraine, the impeachment investigation.",
+        "start": 715.14,
+        "duration": 2.35
+    },
+    {
+        "text": "You know, we talked about this story a lot",
+        "start": 717.49,
+        "duration": 1.16
+    },
+    {
+        "text": "when it first got going,",
+        "start": 718.65,
+        "duration": 0.91
+    },
+    {
+        "text": "so if you're looking for\nreally detailed background,",
+        "start": 719.56,
+        "duration": 2.015
+    },
+    {
+        "text": "I'll link you to the previous coverage.",
+        "start": 721.575,
+        "duration": 1.755
+    },
+    {
+        "text": "But, there's some quick context,",
+        "start": 723.33,
+        "duration": 1.17
+    },
+    {
+        "text": "so you get kind of\nbrought back up to speed,",
+        "start": 724.5,
+        "duration": 1.58
+    },
+    {
+        "text": "you have a general understanding",
+        "start": 726.08,
+        "duration": 1.27
+    },
+    {
+        "text": "of what the hell I'm talking about.",
+        "start": 727.35,
+        "duration": 1.08
+    },
+    {
+        "text": "The House's impeachment\ninvestigation stems from",
+        "start": 728.43,
+        "duration": 1.73
+    },
+    {
+        "text": "a whistleblower complaint that claims that",
+        "start": 730.16,
+        "duration": 1.32
+    },
+    {
+        "text": "Donald Trump pressured\nUkrainian president Zelensky",
+        "start": 731.48,
+        "duration": 2.21
+    },
+    {
+        "text": "to investigate Joe Biden during\na phone call back in July.",
+        "start": 733.69,
+        "duration": 2.53
+    },
+    {
+        "text": "And also connected to this, whether or not",
+        "start": 736.22,
+        "duration": 1.51
+    },
+    {
+        "text": "Donald Trump decided\nto withhold the nearly",
+        "start": 737.73,
+        "duration": 1.71
+    },
+    {
+        "text": "400 million dollars in\nsecurity aid to Ukraine",
+        "start": 739.44,
+        "duration": 2.77
+    },
+    {
+        "text": "so that he would have\nleverage over Zelensky.",
+        "start": 742.21,
+        "duration": 1.784
+    },
+    {
+        "text": "Right, and so that's the\nwhole quid pro quo debate.",
+        "start": 743.994,
+        "duration": 1.586
+    },
+    {
+        "text": "Now on one side of this,\nyou have Donald Trump",
+        "start": 745.58,
+        "duration": 1.3
+    },
+    {
+        "text": "and his supporters saying\nthat is not quid pro quo",
+        "start": 746.88,
+        "duration": 1.89
+    },
+    {
+        "text": "because in the call with Zelensky,",
+        "start": 748.77,
+        "duration": 1.33
+    },
+    {
+        "text": "Trump did not explicitly say,",
+        "start": 750.1,
+        "duration": 1.44
+    },
+    {
+        "text": "I will not give you this\n400 million dollars,",
+        "start": 751.54,
+        "duration": 1.89
+    },
+    {
+        "text": "unless you look into Biden,",
+        "start": 753.43,
+        "duration": 1.03
+    },
+    {
+        "text": "but on the other side of\nthis, you have people saying",
+        "start": 754.46,
+        "duration": 1.51
+    },
+    {
+        "text": "that even if Donald Trump",
+        "start": 755.97,
+        "duration": 0.92
+    },
+    {
+        "text": "didn't directly pressure Zelensky,",
+        "start": 756.89,
+        "duration": 1.57
+    },
+    {
+        "text": "he still asked a foreign leader",
+        "start": 758.46,
+        "duration": 1.38
+    },
+    {
+        "text": "to interfere with the US election process",
+        "start": 759.84,
+        "duration": 1.58
+    },
+    {
+        "text": "by investigating one of\nhis main 2020 opponents.",
+        "start": 761.42,
+        "duration": 2.14
+    },
+    {
+        "text": "Now regarding the\nsituation, Trump has kind of",
+        "start": 763.56,
+        "duration": 1.79
+    },
+    {
+        "text": "described it as a general situation,",
+        "start": 765.35,
+        "duration": 2.03
+    },
+    {
+        "text": "not a personal favor.",
+        "start": 767.38,
+        "duration": 1.37
+    },
+    {
+        "text": "But Trump saying that the aid was withheld",
+        "start": 768.75,
+        "duration": 1.37
+    },
+    {
+        "text": "because he wanted to\nmake sure that Ukraine",
+        "start": 770.12,
+        "duration": 1.35
+    },
+    {
+        "text": "was following through on its commitments",
+        "start": 771.47,
+        "duration": 1.3
+    },
+    {
+        "text": "to crack down on corruption,",
+        "start": 772.77,
+        "duration": 1.18
+    },
+    {
+        "text": "but many others responded by saying",
+        "start": 773.95,
+        "duration": 1.23
+    },
+    {
+        "text": "that makes no sense,",
+        "start": 775.18,
+        "duration": 1.09
+    },
+    {
+        "text": "noting that Congress had\nalready approved the aid package",
+        "start": 776.27,
+        "duration": 2.09
+    },
+    {
+        "text": "because, and this is a big note,",
+        "start": 778.36,
+        "duration": 1.42
+    },
+    {
+        "text": "the Pentagon had specifically\nsaid that Ukraine",
+        "start": 779.78,
+        "duration": 2.03
+    },
+    {
+        "text": "was meeting its corruption goals,",
+        "start": 781.81,
+        "duration": 1.53
+    },
+    {
+        "text": "and thus the aid was good to go.",
+        "start": 783.34,
+        "duration": 1.35
+    },
+    {
+        "text": "Over the last few weeks, we've seen",
+        "start": 784.69,
+        "duration": 1.07
+    },
+    {
+        "text": "the various House committees\ninvolved in this investigation",
+        "start": 785.76,
+        "duration": 2.1
+    },
+    {
+        "text": "request and subpoena a\nnumber of people to testify",
+        "start": 787.86,
+        "duration": 2.26
+    },
+    {
+        "text": "or hand over documents and information.",
+        "start": 790.12,
+        "duration": 1.91
+    },
+    {
+        "text": "Those happening behind closed doors,",
+        "start": 792.03,
+        "duration": 2.02
+    },
+    {
+        "text": "something that Republicans",
+        "start": 794.05,
+        "duration": 0.91
+    },
+    {
+        "text": "have heavily criticized the Democrats for,",
+        "start": 794.96,
+        "duration": 1.75
+    },
+    {
+        "text": "arguing that all of this should be public,",
+        "start": 796.71,
+        "duration": 1.37
+    },
+    {
+        "text": "but I also do wanna note\nthat not all Republicans.",
+        "start": 798.08,
+        "duration": 1.98
+    },
+    {
+        "text": "For example, in the midst\nof all the craziness,",
+        "start": 800.06,
+        "duration": 1.92
+    },
+    {
+        "text": "where you had Republicans\ntrying to push themselves",
+        "start": 801.98,
+        "duration": 2.13
+    },
+    {
+        "text": "into a private meeting.",
+        "start": 804.11,
+        "duration": 0.98
+    },
+    {
+        "text": "There was a clip from 2018 being shared",
+        "start": 805.09,
+        "duration": 1.78
+    },
+    {
+        "text": "of Republican representative Trey Gowdy.",
+        "start": 806.87,
+        "duration": 1.922
+    },
+    {
+        "text": "- Our private hearing was\nmuch more constructive",
+        "start": 808.792,
+        "duration": 2.618
+    },
+    {
+        "text": "than the public hearing.",
+        "start": 811.41,
+        "duration": 0.91
+    },
+    {
+        "text": "I mean, public hearings\nare a circus, Margaret.",
+        "start": 812.32,
+        "duration": 1.97
+    },
+    {
+        "text": "I mean, that's why I don't like to do 'em,",
+        "start": 814.29,
+        "duration": 1.78
+    },
+    {
+        "text": "I don't do many of them.",
+        "start": 816.07,
+        "duration": 2.04
+    },
+    {
+        "text": "I mean, it's a freak show.",
+        "start": 818.11,
+        "duration": 2.08
+    },
+    {
+        "text": "- And actually about a week ago on CBS,",
+        "start": 820.19,
+        "duration": 1.48
+    },
+    {
+        "text": "he said he still believes that, adding",
+        "start": 821.67,
+        "duration": 1.547
+    },
+    {
+        "text": "\"I'm a rule follower.",
+        "start": 823.217,
+        "duration": 0.89
+    },
+    {
+        "text": "\"I threw a Republican out of a hearing",
+        "start": 824.107,
+        "duration": 1.25
+    },
+    {
+        "text": "\"because he was not a\nmember of the committee.",
+        "start": 825.357,
+        "duration": 1.38
+    },
+    {
+        "text": "\"If you're going to have\nprivate investigations",
+        "start": 826.737,
+        "duration": 1.53
+    },
+    {
+        "text": "\"with unlimited time for questioning",
+        "start": 828.267,
+        "duration": 1.26
+    },
+    {
+        "text": "\"and cross-examining witnesses,",
+        "start": 829.527,
+        "duration": 1.21
+    },
+    {
+        "text": "\"that's a good thing.\"",
+        "start": 830.737,
+        "duration": 0.833
+    },
+    {
+        "text": "But then also adding,",
+        "start": 831.57,
+        "duration": 0.833
+    },
+    {
+        "text": "\"What's not a good thing\nis to have selective leaks",
+        "start": 832.403,
+        "duration": 1.704
+    },
+    {
+        "text": "\"where you pick one sentence",
+        "start": 834.107,
+        "duration": 0.98
+    },
+    {
+        "text": "\"out of an eight hour deposition.\"",
+        "start": 835.087,
+        "duration": 1.253
+    },
+    {
+        "text": "But yeah, on the other side of this,",
+        "start": 836.34,
+        "duration": 0.833
+    },
+    {
+        "text": "with the closed door hearings,",
+        "start": 837.173,
+        "duration": 0.833
+    },
+    {
+        "text": "you had Democrats saying",
+        "start": 838.006,
+        "duration": 0.833
+    },
+    {
+        "text": "that these private meetings\nare common practice.",
+        "start": 838.839,
+        "duration": 2.231
+    },
+    {
+        "text": "Especially for testimonies\nthat concern questions",
+        "start": 841.07,
+        "duration": 1.64
+    },
+    {
+        "text": "of national security that often",
+        "start": 842.71,
+        "duration": 1.23
+    },
+    {
+        "text": "are not public information\nin the first place,",
+        "start": 843.94,
+        "duration": 1.7
+    },
+    {
+        "text": "with some pointing out that\nRepublicans did the same thing",
+        "start": 845.64,
+        "duration": 2.56
+    },
+    {
+        "text": "with the Benghazi hearings.",
+        "start": 848.2,
+        "duration": 0.92
+    },
+    {
+        "text": "But that said, one of the big updates",
+        "start": 849.12,
+        "duration": 1.39
+    },
+    {
+        "text": "is that yesterday the House announced",
+        "start": 850.51,
+        "duration": 1.41
+    },
+    {
+        "text": "that it will start holding\nthe first public hearings",
+        "start": 851.92,
+        "duration": 1.82
+    },
+    {
+        "text": "in the impeachment\ninvestigations next week.",
+        "start": 853.74,
+        "duration": 1.79
+    },
+    {
+        "text": "And also, over the last few days,",
+        "start": 855.53,
+        "duration": 1.09
+    },
+    {
+        "text": "the House has been releasing\na number of transcripts",
+        "start": 856.62,
+        "duration": 1.73
+    },
+    {
+        "text": "from testimonies given by key witnesses.",
+        "start": 858.35,
+        "duration": 1.71
+    },
+    {
+        "text": "Right, kind of giving us a peak",
+        "start": 860.06,
+        "duration": 0.88
+    },
+    {
+        "text": "into some of what's been\ngoing on behind closed doors,",
+        "start": 860.94,
+        "duration": 1.96
+    },
+    {
+        "text": "leading up to the public hearings.",
+        "start": 862.9,
+        "duration": 1.19
+    },
+    {
+        "text": "And while all of the\ntestimonies are important,",
+        "start": 864.09,
+        "duration": 1.99
+    },
+    {
+        "text": "there two main people that we are",
+        "start": 866.08,
+        "duration": 0.833
+    },
+    {
+        "text": "gonna be focusing on today.",
+        "start": 866.913,
+        "duration": 1.017
+    },
+    {
+        "text": "Gordon Sondland, the US\nambassador to the EU,",
+        "start": 867.93,
+        "duration": 2.2
+    },
+    {
+        "text": "and Bill Taylor, the top\nUS diplomat to Ukraine.",
+        "start": 870.13,
+        "duration": 2.53
+    },
+    {
+        "text": "So who are they, how\ndo they fit into this,",
+        "start": 872.66,
+        "duration": 1.91
+    },
+    {
+        "text": "why do they matter.",
+        "start": 874.57,
+        "duration": 0.84
+    },
+    {
+        "text": "Well, among other things, it turns out",
+        "start": 875.41,
+        "duration": 1.5
+    },
+    {
+        "text": "that both of them took\nover their positions",
+        "start": 876.91,
+        "duration": 1.67
+    },
+    {
+        "text": "under kind of unusual circumstances,",
+        "start": 878.58,
+        "duration": 1.64
+    },
+    {
+        "text": "though in very different ways.",
+        "start": 880.22,
+        "duration": 1.58
+    },
+    {
+        "text": "Sondland has generally been described",
+        "start": 881.8,
+        "duration": 1.1
+    },
+    {
+        "text": "as a strong ally of Trump.",
+        "start": 882.9,
+        "duration": 1.7
+    },
+    {
+        "text": "Before serving as the\nUS ambassador to the EU,",
+        "start": 884.6,
+        "duration": 1.96
+    },
+    {
+        "text": "he was wealthy hotel owner and major donor",
+        "start": 886.56,
+        "duration": 1.91
+    },
+    {
+        "text": "to Donald Trump, reportedly\ngiving one million dollars",
+        "start": 888.47,
+        "duration": 2.3
+    },
+    {
+        "text": "to Trump's inaugural committee.",
+        "start": 890.77,
+        "duration": 1.13
+    },
+    {
+        "text": "And Trump appointed Sondland\nback in March of 2018,",
+        "start": 891.9,
+        "duration": 2.07
+    },
+    {
+        "text": "despite the fact that he\nappears to have no official",
+        "start": 893.97,
+        "duration": 1.73
+    },
+    {
+        "text": "political or diplomatic experience.",
+        "start": 895.7,
+        "duration": 1.62
+    },
+    {
+        "text": "And as far as Sondland's\npublic introduction",
+        "start": 897.32,
+        "duration": 1.75
+    },
+    {
+        "text": "for this situation, he\nwas mentioned by name",
+        "start": 899.07,
+        "duration": 1.97
+    },
+    {
+        "text": "in the whistleblower complaint alongside",
+        "start": 901.04,
+        "duration": 1.72
+    },
+    {
+        "text": "the former US envoy to Ukraine.",
+        "start": 902.76,
+        "duration": 1.58
+    },
+    {
+        "text": "In the complaint, the\nwhistleblower wrote that the envoy",
+        "start": 904.34,
+        "duration": 1.92
+    },
+    {
+        "text": "and Sondland reportedly provided advice to",
+        "start": 906.26,
+        "duration": 2.11
+    },
+    {
+        "text": "the Ukrainian leadership about\nhow to navigate the demands",
+        "start": 908.37,
+        "duration": 2.2
+    },
+    {
+        "text": "that the president had\nmade of Mr. Zelensky.",
+        "start": 910.57,
+        "duration": 1.67
+    },
+    {
+        "text": "And as far as Taylor's\nstory, it is a lot different.",
+        "start": 912.24,
+        "duration": 2.14
+    },
+    {
+        "text": "He was a career diplomat who served",
+        "start": 914.38,
+        "duration": 1.33
+    },
+    {
+        "text": "as the US ambassador to Ukraine",
+        "start": 915.71,
+        "duration": 1.41
+    },
+    {
+        "text": "from 2006 to 2009 under both\nGeorge W. Bush and Obama.",
+        "start": 917.12,
+        "duration": 3.54
+    },
+    {
+        "text": "And Taylor ended up being chosen to be",
+        "start": 920.66,
+        "duration": 1.44
+    },
+    {
+        "text": "the interim ambassador to Ukraine",
+        "start": 922.1,
+        "duration": 1.54
+    },
+    {
+        "text": "back in June after the\nprevious ambassador,",
+        "start": 923.64,
+        "duration": 2.03
+    },
+    {
+        "text": "Marie Yovanovitch, was suddenly\nforced to leave her post.",
+        "start": 925.67,
+        "duration": 2.47
+    },
+    {
+        "text": "Without going too far\noff on another tangent,",
+        "start": 928.14,
+        "duration": 1.8
+    },
+    {
+        "text": "we should also mention that\nYovanovitch also testified",
+        "start": 929.94,
+        "duration": 2.13
+    },
+    {
+        "text": "before the House, and her testimony",
+        "start": 932.07,
+        "duration": 1.47
+    },
+    {
+        "text": "was also released earlier this week.",
+        "start": 933.54,
+        "duration": 1.45
+    },
+    {
+        "text": "That testimony, she said that\nTrump's personal attorney,",
+        "start": 934.99,
+        "duration": 2.19
+    },
+    {
+        "text": "Rudy Giuliani, led a\ntargeted campaign to oust her",
+        "start": 937.18,
+        "duration": 2.69
+    },
+    {
+        "text": "because he claimed that she\nwas trying to stop Ukraine",
+        "start": 939.87,
+        "duration": 2.07
+    },
+    {
+        "text": "from opening an investigation into Biden.",
+        "start": 941.94,
+        "duration": 1.92
+    },
+    {
+        "text": "Taylor and Sondland were\nalso both implicated",
+        "start": 943.86,
+        "duration": 1.96
+    },
+    {
+        "text": "in a set of text messages\nreleased by the House",
+        "start": 945.82,
+        "duration": 1.9
+    },
+    {
+        "text": "that invoked key people\norganizing the call",
+        "start": 947.72,
+        "duration": 1.89
+    },
+    {
+        "text": "between Trump and Zelensky\nand what happened after.",
+        "start": 949.61,
+        "duration": 2.24
+    },
+    {
+        "text": "In fact, one of the most\nsignificant interactions",
+        "start": 951.85,
+        "duration": 1.65
+    },
+    {
+        "text": "from those texts was\nbetween Sondland and Taylor",
+        "start": 953.5,
+        "duration": 2.44
+    },
+    {
+        "text": "where they discussed the Trump\nadministration's decision",
+        "start": 955.94,
+        "duration": 1.81
+    },
+    {
+        "text": "to withhold aid from Ukraine.",
+        "start": 957.75,
+        "duration": 1.057
+    },
+    {
+        "text": "And in that conversation,\nTaylor texted Sondland,",
+        "start": 958.807,
+        "duration": 2.53
+    },
+    {
+        "text": "\"As I said on the phone, I think its crazy",
+        "start": 961.337,
+        "duration": 1.77
+    },
+    {
+        "text": "\"to withhold security assistance for help",
+        "start": 963.107,
+        "duration": 1.85
+    },
+    {
+        "text": "\"with a political campaign.\"",
+        "start": 964.957,
+        "duration": 1.273
+    },
+    {
+        "text": "To which Sondland\nresponded to that concern,",
+        "start": 966.23,
+        "duration": 1.657
+    },
+    {
+        "text": "\"I believe you are incorrect",
+        "start": 967.887,
+        "duration": 1.11
+    },
+    {
+        "text": "\"about President Trump's intentions.",
+        "start": 968.997,
+        "duration": 1.43
+    },
+    {
+        "text": "\"The President has been crystal clear",
+        "start": 970.427,
+        "duration": 1.36
+    },
+    {
+        "text": "\"no quid pro quos of any kind.",
+        "start": 971.787,
+        "duration": 1.75
+    },
+    {
+        "text": "\"The President is trying\nto evaluate whether Ukraine",
+        "start": 973.537,
+        "duration": 2.06
+    },
+    {
+        "text": "\"is truly going to adopt the transparency",
+        "start": 975.597,
+        "duration": 1.96
+    },
+    {
+        "text": "\"and reforms that President Zelensky",
+        "start": 977.557,
+        "duration": 1.43
+    },
+    {
+        "text": "\"promised during his campaign.",
+        "start": 978.987,
+        "duration": 1.44
+    },
+    {
+        "text": "\"I suggest we stop the\nback and forth by text.\"",
+        "start": 980.427,
+        "duration": 2.223
+    },
+    {
+        "text": "Which a number of people have argued",
+        "start": 982.65,
+        "duration": 1.29
+    },
+    {
+        "text": "that the way that text was framed",
+        "start": 983.94,
+        "duration": 2.34
+    },
+    {
+        "text": "and structured, it appeared\nhe realized that these texts",
+        "start": 986.28,
+        "duration": 2.17
+    },
+    {
+        "text": "might be seen by others in the future.",
+        "start": 988.45,
+        "duration": 1.72
+    },
+    {
+        "text": "Okay, so then let's talk\nabout their testimonies.",
+        "start": 990.17,
+        "duration": 2.0
+    },
+    {
+        "text": "Sondland was initially supposed\nto testify on October 8th,",
+        "start": 992.17,
+        "duration": 2.31
+    },
+    {
+        "text": "but at the last minute,\nhis testimony was blocked",
+        "start": 994.48,
+        "duration": 1.86
+    },
+    {
+        "text": "by the State Department.",
+        "start": 996.34,
+        "duration": 0.89
+    },
+    {
+        "text": "Though he ended up testifying",
+        "start": 997.23,
+        "duration": 1.11
+    },
+    {
+        "text": "about a week later on October 17th.",
+        "start": 998.34,
+        "duration": 1.8
+    },
+    {
+        "text": "And in that testimony, he said that Trump",
+        "start": 1000.14,
+        "duration": 1.37
+    },
+    {
+        "text": "had basically delegated Rudy Giuliani",
+        "start": 1001.51,
+        "duration": 1.35
+    },
+    {
+        "text": "to lead the United States\nforeign policy in Ukraine,",
+        "start": 1002.86,
+        "duration": 2.0
+    },
+    {
+        "text": "and directed diplomats and\nothers in the administration",
+        "start": 1004.86,
+        "duration": 2.44
+    },
+    {
+        "text": "to talk to him.",
+        "start": 1007.3,
+        "duration": 0.833
+    },
+    {
+        "text": "And regarding that, Sondland that",
+        "start": 1008.133,
+        "duration": 0.897
+    },
+    {
+        "text": "he and others disagreed with that choice,",
+        "start": 1009.03,
+        "duration": 1.62
+    },
+    {
+        "text": "but they still went along with it,",
+        "start": 1010.65,
+        "duration": 1.14
+    },
+    {
+        "text": "saying in his opening statement,",
+        "start": 1011.79,
+        "duration": 1.107
+    },
+    {
+        "text": "\"We were also disappointed\nby the President's direction",
+        "start": 1012.897,
+        "duration": 1.98
+    },
+    {
+        "text": "\"that we involve Mr. Giuliani.",
+        "start": 1014.877,
+        "duration": 1.45
+    },
+    {
+        "text": "\"Our view was that the men",
+        "start": 1016.327,
+        "duration": 0.95
+    },
+    {
+        "text": "\"and women of the State Department,",
+        "start": 1017.277,
+        "duration": 1.21
+    },
+    {
+        "text": "\"not the President's personal lawyer,",
+        "start": 1018.487,
+        "duration": 1.73
+    },
+    {
+        "text": "\"should take responsibility\nfor all aspects",
+        "start": 1020.217,
+        "duration": 2.1
+    },
+    {
+        "text": "\"of US foreign policy towards Ukraine.",
+        "start": 1022.317,
+        "duration": 1.7
+    },
+    {
+        "text": "\"However, based on the\nPresident's direction,",
+        "start": 1024.017,
+        "duration": 1.8
+    },
+    {
+        "text": "\"we were faced with a choice.\"",
+        "start": 1025.817,
+        "duration": 1.233
+    },
+    {
+        "text": "He then goes on to say that they chose",
+        "start": 1027.05,
+        "duration": 1.1
+    },
+    {
+        "text": "to follow the President's directions",
+        "start": 1028.15,
+        "duration": 1.25
+    },
+    {
+        "text": "and work with Giuliani.",
+        "start": 1029.4,
+        "duration": 1.012
+    },
+    {
+        "text": "And one of the most significant lines",
+        "start": 1030.412,
+        "duration": 1.078
+    },
+    {
+        "text": "from Sondland's testimony came\nfrom his opening statement,",
+        "start": 1031.49,
+        "duration": 2.24
+    },
+    {
+        "text": "where he denied that\nthere was quid pro quo",
+        "start": 1033.73,
+        "duration": 1.94
+    },
+    {
+        "text": "regarding military aid, saying",
+        "start": 1035.67,
+        "duration": 1.317
+    },
+    {
+        "text": "\"I do not recall any discussions",
+        "start": 1036.987,
+        "duration": 1.63
+    },
+    {
+        "text": "\"with the White House on\nwithholding US security assistance",
+        "start": 1038.617,
+        "duration": 2.31
+    },
+    {
+        "text": "\"from Ukraine in return for assistance",
+        "start": 1040.927,
+        "duration": 1.6
+    },
+    {
+        "text": "\"with the President's 2020\nre-election campaign.\"",
+        "start": 1042.527,
+        "duration": 2.153
+    },
+    {
+        "text": "All right, so a very notable statement,",
+        "start": 1044.68,
+        "duration": 1.81
+    },
+    {
+        "text": "but then, a few days later,\nafter Sondland's testimony,",
+        "start": 1046.49,
+        "duration": 2.15
+    },
+    {
+        "text": "Taylor testified before the House.",
+        "start": 1048.64,
+        "duration": 1.65
+    },
+    {
+        "text": "And he painted very different picture.",
+        "start": 1050.29,
+        "duration": 2.42
+    },
+    {
+        "text": "In his opening statement,\nTaylor said that Sondland",
+        "start": 1052.71,
+        "duration": 1.85
+    },
+    {
+        "text": "told a top Zelensky aide, quote,",
+        "start": 1054.56,
+        "duration": 1.32
+    },
+    {
+        "text": "\"that the security assistance money",
+        "start": 1055.88,
+        "duration": 1.477
+    },
+    {
+        "text": "\"would not come until President Zelensky",
+        "start": 1057.357,
+        "duration": 1.87
+    },
+    {
+        "text": "\"committed to pursue the investigation\"",
+        "start": 1059.227,
+        "duration": 1.903
+    },
+    {
+        "text": "into Biden, adding, \"This was\nthe first time I had heard",
+        "start": 1061.13,
+        "duration": 2.027
+    },
+    {
+        "text": "\"that the security assistance,",
+        "start": 1063.157,
+        "duration": 1.06
+    },
+    {
+        "text": "\"not just the White House meeting,",
+        "start": 1064.217,
+        "duration": 1.26
+    },
+    {
+        "text": "\"was conditioned on the investigations.\"",
+        "start": 1065.477,
+        "duration": 2.073
+    },
+    {
+        "text": "And arguably, the most significant line",
+        "start": 1067.55,
+        "duration": 1.36
+    },
+    {
+        "text": "from Taylor's testimony was in response",
+        "start": 1068.91,
+        "duration": 1.42
+    },
+    {
+        "text": "to a line of questions from\nrepresentative Adam Schiff,",
+        "start": 1070.33,
+        "duration": 2.16
+    },
+    {
+        "text": "the chair of the intelligence committee.",
+        "start": 1072.49,
+        "duration": 1.25
+    },
+    {
+        "text": "Schiff, pointing to Taylor's statement,",
+        "start": 1073.74,
+        "duration": 1.33
+    },
+    {
+        "text": "that the White House meeting was quote,",
+        "start": 1075.07,
+        "duration": 1.097
+    },
+    {
+        "text": "\"conditioned on the investigation,\"",
+        "start": 1076.167,
+        "duration": 1.883
+    },
+    {
+        "text": "asking Taylor if he was explicitly saying",
+        "start": 1078.05,
+        "duration": 1.61
+    },
+    {
+        "text": "that Ukraine would not get the meeting",
+        "start": 1079.66,
+        "duration": 1.35
+    },
+    {
+        "text": "or the military aid if they did not",
+        "start": 1081.01,
+        "duration": 1.56
+    },
+    {
+        "text": "announce the investigations.",
+        "start": 1082.57,
+        "duration": 1.07
+    },
+    {
+        "text": "And Taylor responded, \"That\nwas my clear understanding.",
+        "start": 1083.64,
+        "duration": 2.537
+    },
+    {
+        "text": "\"Security assistance money would not come",
+        "start": 1086.177,
+        "duration": 1.923
+    },
+    {
+        "text": "until the President committed\nto pursue the investigation.\"",
+        "start": 1088.1,
+        "duration": 2.43
+    },
+    {
+        "text": "With Taylor also going on to say",
+        "start": 1090.53,
+        "duration": 1.08
+    },
+    {
+        "text": "that he later had a\nphone call with Sondland,",
+        "start": 1091.61,
+        "duration": 1.58
+    },
+    {
+        "text": "who told him that Trump\nhad said that he, quote,",
+        "start": 1093.19,
+        "duration": 1.567
+    },
+    {
+        "text": "\"wants President Zelensky\nto state publicly",
+        "start": 1094.757,
+        "duration": 1.873
+    },
+    {
+        "text": "that Ukraine will investigate Burisma,\"",
+        "start": 1096.63,
+        "duration": 1.72
+    },
+    {
+        "text": "the energy company Hunter\nBiden was on the board of,",
+        "start": 1098.35,
+        "duration": 2.01
+    },
+    {
+        "text": "as well as alleged Ukrainian interference",
+        "start": 1100.36,
+        "duration": 1.77
+    },
+    {
+        "text": "in the 2016 US election.",
+        "start": 1102.13,
+        "duration": 1.6
+    },
+    {
+        "text": "Adding Sondland also told me that he now",
+        "start": 1103.73,
+        "duration": 1.63
+    },
+    {
+        "text": "recognized that he had made a mistake",
+        "start": 1105.36,
+        "duration": 1.21
+    },
+    {
+        "text": "by earlier telling Ukrainian officials,",
+        "start": 1106.57,
+        "duration": 1.51
+    },
+    {
+        "text": "to whom he spoke, that\na White House meeting",
+        "start": 1108.08,
+        "duration": 1.66
+    },
+    {
+        "text": "with President Zelensky was dependent",
+        "start": 1109.74,
+        "duration": 1.47
+    },
+    {
+        "text": "on a public announcement\nof investigations.",
+        "start": 1111.21,
+        "duration": 1.8
+    },
+    {
+        "text": "In fact, Ambassador Sondland said",
+        "start": 1113.01,
+        "duration": 1.87
+    },
+    {
+        "text": "everything was dependent\non such an announcement,",
+        "start": 1114.88,
+        "duration": 2.47
+    },
+    {
+        "text": "including security assistance.",
+        "start": 1117.35,
+        "duration": 1.31
+    },
+    {
+        "text": "Notably, Taylor's\ntestimony about Sondland,",
+        "start": 1118.66,
+        "duration": 1.78
+    },
+    {
+        "text": "and the fact that he was the one who",
+        "start": 1120.44,
+        "duration": 1.14
+    },
+    {
+        "text": "told Zelensky's aide that\nthe military assistance",
+        "start": 1121.58,
+        "duration": 1.87
+    },
+    {
+        "text": "would be conditioned on the investigation",
+        "start": 1123.45,
+        "duration": 1.85
+    },
+    {
+        "text": "was also confirmed in a\ntestimony by Tim Morrison,",
+        "start": 1125.3,
+        "duration": 2.33
+    },
+    {
+        "text": "who is a former White House\nnational security advisor",
+        "start": 1127.63,
+        "duration": 1.84
+    },
+    {
+        "text": "who said that he was physically present",
+        "start": 1129.47,
+        "duration": 1.34
+    },
+    {
+        "text": "in the room when Sondland\nmade that statement",
+        "start": 1130.81,
+        "duration": 1.8
+    },
+    {
+        "text": "to Zelensky's aide.",
+        "start": 1132.61,
+        "duration": 0.93
+    },
+    {
+        "text": "You also had army lieutenant colonel",
+        "start": 1133.54,
+        "duration": 1.28
+    },
+    {
+        "text": "Alexander Vindman, a Ukraine expert",
+        "start": 1134.82,
+        "duration": 1.88
+    },
+    {
+        "text": "at the national security council,",
+        "start": 1136.7,
+        "duration": 1.1
+    },
+    {
+        "text": "backing up the claim in his testimony,",
+        "start": 1137.8,
+        "duration": 1.76
+    },
+    {
+        "text": "saying quote,",
+        "start": 1139.56,
+        "duration": 0.833
+    },
+    {
+        "text": "\"Sondland emphasized the\nimportance that Ukraine",
+        "start": 1140.393,
+        "duration": 1.734
+    },
+    {
+        "text": "\"deliver the investigations\ninto the 2016 election,",
+        "start": 1142.127,
+        "duration": 2.53
+    },
+    {
+        "text": "\"the Bidens, and Burisma.",
+        "start": 1144.657,
+        "duration": 1.38
+    },
+    {
+        "text": "\"I stated to Ambassador Sondland",
+        "start": 1146.037,
+        "duration": 1.51
+    },
+    {
+        "text": "\"that his statements were inappropriate.\"",
+        "start": 1147.547,
+        "duration": 1.563
+    },
+    {
+        "text": "And at this point, if you're like,",
+        "start": 1149.11,
+        "duration": 0.98
+    },
+    {
+        "text": "wow, it sounds like there are three people",
+        "start": 1150.09,
+        "duration": 1.78
+    },
+    {
+        "text": "who have contradicting\nstatements to what Sondland said,",
+        "start": 1151.87,
+        "duration": 2.56
+    },
+    {
+        "text": "you can actually make that four people,",
+        "start": 1154.43,
+        "duration": 2.01
+    },
+    {
+        "text": "now including Sondland himself.",
+        "start": 1156.44,
+        "duration": 1.75
+    },
+    {
+        "text": "But we ended up seeing Tuesday,",
+        "start": 1158.19,
+        "duration": 1.02
+    },
+    {
+        "text": "when Sondland's transcript was released,",
+        "start": 1159.21,
+        "duration": 1.65
+    },
+    {
+        "text": "was that on November\n4th, he later went back",
+        "start": 1160.86,
+        "duration": 1.88
+    },
+    {
+        "text": "and changed his testimony to line up",
+        "start": 1162.74,
+        "duration": 1.84
+    },
+    {
+        "text": "with Taylor's and the others,",
+        "start": 1164.58,
+        "duration": 1.18
+    },
+    {
+        "text": "writing in a supplemental\nstatement given to the House",
+        "start": 1165.76,
+        "duration": 1.88
+    },
+    {
+        "text": "that he reviewed Taylor and\nMorrison's opening statements",
+        "start": 1167.64,
+        "duration": 2.22
+    },
+    {
+        "text": "and that those statements, quote,",
+        "start": 1169.86,
+        "duration": 1.077
+    },
+    {
+        "text": "\"have refreshed my recollection",
+        "start": 1170.937,
+        "duration": 1.763
+    },
+    {
+        "text": "about certain conversations.\"",
+        "start": 1172.7,
+        "duration": 1.52
+    },
+    {
+        "text": "And adding that he now\nrecalls a conversation",
+        "start": 1174.22,
+        "duration": 1.76
+    },
+    {
+        "text": "on September 1st, 2019,\nwith the same Zelensky aide",
+        "start": 1175.98,
+        "duration": 2.49
+    },
+    {
+        "text": "the others referenced, and writing that",
+        "start": 1178.47,
+        "duration": 1.63
+    },
+    {
+        "text": "during that conversation,",
+        "start": 1180.1,
+        "duration": 0.977
+    },
+    {
+        "text": "\"I said that resumption of\nUS aid would likely not occur",
+        "start": 1181.077,
+        "duration": 2.42
+    },
+    {
+        "text": "\"until Ukraine provided\nthe public anti-corruption",
+        "start": 1183.497,
+        "duration": 2.16
+    },
+    {
+        "text": "\"statement that we had been\ndiscussing for many weeks.\"",
+        "start": 1185.657,
+        "duration": 2.133
+    },
+    {
+        "text": "Now, obviously, you\nlook at that statement,",
+        "start": 1187.79,
+        "duration": 1.38
+    },
+    {
+        "text": "it appears very specific word choices.",
+        "start": 1189.17,
+        "duration": 2.42
+    },
+    {
+        "text": "Would likely not occur.",
+        "start": 1191.59,
+        "duration": 1.46
+    },
+    {
+        "text": "Anti-corruption statement.",
+        "start": 1193.05,
+        "duration": 0.937
+    },
+    {
+        "text": "Right, but still basically\nwhat it looks like",
+        "start": 1193.987,
+        "duration": 1.723
+    },
+    {
+        "text": "is Sondland is saying here that he did",
+        "start": 1195.71,
+        "duration": 1.7
+    },
+    {
+        "text": "explicitly talk about quid pro quo.",
+        "start": 1197.41,
+        "duration": 1.65
+    },
+    {
+        "text": "So obviously these\ntestimonies are a big deal,",
+        "start": 1199.06,
+        "duration": 1.92
+    },
+    {
+        "text": "they kind of set up the framework",
+        "start": 1200.98,
+        "duration": 1.49
+    },
+    {
+        "text": "for these public hearings next week.",
+        "start": 1202.47,
+        "duration": 1.43
+    },
+    {
+        "text": "This especially because\nTaylor is one of the people",
+        "start": 1203.9,
+        "duration": 1.71
+    },
+    {
+        "text": "who's to set to publicly testify,",
+        "start": 1205.61,
+        "duration": 1.35
+    },
+    {
+        "text": "and it'll be interesting to\nsee if he says anything new.",
+        "start": 1206.96,
+        "duration": 2.02
+    },
+    {
+        "text": "As far as the response is, the\nreactions to this situation,",
+        "start": 1208.98,
+        "duration": 2.46
+    },
+    {
+        "text": "at least for the Democrats,",
+        "start": 1211.44,
+        "duration": 0.86
+    },
+    {
+        "text": "they appear to be pretty happy",
+        "start": 1212.3,
+        "duration": 0.92
+    },
+    {
+        "text": "with Sondland's revised testimony.",
+        "start": 1213.22,
+        "duration": 1.53
+    },
+    {
+        "text": "Especially because after\nhis initial testimony,",
+        "start": 1214.75,
+        "duration": 1.78
+    },
+    {
+        "text": "several Democrats had accused Sondland",
+        "start": 1216.53,
+        "duration": 1.52
+    },
+    {
+        "text": "of intentionally avoiding\ncritical questions,",
+        "start": 1218.05,
+        "duration": 1.87
+    },
+    {
+        "text": "with some even seeming to believe",
+        "start": 1219.92,
+        "duration": 1.13
+    },
+    {
+        "text": "that he had perjured himself.",
+        "start": 1221.05,
+        "duration": 1.41
+    },
+    {
+        "text": "But now, with his revised statement,",
+        "start": 1222.46,
+        "duration": 1.38
+    },
+    {
+        "text": "they have several consistent testimonies,",
+        "start": 1223.84,
+        "duration": 1.37
+    },
+    {
+        "text": "including one from a close ally of Trump.",
+        "start": 1225.21,
+        "duration": 1.82
+    },
+    {
+        "text": "And to that point, we saw Schiff",
+        "start": 1227.03,
+        "duration": 1.38
+    },
+    {
+        "text": "telling reporters yesterday,",
+        "start": 1228.41,
+        "duration": 1.05
+    },
+    {
+        "text": "the most important facts\nare largely not contested.",
+        "start": 1229.46,
+        "duration": 2.58
+    },
+    {
+        "text": "The President enlisted whole\ndepartments of government",
+        "start": 1232.04,
+        "duration": 2.27
+    },
+    {
+        "text": "in the illicit aim of\ntrying to get Ukraine",
+        "start": 1234.31,
+        "duration": 1.74
+    },
+    {
+        "text": "to dig up dirt on a political opponent,",
+        "start": 1236.05,
+        "duration": 1.64
+    },
+    {
+        "text": "as well as further a conspiracy theory",
+        "start": 1237.69,
+        "duration": 1.51
+    },
+    {
+        "text": "about the 2016 election that he believed",
+        "start": 1239.2,
+        "duration": 1.8
+    },
+    {
+        "text": "would be beneficial to\nhis reelection campaign.\"",
+        "start": 1241.0,
+        "duration": 1.717
+    },
+    {
+        "text": "But we also some Republicans\npushing back against that,",
+        "start": 1242.717,
+        "duration": 2.673
+    },
+    {
+        "text": "like Senator Lindsey Graham, who responded",
+        "start": 1245.39,
+        "duration": 1.67
+    },
+    {
+        "text": "to Schiff's statement\nwhile speaking on Fox News.",
+        "start": 1247.06,
+        "duration": 1.77
+    },
+    {
+        "text": "Also, just to note in the clip,",
+        "start": 1248.83,
+        "duration": 1.21
+    },
+    {
+        "text": "he refers to Sondland as Sunderland.",
+        "start": 1250.04,
+        "duration": 1.66
+    },
+    {
+        "text": "He was just misspeaking, i\ndidn't want it to confuse you,",
+        "start": 1251.7,
+        "duration": 1.87
+    },
+    {
+        "text": "but with that said, on the show, he said.",
+        "start": 1253.57,
+        "duration": 1.717
+    },
+    {
+        "text": "- You know, well,",
+        "start": 1255.287,
+        "duration": 0.833
+    },
+    {
+        "text": "that statement's full of crap.",
+        "start": 1256.12,
+        "duration": 1.3
+    },
+    {
+        "text": "So, Bill Taylor, what\ndoes he base his belief",
+        "start": 1257.42,
+        "duration": 3.589
+    },
+    {
+        "text": "that there's a quid pro quo on?",
+        "start": 1261.009,
+        "duration": 2.801
+    },
+    {
+        "text": "What is the factual basis?",
+        "start": 1263.81,
+        "duration": 1.7
+    },
+    {
+        "text": "A conversation with Sunderland.",
+        "start": 1265.51,
+        "duration": 2.21
+    },
+    {
+        "text": "Now here's a question,",
+        "start": 1267.72,
+        "duration": 1.13
+    },
+    {
+        "text": "why did Sunderland change his testimony?",
+        "start": 1268.85,
+        "duration": 2.7
+    },
+    {
+        "text": "Was there a connection between Sunderland",
+        "start": 1271.55,
+        "duration": 2.06
+    },
+    {
+        "text": "and Democratic operatives\non the committee?",
+        "start": 1273.61,
+        "duration": 2.53
+    },
+    {
+        "text": "Did he talk to Schiff?",
+        "start": 1276.14,
+        "duration": 1.05
+    },
+    {
+        "text": "Did he talk to Schiff staffers?",
+        "start": 1277.19,
+        "duration": 1.448
+    },
+    {
+        "text": "I've been a lawyer for a very long time,",
+        "start": 1278.638,
+        "duration": 2.292
+    },
+    {
+        "text": "and when somebody changes their testimony,",
+        "start": 1280.93,
+        "duration": 2.19
+    },
+    {
+        "text": "they suddenly recall\nthey didn't know before,",
+        "start": 1283.12,
+        "duration": 3.08
+    },
+    {
+        "text": "it makes me incredibly suspicious.",
+        "start": 1286.2,
+        "duration": 3.13
+    },
+    {
+        "text": "- To which a number of people have argued,",
+        "start": 1289.33,
+        "duration": 1.64
+    },
+    {
+        "text": "well, some people might\nrevise their statement",
+        "start": 1290.97,
+        "duration": 1.73
+    },
+    {
+        "text": "if they realized that they\nhave perjured themselves.",
+        "start": 1292.7,
+        "duration": 1.8
+    },
+    {
+        "text": "But also, a thing that I'll\nsay while looking at this,",
+        "start": 1294.5,
+        "duration": 1.88
+    },
+    {
+        "text": "another interesting thing\nabout Taylor's testimony",
+        "start": 1296.38,
+        "duration": 1.84
+    },
+    {
+        "text": "is that while Sondland seemed pretty clear",
+        "start": 1298.22,
+        "duration": 1.59
+    },
+    {
+        "text": "that Giuliani was acting\non Trump's direction,",
+        "start": 1299.81,
+        "duration": 1.84
+    },
+    {
+        "text": "Taylor was actually less sure.",
+        "start": 1301.65,
+        "duration": 1.52
+    },
+    {
+        "text": "In his opening statement, Taylor said",
+        "start": 1303.17,
+        "duration": 1.16
+    },
+    {
+        "text": "that while it was clear to him",
+        "start": 1304.33,
+        "duration": 1.11
+    },
+    {
+        "text": "that the meeting between\nTrump and Zelensky",
+        "start": 1305.44,
+        "duration": 1.33
+    },
+    {
+        "text": "was conditioned on the\ninvestigation, quote,",
+        "start": 1306.77,
+        "duration": 1.897
+    },
+    {
+        "text": "\"It was also clear that this condition",
+        "start": 1308.667,
+        "duration": 1.66
+    },
+    {
+        "text": "\"was driven by the\nirregular policy channel",
+        "start": 1310.327,
+        "duration": 1.89
+    },
+    {
+        "text": "\"I had come to understand\nwas guided by Mr. Giuliani.\"",
+        "start": 1312.217,
+        "duration": 2.893
+    },
+    {
+        "text": "And when asked by Schiff,\nhe later elaborated,",
+        "start": 1315.11,
+        "duration": 2.067
+    },
+    {
+        "text": "\"The irregular channel seemed to focus",
+        "start": 1317.177,
+        "duration": 1.67
+    },
+    {
+        "text": "\"on specific issues, specific cases,",
+        "start": 1318.847,
+        "duration": 2.18
+    },
+    {
+        "text": "\"rather than the regular channel's focus",
+        "start": 1321.027,
+        "duration": 1.47
+    },
+    {
+        "text": "\"on institution building.",
+        "start": 1322.497,
+        "duration": 1.06
+    },
+    {
+        "text": "\"So the irregular channel,\nI think under the influence",
+        "start": 1323.557,
+        "duration": 2.16
+    },
+    {
+        "text": "\"of Mr. Giuliani, wanted\nto focus on one or two",
+        "start": 1325.717,
+        "duration": 2.56
+    },
+    {
+        "text": "\"specific cases, irrespective\nof whether it helped",
+        "start": 1328.277,
+        "duration": 2.3
+    },
+    {
+        "text": "\"solve the corruption problem,",
+        "start": 1330.577,
+        "duration": 1.183
+    },
+    {
+        "text": "fight the corruption problem.\"",
+        "start": 1331.76,
+        "duration": 1.09
+    },
+    {
+        "text": "And when Schiff asked\nTaylor if he believed",
+        "start": 1332.85,
+        "duration": 1.46
+    },
+    {
+        "text": "that Giuliani was doing that",
+        "start": 1334.31,
+        "duration": 1.1
+    },
+    {
+        "text": "because he believed that it\nwould benefit his client,",
+        "start": 1335.41,
+        "duration": 1.69
+    },
+    {
+        "text": "President Trump, Taylor replied,",
+        "start": 1337.1,
+        "duration": 1.387
+    },
+    {
+        "text": "\"That's my understanding.\"",
+        "start": 1338.487,
+        "duration": 1.003
+    },
+    {
+        "text": "But when asked by\nRepublican representative",
+        "start": 1339.49,
+        "duration": 1.25
+    },
+    {
+        "text": "Lee Zeldin if he believed the condition",
+        "start": 1340.74,
+        "duration": 1.5
+    },
+    {
+        "text": "was coming from Trump, Taylor said, quote,",
+        "start": 1342.24,
+        "duration": 1.757
+    },
+    {
+        "text": "\"I think it was coming from Mr. Giuliani.\"",
+        "start": 1343.997,
+        "duration": 1.533
+    },
+    {
+        "text": "Zeldin followed up by asking\nbut not from the President,",
+        "start": 1345.53,
+        "duration": 2.27
+    },
+    {
+        "text": "and Taylor responded, I don't know.",
+        "start": 1347.8,
+        "duration": 1.77
+    },
+    {
+        "text": "And ultimately, that's\nwhere we are with this,",
+        "start": 1349.57,
+        "duration": 1.79
+    },
+    {
+        "text": "that's the story.",
+        "start": 1351.36,
+        "duration": 1.04
+    },
+    {
+        "text": "I mean, as far as my opinion,",
+        "start": 1352.4,
+        "duration": 1.187
+    },
+    {
+        "text": "based everything that we're hearing,",
+        "start": 1353.587,
+        "duration": 1.823
+    },
+    {
+        "text": "based on everything that we're seeing,",
+        "start": 1355.41,
+        "duration": 1.73
+    },
+    {
+        "text": "it's, I mean, I think a\nlot of people get lost",
+        "start": 1357.14,
+        "duration": 1.81
+    },
+    {
+        "text": "in the term quid pro quo.",
+        "start": 1358.95,
+        "duration": 1.01
+    },
+    {
+        "text": "It's getting hard for me to\nsee this as anything other than",
+        "start": 1359.96,
+        "duration": 2.21
+    },
+    {
+        "text": "blatant bribery for personal gain.",
+        "start": 1362.17,
+        "duration": 1.66
+    },
+    {
+        "text": "The use of political office provided,",
+        "start": 1363.83,
+        "duration": 2.4
+    },
+    {
+        "text": "including 400 million dollars in aid",
+        "start": 1366.23,
+        "duration": 2.61
+    },
+    {
+        "text": "that was already approved by Congress",
+        "start": 1368.84,
+        "duration": 1.61
+    },
+    {
+        "text": "thanks to the Pentagon,",
+        "start": 1370.45,
+        "duration": 1.13
+    },
+    {
+        "text": "in exchange for a political hit",
+        "start": 1371.58,
+        "duration": 1.08
+    },
+    {
+        "text": "on one of his main opponents.",
+        "start": 1372.66,
+        "duration": 1.18
+    },
+    {
+        "text": "That said, it'll be interesting to see",
+        "start": 1373.84,
+        "duration": 1.22
+    },
+    {
+        "text": "what comes out from, to use\nGowdy's terms, this circus.",
+        "start": 1375.06,
+        "duration": 3.09
+    },
+    {
+        "text": "Will we get more information,",
+        "start": 1378.15,
+        "duration": 1.3
+    },
+    {
+        "text": "will we see maybe some contradictions,",
+        "start": 1379.45,
+        "duration": 1.82
+    },
+    {
+        "text": "or some stumbling, or I dunno,",
+        "start": 1381.27,
+        "duration": 1.95
+    },
+    {
+        "text": "will we see representatives",
+        "start": 1383.22,
+        "duration": 1.0
+    },
+    {
+        "text": "using their opportunity to just monologue?",
+        "start": 1384.22,
+        "duration": 2.32
+    },
+    {
+        "text": "It's going to be really interesting,",
+        "start": 1386.54,
+        "duration": 1.0
+    },
+    {
+        "text": "and so of course, where\nI'm going to end this.",
+        "start": 1387.54,
+        "duration": 1.464
+    },
+    {
+        "text": "There's the story, some of\nmy personal opinion on it,",
+        "start": 1389.004,
+        "duration": 2.576
+    },
+    {
+        "text": "and of course, I pass\nthe question off to you.",
+        "start": 1391.58,
+        "duration": 1.7
+    },
+    {
+        "text": "What are your thoughts regarding this?",
+        "start": 1393.28,
+        "duration": 1.255
+    },
+    {
+        "text": "And that's where I'm\ngoing to end today's show.",
+        "start": 1394.535,
+        "duration": 1.225
+    },
+    {
+        "text": "And hey, if you liked\ntoday's video, let us know.",
+        "start": 1395.76,
+        "duration": 2.23
+    },
+    {
+        "text": "Hit that like button.",
+        "start": 1397.99,
+        "duration": 1.0
+    },
+    {
+        "text": "Also, if you're new here, you want more",
+        "start": 1398.99,
+        "duration": 1.76
+    },
+    {
+        "text": "of these daily dives into the news,",
+        "start": 1400.75,
+        "duration": 1.38
+    },
+    {
+        "text": "hit that subscribe button.",
+        "start": 1402.13,
+        "duration": 1.01
+    },
+    {
+        "text": "Definitely tap that bell\nto turn on notifications.",
+        "start": 1403.14,
+        "duration": 2.01
+    },
+    {
+        "text": "Also if you're not a 100% filled in,",
+        "start": 1405.15,
+        "duration": 1.5
+    },
+    {
+        "text": "you can check out that brand\nnew podcast I just put out,",
+        "start": 1406.65,
+        "duration": 2.27
+    },
+    {
+        "text": "and or, that brand new deep\ndive we also just put out.",
+        "start": 1408.92,
+        "duration": 2.69
+    },
+    {
+        "text": "And click or tap right\nthere to watch that,",
+        "start": 1411.61,
+        "duration": 1.62
+    },
+    {
+        "text": "but main point, thanks\nso much for watching.",
+        "start": 1413.23,
+        "duration": 2.36
+    },
+    {
+        "text": "I love your faces, and I'll see you never.",
+        "start": 1415.59,
+        "duration": 2.38
+    },
+    {
+        "text": "That was too aggressive,\nand also not true.",
+        "start": 1417.97,
+        "duration": 2.37
+    },
+    {
+        "text": "I'll see you soon.",
+        "start": 1420.34,
+        "duration": 0.9
+    }
+]

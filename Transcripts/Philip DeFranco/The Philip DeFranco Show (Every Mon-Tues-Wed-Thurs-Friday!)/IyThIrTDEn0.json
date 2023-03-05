@@ -1,0 +1,2857 @@
+[
+    {
+        "text": "- So, it is Wednesday.",
+        "start": 0.13,
+        "duration": 1.01
+    },
+    {
+        "text": "My name is Philip DeFranco.",
+        "start": 1.14,
+        "duration": 1.37
+    },
+    {
+        "text": "Welcome back to the show.",
+        "start": 2.51,
+        "duration": 1.5
+    },
+    {
+        "text": "And two things before we jump into it.",
+        "start": 4.01,
+        "duration": 1.64
+    },
+    {
+        "text": "Firstly, I had a lot\nof people messaging me",
+        "start": 5.65,
+        "duration": 1.4
+    },
+    {
+        "text": "where is part two of yesterday's show.",
+        "start": 7.05,
+        "duration": 2.0
+    },
+    {
+        "text": "It is actually up.",
+        "start": 9.05,
+        "duration": 0.91
+    },
+    {
+        "text": "It was just uploaded a little later",
+        "start": 9.96,
+        "duration": 1.08
+    },
+    {
+        "text": "because it took a little more work",
+        "start": 11.04,
+        "duration": 1.11
+    },
+    {
+        "text": "and it was also rated\nmature, so it got suppressed.",
+        "start": 12.15,
+        "duration": 2.59
+    },
+    {
+        "text": "So if you want to watch\nanother important video",
+        "start": 14.74,
+        "duration": 1.32
+    },
+    {
+        "text": "after this one, it'll be\nthe top link down below.",
+        "start": 16.06,
+        "duration": 1.85
+    },
+    {
+        "text": "And on the opposite end of\nthat, if after this video",
+        "start": 17.91,
+        "duration": 1.79
+    },
+    {
+        "text": "or that video you want to escape,",
+        "start": 19.7,
+        "duration": 1.78
+    },
+    {
+        "text": "I posted a brand-new\npodcast so you can watch",
+        "start": 21.48,
+        "duration": 1.84
+    },
+    {
+        "text": "over at YouTube.com/ACW or\nlisten to over at Linkshole.com.",
+        "start": 23.32,
+        "duration": 4.07
+    },
+    {
+        "text": "Today's episode is with\nanother old-school creator",
+        "start": 27.39,
+        "duration": 1.97
+    },
+    {
+        "text": "by the name of Hank Green.",
+        "start": 29.36,
+        "duration": 0.94
+    },
+    {
+        "text": "We came up together.",
+        "start": 30.3,
+        "duration": 0.99
+    },
+    {
+        "text": "I haven't really talked to him forever",
+        "start": 31.29,
+        "duration": 1.9
+    },
+    {
+        "text": "and it was a really good time.",
+        "start": 33.19,
+        "duration": 1.23
+    },
+    {
+        "text": "So now you know, and\nwith that said of course,",
+        "start": 34.42,
+        "duration": 1.85
+    },
+    {
+        "text": "welcome back to the Philip DeFranco Show.",
+        "start": 36.27,
+        "duration": 1.51
+    },
+    {
+        "text": "Buckle up.",
+        "start": 37.78,
+        "duration": 0.833
+    },
+    {
+        "text": "Hit that like button and\nlet's just jump into it.",
+        "start": 38.613,
+        "duration": 2.107
+    },
+    {
+        "text": "The first thing we're\ngonna talk about today",
+        "start": 40.72,
+        "duration": 1.27
+    },
+    {
+        "text": "is actually a story a\nlot of you requested.",
+        "start": 41.99,
+        "duration": 2.14
+    },
+    {
+        "text": "I think because you want\nme to really go at someone.",
+        "start": 44.13,
+        "duration": 2.42
+    },
+    {
+        "text": "You're baiting me.",
+        "start": 46.55,
+        "duration": 0.833
+    },
+    {
+        "text": "A number of you beautiful\nbastards have sent me",
+        "start": 47.383,
+        "duration": 1.687
+    },
+    {
+        "text": "this video of a creator\nby the name of Lauren.",
+        "start": 49.07,
+        "duration": 2.41
+    },
+    {
+        "text": "I cannot play Lauren's video here",
+        "start": 51.48,
+        "duration": 1.38
+    },
+    {
+        "text": "because it contains copyrighted music,",
+        "start": 52.86,
+        "duration": 1.53
+    },
+    {
+        "text": "but I'm just gonna say what she says.",
+        "start": 54.39,
+        "duration": 1.61
+    },
+    {
+        "text": "In a video she uploaded to\nTikTok and to also to Twitter",
+        "start": 56.0,
+        "duration": 3.11
+    },
+    {
+        "text": "with a caption \"The fight to\nend oppression for animals",
+        "start": 59.11,
+        "duration": 2.447
+    },
+    {
+        "text": "\"is the same fight to end the\noppression of black people.\"",
+        "start": 61.557,
+        "duration": 2.993
+    },
+    {
+        "text": "And in the video she says,\n\"I feel like this needs",
+        "start": 64.55,
+        "duration": 2.717
+    },
+    {
+        "text": "\"to be said, and I really wish more people",
+        "start": 67.267,
+        "duration": 1.91
+    },
+    {
+        "text": "\"would connect these two dots.",
+        "start": 69.177,
+        "duration": 1.31
+    },
+    {
+        "text": "\"But black lives matter\nand animal lives matter.",
+        "start": 70.487,
+        "duration": 2.6
+    },
+    {
+        "text": "\"Literally all sentient\nbeings on this planet",
+        "start": 73.087,
+        "duration": 2.71
+    },
+    {
+        "text": "\"deserve a life, free from fear.",
+        "start": 75.797,
+        "duration": 3.34
+    },
+    {
+        "text": "\"So stop killing black people\nand stop killing animals.",
+        "start": 79.137,
+        "duration": 3.65
+    },
+    {
+        "text": "\"Veganism, black lives matter.",
+        "start": 82.787,
+        "duration": 2.55
+    },
+    {
+        "text": "\"It's all the same fight.\"",
+        "start": 85.337,
+        "duration": 2.428
+    },
+    {
+        "text": "Even just repeating her\nwords was infuriating.",
+        "start": 87.765,
+        "duration": 3.175
+    },
+    {
+        "text": "You baiters.",
+        "start": 90.94,
+        "duration": 1.71
+    },
+    {
+        "text": "You bait.",
+        "start": 92.65,
+        "duration": 0.833
+    },
+    {
+        "text": "No, Lauren, it's not the same.",
+        "start": 93.483,
+        "duration": 1.837
+    },
+    {
+        "text": "I care about a black person\nmore than I do a chicken.",
+        "start": 95.32,
+        "duration": 3.45
+    },
+    {
+        "text": "And understand, it's\nnot even remotely close.",
+        "start": 98.77,
+        "duration": 2.37
+    },
+    {
+        "text": "I feel slightly insane\nhaving to have even said",
+        "start": 101.14,
+        "duration": 2.58
+    },
+    {
+        "text": "that last sentence as if\nany situation would warrant",
+        "start": 103.72,
+        "duration": 2.511
+    },
+    {
+        "text": "the need for it.",
+        "start": 106.231,
+        "duration": 2.039
+    },
+    {
+        "text": "Understand the situation we're in",
+        "start": 108.27,
+        "duration": 1.2
+    },
+    {
+        "text": "and this is oversimplified\nas we have a group",
+        "start": 109.47,
+        "duration": 2.63
+    },
+    {
+        "text": "of other human beings who\nare not treated the same",
+        "start": 112.1,
+        "duration": 2.69
+    },
+    {
+        "text": "as other human beings and\nthat needs to be addressed.",
+        "start": 114.79,
+        "duration": 3.06
+    },
+    {
+        "text": "Just in this country, hundreds of years,",
+        "start": 117.85,
+        "duration": 2.39
+    },
+    {
+        "text": "generations, horrible stuff.",
+        "start": 120.24,
+        "duration": 2.19
+    },
+    {
+        "text": "Other human beings just\nlike me who are not treated",
+        "start": 122.43,
+        "duration": 2.62
+    },
+    {
+        "text": "like me or treated less\nthan due to no choice",
+        "start": 125.05,
+        "duration": 2.4
+    },
+    {
+        "text": "or fault of their own.",
+        "start": 127.45,
+        "duration": 1.02
+    },
+    {
+        "text": "Like it takes special\nkind of hippy-dippy BS",
+        "start": 128.47,
+        "duration": 3.32
+    },
+    {
+        "text": "to see people in the streets going like,",
+        "start": 131.79,
+        "duration": 2.06
+    },
+    {
+        "text": "stop killing black people and you're like,",
+        "start": 133.85,
+        "duration": 1.69
+    },
+    {
+        "text": "yeah and don't milk cows.",
+        "start": 135.54,
+        "duration": 1.74
+    },
+    {
+        "text": "Also, in response to\none of the many people",
+        "start": 137.28,
+        "duration": 2.08
+    },
+    {
+        "text": "who were like, could you not,",
+        "start": 139.36,
+        "duration": 1.57
+    },
+    {
+        "text": "Lauren defended herself\nby saying, \"I'm Latina.",
+        "start": 140.93,
+        "duration": 2.447
+    },
+    {
+        "text": "\"The message in my video is this:",
+        "start": 143.377,
+        "duration": 1.35
+    },
+    {
+        "text": "\"I'm a vegan fighting\nto end the oppression",
+        "start": 144.727,
+        "duration": 1.72
+    },
+    {
+        "text": "\"of all sentient beings on this planet.",
+        "start": 146.447,
+        "duration": 1.93
+    },
+    {
+        "text": "\"I support the Black Lives Matter movement",
+        "start": 148.377,
+        "duration": 1.67
+    },
+    {
+        "text": "\"and any other movement\nthat seeks to do the same.",
+        "start": 150.047,
+        "duration": 2.54
+    },
+    {
+        "text": "\"It's the same fight for me.\"",
+        "start": 152.587,
+        "duration": 1.513
+    },
+    {
+        "text": "To which most people were\nlike, yeah it's that last line",
+        "start": 154.1,
+        "duration": 2.11
+    },
+    {
+        "text": "that we're taking issue with.",
+        "start": 156.21,
+        "duration": 1.1
+    },
+    {
+        "text": "Also, regarding one of her other points,",
+        "start": 157.31,
+        "duration": 1.34
+    },
+    {
+        "text": "we saw Dani Fernandez,\nactress, TV writer responding,",
+        "start": 158.65,
+        "duration": 3.017
+    },
+    {
+        "text": "\"Thank you for pointing\nout that you're Latina",
+        "start": 161.667,
+        "duration": 1.52
+    },
+    {
+        "text": "\"like it excuses this\ndehumanizing, dangerous message",
+        "start": 163.187,
+        "duration": 2.87
+    },
+    {
+        "text": "\"of comparing Black\nLives with animal lives.",
+        "start": 166.057,
+        "duration": 2.14
+    },
+    {
+        "text": "\"You needing to distract\nand attach anything other",
+        "start": 168.197,
+        "duration": 2.24
+    },
+    {
+        "text": "\"than Black Lives to this\nmovement actively perpetuates",
+        "start": 170.437,
+        "duration": 2.76
+    },
+    {
+        "text": "\"anti-blackness in our community.\"",
+        "start": 173.197,
+        "duration": 1.813
+    },
+    {
+        "text": "Lauren, as I was filming\nthis video, is also",
+        "start": 175.01,
+        "duration": 2.06
+    },
+    {
+        "text": "kind of apologized.",
+        "start": 177.07,
+        "duration": 1.43
+    },
+    {
+        "text": "She starts off by saying.",
+        "start": 178.5,
+        "duration": 1.36
+    },
+    {
+        "text": "- Yesterday, I learned\nan important lesson.",
+        "start": 179.86,
+        "duration": 1.99
+    },
+    {
+        "text": "That words matter.",
+        "start": 181.85,
+        "duration": 1.3
+    },
+    {
+        "text": "Not just my intention, but the\nway that I frame statements",
+        "start": 183.15,
+        "duration": 2.61
+    },
+    {
+        "text": "and the timing of those\nstatements really matter.",
+        "start": 185.76,
+        "duration": 3.07
+    },
+    {
+        "text": "I posted a video in which\nsome people believed",
+        "start": 188.83,
+        "duration": 2.48
+    },
+    {
+        "text": "that I was dehumanizing black people",
+        "start": 191.31,
+        "duration": 1.77
+    },
+    {
+        "text": "or comparing black people to animals.",
+        "start": 193.08,
+        "duration": 2.28
+    },
+    {
+        "text": "Two things that I would never do.",
+        "start": 195.36,
+        "duration": 2.153
+    },
+    {
+        "text": "I have appreciated all of\nthe feedback from everyone.",
+        "start": 198.78,
+        "duration": 2.75
+    },
+    {
+        "text": "- I will say I appreciated\nthe tone change.",
+        "start": 201.53,
+        "duration": 1.69
+    },
+    {
+        "text": "She was like, people said I\nsaid something that I didn't.",
+        "start": 203.22,
+        "duration": 2.61
+    },
+    {
+        "text": "But I appreciated everyone's feedback.",
+        "start": 205.83,
+        "duration": 1.62
+    },
+    {
+        "text": "She then goes on to say\nthat we should all care",
+        "start": 207.45,
+        "duration": 1.84
+    },
+    {
+        "text": "about the Black Lives Matter movement,",
+        "start": 209.29,
+        "duration": 1.44
+    },
+    {
+        "text": "asking people to keep fighting for the end",
+        "start": 210.73,
+        "duration": 1.55
+    },
+    {
+        "text": "to police brutality.",
+        "start": 212.28,
+        "duration": 1.11
+    },
+    {
+        "text": "And then saying, after the\ncameras are gone though,",
+        "start": 213.39,
+        "duration": 2.54
+    },
+    {
+        "text": "we should do something different.",
+        "start": 215.93,
+        "duration": 1.53
+    },
+    {
+        "text": "- We need to keep this\nfight against racism alive",
+        "start": 217.46,
+        "duration": 2.41
+    },
+    {
+        "text": "and bring it to rural\nareas like North Carolina.",
+        "start": 219.87,
+        "duration": 3.49
+    },
+    {
+        "text": "In North Carolina, for\nexample, CAFO's also known",
+        "start": 223.36,
+        "duration": 3.12
+    },
+    {
+        "text": "as factory farms are concentrated the most",
+        "start": 226.48,
+        "duration": 2.96
+    },
+    {
+        "text": "in rural communities of color.",
+        "start": 229.44,
+        "duration": 1.7
+    },
+    {
+        "text": "This waste is then sprayed into the air,",
+        "start": 231.14,
+        "duration": 2.17
+    },
+    {
+        "text": "making it impossible for the\nblack and Latino communities",
+        "start": 233.31,
+        "duration": 2.79
+    },
+    {
+        "text": "to do things that I take for granted.",
+        "start": 236.1,
+        "duration": 1.994
+    },
+    {
+        "text": "- All right, so she's connecting\nkind of veganism once again",
+        "start": 238.094,
+        "duration": 2.466
+    },
+    {
+        "text": "to black lives and\nultimately it comes to this.",
+        "start": 240.56,
+        "duration": 3.31
+    },
+    {
+        "text": "- Every time you pick\nup a burger with bacon,",
+        "start": 243.87,
+        "duration": 2.88
+    },
+    {
+        "text": "or a chicken sandwich as\nmany, many people commented",
+        "start": 246.75,
+        "duration": 3.03
+    },
+    {
+        "text": "on my last video that they were going to,",
+        "start": 249.78,
+        "duration": 2.39
+    },
+    {
+        "text": "understand where your meal came from.",
+        "start": 252.17,
+        "duration": 3.09
+    },
+    {
+        "text": "It came at the cost of an animal's life.",
+        "start": 255.26,
+        "duration": 1.89
+    },
+    {
+        "text": "Yes.",
+        "start": 257.15,
+        "duration": 1.16
+    },
+    {
+        "text": "But it also came at the cost\nof a black person's life, too.",
+        "start": 258.31,
+        "duration": 2.69
+    },
+    {
+        "text": "- Lauren!",
+        "start": 261.0,
+        "duration": 0.833
+    },
+    {
+        "text": "Why in this moment could\nyou just not keep it simple",
+        "start": 261.833,
+        "duration": 2.217
+    },
+    {
+        "text": "and go like, I didn't mean\nto equate the two things.",
+        "start": 264.05,
+        "duration": 3.19
+    },
+    {
+        "text": "I'm all about love.",
+        "start": 267.24,
+        "duration": 0.97
+    },
+    {
+        "text": "I'm all about life.",
+        "start": 268.21,
+        "duration": 0.96
+    },
+    {
+        "text": "I understand priority.",
+        "start": 269.17,
+        "duration": 1.58
+    },
+    {
+        "text": "But instead, you got to if you\neat a hamburger with bacon,",
+        "start": 270.75,
+        "duration": 4.36
+    },
+    {
+        "text": "you are hurting black people.",
+        "start": 275.11,
+        "duration": 1.43
+    },
+    {
+        "text": "I'm just, I'm gonna leave it there.",
+        "start": 276.54,
+        "duration": 1.36
+    },
+    {
+        "text": "I'm a better version\nof who I was years ago.",
+        "start": 277.9,
+        "duration": 2.17
+    },
+    {
+        "text": "I'm not taking the bait fully.",
+        "start": 280.07,
+        "duration": 2.42
+    },
+    {
+        "text": "But now the question to you.",
+        "start": 282.49,
+        "duration": 0.87
+    },
+    {
+        "text": "You know, that's the story,\na little bit of my opinion.",
+        "start": 283.36,
+        "duration": 1.93
+    },
+    {
+        "text": "Lauren shared hers and, of course,",
+        "start": 285.29,
+        "duration": 1.4
+    },
+    {
+        "text": "I'd love to know your thoughts.",
+        "start": 286.69,
+        "duration": 1.29
+    },
+    {
+        "text": "Whether you agree, you disagree, whatever.",
+        "start": 287.98,
+        "duration": 1.97
+    },
+    {
+        "text": "Let me know what you're thinking",
+        "start": 289.95,
+        "duration": 0.833
+    },
+    {
+        "text": "in those comments down below.",
+        "start": 290.783,
+        "duration": 1.207
+    },
+    {
+        "text": "And then, I wanted to talk\nabout an update involving",
+        "start": 291.99,
+        "duration": 2.17
+    },
+    {
+        "text": "a story that had a lot of people enraged.",
+        "start": 294.16,
+        "duration": 1.72
+    },
+    {
+        "text": "So last week, we talked about\nMyka and James Stauffer.",
+        "start": 295.88,
+        "duration": 2.28
+    },
+    {
+        "text": "And to oversimplify the\nsummary there for those",
+        "start": 298.16,
+        "duration": 1.63
+    },
+    {
+        "text": "who did not watch the full video,",
+        "start": 299.79,
+        "duration": 0.93
+    },
+    {
+        "text": "though I will link to it down below.",
+        "start": 300.72,
+        "duration": 1.21
+    },
+    {
+        "text": "They adopted a child from\noverseas by the name of Huxley.",
+        "start": 301.93,
+        "duration": 1.763
+    },
+    {
+        "text": "That child because this\nfamily had a family vlog",
+        "start": 303.693,
+        "duration": 2.467
+    },
+    {
+        "text": "became a part of the content.",
+        "start": 306.16,
+        "duration": 1.26
+    },
+    {
+        "text": "And that content continued for a while,",
+        "start": 307.42,
+        "duration": 1.37
+    },
+    {
+        "text": "but then last week, they\nreleased an update saying",
+        "start": 308.79,
+        "duration": 2.03
+    },
+    {
+        "text": "that Huxley was now living\nwith a new adopted family.",
+        "start": 310.82,
+        "duration": 2.57
+    },
+    {
+        "text": "Essentially saying that his\nspecial needs were much more",
+        "start": 313.39,
+        "duration": 1.9
+    },
+    {
+        "text": "than what they expected\nwhen they adopted him.",
+        "start": 315.29,
+        "duration": 1.63
+    },
+    {
+        "text": "Saying they were heartbroken\nbut Huxley, \"he is thriving.",
+        "start": 316.92,
+        "duration": 2.797
+    },
+    {
+        "text": "\"He is very happy.",
+        "start": 319.717,
+        "duration": 0.99
+    },
+    {
+        "text": "\"He is doing really well.",
+        "start": 320.707,
+        "duration": 1.22
+    },
+    {
+        "text": "\"And his new mommy has\nmedical professional training",
+        "start": 321.927,
+        "duration": 2.05
+    },
+    {
+        "text": "\"and is a very good fit.\"",
+        "start": 323.977,
+        "duration": 1.443
+    },
+    {
+        "text": "To Myka also acknowledging that she feels",
+        "start": 325.42,
+        "duration": 0.833
+    },
+    {
+        "text": "like a failure as a mom.",
+        "start": 326.253,
+        "duration": 1.507
+    },
+    {
+        "text": "Following that video, there were articles",
+        "start": 327.76,
+        "duration": 1.7
+    },
+    {
+        "text": "all over the place.",
+        "start": 329.46,
+        "duration": 0.92
+    },
+    {
+        "text": "There was mass outrage.",
+        "start": 330.38,
+        "duration": 1.424
+    },
+    {
+        "text": "But also at the same time,\nwe had people concerned",
+        "start": 331.804,
+        "duration": 1.616
+    },
+    {
+        "text": "saying, how do we know that James and Myka",
+        "start": 333.42,
+        "duration": 1.54
+    },
+    {
+        "text": "are telling the truth?",
+        "start": 334.96,
+        "duration": 0.833
+    },
+    {
+        "text": "Where is Huxley?",
+        "start": 335.793,
+        "duration": 0.833
+    },
+    {
+        "text": "All right, a number of\npeople saying that Huxley",
+        "start": 336.626,
+        "duration": 1.204
+    },
+    {
+        "text": "is essentially missing.",
+        "start": 337.83,
+        "duration": 1.14
+    },
+    {
+        "text": "A number of people called the authorities.",
+        "start": 338.97,
+        "duration": 1.53
+    },
+    {
+        "text": "This then reportedly leads\nto the Delaware County",
+        "start": 340.5,
+        "duration": 1.95
+    },
+    {
+        "text": "Sheriff's office\ninvestigating the Stauffers.",
+        "start": 342.45,
+        "duration": 1.84
+    },
+    {
+        "text": "And, according to their offices community",
+        "start": 344.29,
+        "duration": 1.8
+    },
+    {
+        "text": "and media relations manager,",
+        "start": 346.09,
+        "duration": 1.177
+    },
+    {
+        "text": "\"The Delaware County\nSheriff's Office has received",
+        "start": 347.267,
+        "duration": 1.79
+    },
+    {
+        "text": "\"several inquiries regarding the welfare",
+        "start": 349.057,
+        "duration": 1.5
+    },
+    {
+        "text": "\"of a local five-year-old child.",
+        "start": 350.557,
+        "duration": 1.38
+    },
+    {
+        "text": "\"This child is not missing.",
+        "start": 351.937,
+        "duration": 1.45
+    },
+    {
+        "text": "\"Our primary concern is for\nthe well-being of this child,",
+        "start": 353.387,
+        "duration": 2.27
+    },
+    {
+        "text": "\"as well as the other\nchildren in the household.",
+        "start": 355.657,
+        "duration": 1.6
+    },
+    {
+        "text": "\"Our investigation is ongoing,\nand will include contact",
+        "start": 357.257,
+        "duration": 2.49
+    },
+    {
+        "text": "\"with all children to\nensure their safety.\"",
+        "start": 359.747,
+        "duration": 1.773
+    },
+    {
+        "text": "And also adding, \"All adoption\ncases are confidential",
+        "start": 361.52,
+        "duration": 2.327
+    },
+    {
+        "text": "\"and must go through a thorough process",
+        "start": 363.847,
+        "duration": 1.51
+    },
+    {
+        "text": "\"with specific requirements\nand safeguards.\"",
+        "start": 365.357,
+        "duration": 2.073
+    },
+    {
+        "text": "And closing, \"Due to the\nconfidential nature of this case,",
+        "start": 367.43,
+        "duration": 2.127
+    },
+    {
+        "text": "\"we will not be releasing\nany specific information",
+        "start": 369.557,
+        "duration": 2.0
+    },
+    {
+        "text": "\"or further comment.\"",
+        "start": 371.557,
+        "duration": 0.953
+    },
+    {
+        "text": "All right, and so for the\npeople continuing to message me,",
+        "start": 372.51,
+        "duration": 1.63
+    },
+    {
+        "text": "saying continue to cover this story,",
+        "start": 374.14,
+        "duration": 1.55
+    },
+    {
+        "text": "I mean, right now, you have\nthe authorities working",
+        "start": 375.69,
+        "duration": 1.82
+    },
+    {
+        "text": "with several other agencies,\ninvestigating this case.",
+        "start": 377.51,
+        "duration": 2.31
+    },
+    {
+        "text": "All right, and connected to\nthat part, we've seen a number",
+        "start": 379.82,
+        "duration": 1.38
+    },
+    {
+        "text": "of journalists trying to figure out",
+        "start": 381.2,
+        "duration": 1.19
+    },
+    {
+        "text": "who actually facilitated the transfer.",
+        "start": 382.39,
+        "duration": 1.73
+    },
+    {
+        "text": "At what agency.",
+        "start": 384.12,
+        "duration": 0.833
+    },
+    {
+        "text": "And there, according to BuzzFeed News,",
+        "start": 384.953,
+        "duration": 1.157
+    },
+    {
+        "text": "they spoke with Franklin\nCounty Children's Services,",
+        "start": 386.11,
+        "duration": 1.95
+    },
+    {
+        "text": "and they reported that spokesman\nfor that agency told them",
+        "start": 388.06,
+        "duration": 2.23
+    },
+    {
+        "text": "that \"Huxley was not in its custody.\"",
+        "start": 390.29,
+        "duration": 1.42
+    },
+    {
+        "text": "Adding \"The adoption\nfor the Stauffer family",
+        "start": 391.71,
+        "duration": 1.437
+    },
+    {
+        "text": "\"is an international\nadoption, which does not",
+        "start": 393.147,
+        "duration": 2.0
+    },
+    {
+        "text": "\"involve our agency.\"",
+        "start": 395.147,
+        "duration": 1.113
+    },
+    {
+        "text": "And adding that \"it appears\nthat Myka made arrangements",
+        "start": 396.26,
+        "duration": 1.677
+    },
+    {
+        "text": "\"with an individual\nperson, versus an agency.\"",
+        "start": 397.937,
+        "duration": 2.213
+    },
+    {
+        "text": "And as far as the agency\nthey used in the past,",
+        "start": 400.15,
+        "duration": 1.65
+    },
+    {
+        "text": "according to reports she's\nmentioned on her channel",
+        "start": 401.8,
+        "duration": 1.84
+    },
+    {
+        "text": "in the past, they used World\nAssociation for parents",
+        "start": 403.64,
+        "duration": 2.11
+    },
+    {
+        "text": "and children, or WACAP.",
+        "start": 405.75,
+        "duration": 1.64
+    },
+    {
+        "text": "Turns out that organization\nmerged with Holt International",
+        "start": 407.39,
+        "duration": 2.21
+    },
+    {
+        "text": "Children's Services in\n2019 and the vice president",
+        "start": 409.6,
+        "duration": 2.229
+    },
+    {
+        "text": "of that organization reportedly told them,",
+        "start": 411.829,
+        "duration": 2.008
+    },
+    {
+        "text": "\"the agency could not comment\non whether it was involved",
+        "start": 413.837,
+        "duration": 2.06
+    },
+    {
+        "text": "\"in the Stauffer adoption.\"",
+        "start": 415.897,
+        "duration": 1.013
+    },
+    {
+        "text": "However, saying, \"In a general\nsense, the way the Stauffers",
+        "start": 416.91,
+        "duration": 2.017
+    },
+    {
+        "text": "\"went about this was unusual.\"",
+        "start": 418.927,
+        "duration": 1.573
+    },
+    {
+        "text": "All right, so ultimately,\nthat's where we are with",
+        "start": 420.5,
+        "duration": 1.18
+    },
+    {
+        "text": "that aspect of the story.",
+        "start": 421.68,
+        "duration": 1.11
+    },
+    {
+        "text": "As far as any other\nupdates or other fallout,",
+        "start": 422.79,
+        "duration": 2.0
+    },
+    {
+        "text": "it appears that after a lot\nof people called for it,",
+        "start": 424.79,
+        "duration": 1.542
+    },
+    {
+        "text": "Myka has now removed all images of Huxley",
+        "start": 426.332,
+        "duration": 2.528
+    },
+    {
+        "text": "from her Instagram account.",
+        "start": 428.86,
+        "duration": 1.09
+    },
+    {
+        "text": "It also appears that she's\nset videos about his adoption",
+        "start": 429.95,
+        "duration": 1.92
+    },
+    {
+        "text": "to private on her YouTube channel.",
+        "start": 431.87,
+        "duration": 1.43
+    },
+    {
+        "text": "And it's also been reported\nthat she's lost her sponsorship",
+        "start": 433.3,
+        "duration": 2.08
+    },
+    {
+        "text": "with Fabletics, Chili's, and Danimals.",
+        "start": 435.38,
+        "duration": 1.55
+    },
+    {
+        "text": "But ultimately, that's where we are with",
+        "start": 436.93,
+        "duration": 1.123
+    },
+    {
+        "text": "this story right now and\nobviously we'll keep our eyes open",
+        "start": 438.053,
+        "duration": 2.617
+    },
+    {
+        "text": "to see if there are any\nother new developments.",
+        "start": 440.67,
+        "duration": 1.75
+    },
+    {
+        "text": "But from that, I want to\nshare some stuff I love today",
+        "start": 442.42,
+        "duration": 2.307
+    },
+    {
+        "text": "and today in awesome brought\nto you by NordVPN.com/Phil.",
+        "start": 444.727,
+        "duration": 3.903
+    },
+    {
+        "text": "You know, whether you're\nworking from home right now",
+        "start": 448.63,
+        "duration": 1.67
+    },
+    {
+        "text": "or you're taking advantage\nof those streaming services",
+        "start": 450.3,
+        "duration": 1.95
+    },
+    {
+        "text": "to decompress and escape\nthe world for a little bit,",
+        "start": 452.25,
+        "duration": 1.99
+    },
+    {
+        "text": "you are not alone.",
+        "start": 454.24,
+        "duration": 1.18
+    },
+    {
+        "text": "We have all increased our Internet usage",
+        "start": 455.42,
+        "duration": 1.81
+    },
+    {
+        "text": "over these past few months.",
+        "start": 457.23,
+        "duration": 0.93
+    },
+    {
+        "text": "But if you're online without\nthe protection of a VPN,",
+        "start": 458.16,
+        "duration": 2.75
+    },
+    {
+        "text": "you're definitely putting\nyourself at a higher risk.",
+        "start": 460.91,
+        "duration": 1.74
+    },
+    {
+        "text": "Plainly put, if you're\nonline, you should have a VPN",
+        "start": 462.65,
+        "duration": 2.25
+    },
+    {
+        "text": "and NordVPN makes it easy and affordable",
+        "start": 464.9,
+        "duration": 2.23
+    },
+    {
+        "text": "to protect your connected devices and you",
+        "start": 467.13,
+        "duration": 1.85
+    },
+    {
+        "text": "from malicious online attacks.",
+        "start": 468.98,
+        "duration": 1.46
+    },
+    {
+        "text": "Not only do they provide\nsecurity and privacy,",
+        "start": 470.44,
+        "duration": 2.31
+    },
+    {
+        "text": "they can also help keep you entertained.",
+        "start": 472.75,
+        "duration": 1.29
+    },
+    {
+        "text": "And that's because streaming\nservices like Disney+,",
+        "start": 474.04,
+        "duration": 2.14
+    },
+    {
+        "text": "Amazon Prime and Netflix host\ndifferent content libraries",
+        "start": 476.18,
+        "duration": 2.61
+    },
+    {
+        "text": "in each country.",
+        "start": 478.79,
+        "duration": 0.833
+    },
+    {
+        "text": "And so with NordVPN,\nyou can actually unlock",
+        "start": 479.623,
+        "duration": 1.597
+    },
+    {
+        "text": "those content libraries by\nchoosing a server in a country",
+        "start": 481.22,
+        "duration": 2.32
+    },
+    {
+        "text": "that has a show or a movie that you want.",
+        "start": 483.54,
+        "duration": 1.36
+    },
+    {
+        "text": "So you set it, and boom, you get it.",
+        "start": 484.9,
+        "duration": 1.54
+    },
+    {
+        "text": "So to protect your devices and\nstream from anywhere today,",
+        "start": 486.44,
+        "duration": 2.48
+    },
+    {
+        "text": "just head on over to NordVPN.com/Phil",
+        "start": 488.92,
+        "duration": 2.21
+    },
+    {
+        "text": "and use code \"Phil\" to get\n70% off a three year plan",
+        "start": 491.13,
+        "duration": 3.1
+    },
+    {
+        "text": "and an extra month for free.",
+        "start": 494.23,
+        "duration": 1.82
+    },
+    {
+        "text": "The first bit of awesome\ntoday is actually I just",
+        "start": 496.05,
+        "duration": 2.16
+    },
+    {
+        "text": "got to give a buddy a shout out.",
+        "start": 498.21,
+        "duration": 1.49
+    },
+    {
+        "text": "Thank you to Steve Zaragoza,\nformerly of SourceFed",
+        "start": 499.7,
+        "duration": 2.48
+    },
+    {
+        "text": "now of The ValleyFolk.",
+        "start": 502.18,
+        "duration": 1.08
+    },
+    {
+        "text": "He, with almost known, noticed,",
+        "start": 503.26,
+        "duration": 1.83
+    },
+    {
+        "text": "autotuned my voice and added\nthat music for that bit",
+        "start": 505.09,
+        "duration": 2.92
+    },
+    {
+        "text": "that we did in part two\nof yesterday's video.",
+        "start": 508.01,
+        "duration": 1.92
+    },
+    {
+        "text": "So yeah, if you need some\nnot so serious funny videos,",
+        "start": 509.93,
+        "duration": 2.64
+    },
+    {
+        "text": "you can go to YouTube.com/thevalleyfolk.",
+        "start": 512.57,
+        "duration": 1.82
+    },
+    {
+        "text": "Then we have the Action Live giving us",
+        "start": 514.39,
+        "duration": 1.67
+    },
+    {
+        "text": "don't put water on chalk.",
+        "start": 516.06,
+        "duration": 1.43
+    },
+    {
+        "text": "The Architectural Digest\ngiving us an inside look",
+        "start": 517.49,
+        "duration": 1.95
+    },
+    {
+        "text": "at $414 million worth of\nthe craziest luxury spaces",
+        "start": 519.44,
+        "duration": 3.5
+    },
+    {
+        "text": "on the market.",
+        "start": 522.94,
+        "duration": 0.833
+    },
+    {
+        "text": "We had Tom Segura going undercover",
+        "start": 523.773,
+        "duration": 1.087
+    },
+    {
+        "text": "on Reddit, YouTube and Twitter.",
+        "start": 524.86,
+        "duration": 1.17
+    },
+    {
+        "text": "If you want to see the full versions",
+        "start": 526.03,
+        "duration": 1.05
+    },
+    {
+        "text": "of everything I just shared,\nthe secret link of the day,",
+        "start": 527.08,
+        "duration": 1.94
+    },
+    {
+        "text": "really anything at all,\nlinks as always are",
+        "start": 529.02,
+        "duration": 2.37
+    },
+    {
+        "text": "in the description down below.",
+        "start": 531.39,
+        "duration": 1.08
+    },
+    {
+        "text": "And then, let's talk\nabout what's essentially",
+        "start": 532.47,
+        "duration": 1.61
+    },
+    {
+        "text": "a continuing story over\nthese last few months",
+        "start": 534.08,
+        "duration": 2.15
+    },
+    {
+        "text": "about the roll of social media companies.",
+        "start": 536.23,
+        "duration": 1.95
+    },
+    {
+        "text": "You know, in the past week specifically",
+        "start": 538.18,
+        "duration": 1.27
+    },
+    {
+        "text": "but also in the past\nmonths we've been talking",
+        "start": 539.45,
+        "duration": 1.73
+    },
+    {
+        "text": "about social media companies having",
+        "start": 541.18,
+        "duration": 1.17
+    },
+    {
+        "text": "to react to the president.",
+        "start": 542.35,
+        "duration": 1.12
+    },
+    {
+        "text": "Of course, the most recent\nsituation was Twitter",
+        "start": 543.47,
+        "duration": 1.66
+    },
+    {
+        "text": "fact-checking Trump, also labeling one",
+        "start": 545.13,
+        "duration": 2.28
+    },
+    {
+        "text": "of his tweets as glorifying violence.",
+        "start": 547.41,
+        "duration": 1.81
+    },
+    {
+        "text": "Meanwhile, the same things\nwere posted to Facebook",
+        "start": 549.22,
+        "duration": 1.65
+    },
+    {
+        "text": "with Facebook not moving on it,",
+        "start": 550.87,
+        "duration": 1.35
+    },
+    {
+        "text": "which has resulted in both\noutside and inside pressure",
+        "start": 552.22,
+        "duration": 2.87
+    },
+    {
+        "text": "for Facebook and Mark\nZuckerberg specifically.",
+        "start": 555.09,
+        "duration": 1.84
+    },
+    {
+        "text": "Which, not to derail things\ntoo much, a quick update there.",
+        "start": 556.93,
+        "duration": 2.35
+    },
+    {
+        "text": "Zuckerberg held a meeting\nwith his employees",
+        "start": 559.28,
+        "duration": 1.78
+    },
+    {
+        "text": "and he seemed open to doing something",
+        "start": 561.06,
+        "duration": 2.38
+    },
+    {
+        "text": "but things will need to get worse first.",
+        "start": 563.44,
+        "duration": 2.16
+    },
+    {
+        "text": "In the audio that has now been leaked,",
+        "start": 565.6,
+        "duration": 1.39
+    },
+    {
+        "text": "Zuckerberg says, \"If we\nwere entering a period where",
+        "start": 566.99,
+        "duration": 1.917
+    },
+    {
+        "text": "\"there may be a prolonged\nperiod of civil unrest,",
+        "start": 568.907,
+        "duration": 2.49
+    },
+    {
+        "text": "\"then that might suggest that\nwe need different policies,",
+        "start": 571.397,
+        "duration": 2.0
+    },
+    {
+        "text": "\"even if just temporarily\nin the United States",
+        "start": 573.397,
+        "duration": 1.89
+    },
+    {
+        "text": "\"for some period, compared\nto where we were before.\"",
+        "start": 575.287,
+        "duration": 2.383
+    },
+    {
+        "text": "And adding, \"We have some precedents",
+        "start": 577.67,
+        "duration": 1.1
+    },
+    {
+        "text": "for what that might look like.\"",
+        "start": 578.77,
+        "duration": 0.97
+    },
+    {
+        "text": "With one report explaining\nthat he said that \"the company",
+        "start": 579.74,
+        "duration": 1.547
+    },
+    {
+        "text": "\"had moved to remove\nCOVID-19 misinformation",
+        "start": 581.287,
+        "duration": 2.01
+    },
+    {
+        "text": "\"because it represented a\npublic health emergency,",
+        "start": 583.297,
+        "duration": 1.876
+    },
+    {
+        "text": "\"and that the excessive policing\nof the use of state force",
+        "start": 585.173,
+        "duration": 2.584
+    },
+    {
+        "text": "\"could similarly be\nconsidered an emergency",
+        "start": 587.757,
+        "duration": 1.98
+    },
+    {
+        "text": "\"that would warrant policy changes.\"",
+        "start": 589.737,
+        "duration": 1.473
+    },
+    {
+        "text": "And understand, as among other things,",
+        "start": 591.21,
+        "duration": 1.31
+    },
+    {
+        "text": "I'll link to it down below.",
+        "start": 592.52,
+        "duration": 0.92
+    },
+    {
+        "text": "But, the update, the reason\nI talk about this today",
+        "start": 593.44,
+        "duration": 2.74
+    },
+    {
+        "text": "is not actually because\nof those two companies,",
+        "start": 596.18,
+        "duration": 1.72
+    },
+    {
+        "text": "but rather Snapchat.",
+        "start": 597.9,
+        "duration": 1.33
+    },
+    {
+        "text": "The company released a\nstatement today, saying,",
+        "start": 599.23,
+        "duration": 1.727
+    },
+    {
+        "text": "\"We are not currently promoting\nthe president's content",
+        "start": 600.957,
+        "duration": 2.04
+    },
+    {
+        "text": "\"on Snapchat's Discover platform.",
+        "start": 602.997,
+        "duration": 1.65
+    },
+    {
+        "text": "\"We will not amplify voices\nwho incite racial violence",
+        "start": 604.647,
+        "duration": 2.84
+    },
+    {
+        "text": "\"and injustice by giving them\nfree promotion on Discover.",
+        "start": 607.487,
+        "duration": 2.35
+    },
+    {
+        "text": "\"Racial violence and injustice\nhave no place in our society",
+        "start": 609.837,
+        "duration": 2.74
+    },
+    {
+        "text": "\"and we stand together with\nall who seek peace, love,",
+        "start": 612.577,
+        "duration": 2.23
+    },
+    {
+        "text": "\"equality, and justice in America.\"",
+        "start": 614.807,
+        "duration": 1.713
+    },
+    {
+        "text": "All right, so Trump's Snapchat\naccount will still exist.",
+        "start": 616.52,
+        "duration": 1.98
+    },
+    {
+        "text": "It will still be verified,\nbut it's not gonna be promoted",
+        "start": 618.5,
+        "duration": 2.2
+    },
+    {
+        "text": "on the Discover page.",
+        "start": 620.7,
+        "duration": 0.833
+    },
+    {
+        "text": "All right, so obviously, this is notable.",
+        "start": 621.533,
+        "duration": 1.277
+    },
+    {
+        "text": "This is a company making a statement,",
+        "start": 622.81,
+        "duration": 1.42
+    },
+    {
+        "text": "but it's also in a different category.",
+        "start": 624.23,
+        "duration": 1.29
+    },
+    {
+        "text": "It doesn't appear that they're\ncensoring the president,",
+        "start": 625.52,
+        "duration": 1.6
+    },
+    {
+        "text": "that they're stopping the president.",
+        "start": 627.12,
+        "duration": 1.34
+    },
+    {
+        "text": "They're just not actively promoting him.",
+        "start": 628.46,
+        "duration": 1.55
+    },
+    {
+        "text": "Which I guess, the question in general,",
+        "start": 630.01,
+        "duration": 1.26
+    },
+    {
+        "text": "what are your thoughts about this move?",
+        "start": 631.27,
+        "duration": 1.01
+    },
+    {
+        "text": "But also, what are your\nthoughts in general",
+        "start": 632.28,
+        "duration": 1.38
+    },
+    {
+        "text": "about any politician\nappearing on the Discover tab?",
+        "start": 633.66,
+        "duration": 2.58
+    },
+    {
+        "text": "It makes sense, it doesn't make sense",
+        "start": 636.24,
+        "duration": 1.35
+    },
+    {
+        "text": "because it's politics.",
+        "start": 637.59,
+        "duration": 0.98
+    },
+    {
+        "text": "It's crossing a line, yes or no.",
+        "start": 638.57,
+        "duration": 1.661
+    },
+    {
+        "text": "And then because it's\ndefinitely felt like it's been",
+        "start": 640.231,
+        "duration": 1.859
+    },
+    {
+        "text": "a minute since we talked\nabout an international story.",
+        "start": 642.09,
+        "duration": 1.81
+    },
+    {
+        "text": "Let's talk about the\nUnited Kingdom and China.",
+        "start": 643.9,
+        "duration": 2.0
+    },
+    {
+        "text": "Because we haven't seen,\nin the United Kingdom,",
+        "start": 645.9,
+        "duration": 1.7
+    },
+    {
+        "text": "Prime Minister Boris Johnson\nhas now pledged a path",
+        "start": 647.6,
+        "duration": 2.34
+    },
+    {
+        "text": "to British citizenship\nfor nearly three million",
+        "start": 649.94,
+        "duration": 2.13
+    },
+    {
+        "text": "Hong Kong residents.",
+        "start": 652.07,
+        "duration": 1.046
+    },
+    {
+        "text": "All right, and this is really\njust the latest development",
+        "start": 653.116,
+        "duration": 2.004
+    },
+    {
+        "text": "that we're seeing following China passing",
+        "start": 655.12,
+        "duration": 1.44
+    },
+    {
+        "text": "a highly, controversial\nnational security law",
+        "start": 656.56,
+        "duration": 2.26
+    },
+    {
+        "text": "aimed at Hong Kong.",
+        "start": 658.82,
+        "duration": 0.9
+    },
+    {
+        "text": "And a ton has happened there,",
+        "start": 659.72,
+        "duration": 1.37
+    },
+    {
+        "text": "so to very briefly catch you up.",
+        "start": 661.09,
+        "duration": 1.65
+    },
+    {
+        "text": "On May 21st, China proposed that law.",
+        "start": 662.74,
+        "duration": 1.87
+    },
+    {
+        "text": "Notably, it's widely been\nseen as a blatant attempt",
+        "start": 664.61,
+        "duration": 2.06
+    },
+    {
+        "text": "to subvert Hong Kong's\nfreedoms and exert more control",
+        "start": 666.67,
+        "duration": 2.38
+    },
+    {
+        "text": "over the city.",
+        "start": 669.05,
+        "duration": 0.833
+    },
+    {
+        "text": "Though China has argued\nthat it's nothing more",
+        "start": 669.883,
+        "duration": 1.297
+    },
+    {
+        "text": "than a way to end the violence in the city",
+        "start": 671.18,
+        "duration": 1.62
+    },
+    {
+        "text": "and that it would have quote,\n\"no impact on Hong Kong's",
+        "start": 672.8,
+        "duration": 2.167
+    },
+    {
+        "text": "\"high degree of autonomy,\nthe rights and freedoms",
+        "start": 674.967,
+        "duration": 2.16
+    },
+    {
+        "text": "\"of Hong Kong residents,\nor the legitimate rights",
+        "start": 677.127,
+        "duration": 2.11
+    },
+    {
+        "text": "\"and interests of foreign\ninvestors in Hong Kong.\"",
+        "start": 679.237,
+        "duration": 2.093
+    },
+    {
+        "text": "All right, so you had this\nbill criminalizing acts",
+        "start": 681.33,
+        "duration": 1.63
+    },
+    {
+        "text": "like secession, subversion,\nterrorism and any activities",
+        "start": 682.96,
+        "duration": 2.94
+    },
+    {
+        "text": "by foreign forces that\ninterfere in Hong Kong.",
+        "start": 685.9,
+        "duration": 2.0
+    },
+    {
+        "text": "And one of the biggest issues\nhere is the subversion clause",
+        "start": 687.9,
+        "duration": 2.41
+    },
+    {
+        "text": "because it's so broad that\nit's currently unclear",
+        "start": 690.31,
+        "duration": 1.94
+    },
+    {
+        "text": "what it would actually criminalize.",
+        "start": 692.25,
+        "duration": 1.43
+    },
+    {
+        "text": "And there's also a ton\nof fear because this bill",
+        "start": 693.68,
+        "duration": 1.8
+    },
+    {
+        "text": "would allow the mainland to\nset up its own security force",
+        "start": 695.48,
+        "duration": 2.31
+    },
+    {
+        "text": "in the city, which is\nsomething that it currently",
+        "start": 697.79,
+        "duration": 1.98
+    },
+    {
+        "text": "is not allowed to do.",
+        "start": 699.77,
+        "duration": 0.94
+    },
+    {
+        "text": "All right, so that means\nthat China would then be able",
+        "start": 700.71,
+        "duration": 1.76
+    },
+    {
+        "text": "to target people in Hong Kong\nwho criticize the government.",
+        "start": 702.47,
+        "duration": 2.31
+    },
+    {
+        "text": "Now, following the\nannouncement of that bill,",
+        "start": 704.78,
+        "duration": 1.38
+    },
+    {
+        "text": "we've seen people flooding\nthe streets and protest again.",
+        "start": 706.16,
+        "duration": 2.5
+    },
+    {
+        "text": "All right, so that led\nto a number of arrests",
+        "start": 708.66,
+        "duration": 1.39
+    },
+    {
+        "text": "and clashes with the police.",
+        "start": 710.05,
+        "duration": 1.13
+    },
+    {
+        "text": "But ultimately, what we ended\nup seeing is last Thursday,",
+        "start": 711.18,
+        "duration": 2.02
+    },
+    {
+        "text": "no surprise here, we saw that\nbill being passed in Beijing.",
+        "start": 713.2,
+        "duration": 2.57
+    },
+    {
+        "text": "Because, as always, China gonna China.",
+        "start": 715.77,
+        "duration": 2.18
+    },
+    {
+        "text": "For her part, Hong Kong\nchief executive, Carrie Lam,",
+        "start": 717.95,
+        "duration": 2.06
+    },
+    {
+        "text": "has dismissed concerns, saying\nthat she will support it.",
+        "start": 720.01,
+        "duration": 2.29
+    },
+    {
+        "text": "Though, that's not really\nseen as a surprise here.",
+        "start": 722.3,
+        "duration": 1.57
+    },
+    {
+        "text": "She's been very loyal to Beijing.",
+        "start": 723.87,
+        "duration": 1.84
+    },
+    {
+        "text": "But, while Lam has said that\nshe's receptive to this bill",
+        "start": 725.71,
+        "duration": 2.13
+    },
+    {
+        "text": "that has not been the case\nfor a lot of world leaders.",
+        "start": 727.84,
+        "duration": 2.25
+    },
+    {
+        "text": "For example, we've seen\nTaiwan's president saying",
+        "start": 730.09,
+        "duration": 1.74
+    },
+    {
+        "text": "that she plans to help Hong Kong.",
+        "start": 731.83,
+        "duration": 1.35
+    },
+    {
+        "text": "Other countries like\nCanada, Australia, and Japan",
+        "start": 733.18,
+        "duration": 2.07
+    },
+    {
+        "text": "have also expressed concern.",
+        "start": 735.25,
+        "duration": 1.15
+    },
+    {
+        "text": "As far as the United States,\nlast Wednesday we saw",
+        "start": 736.4,
+        "duration": 1.72
+    },
+    {
+        "text": "Secretary of State Mike Pompeo\nsaying that the United States",
+        "start": 738.12,
+        "duration": 2.3
+    },
+    {
+        "text": "no longer views Hong Kong\nas an autonomous region.",
+        "start": 740.42,
+        "duration": 2.27
+    },
+    {
+        "text": "And notably, that could give\nPresident Trump and Congress",
+        "start": 742.69,
+        "duration": 2.15
+    },
+    {
+        "text": "the leeway to end Hong\nKong's special trade status.",
+        "start": 744.84,
+        "duration": 2.48
+    },
+    {
+        "text": "All right, so basically that\nwould then impose in Hong Kong",
+        "start": 747.32,
+        "duration": 1.83
+    },
+    {
+        "text": "the same trade restrictions\nthe United States has on China.",
+        "start": 749.15,
+        "duration": 2.29
+    },
+    {
+        "text": "But, all of that then brings us to today",
+        "start": 751.44,
+        "duration": 1.89
+    },
+    {
+        "text": "in the United Kingdom where\nBoris Johnson offered refuge",
+        "start": 753.33,
+        "duration": 2.5
+    },
+    {
+        "text": "to nearly three million\npeople from Hong Kong.",
+        "start": 755.83,
+        "duration": 2.11
+    },
+    {
+        "text": "And notably here, this would\nallow Hong Kong residents",
+        "start": 757.94,
+        "duration": 1.87
+    },
+    {
+        "text": "to come to the United Kingdom\nfor a renewable period",
+        "start": 759.81,
+        "duration": 2.29
+    },
+    {
+        "text": "of 12 months.",
+        "start": 762.1,
+        "duration": 0.833
+    },
+    {
+        "text": "They could then be given\nfurther immigration rights,",
+        "start": 762.933,
+        "duration": 1.677
+    },
+    {
+        "text": "including the right to\nwork, which could place them",
+        "start": 764.61,
+        "duration": 1.67
+    },
+    {
+        "text": "on a route to citizenship.",
+        "start": 766.28,
+        "duration": 1.11
+    },
+    {
+        "text": "And, really, Johnson's response\nhere is particularly notable",
+        "start": 767.39,
+        "duration": 3.03
+    },
+    {
+        "text": "because before 1997 when it\nwas handed over to China,",
+        "start": 770.42,
+        "duration": 2.63
+    },
+    {
+        "text": "Hong Kong was actually a British colony.",
+        "start": 773.05,
+        "duration": 1.65
+    },
+    {
+        "text": "It is also, very likely\nto put the United Kingdom",
+        "start": 774.7,
+        "duration": 2.39
+    },
+    {
+        "text": "higher on China's shit list.",
+        "start": 777.09,
+        "duration": 1.45
+    },
+    {
+        "text": "Now as far as why Johnson\nannounced this plan.",
+        "start": 778.54,
+        "duration": 1.75
+    },
+    {
+        "text": "In an op-ed in the South\nChina Morning Post,",
+        "start": 780.29,
+        "duration": 1.85
+    },
+    {
+        "text": "he said, \"If China proceeds, this would be",
+        "start": 782.14,
+        "duration": 1.677
+    },
+    {
+        "text": "\"in direct conflict with its obligation",
+        "start": 783.817,
+        "duration": 1.65
+    },
+    {
+        "text": "\"under the Joint Declaration,\na legally binding treaty",
+        "start": 785.467,
+        "duration": 2.45
+    },
+    {
+        "text": "\"registered with the United Nations.",
+        "start": 787.917,
+        "duration": 1.44
+    },
+    {
+        "text": "\"Britain would then have\nno choice but to uphold",
+        "start": 789.357,
+        "duration": 1.93
+    },
+    {
+        "text": "\"our profound ties of\nhistory and friendship",
+        "start": 791.287,
+        "duration": 2.04
+    },
+    {
+        "text": "\"with the people of Hong Kong.\"",
+        "start": 793.327,
+        "duration": 1.143
+    },
+    {
+        "text": "With Johnson also going on\nto note that this would be",
+        "start": 794.47,
+        "duration": 1.55
+    },
+    {
+        "text": "one of the biggest changes\nto the country's visa system",
+        "start": 796.02,
+        "duration": 2.19
+    },
+    {
+        "text": "in British history.",
+        "start": 798.21,
+        "duration": 1.08
+    },
+    {
+        "text": "And as far as when this\ncould start, Johnson said",
+        "start": 799.29,
+        "duration": 2.07
+    },
+    {
+        "text": "the United Kingdom would\nimplement this plan",
+        "start": 801.36,
+        "duration": 1.55
+    },
+    {
+        "text": "when China formally enacts\nits national security law.",
+        "start": 802.91,
+        "duration": 1.913
+    },
+    {
+        "text": "Now, as far as China's response to this,",
+        "start": 804.823,
+        "duration": 1.777
+    },
+    {
+        "text": "they were very receptive,\nopen to criticism.",
+        "start": 806.6,
+        "duration": 2.32
+    },
+    {
+        "text": "I'm kidding.",
+        "start": 808.92,
+        "duration": 0.833
+    },
+    {
+        "text": "They're not happy.",
+        "start": 809.753,
+        "duration": 0.833
+    },
+    {
+        "text": "I mean, you're talking\nabout three million people",
+        "start": 810.586,
+        "duration": 1.354
+    },
+    {
+        "text": "in Hong Kong.",
+        "start": 811.94,
+        "duration": 0.833
+    },
+    {
+        "text": "What, that's about 40% of\nHong Kong's population?",
+        "start": 812.773,
+        "duration": 1.797
+    },
+    {
+        "text": "It could also mean a serious brain drain,",
+        "start": 814.57,
+        "duration": 1.54
+    },
+    {
+        "text": "if not only locals but\nalso businesses begin",
+        "start": 816.11,
+        "duration": 2.05
+    },
+    {
+        "text": "to migrate out of the city.",
+        "start": 818.16,
+        "duration": 1.07
+    },
+    {
+        "text": "We've seen Hong Kong's share\nmarket analyst, David Webb,",
+        "start": 819.23,
+        "duration": 2.41
+    },
+    {
+        "text": "saying that \"vaguely defined\nlaws could fuel concerns",
+        "start": 821.64,
+        "duration": 2.177
+    },
+    {
+        "text": "\"among employers.\"",
+        "start": 823.817,
+        "duration": 0.913
+    },
+    {
+        "text": "This including banks, you\nknow, they'll be liable",
+        "start": 824.73,
+        "duration": 1.79
+    },
+    {
+        "text": "if their employees say or\ndo something that gets them",
+        "start": 826.52,
+        "duration": 2.23
+    },
+    {
+        "text": "in trouble with the authorities.",
+        "start": 828.75,
+        "duration": 1.1
+    },
+    {
+        "text": "So that's likely why\ntoday we saw spokesperson",
+        "start": 829.85,
+        "duration": 1.82
+    },
+    {
+        "text": "for China's foreign ministry\nsaying, \"We advise the UK",
+        "start": 831.67,
+        "duration": 2.347
+    },
+    {
+        "text": "\"to step back from the brink,",
+        "start": 834.017,
+        "duration": 1.2
+    },
+    {
+        "text": "\"abandon their Cold War\nmentality and colonial mindset,",
+        "start": 835.217,
+        "duration": 2.76
+    },
+    {
+        "text": "\"and recognize and respect\nthe fact that Hong Kong",
+        "start": 837.977,
+        "duration": 2.49
+    },
+    {
+        "text": "\"has returned to China.\"",
+        "start": 840.467,
+        "duration": 1.393
+    },
+    {
+        "text": "With that spokesperson\nalso adding that London",
+        "start": 841.86,
+        "duration": 1.55
+    },
+    {
+        "text": "must \"immediately stop\ninterfering in Hong Kong's affairs",
+        "start": 843.41,
+        "duration": 2.517
+    },
+    {
+        "text": "\"and China's internal affairs,",
+        "start": 845.927,
+        "duration": 1.18
+    },
+    {
+        "text": "\"or this will definitely backfire.\"",
+        "start": 847.107,
+        "duration": 1.563
+    },
+    {
+        "text": "But, even with that, it doesn't\nseem like the United Kingdom",
+        "start": 848.67,
+        "duration": 2.29
+    },
+    {
+        "text": "is backing down.",
+        "start": 850.96,
+        "duration": 0.88
+    },
+    {
+        "text": "In fact, Dominic Raab,\nthe UK's foreign secretary",
+        "start": 851.84,
+        "duration": 2.06
+    },
+    {
+        "text": "has also been urging other\ncountries to offer visas",
+        "start": 853.9,
+        "duration": 2.12
+    },
+    {
+        "text": "to Hong Kong residents.",
+        "start": 856.02,
+        "duration": 0.9
+    },
+    {
+        "text": "This, including Australia, New Zealand,",
+        "start": 856.92,
+        "duration": 1.7
+    },
+    {
+        "text": "the United States and Canada.",
+        "start": 858.62,
+        "duration": 1.28
+    },
+    {
+        "text": "With Raab saying he's\nraised \"the possibility",
+        "start": 859.9,
+        "duration": 1.467
+    },
+    {
+        "text": "\"of burden-sharing if we see\na mass exodus from Hong Kong.\"",
+        "start": 861.367,
+        "duration": 2.42
+    },
+    {
+        "text": "And as far as the US reaction here,",
+        "start": 863.787,
+        "duration": 1.733
+    },
+    {
+        "text": "last week we saw Senate\nmajority leader Mitch McConnell",
+        "start": 865.52,
+        "duration": 2.05
+    },
+    {
+        "text": "saying the US response\nshould \"mirror those of other",
+        "start": 867.57,
+        "duration": 2.217
+    },
+    {
+        "text": "\"democracies who have opened their doors",
+        "start": 869.787,
+        "duration": 1.49
+    },
+    {
+        "text": "\"to Hong Kongers fleeing oppression.\"",
+        "start": 871.277,
+        "duration": 1.763
+    },
+    {
+        "text": "You've also seen Mike Pompeo\nsaying he's considering",
+        "start": 873.04,
+        "duration": 1.88
+    },
+    {
+        "text": "the idea of allowing more\nHong Kongers to immigrate",
+        "start": 874.92,
+        "duration": 2.06
+    },
+    {
+        "text": "to the United States if\nthis law goes into effect.",
+        "start": 876.98,
+        "duration": 2.17
+    },
+    {
+        "text": "As far as outside of the United States,",
+        "start": 879.15,
+        "duration": 1.35
+    },
+    {
+        "text": "I mentioned the president of\nTaiwan pledging support earlier",
+        "start": 880.5,
+        "duration": 2.57
+    },
+    {
+        "text": "She has said she is working\n\"to draw up a humanitarian",
+        "start": 883.07,
+        "duration": 1.687
+    },
+    {
+        "text": "\"assistance action plan\nfor Hong Kong residents",
+        "start": 884.757,
+        "duration": 1.9
+    },
+    {
+        "text": "\"that lays out clear, complete\nplan for their residents,",
+        "start": 886.657,
+        "duration": 2.35
+    },
+    {
+        "text": "\"placement, employment and life in Taiwan",
+        "start": 889.007,
+        "duration": 2.11
+    },
+    {
+        "text": "\"as soon as possible.\"",
+        "start": 891.117,
+        "duration": 0.913
+    },
+    {
+        "text": "But, with all of this, I\nmean one of the questions",
+        "start": 892.03,
+        "duration": 2.19
+    },
+    {
+        "text": "I want to pass off, do\nyou think offering refuge",
+        "start": 894.22,
+        "duration": 2.05
+    },
+    {
+        "text": "to these Hong Kong\nresidents is the right move?",
+        "start": 896.27,
+        "duration": 1.82
+    },
+    {
+        "text": "Is it the only move?",
+        "start": 898.09,
+        "duration": 0.964
+    },
+    {
+        "text": "All right, so the United Kingdom\nand these other countries",
+        "start": 899.054,
+        "duration": 1.736
+    },
+    {
+        "text": "do more on the ground in Hong Kong.",
+        "start": 900.79,
+        "duration": 1.73
+    },
+    {
+        "text": "You know, an aspect of this story,",
+        "start": 902.52,
+        "duration": 1.04
+    },
+    {
+        "text": "not everyone is going to\nwant to leave their home.",
+        "start": 903.56,
+        "duration": 1.63
+    },
+    {
+        "text": "There have also been concerns from a lot",
+        "start": 905.19,
+        "duration": 1.18
+    },
+    {
+        "text": "of Hong Kong residents who\nare afraid they will not",
+        "start": 906.37,
+        "duration": 1.62
+    },
+    {
+        "text": "be able to get a job\nin the United Kingdom,",
+        "start": 907.99,
+        "duration": 1.57
+    },
+    {
+        "text": "that they'll essentially be\ntreated like a second class.",
+        "start": 909.56,
+        "duration": 1.89
+    },
+    {
+        "text": "There's also major concern\nthat young pro-democracy",
+        "start": 911.45,
+        "duration": 1.66
+    },
+    {
+        "text": "advocates will not be able to seek refuge.",
+        "start": 913.11,
+        "duration": 1.63
+    },
+    {
+        "text": "This because Hong Kong\nresidents are only eligible",
+        "start": 914.74,
+        "duration": 1.89
+    },
+    {
+        "text": "to apply for that special\nBritish visa if they were born",
+        "start": 916.63,
+        "duration": 2.34
+    },
+    {
+        "text": "before the 1997 handover.",
+        "start": 918.97,
+        "duration": 1.82
+    },
+    {
+        "text": "And that's highly notable because\nas we've seen young people",
+        "start": 920.79,
+        "duration": 2.44
+    },
+    {
+        "text": "have been one of the major driving forces",
+        "start": 923.23,
+        "duration": 1.59
+    },
+    {
+        "text": "behind these protests and\none of the groups most likely",
+        "start": 924.82,
+        "duration": 2.35
+    },
+    {
+        "text": "to be targeted under this new law.",
+        "start": 927.17,
+        "duration": 1.48
+    },
+    {
+        "text": "And actually, fears like\nthat are why we've seen",
+        "start": 928.65,
+        "duration": 1.53
+    },
+    {
+        "text": "one veteran activist in Hong Kong saying,",
+        "start": 930.18,
+        "duration": 1.817
+    },
+    {
+        "text": "\"I think it's a shame in\na way that they only offer",
+        "start": 931.997,
+        "duration": 1.68
+    },
+    {
+        "text": "\"us an exit and do not\noffer to stand by us",
+        "start": 933.677,
+        "duration": 2.24
+    },
+    {
+        "text": "\"in our fight for Hong Kong.\"",
+        "start": 935.917,
+        "duration": 1.283
+    },
+    {
+        "text": "And so yeah, with this\nstory, that is where we are",
+        "start": 937.2,
+        "duration": 2.08
+    },
+    {
+        "text": "and of course with it I would love",
+        "start": 939.28,
+        "duration": 1.42
+    },
+    {
+        "text": "to know your thoughts here.",
+        "start": 940.7,
+        "duration": 0.89
+    },
+    {
+        "text": "And then, let's talk\nabout a big, big update",
+        "start": 941.59,
+        "duration": 2.62
+    },
+    {
+        "text": "in the George Floyd case.",
+        "start": 944.21,
+        "duration": 1.2
+    },
+    {
+        "text": "You know, yesterday we talked\nabout the two autopsies,",
+        "start": 945.41,
+        "duration": 2.13
+    },
+    {
+        "text": "the most recent one being\nthe independent one.",
+        "start": 947.54,
+        "duration": 2.13
+    },
+    {
+        "text": "Differences and the\ndetails and the specifics",
+        "start": 949.67,
+        "duration": 2.18
+    },
+    {
+        "text": "when it came to the cause of death.",
+        "start": 951.85,
+        "duration": 1.16
+    },
+    {
+        "text": "Right and talking about how\nthat could change the charges",
+        "start": 953.01,
+        "duration": 2.21
+    },
+    {
+        "text": "that we're seeing and the news today.",
+        "start": 955.22,
+        "duration": 2.05
+    },
+    {
+        "text": "One, that Minnesota attorney\ngeneral, Keith Ellison",
+        "start": 957.27,
+        "duration": 2.25
+    },
+    {
+        "text": "is going to be elevating the\ncharges against Derek Chauvin.",
+        "start": 959.52,
+        "duration": 2.61
+    },
+    {
+        "text": "Adding a charge of unintentional\nsecond-degree murder",
+        "start": 962.13,
+        "duration": 2.21
+    },
+    {
+        "text": "while committing a felony.",
+        "start": 964.34,
+        "duration": 1.1
+    },
+    {
+        "text": "And two, the other three\nofficers involved in the murder",
+        "start": 965.44,
+        "duration": 3.38
+    },
+    {
+        "text": "of George Floyd will now\nbe charged with aiding",
+        "start": 968.82,
+        "duration": 1.98
+    },
+    {
+        "text": "and abetting second-degree murder.",
+        "start": 970.8,
+        "duration": 1.59
+    },
+    {
+        "text": "Following this news being reported,",
+        "start": 972.39,
+        "duration": 1.34
+    },
+    {
+        "text": "we saw Benjamin Crump, of course a lawyer",
+        "start": 973.73,
+        "duration": 1.73
+    },
+    {
+        "text": "for the Floyd family\nresponding on Twitter,",
+        "start": 975.46,
+        "duration": 1.747
+    },
+    {
+        "text": "\"Family's reaction. This\nis a bittersweet moment.",
+        "start": 977.207,
+        "duration": 2.18
+    },
+    {
+        "text": "\"We are deeply gratified that AG Ellison",
+        "start": 979.387,
+        "duration": 2.23
+    },
+    {
+        "text": "\"took decisive action\narresting and charging",
+        "start": 981.617,
+        "duration": 2.26
+    },
+    {
+        "text": "\"all the officers involved\nin George Floyd's death",
+        "start": 983.877,
+        "duration": 2.01
+    },
+    {
+        "text": "\"and upgrading the charge\nagainst Derek Chauvin",
+        "start": 985.887,
+        "duration": 1.92
+    },
+    {
+        "text": "\"to felony second-degree murder.\"",
+        "start": 987.807,
+        "duration": 1.453
+    },
+    {
+        "text": "So massive news.",
+        "start": 989.26,
+        "duration": 1.06
+    },
+    {
+        "text": "A massive update and with this of course,",
+        "start": 990.32,
+        "duration": 2.15
+    },
+    {
+        "text": "I want to pass the question off to you.",
+        "start": 992.47,
+        "duration": 1.07
+    },
+    {
+        "text": "What are your thoughts on this?",
+        "start": 993.54,
+        "duration": 0.891
+    },
+    {
+        "text": "Are you happy to see these\nother officers involved",
+        "start": 994.431,
+        "duration": 1.999
+    },
+    {
+        "text": "because you believe that\nthey are responsible",
+        "start": 996.43,
+        "duration": 1.64
+    },
+    {
+        "text": "for George Floyd's murder?",
+        "start": 998.07,
+        "duration": 1.0
+    },
+    {
+        "text": "Also, what are your thoughts about going",
+        "start": 999.07,
+        "duration": 1.2
+    },
+    {
+        "text": "from third-degree to\nsecond-degree murder with Chauvin?",
+        "start": 1000.27,
+        "duration": 2.17
+    },
+    {
+        "text": "And what do you think about\nthe fact that it still",
+        "start": 1002.44,
+        "duration": 1.24
+    },
+    {
+        "text": "does not imply intent, which\nof course was a major reason",
+        "start": 1003.68,
+        "duration": 2.33
+    },
+    {
+        "text": "why people were upset with\na third-degree charge.",
+        "start": 1006.01,
+        "duration": 1.92
+    },
+    {
+        "text": "Do you think this will add or\ndo anything to the outrage?",
+        "start": 1007.93,
+        "duration": 2.3
+    },
+    {
+        "text": "Or does the fact that he\ncould face a longer sentence",
+        "start": 1010.23,
+        "duration": 2.18
+    },
+    {
+        "text": "now make up for that?",
+        "start": 1012.41,
+        "duration": 0.833
+    },
+    {
+        "text": "All right, this new\ncharge carries a sentence",
+        "start": 1013.243,
+        "duration": 1.187
+    },
+    {
+        "text": "of up to 40 years while\nthird-degree was only up to 25.",
+        "start": 1014.43,
+        "duration": 2.64
+    },
+    {
+        "text": "And also, keep in mind, he's still facing",
+        "start": 1017.07,
+        "duration": 1.69
+    },
+    {
+        "text": "an additional 10 years for\nsecond-degree manslaughter.",
+        "start": 1018.76,
+        "duration": 2.28
+    },
+    {
+        "text": "Yeah, let me know what you're thinking",
+        "start": 1021.04,
+        "duration": 0.98
+    },
+    {
+        "text": "and why in those comments down below.",
+        "start": 1022.02,
+        "duration": 1.7
+    },
+    {
+        "text": "And that is where I'm\ngoing to end today's show.",
+        "start": 1023.72,
+        "duration": 1.66
+    },
+    {
+        "text": "As always, thank you for\nwatching, liking, sharing,",
+        "start": 1025.38,
+        "duration": 2.38
+    },
+    {
+        "text": "being a part of that conversation",
+        "start": 1027.76,
+        "duration": 1.31
+    },
+    {
+        "text": "in the comments down below.",
+        "start": 1029.07,
+        "duration": 1.1
+    },
+    {
+        "text": "Also, if you're new here, definitely hit",
+        "start": 1030.17,
+        "duration": 1.29
+    },
+    {
+        "text": "that subscribe button\nand then ring that bell",
+        "start": 1031.46,
+        "duration": 1.6
+    },
+    {
+        "text": "so it looks like this so\nyou get all notifications.",
+        "start": 1033.06,
+        "duration": 2.34
+    },
+    {
+        "text": "Also, if you're looking for more to watch,",
+        "start": 1035.4,
+        "duration": 1.04
+    },
+    {
+        "text": "if you missed one of the\nparts of yesterday's show,",
+        "start": 1036.44,
+        "duration": 1.53
+    },
+    {
+        "text": "or you wanna watch that brand-new podcast,",
+        "start": 1037.97,
+        "duration": 1.74
+    },
+    {
+        "text": "you could click or tap right there",
+        "start": 1039.71,
+        "duration": 0.91
+    },
+    {
+        "text": "to watch either of those right now.",
+        "start": 1040.62,
+        "duration": 1.113
+    },
+    {
+        "text": "But, with that said of course as always,",
+        "start": 1041.733,
+        "duration": 1.388
+    },
+    {
+        "text": "my name's Philip DeFranco.",
+        "start": 1043.121,
+        "duration": 1.619
+    },
+    {
+        "text": "You've just been filled in.",
+        "start": 1044.74,
+        "duration": 1.3
+    },
+    {
+        "text": "I love your faces and\nI'll see you tomorrow.",
+        "start": 1046.04,
+        "duration": 2.54
+    },
+    {
+        "text": "- I hope you like the video.",
+        "start": 1048.58,
+        "duration": 1.93
+    },
+    {
+        "text": "Subscribe if you like it.",
+        "start": 1050.51,
+        "duration": 2.167
+    }
+]

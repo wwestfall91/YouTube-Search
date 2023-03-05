@@ -1,0 +1,2582 @@
+[
+    {
+        "text": "- 'Sup, you beautiful bastards?",
+        "start": 0.16,
+        "duration": 2.03
+    },
+    {
+        "text": "Welcome back to \"The\nPhilip DeFranco Show.\"",
+        "start": 2.19,
+        "duration": 1.83
+    },
+    {
+        "text": "Buckle up, hit that like button,",
+        "start": 4.02,
+        "duration": 1.68
+    },
+    {
+        "text": "and let's just jump into today's news.",
+        "start": 5.7,
+        "duration": 1.8
+    },
+    {
+        "text": "AI has just exploded\nover the last few months,",
+        "start": 7.5,
+        "duration": 2.55
+    },
+    {
+        "text": "and we've been talking about\nit in art, in deepfakes",
+        "start": 10.05,
+        "duration": 2.46
+    },
+    {
+        "text": "It's becoming so much more accessible.",
+        "start": 12.51,
+        "duration": 1.68
+    },
+    {
+        "text": "One of the latest\ncontroversies we're seeing is",
+        "start": 14.19,
+        "duration": 1.65
+    },
+    {
+        "text": "with AI writing books,",
+        "start": 15.84,
+        "duration": 1.47
+    },
+    {
+        "text": "because according to\nReuters, in mid-February,",
+        "start": 17.31,
+        "duration": 1.68
+    },
+    {
+        "text": "there were over 200 eBooks\noffered an Amazon's Kindle store",
+        "start": 18.99,
+        "duration": 2.64
+    },
+    {
+        "text": "that listed ChatGPT as\nan author or co-author.",
+        "start": 21.63,
+        "duration": 2.85
+    },
+    {
+        "text": "While many of those\nbooks were about ChatGPT",
+        "start": 24.48,
+        "duration": 2.37
+    },
+    {
+        "text": "and how to use it,",
+        "start": 26.85,
+        "duration": 0.84
+    },
+    {
+        "text": "there are plenty of other kinds of books",
+        "start": 27.69,
+        "duration": 1.44
+    },
+    {
+        "text": "written by the service, which\nhas left many in the industry",
+        "start": 29.13,
+        "duration": 2.04
+    },
+    {
+        "text": "concerned about what\nthe impact's gonna be.",
+        "start": 31.17,
+        "duration": 1.89
+    },
+    {
+        "text": "You know, with this, we've\nseen outlets like Insider",
+        "start": 33.06,
+        "duration": 1.92
+    },
+    {
+        "text": "speaking to someone who was able to",
+        "start": 34.98,
+        "duration": 1.05
+    },
+    {
+        "text": "create an illustrated\nchildren's book in 72 hours",
+        "start": 36.03,
+        "duration": 2.25
+    },
+    {
+        "text": "using ChatGPT and Midjourney,",
+        "start": 38.28,
+        "duration": 1.71
+    },
+    {
+        "text": "though that book, called\n\"Alice and Sparkle,\"",
+        "start": 39.99,
+        "duration": 1.56
+    },
+    {
+        "text": "specifically drew a lot of backlash",
+        "start": 41.55,
+        "duration": 1.56
+    },
+    {
+        "text": "from creatives and consumers.",
+        "start": 43.11,
+        "duration": 1.23
+    },
+    {
+        "text": "In fact, if you look into the reviews,",
+        "start": 44.34,
+        "duration": 1.11
+    },
+    {
+        "text": "you had people sounding\noff, saying things like,",
+        "start": 45.45,
+        "duration": 1.327
+    },
+    {
+        "text": "\"I initially couldn't figure out",
+        "start": 46.777,
+        "duration": 1.043
+    },
+    {
+        "text": "why it seemed so\nalienating and dispiriting",
+        "start": 47.82,
+        "duration": 2.07
+    },
+    {
+        "text": "and why my four-year-old\ndaughter was so sickened by it.\"",
+        "start": 49.89,
+        "duration": 2.22
+    },
+    {
+        "text": "Then realizing, \"Oh, it was AI,\"",
+        "start": 52.11,
+        "duration": 1.53
+    },
+    {
+        "text": "and saying, you know, \"This\nis very poor and sloppy stuff.",
+        "start": 53.64,
+        "duration": 1.92
+    },
+    {
+        "text": "This truly represents a race to the bottom",
+        "start": 55.56,
+        "duration": 1.71
+    },
+    {
+        "text": "for children's art.\"",
+        "start": 57.27,
+        "duration": 0.833
+    },
+    {
+        "text": "And that's connected to\nwhy authors are concerned",
+        "start": 58.103,
+        "duration": 1.417
+    },
+    {
+        "text": "for two very different reasons,",
+        "start": 59.52,
+        "duration": 0.96
+    },
+    {
+        "text": "where you have Mary Rasenberger,",
+        "start": 60.48,
+        "duration": 1.11
+    },
+    {
+        "text": "executive director of the\nAuthors Guild, telling Reuters,",
+        "start": 61.59,
+        "duration": 2.047
+    },
+    {
+        "text": "\"this is something we really\nneed to be worried about.",
+        "start": 63.637,
+        "duration": 1.763
+    },
+    {
+        "text": "These books will flood the market",
+        "start": 65.4,
+        "duration": 1.29
+    },
+    {
+        "text": "and a lot of authors are\ngoing to be out of work.\"",
+        "start": 66.69,
+        "duration": 1.47
+    },
+    {
+        "text": "And also adding, \"There\nneeds to be transparency",
+        "start": 68.16,
+        "duration": 1.5
+    },
+    {
+        "text": "from the authors and the platforms",
+        "start": 69.66,
+        "duration": 1.14
+    },
+    {
+        "text": "about how these books are created,",
+        "start": 70.8,
+        "duration": 1.2
+    },
+    {
+        "text": "or you're going to end up with\na lot of low-quality books,\"",
+        "start": 72.0,
+        "duration": 2.19
+    },
+    {
+        "text": "which is relevant because\na number of authors",
+        "start": 74.19,
+        "duration": 1.44
+    },
+    {
+        "text": "that are using this",
+        "start": 75.63,
+        "duration": 0.833
+    },
+    {
+        "text": "do not feel like it's\nimportant to disclose",
+        "start": 76.463,
+        "duration": 1.507
+    },
+    {
+        "text": "that a book was written by\nartificial intelligence,",
+        "start": 77.97,
+        "duration": 1.86
+    },
+    {
+        "text": "and, right now, Amazon doesn't\nrequire the authors to do so,",
+        "start": 79.83,
+        "duration": 2.11
+    },
+    {
+        "text": "but I also think it's something\nthat goes beyond that,",
+        "start": 81.94,
+        "duration": 1.82
+    },
+    {
+        "text": "because, remember, and I'll\nrepeat this over and over.",
+        "start": 83.76,
+        "duration": 2.34
+    },
+    {
+        "text": "Today, where AI is",
+        "start": 86.1,
+        "duration": 1.59
+    },
+    {
+        "text": "is the worst it will ever be ever again,",
+        "start": 87.69,
+        "duration": 1.83
+    },
+    {
+        "text": "so there can be the negative impact of",
+        "start": 89.52,
+        "duration": 1.56
+    },
+    {
+        "text": "a flooding of a lot of low-quality content",
+        "start": 91.08,
+        "duration": 2.04
+    },
+    {
+        "text": "that maybe makes people go like,",
+        "start": 93.12,
+        "duration": 0.967
+    },
+    {
+        "text": "\"Oh, I don't like this whole experience.\"",
+        "start": 94.087,
+        "duration": 3.263
+    },
+    {
+        "text": "But, also, if this becomes\nwhat I think it could become,",
+        "start": 97.35,
+        "duration": 1.95
+    },
+    {
+        "text": "you're gonna see higher-quality\nwork start to come through,",
+        "start": 99.3,
+        "duration": 3.09
+    },
+    {
+        "text": "and then that can replace other authors,",
+        "start": 102.39,
+        "duration": 1.17
+    },
+    {
+        "text": "and with that, of course, it's\nalso important to remember",
+        "start": 103.56,
+        "duration": 2.13
+    },
+    {
+        "text": "that this is impacting so\nmany different industries.",
+        "start": 105.69,
+        "duration": 2.37
+    },
+    {
+        "text": "I mean, even just today,",
+        "start": 108.06,
+        "duration": 0.833
+    },
+    {
+        "text": "we saw headlines that\nSpotify is introducing",
+        "start": 108.893,
+        "duration": 1.777
+    },
+    {
+        "text": "an AI DJ feature,",
+        "start": 110.67,
+        "duration": 1.35
+    },
+    {
+        "text": "reportedly using some\npersonalization features",
+        "start": 112.02,
+        "duration": 2.1
+    },
+    {
+        "text": "Spotify already has",
+        "start": 114.12,
+        "duration": 1.11
+    },
+    {
+        "text": "that creates playlists\nlike Discover Weekly,",
+        "start": 115.23,
+        "duration": 1.74
+    },
+    {
+        "text": "but this DJ actually speaks to you",
+        "start": 116.97,
+        "duration": 1.89
+    },
+    {
+        "text": "and talks you through the songs\nthat it's selecting for you,",
+        "start": 118.86,
+        "duration": 1.98
+    },
+    {
+        "text": "and Spotify is saying that",
+        "start": 120.84,
+        "duration": 0.833
+    },
+    {
+        "text": "the dialogue from the AI\nDJ is not pre-recorded.",
+        "start": 121.673,
+        "duration": 2.677
+    },
+    {
+        "text": "It's actually made on the spot via OpenAI.",
+        "start": 124.35,
+        "duration": 1.95
+    },
+    {
+        "text": "Meanwhile, in other areas,\nyou have more chaotic stories",
+        "start": 126.3,
+        "duration": 1.858
+    },
+    {
+        "text": "like AI videos of politicians\ngoing viral on TikTok,",
+        "start": 128.158,
+        "duration": 2.792
+    },
+    {
+        "text": "but luckily those fake\nvideos aren't things like",
+        "start": 130.95,
+        "duration": 2.07
+    },
+    {
+        "text": "Biden saying he's about to nuke Europe,",
+        "start": 133.02,
+        "duration": 1.8
+    },
+    {
+        "text": "and instead giving you things like",
+        "start": 134.82,
+        "duration": 1.68
+    },
+    {
+        "text": "Obama, Biden, and Trump\nplaying Uno together.",
+        "start": 136.5,
+        "duration": 2.37
+    },
+    {
+        "text": "- [Obama] You guys wanna play Uno?",
+        "start": 138.87,
+        "duration": 0.93
+    },
+    {
+        "text": "I wanna use it for my upload tonight.",
+        "start": 139.8,
+        "duration": 1.98
+    },
+    {
+        "text": "- [Biden] I don't have Uno.",
+        "start": 141.78,
+        "duration": 1.47
+    },
+    {
+        "text": "- [Trump] Everyone has Uno, (beep).",
+        "start": 143.25,
+        "duration": 1.5
+    },
+    {
+        "text": "It came free with your (beep) Xbox.",
+        "start": 144.75,
+        "duration": 2.07
+    },
+    {
+        "text": "- But also, according to other reports,",
+        "start": 146.82,
+        "duration": 1.41
+    },
+    {
+        "text": "there are far more\nconsequential examples of this,",
+        "start": 148.23,
+        "duration": 1.95
+    },
+    {
+        "text": "including videos where Biden\nis saying a racist slur,",
+        "start": 150.18,
+        "duration": 2.01
+    },
+    {
+        "text": "and some of the AI\nvideos that are out there",
+        "start": 152.19,
+        "duration": 1.29
+    },
+    {
+        "text": "are far more convincing\nthan the one we just showed,",
+        "start": 153.48,
+        "duration": 1.98
+    },
+    {
+        "text": "especially in a world where\nwe're paying attention to",
+        "start": 155.46,
+        "duration": 1.53
+    },
+    {
+        "text": "a video like 5 to 20 seconds\nat a time in passing,",
+        "start": 156.99,
+        "duration": 2.79
+    },
+    {
+        "text": "and TikTok even having\nto take down a video",
+        "start": 159.78,
+        "duration": 1.68
+    },
+    {
+        "text": "of an AI-generated Joe Rogan",
+        "start": 161.46,
+        "duration": 1.59
+    },
+    {
+        "text": "touting a supplement called Alpha Grind.",
+        "start": 163.05,
+        "duration": 1.8
+    },
+    {
+        "text": "So it's designed to look like, you know,",
+        "start": 164.85,
+        "duration": 1.23
+    },
+    {
+        "text": "Rogan was promoting it,",
+        "start": 166.08,
+        "duration": 0.9
+    },
+    {
+        "text": "but it's actually a product\nthat he's never endorsed,",
+        "start": 166.98,
+        "duration": 1.53
+    },
+    {
+        "text": "and, honestly, with how long it takes",
+        "start": 168.51,
+        "duration": 1.32
+    },
+    {
+        "text": "for these kind of videos\nto get taken down,",
+        "start": 169.83,
+        "duration": 1.83
+    },
+    {
+        "text": "I think this is gonna become\na bigger and bigger problem.",
+        "start": 171.66,
+        "duration": 2.04
+    },
+    {
+        "text": "Like, it's just gonna be",
+        "start": 173.7,
+        "duration": 0.833
+    },
+    {
+        "text": "this ever-losing game of Whackamole.",
+        "start": 174.533,
+        "duration": 1.447
+    },
+    {
+        "text": "You also have a ton of people right now",
+        "start": 175.98,
+        "duration": 1.2
+    },
+    {
+        "text": "talking about an AI clip of PewDiePie",
+        "start": 177.18,
+        "duration": 1.71
+    },
+    {
+        "text": "that's made its way around social media.",
+        "start": 178.89,
+        "duration": 1.38
+    },
+    {
+        "text": "- If you're watching,\nFelix, I, AI PewDiePie,",
+        "start": 180.27,
+        "duration": 2.76
+    },
+    {
+        "text": "I promise I won't\nreplace you anytime soon,",
+        "start": 183.03,
+        "duration": 2.55
+    },
+    {
+        "text": "but I can take over your channel",
+        "start": 185.58,
+        "duration": 1.44
+    },
+    {
+        "text": "if you need some time off for the baby.",
+        "start": 187.02,
+        "duration": 2.4
+    },
+    {
+        "text": "Okay, now that you are here,\nI want to tell another story",
+        "start": 189.42,
+        "duration": 2.46
+    },
+    {
+        "text": "about the time ants ate my balls.",
+        "start": 191.88,
+        "duration": 1.59
+    },
+    {
+        "text": "- With people kinda just stunned\nby the audio in particular,",
+        "start": 193.47,
+        "duration": 2.25
+    },
+    {
+        "text": "thinking that it's eerily accurate.",
+        "start": 195.72,
+        "duration": 1.47
+    },
+    {
+        "text": "See, I guess the main point here is",
+        "start": 197.19,
+        "duration": 1.56
+    },
+    {
+        "text": "another day as we further\ntiptoe into a world",
+        "start": 198.75,
+        "duration": 3.12
+    },
+    {
+        "text": "where you're never gonna be able to",
+        "start": 201.87,
+        "duration": 1.26
+    },
+    {
+        "text": "believe your eyes and ears,\nand genuinely, for me,",
+        "start": 203.13,
+        "duration": 2.37
+    },
+    {
+        "text": "it's hard to feel like\nwe're anything but doomed.",
+        "start": 205.5,
+        "duration": 2.73
+    },
+    {
+        "text": "Like, there's gonna be\ncool shit in the middle,",
+        "start": 208.23,
+        "duration": 2.28
+    },
+    {
+        "text": "but I just don't see any foreseeable way",
+        "start": 210.51,
+        "duration": 2.19
+    },
+    {
+        "text": "that this doesn't get\nto a really dark place.",
+        "start": 212.7,
+        "duration": 2.49
+    },
+    {
+        "text": "And then, is deadly child\nabuse good for society?",
+        "start": 215.19,
+        "duration": 3.18
+    },
+    {
+        "text": "Somehow, that is the question\nwe are debating right now,",
+        "start": 218.37,
+        "duration": 2.97
+    },
+    {
+        "text": "and it was actually kicked off",
+        "start": 221.34,
+        "duration": 1.29
+    },
+    {
+        "text": "at a House Judiciary Committee in Alaska,",
+        "start": 222.63,
+        "duration": 1.8
+    },
+    {
+        "text": "where you had state lawmakers discussing",
+        "start": 224.43,
+        "duration": 1.56
+    },
+    {
+        "text": "adverse childhood experiences,",
+        "start": 225.99,
+        "duration": 1.65
+    },
+    {
+        "text": "with one part of the presentation",
+        "start": 227.64,
+        "duration": 1.08
+    },
+    {
+        "text": "estimating that fatal child abuse cases",
+        "start": 228.72,
+        "duration": 1.71
+    },
+    {
+        "text": "could cost the family\nand society $1.5 million",
+        "start": 230.43,
+        "duration": 3.81
+    },
+    {
+        "text": "in trauma and potential earnings,",
+        "start": 234.24,
+        "duration": 1.35
+    },
+    {
+        "text": "but one Republican, David\nEastman, honed in on that number",
+        "start": 235.59,
+        "duration": 3.09
+    },
+    {
+        "text": "and couldn't help but\nvoicing his objection.",
+        "start": 238.68,
+        "duration": 1.77
+    },
+    {
+        "text": "- You know, in the case\nwhere child abuse is fatal,",
+        "start": 240.45,
+        "duration": 3.48
+    },
+    {
+        "text": "obviously, it's not good for the child,",
+        "start": 243.93,
+        "duration": 1.53
+    },
+    {
+        "text": "but it's actually a benefit to society,",
+        "start": 245.46,
+        "duration": 1.86
+    },
+    {
+        "text": "because there aren't needs",
+        "start": 247.32,
+        "duration": 1.29
+    },
+    {
+        "text": "for government services and whatnot",
+        "start": 248.61,
+        "duration": 1.98
+    },
+    {
+        "text": "over the whole course\nof that child's life.",
+        "start": 250.59,
+        "duration": 2.15
+    },
+    {
+        "text": "- Through the chair,\ncan you say that again?",
+        "start": 253.95,
+        "duration": 1.62
+    },
+    {
+        "text": "Did you say a benefit for society?",
+        "start": 255.57,
+        "duration": 2.79
+    },
+    {
+        "text": "- Talking dollars.",
+        "start": 258.36,
+        "duration": 0.9
+    },
+    {
+        "text": "- Then going on to clarify",
+        "start": 259.26,
+        "duration": 0.9
+    },
+    {
+        "text": "that he's just pointing out\nthat the $1.5 million price tag",
+        "start": 260.16,
+        "duration": 3.09
+    },
+    {
+        "text": "may actually be offset",
+        "start": 263.25,
+        "duration": 1.35
+    },
+    {
+        "text": "by the cost savings from the dead child",
+        "start": 264.6,
+        "duration": 1.98
+    },
+    {
+        "text": "not using those government services",
+        "start": 266.58,
+        "duration": 1.47
+    },
+    {
+        "text": "that they would otherwise be entitled to.",
+        "start": 268.05,
+        "duration": 1.41
+    },
+    {
+        "text": "You know, completely insane\ndevil's advocate bullshit",
+        "start": 269.46,
+        "duration": 2.7
+    },
+    {
+        "text": "that's somehow been normalized,",
+        "start": 272.16,
+        "duration": 1.32
+    },
+    {
+        "text": "and, you know, you have people responding,",
+        "start": 273.48,
+        "duration": 1.837
+    },
+    {
+        "text": "\"Well, what about the cost of the family?",
+        "start": 275.317,
+        "duration": 1.613
+    },
+    {
+        "text": "What about the cost to\nsociety? It's immeasurable.\"",
+        "start": 276.93,
+        "duration": 2.49
+    },
+    {
+        "text": "But David doesn't seem to get that point,",
+        "start": 279.42,
+        "duration": 1.53
+    },
+    {
+        "text": "because he keeps going.",
+        "start": 280.95,
+        "duration": 0.84
+    },
+    {
+        "text": "- Does that $1.5 million\nget higher or lower",
+        "start": 281.79,
+        "duration": 4.05
+    },
+    {
+        "text": "depending upon the age at\nwhich the child is killed?",
+        "start": 285.84,
+        "duration": 3.48
+    },
+    {
+        "text": "- You know, I'm just trying\nto crunch these numbers.",
+        "start": 289.32,
+        "duration": 1.26
+    },
+    {
+        "text": "Do we save more money if\nthey die at age 5 or age 10?",
+        "start": 290.58,
+        "duration": 2.79
+    },
+    {
+        "text": "And, keep in mind, this\nis coming from a guy",
+        "start": 293.37,
+        "duration": 1.95
+    },
+    {
+        "text": "who considers himself pro-life,\nand actually, on that issue,",
+        "start": 295.32,
+        "duration": 2.37
+    },
+    {
+        "text": "he stirred up outrage\nseveral years back as well,",
+        "start": 297.69,
+        "duration": 1.89
+    },
+    {
+        "text": "talking about Medicaid-funded travel",
+        "start": 299.58,
+        "duration": 1.47
+    },
+    {
+        "text": "for medically-necessary abortions,",
+        "start": 301.05,
+        "duration": 1.47
+    },
+    {
+        "text": "and saying, \"You have\nindividuals who are in villages",
+        "start": 302.52,
+        "duration": 2.1
+    },
+    {
+        "text": "and are glad to be pregnant,",
+        "start": 304.62,
+        "duration": 1.38
+    },
+    {
+        "text": "so that they can have an abortion",
+        "start": 306.0,
+        "duration": 1.14
+    },
+    {
+        "text": "because there's a free trip\nto Anchorage involved.\"",
+        "start": 307.14,
+        "duration": 1.92
+    },
+    {
+        "text": "With him making that\ncomment in relation to",
+        "start": 309.06,
+        "duration": 1.41
+    },
+    {
+        "text": "a bill that he amended\ncalling abortion, quote,",
+        "start": 310.47,
+        "duration": 1.807
+    },
+    {
+        "text": "\"the ultimate form of child abuse,\"",
+        "start": 312.277,
+        "duration": 1.613
+    },
+    {
+        "text": "or I guess the way he\nwould think of it now,",
+        "start": 313.89,
+        "duration": 1.53
+    },
+    {
+        "text": "the ultimate cost savings.",
+        "start": 315.42,
+        "duration": 1.95
+    },
+    {
+        "text": "And then, the Subway near\nyour home or your work,",
+        "start": 317.37,
+        "duration": 2.24
+    },
+    {
+        "text": "in the very near future,\nmay look different.",
+        "start": 319.61,
+        "duration": 1.69
+    },
+    {
+        "text": "Also, to clarify, I'm not talking about",
+        "start": 321.3,
+        "duration": 1.41
+    },
+    {
+        "text": "the mode of transportation,",
+        "start": 322.71,
+        "duration": 1.5
+    },
+    {
+        "text": "but rather the substandard sandwich shop,",
+        "start": 324.21,
+        "duration": 1.98
+    },
+    {
+        "text": "because, looking towards the future,",
+        "start": 326.19,
+        "duration": 0.99
+    },
+    {
+        "text": "Subway has to answer this question of",
+        "start": 327.18,
+        "duration": 1.71
+    },
+    {
+        "text": "how do we get more people\nto come into the shop",
+        "start": 328.89,
+        "duration": 2.34
+    },
+    {
+        "text": "if we're so committed to mediocrity?",
+        "start": 331.23,
+        "duration": 1.62
+    },
+    {
+        "text": "And one of the solutions\nthey've come up with",
+        "start": 332.85,
+        "duration": 1.32
+    },
+    {
+        "text": "I think actually could work,",
+        "start": 334.17,
+        "duration": 1.26
+    },
+    {
+        "text": "and we're gonna start to\nsee more and more of this,",
+        "start": 335.43,
+        "duration": 1.59
+    },
+    {
+        "text": "because, reportedly, Subway\nis now planning to build",
+        "start": 337.02,
+        "duration": 1.89
+    },
+    {
+        "text": "electric car charging oases.",
+        "start": 338.91,
+        "duration": 2.13
+    },
+    {
+        "text": "Oasis-es? Whatever.",
+        "start": 341.04,
+        "duration": 0.96
+    },
+    {
+        "text": "It's a Subway",
+        "start": 342.0,
+        "duration": 1.05
+    },
+    {
+        "text": "along with charging ports,\nbathrooms, and playgrounds,",
+        "start": 343.05,
+        "duration": 2.61
+    },
+    {
+        "text": "and this is likely something",
+        "start": 345.66,
+        "duration": 0.833
+    },
+    {
+        "text": "that we're gonna see more and more of",
+        "start": 346.493,
+        "duration": 1.267
+    },
+    {
+        "text": "as people keep transitioning\nto electric vehicles, right?",
+        "start": 347.76,
+        "duration": 2.07
+    },
+    {
+        "text": "Unlike when you pump gas,",
+        "start": 349.83,
+        "duration": 0.87
+    },
+    {
+        "text": "if you're stopping to charge your car,",
+        "start": 350.7,
+        "duration": 1.26
+    },
+    {
+        "text": "it's gonna take more time.",
+        "start": 351.96,
+        "duration": 0.833
+    },
+    {
+        "text": "So, if you're gonna have\nthat guaranteed traffic",
+        "start": 352.793,
+        "duration": 1.417
+    },
+    {
+        "text": "where they literally can't get away,",
+        "start": 354.21,
+        "duration": 1.53
+    },
+    {
+        "text": "why not give them places",
+        "start": 355.74,
+        "duration": 1.14
+    },
+    {
+        "text": "where they can eat and give you money?",
+        "start": 356.88,
+        "duration": 1.5
+    },
+    {
+        "text": "And, personally, I say,",
+        "start": 358.38,
+        "duration": 0.833
+    },
+    {
+        "text": "despite all the random bullshit\nI've been talking about,",
+        "start": 359.213,
+        "duration": 2.167
+    },
+    {
+        "text": "Subway, I think it's smart and it's great",
+        "start": 361.38,
+        "duration": 1.86
+    },
+    {
+        "text": "that they're doing this.",
+        "start": 363.24,
+        "duration": 0.833
+    },
+    {
+        "text": "I'll probably use this place.",
+        "start": 364.073,
+        "duration": 1.747
+    },
+    {
+        "text": "In the future, I'd love if, I don't know,",
+        "start": 365.82,
+        "duration": 2.04
+    },
+    {
+        "text": "it was also embraced by\nFirehouse Subs and Which Wich",
+        "start": 367.86,
+        "duration": 3.3
+    },
+    {
+        "text": "and literally any other sandwich place,",
+        "start": 371.16,
+        "duration": 2.4
+    },
+    {
+        "text": "but the main thing is",
+        "start": 373.56,
+        "duration": 0.833
+    },
+    {
+        "text": "you should expect the\nlandscape to change drastically",
+        "start": 374.393,
+        "duration": 1.987
+    },
+    {
+        "text": "over the next decade.",
+        "start": 376.38,
+        "duration": 0.84
+    },
+    {
+        "text": "And then, it's the\nbeginning of a new year,",
+        "start": 377.22,
+        "duration": 1.41
+    },
+    {
+        "text": "and I've got a great hookup for you.",
+        "start": 378.63,
+        "duration": 1.47
+    },
+    {
+        "text": "With basketball, hockey, and\nconcerts all in full swing,",
+        "start": 380.1,
+        "duration": 2.1
+    },
+    {
+        "text": "there's always an event for everyone,",
+        "start": 382.2,
+        "duration": 1.38
+    },
+    {
+        "text": "and you're not gonna wanna miss out,",
+        "start": 383.58,
+        "duration": 1.05
+    },
+    {
+        "text": "and, even nicer, how about getting $20 off",
+        "start": 384.63,
+        "duration": 2.01
+    },
+    {
+        "text": "by using my code PHIL for tickets?",
+        "start": 386.64,
+        "duration": 1.41
+    },
+    {
+        "text": "Just one of the many reasons I wanna thank",
+        "start": 388.05,
+        "duration": 1.56
+    },
+    {
+        "text": "the fantastic sponsor of\ntoday's show, SeatGeek.",
+        "start": 389.61,
+        "duration": 1.447
+    },
+    {
+        "text": "With over 28 million downloads,",
+        "start": 391.057,
+        "duration": 2.153
+    },
+    {
+        "text": "SeatGeek is the number\none rated ticketing app,",
+        "start": 393.21,
+        "duration": 1.71
+    },
+    {
+        "text": "and with Taylor Swift, SZA, and Ed Sheeren",
+        "start": 394.92,
+        "duration": 1.95
+    },
+    {
+        "text": "on tour right now, you need SeatGeek.",
+        "start": 396.87,
+        "duration": 1.8
+    },
+    {
+        "text": "Listen, y'all, I've always used SeatGeek,",
+        "start": 398.67,
+        "duration": 1.71
+    },
+    {
+        "text": "whether it was when I\nwent to the Super Bowl",
+        "start": 400.38,
+        "duration": 1.32
+    },
+    {
+        "text": "or any other sporting stuff,",
+        "start": 401.7,
+        "duration": 1.38
+    },
+    {
+        "text": "concerts, comedy shows, stuff like that.",
+        "start": 403.08,
+        "duration": 2.49
+    },
+    {
+        "text": "Boom, a new experience at my\nfingertips thanks to SeatGeek,",
+        "start": 405.57,
+        "duration": 1.977
+    },
+    {
+        "text": "and SeatGeek wants to make sure",
+        "start": 407.547,
+        "duration": 1.953
+    },
+    {
+        "text": "that you're getting a good deal,",
+        "start": 409.5,
+        "duration": 0.99
+    },
+    {
+        "text": "so when you're on the app,\nlook for the green dots.",
+        "start": 410.49,
+        "duration": 2.07
+    },
+    {
+        "text": "Green means good deal, red means bad,",
+        "start": 412.56,
+        "duration": 1.65
+    },
+    {
+        "text": "and every ticket is backed\nby their buyer guarantee,",
+        "start": 414.21,
+        "duration": 2.16
+    },
+    {
+        "text": "and SeatGeek is the only site",
+        "start": 416.37,
+        "duration": 1.41
+    },
+    {
+        "text": "that lets you return your tickets",
+        "start": 417.78,
+        "duration": 1.05
+    },
+    {
+        "text": "ahead of the event with swaps.",
+        "start": 418.83,
+        "duration": 1.29
+    },
+    {
+        "text": "It's $20 off your first\npurchase with promo code PHIL,",
+        "start": 420.12,
+        "duration": 2.58
+    },
+    {
+        "text": "so make sure you click that\nlink in the description",
+        "start": 422.7,
+        "duration": 1.71
+    },
+    {
+        "text": "to download the app.",
+        "start": 424.41,
+        "duration": 0.833
+    },
+    {
+        "text": "And then, this is the most\nimportant election of 2023,",
+        "start": 425.243,
+        "duration": 2.857
+    },
+    {
+        "text": "and so much is on the line,\nand you might not think so,",
+        "start": 428.1,
+        "duration": 2.85
+    },
+    {
+        "text": "because the race we're talking about is",
+        "start": 430.95,
+        "duration": 1.32
+    },
+    {
+        "text": "to fill an empty seat on\nthe Wisconsin Supreme Court,",
+        "start": 432.27,
+        "duration": 2.06
+    },
+    {
+        "text": "to which you might be like,",
+        "start": 434.33,
+        "duration": 0.947
+    },
+    {
+        "text": "\"Well, I don't live in Wisconsin.\"",
+        "start": 435.277,
+        "duration": 1.763
+    },
+    {
+        "text": "Hear me out.",
+        "start": 437.04,
+        "duration": 0.833
+    },
+    {
+        "text": "So the race has now officially\nbeen narrowed down to",
+        "start": 437.873,
+        "duration": 1.357
+    },
+    {
+        "text": "two candidates after the\nprimary election yesterday.",
+        "start": 439.23,
+        "duration": 2.07
+    },
+    {
+        "text": "In first place,",
+        "start": 441.3,
+        "duration": 0.833
+    },
+    {
+        "text": "you have Liberal Milwaukee\nCounty Judge Janet Protasiewicz,",
+        "start": 442.133,
+        "duration": 2.347
+    },
+    {
+        "text": "and trailing her is\nConservative Daniel Kelly,",
+        "start": 444.48,
+        "duration": 1.8
+    },
+    {
+        "text": "a former Wisconsin State\nSupreme Court Justice",
+        "start": 446.28,
+        "duration": 1.86
+    },
+    {
+        "text": "who was appointed by",
+        "start": 448.14,
+        "duration": 0.833
+    },
+    {
+        "text": "the state's then-Republican\ngovernor in 2016,",
+        "start": 448.973,
+        "duration": 2.137
+    },
+    {
+        "text": "but lost the seat in the 2020 reelection",
+        "start": 451.11,
+        "duration": 2.04
+    },
+    {
+        "text": "where he had been endorsed by Trump.",
+        "start": 453.15,
+        "duration": 1.38
+    },
+    {
+        "text": "Now, a key thing with this story is that",
+        "start": 454.53,
+        "duration": 1.77
+    },
+    {
+        "text": "this race is technically\nsupposed to be nonpartisan,",
+        "start": 456.3,
+        "duration": 2.64
+    },
+    {
+        "text": "but Protasiewicz has closely\naligned herself with Democrats,",
+        "start": 458.94,
+        "duration": 2.52
+    },
+    {
+        "text": "while Kelly has done the\nsame with Republicans,",
+        "start": 461.46,
+        "duration": 1.71
+    },
+    {
+        "text": "and both parties, as well\nas dark money groups,",
+        "start": 463.17,
+        "duration": 1.86
+    },
+    {
+        "text": "have poured millions\nand millions of dollars",
+        "start": 465.03,
+        "duration": 2.13
+    },
+    {
+        "text": "into this so-called nonpartisan race,",
+        "start": 467.16,
+        "duration": 2.04
+    },
+    {
+        "text": "and the reason for that is that",
+        "start": 469.2,
+        "duration": 0.9
+    },
+    {
+        "text": "the stakes here could not be higher.",
+        "start": 470.1,
+        "duration": 1.95
+    },
+    {
+        "text": "The outcome of this\nelection will determine",
+        "start": 472.05,
+        "duration": 1.26
+    },
+    {
+        "text": "whether liberals or conservatives",
+        "start": 473.31,
+        "duration": 1.32
+    },
+    {
+        "text": "have a four-to-three majority\non the state supreme court",
+        "start": 474.63,
+        "duration": 2.31
+    },
+    {
+        "text": "at an incredibly consequential\ntime where there are",
+        "start": 476.94,
+        "duration": 2.04
+    },
+    {
+        "text": "a number of insanely\nimportant issues at play here,",
+        "start": 478.98,
+        "duration": 2.49
+    },
+    {
+        "text": "and if you're thinking, \"Well,\nI don't live in Wisconsin.",
+        "start": 481.47,
+        "duration": 2.1
+    },
+    {
+        "text": "This doesn't impact me.\"",
+        "start": 483.57,
+        "duration": 1.11
+    },
+    {
+        "text": "Well, I have the unfortunate\nduty to let you know,",
+        "start": 484.68,
+        "duration": 1.92
+    },
+    {
+        "text": "no, not true.",
+        "start": 486.6,
+        "duration": 0.93
+    },
+    {
+        "text": "This has massive implications\nfor the whole country,",
+        "start": 487.53,
+        "duration": 1.98
+    },
+    {
+        "text": "and as I always say, you\nmay not fuck with politics,",
+        "start": 489.51,
+        "duration": 2.28
+    },
+    {
+        "text": "but politics will fuck with you,",
+        "start": 491.79,
+        "duration": 1.2
+    },
+    {
+        "text": "or, more specifically, in the words of",
+        "start": 492.99,
+        "duration": 1.41
+    },
+    {
+        "text": "the Chairman of Wisconsin's\nDemocratic Party,",
+        "start": 494.4,
+        "duration": 1.747
+    },
+    {
+        "text": "\"The Wisconsin Supreme Court race",
+        "start": 496.147,
+        "duration": 1.463
+    },
+    {
+        "text": "will shape the future\nof American democracy.\"",
+        "start": 497.61,
+        "duration": 2.25
+    },
+    {
+        "text": "Wisconsin is one of the\nmost important swing states",
+        "start": 499.86,
+        "duration": 2.25
+    },
+    {
+        "text": "in the country. It helped\ndecide the outcomes of",
+        "start": 502.11,
+        "duration": 1.666
+    },
+    {
+        "text": "both the 2016 and 2020\npresidential elections,",
+        "start": 503.776,
+        "duration": 2.324
+    },
+    {
+        "text": "and it is the center of debates",
+        "start": 506.1,
+        "duration": 1.44
+    },
+    {
+        "text": "on gerrymandering and\nfree and fair elections",
+        "start": 507.54,
+        "duration": 1.74
+    },
+    {
+        "text": "that have played a huge role\nin deciding those races,",
+        "start": 509.28,
+        "duration": 2.1
+    },
+    {
+        "text": "and that state supreme court,",
+        "start": 511.38,
+        "duration": 1.02
+    },
+    {
+        "text": "which has had a conservative\nmajority for the last 14 years,",
+        "start": 512.4,
+        "duration": 2.46
+    },
+    {
+        "text": "has been instrumental in\nshaping those policies,",
+        "start": 514.86,
+        "duration": 2.13
+    },
+    {
+        "text": "having weighed in on many\nof the most crucial topics",
+        "start": 516.99,
+        "duration": 2.13
+    },
+    {
+        "text": "and almost always sided\nwith the Republicans.",
+        "start": 519.12,
+        "duration": 1.83
+    },
+    {
+        "text": "For example, on what has been described as",
+        "start": 520.95,
+        "duration": 1.207
+    },
+    {
+        "text": "\"arguably the most important decision",
+        "start": 522.157,
+        "duration": 1.763
+    },
+    {
+        "text": "the court has made in recent years,\"",
+        "start": 523.92,
+        "duration": 1.32
+    },
+    {
+        "text": "the court ruled four to three last year",
+        "start": 525.24,
+        "duration": 1.71
+    },
+    {
+        "text": "to uphold one of America's\nmost gerrymandered maps",
+        "start": 526.95,
+        "duration": 2.22
+    },
+    {
+        "text": "that gave Republicans a massive advantage.",
+        "start": 529.17,
+        "duration": 1.83
+    },
+    {
+        "text": "I mean, this map was so gerrymandered",
+        "start": 531.0,
+        "duration": 1.71
+    },
+    {
+        "text": "that the GOP was able to hold",
+        "start": 532.71,
+        "duration": 1.05
+    },
+    {
+        "text": "six of Wisconsin's eight eight seats",
+        "start": 533.76,
+        "duration": 1.5
+    },
+    {
+        "text": "in the House of Representatives",
+        "start": 535.26,
+        "duration": 0.99
+    },
+    {
+        "text": "and getting a big majority\nin the legislature",
+        "start": 536.25,
+        "duration": 1.92
+    },
+    {
+        "text": "despite the fact",
+        "start": 538.17,
+        "duration": 0.87
+    },
+    {
+        "text": "that Democrats won the\nmost statewide races,",
+        "start": 539.04,
+        "duration": 2.16
+    },
+    {
+        "text": "and very significantly here,",
+        "start": 541.2,
+        "duration": 0.96
+    },
+    {
+        "text": "the whole situation was kind\nof a self-fulfilling prophecy.",
+        "start": 542.16,
+        "duration": 2.43
+    },
+    {
+        "text": "A big reason the conservative majority",
+        "start": 544.59,
+        "duration": 1.53
+    },
+    {
+        "text": "has decided so many important things",
+        "start": 546.12,
+        "duration": 1.53
+    },
+    {
+        "text": "is because the state\ngovernment is deadlocked",
+        "start": 547.65,
+        "duration": 1.86
+    },
+    {
+        "text": "with a Republican majority\nin the legislature",
+        "start": 549.51,
+        "duration": 1.74
+    },
+    {
+        "text": "and a Democratic governor.",
+        "start": 551.25,
+        "duration": 0.99
+    },
+    {
+        "text": "So, by approving a map that\nmassively favored Republicans,",
+        "start": 552.24,
+        "duration": 2.43
+    },
+    {
+        "text": "the conservative court\nkept the system in place,",
+        "start": 554.67,
+        "duration": 1.86
+    },
+    {
+        "text": "ensuring that they'll\ncontinue to have the final say",
+        "start": 556.53,
+        "duration": 2.04
+    },
+    {
+        "text": "on so many of these essential areas,",
+        "start": 558.57,
+        "duration": 1.5
+    },
+    {
+        "text": "but if Protasiewicz,\nthe liberal candidate,",
+        "start": 560.07,
+        "duration": 1.8
+    },
+    {
+        "text": "wins in this general, the\ncourt is all but certain",
+        "start": 561.87,
+        "duration": 2.07
+    },
+    {
+        "text": "to revisit the gerrymandered map,",
+        "start": 563.94,
+        "duration": 1.38
+    },
+    {
+        "text": "with her even explicitly saying\nin a recent interview that",
+        "start": 565.32,
+        "duration": 2.287
+    },
+    {
+        "text": "\"a liberal majority could\nestablish new election maps.\"",
+        "start": 567.607,
+        "duration": 2.273
+    },
+    {
+        "text": "So, not only would this move have",
+        "start": 569.88,
+        "duration": 1.08
+    },
+    {
+        "text": "major implications for\ninternal Wisconsin politics,",
+        "start": 570.96,
+        "duration": 2.22
+    },
+    {
+        "text": "but also for the very\ncontrol of Congress itself,",
+        "start": 573.18,
+        "duration": 2.31
+    },
+    {
+        "text": "where Republicans currently hold",
+        "start": 575.49,
+        "duration": 0.99
+    },
+    {
+        "text": "a very slim five-seat majority,",
+        "start": 576.48,
+        "duration": 1.56
+    },
+    {
+        "text": "so any seats Democrats\ngain could tip the scales.",
+        "start": 578.04,
+        "duration": 2.34
+    },
+    {
+        "text": "Also, to that point, the\nWisconsin Supreme Court",
+        "start": 580.38,
+        "duration": 1.92
+    },
+    {
+        "text": "also plays a huge role in",
+        "start": 582.3,
+        "duration": 1.14
+    },
+    {
+        "text": "how the state's elections are administered",
+        "start": 583.44,
+        "duration": 1.38
+    },
+    {
+        "text": "and could influence how its\n10 electoral college votes",
+        "start": 584.82,
+        "duration": 2.43
+    },
+    {
+        "text": "are doled out in the 2024\npresidential election,",
+        "start": 587.25,
+        "duration": 2.25
+    },
+    {
+        "text": "because, last year, the conservative court",
+        "start": 589.5,
+        "duration": 1.38
+    },
+    {
+        "text": "banned absentee ballot drop boxes,",
+        "start": 590.88,
+        "duration": 1.86
+    },
+    {
+        "text": "and back in 2014, it\nupheld a GOP voter ID law",
+        "start": 592.74,
+        "duration": 2.79
+    },
+    {
+        "text": "that studies have shown\nsuppress Black voters,",
+        "start": 595.53,
+        "duration": 1.77
+    },
+    {
+        "text": "and although the court did vote against",
+        "start": 597.3,
+        "duration": 1.47
+    },
+    {
+        "text": "considering Trump's lawsuits",
+        "start": 598.77,
+        "duration": 1.14
+    },
+    {
+        "text": "to try and overturn the\n2020 election in Wisconsin,",
+        "start": 599.91,
+        "duration": 2.19
+    },
+    {
+        "text": "they only did so by an\nalarmingly slim margin",
+        "start": 602.1,
+        "duration": 2.34
+    },
+    {
+        "text": "of four to three,",
+        "start": 604.44,
+        "duration": 0.87
+    },
+    {
+        "text": "and this court will all but\ncertainly be tasked with",
+        "start": 605.31,
+        "duration": 1.98
+    },
+    {
+        "text": "wading into election-related\ncases in the coming years.",
+        "start": 607.29,
+        "duration": 2.22
+    },
+    {
+        "text": "You don't even have to\nlook far into the future.",
+        "start": 609.51,
+        "duration": 1.74
+    },
+    {
+        "text": "I mean, you have the court right now",
+        "start": 611.25,
+        "duration": 1.2
+    },
+    {
+        "text": "expected to hear a lawsuit\nby a conservative group",
+        "start": 612.45,
+        "duration": 1.98
+    },
+    {
+        "text": "aiming to further limit voting access",
+        "start": 614.43,
+        "duration": 1.38
+    },
+    {
+        "text": "by banning mobile and\nalternative voting facilities.",
+        "start": 615.81,
+        "duration": 2.04
+    },
+    {
+        "text": "There are also other issues at play",
+        "start": 617.85,
+        "duration": 1.11
+    },
+    {
+        "text": "like some very basic human rights.",
+        "start": 618.96,
+        "duration": 1.53
+    },
+    {
+        "text": "One of the things",
+        "start": 620.49,
+        "duration": 0.833
+    },
+    {
+        "text": "that this race has\ncentered most heavily on",
+        "start": 621.323,
+        "duration": 1.507
+    },
+    {
+        "text": "is abortion rights, because\nthe outcome of this race",
+        "start": 622.83,
+        "duration": 2.13
+    },
+    {
+        "text": "will almost definitely determine",
+        "start": 624.96,
+        "duration": 1.32
+    },
+    {
+        "text": "whether or not abortion will be legal",
+        "start": 626.28,
+        "duration": 1.56
+    },
+    {
+        "text": "for the state's six million residents,",
+        "start": 627.84,
+        "duration": 1.575
+    },
+    {
+        "text": "because after Roe v. Wade was overturned,",
+        "start": 629.415,
+        "duration": 2.055
+    },
+    {
+        "text": "a Wisconsin law banning abortion",
+        "start": 631.47,
+        "duration": 1.38
+    },
+    {
+        "text": "that was literally from\n1849 went back into effect,",
+        "start": 632.85,
+        "duration": 2.85
+    },
+    {
+        "text": "but a lawsuit against that\nban is winding its way",
+        "start": 635.7,
+        "duration": 1.98
+    },
+    {
+        "text": "through the court system right now,",
+        "start": 637.68,
+        "duration": 1.05
+    },
+    {
+        "text": "and it's basically a done deal",
+        "start": 638.73,
+        "duration": 1.5
+    },
+    {
+        "text": "that it'll eventually go\nbefore Wisconsin Supreme Court,",
+        "start": 640.23,
+        "duration": 2.13
+    },
+    {
+        "text": "and when it does, experts\nand analysts say that,",
+        "start": 642.36,
+        "duration": 1.65
+    },
+    {
+        "text": "if Kelly wins, it's all but assured",
+        "start": 644.01,
+        "duration": 1.83
+    },
+    {
+        "text": "that abortion will remain\nillegal in almost all cases,",
+        "start": 645.84,
+        "duration": 2.28
+    },
+    {
+        "text": "but Protasiewicz has\ncampaigned extensively",
+        "start": 648.12,
+        "duration": 1.86
+    },
+    {
+        "text": "on abortion rights",
+        "start": 649.98,
+        "duration": 0.833
+    },
+    {
+        "text": "and vocally supported the right to choose.",
+        "start": 650.813,
+        "duration": 1.567
+    },
+    {
+        "text": "She also said she believes\na liberal majority",
+        "start": 652.38,
+        "duration": 1.59
+    },
+    {
+        "text": "could reverse a 12-year-old\nlaw that basically eliminated",
+        "start": 653.97,
+        "duration": 1.957
+    },
+    {
+        "text": "collective bargaining for public workers.",
+        "start": 655.927,
+        "duration": 2.063
+    },
+    {
+        "text": "When you take everything\nwe've talked about",
+        "start": 657.99,
+        "duration": 1.59
+    },
+    {
+        "text": "with this story in collectively,",
+        "start": 659.58,
+        "duration": 1.5
+    },
+    {
+        "text": "it's why you have Protasiewicz saying,",
+        "start": 661.08,
+        "duration": 1.507
+    },
+    {
+        "text": "\"Everything is at stake,\nand I mean everything.",
+        "start": 662.587,
+        "duration": 2.063
+    },
+    {
+        "text": "Women's reproductive rights,\nthe maps, drop boxes,",
+        "start": 664.65,
+        "duration": 2.79
+    },
+    {
+        "text": "safe communities, clean water.",
+        "start": 667.44,
+        "duration": 1.56
+    },
+    {
+        "text": "Everything is on the line.\"",
+        "start": 669.0,
+        "duration": 1.29
+    },
+    {
+        "text": "So, right now, we're gonna have to wait",
+        "start": 670.29,
+        "duration": 1.02
+    },
+    {
+        "text": "to see what actually happens.",
+        "start": 671.31,
+        "duration": 1.35
+    },
+    {
+        "text": "You have the general\nelection there on April 4th,",
+        "start": 672.66,
+        "duration": 1.98
+    },
+    {
+        "text": "and it's believed that\nit will be very close,",
+        "start": 674.64,
+        "duration": 1.698
+    },
+    {
+        "text": "because even though",
+        "start": 676.338,
+        "duration": 0.942
+    },
+    {
+        "text": "Protasiewicz took a solid\nlead in the primary,",
+        "start": 677.28,
+        "duration": 2.01
+    },
+    {
+        "text": "winning 46.4% to Kelly's 24.2%,",
+        "start": 679.29,
+        "duration": 3.24
+    },
+    {
+        "text": "an incredibly important\nthing to note is that",
+        "start": 682.53,
+        "duration": 1.5
+    },
+    {
+        "text": "Kelly only got some of\nthe conservative votes,",
+        "start": 684.03,
+        "duration": 2.4
+    },
+    {
+        "text": "and meanwhile the other liberal candidate",
+        "start": 686.43,
+        "duration": 1.35
+    },
+    {
+        "text": "didn't take nearly as many\nvotes away from Protasiewicz.",
+        "start": 687.78,
+        "duration": 2.55
+    },
+    {
+        "text": "When you add up all the\nvotes for all the candidates,",
+        "start": 690.33,
+        "duration": 1.74
+    },
+    {
+        "text": "it becomes a much closer race.",
+        "start": 692.07,
+        "duration": 1.47
+    },
+    {
+        "text": "So, for now, we're gonna\nhave to wait and see,",
+        "start": 693.54,
+        "duration": 1.71
+    },
+    {
+        "text": "and, you know, no big deal.",
+        "start": 695.25,
+        "duration": 1.62
+    },
+    {
+        "text": "Just the the future of\nAmerican democracy at stake,",
+        "start": 696.87,
+        "duration": 2.25
+    },
+    {
+        "text": "though, honestly, that feels\nlike every election now.",
+        "start": 699.12,
+        "duration": 2.22
+    },
+    {
+        "text": "And then, y'all, whether\nyou're religious or not,",
+        "start": 701.34,
+        "duration": 1.68
+    },
+    {
+        "text": "you better start praying you\ndon't end up at this hospital.",
+        "start": 703.02,
+        "duration": 2.04
+    },
+    {
+        "text": "I'm talking about the Robert\nJ. Dole VA Medical Center",
+        "start": 705.06,
+        "duration": 2.34
+    },
+    {
+        "text": "in Wichita, Kansas,",
+        "start": 707.4,
+        "duration": 0.99
+    },
+    {
+        "text": "with the story starting\non a summer afternoon",
+        "start": 708.39,
+        "duration": 2.01
+    },
+    {
+        "text": "with a doctor cutting into a patient.",
+        "start": 710.4,
+        "duration": 1.47
+    },
+    {
+        "text": "The patient is suffering from\nperipheral artery disease,",
+        "start": 711.87,
+        "duration": 2.07
+    },
+    {
+        "text": "which is when fatty\nplaque clogs up arteries,",
+        "start": 713.94,
+        "duration": 1.98
+    },
+    {
+        "text": "blocking blood flow to\nthe legs and the arms,",
+        "start": 715.92,
+        "duration": 1.92
+    },
+    {
+        "text": "and it's a condition that affects so many.",
+        "start": 717.84,
+        "duration": 1.47
+    },
+    {
+        "text": "In fact, 6.5 million\nAmericans over the age of 40,",
+        "start": 719.31,
+        "duration": 2.847
+    },
+    {
+        "text": "and it can cause pain, numbness,",
+        "start": 722.157,
+        "duration": 1.803
+    },
+    {
+        "text": "and other usually minor symptoms,",
+        "start": 723.96,
+        "duration": 1.41
+    },
+    {
+        "text": "with, key thing, this sometimes is treated",
+        "start": 725.37,
+        "duration": 1.68
+    },
+    {
+        "text": "using devices like tubes\nwith blades attached",
+        "start": 727.05,
+        "duration": 2.13
+    },
+    {
+        "text": "to shave hardened deposits\noff of artery walls,",
+        "start": 729.18,
+        "duration": 1.92
+    },
+    {
+        "text": "as well as stents to widen blood vessels",
+        "start": 731.1,
+        "duration": 1.684
+    },
+    {
+        "text": "and balloons coated\nwith therapeutic drugs,",
+        "start": 732.784,
+        "duration": 2.096
+    },
+    {
+        "text": "but, very importantly, these\ncan lead to complications",
+        "start": 734.88,
+        "duration": 2.31
+    },
+    {
+        "text": "such as blood clots or even amputations,",
+        "start": 737.19,
+        "duration": 1.68
+    },
+    {
+        "text": "so they're typically used sparingly,",
+        "start": 738.87,
+        "duration": 1.65
+    },
+    {
+        "text": "maybe two or three per operation,\nbut not at this hospital.",
+        "start": 740.52,
+        "duration": 3.09
+    },
+    {
+        "text": "Over an extraordinarily\nlong three-hour procedure,",
+        "start": 743.61,
+        "duration": 2.19
+    },
+    {
+        "text": "the doctor inserts more than 15 devices,",
+        "start": 745.8,
+        "duration": 2.43
+    },
+    {
+        "text": "and the reason for why the\nhell would you use 15 of these",
+        "start": 748.23,
+        "duration": 2.31
+    },
+    {
+        "text": "may have something to do with",
+        "start": 750.54,
+        "duration": 0.9
+    },
+    {
+        "text": "the person standing\nnext to him, Kari Kirk,",
+        "start": 751.44,
+        "duration": 2.1
+    },
+    {
+        "text": "who's a representative for",
+        "start": 753.54,
+        "duration": 0.93
+    },
+    {
+        "text": "the world's largest medical\ndevice company, Medtronic,",
+        "start": 754.47,
+        "duration": 2.37
+    },
+    {
+        "text": "who supplies the hospitals\nwith many of its instruments,",
+        "start": 756.84,
+        "duration": 1.89
+    },
+    {
+        "text": "and while it's common for company reps",
+        "start": 758.73,
+        "duration": 1.53
+    },
+    {
+        "text": "to be present during vascular procedures",
+        "start": 760.26,
+        "duration": 1.62
+    },
+    {
+        "text": "so they can guide doctors\nthrough using their products,",
+        "start": 761.88,
+        "duration": 1.95
+    },
+    {
+        "text": "that can also lead to bad incentives.",
+        "start": 763.83,
+        "duration": 1.77
+    },
+    {
+        "text": "I mean, just think about it.",
+        "start": 765.6,
+        "duration": 0.833
+    },
+    {
+        "text": "Companies profit more when\ntheir products are used,",
+        "start": 766.433,
+        "duration": 2.107
+    },
+    {
+        "text": "so their presence in the room",
+        "start": 768.54,
+        "duration": 1.02
+    },
+    {
+        "text": "can influence treatment plants,",
+        "start": 769.56,
+        "duration": 1.17
+    },
+    {
+        "text": "and, in this case, we saw how\nwarped Kirk's motives were",
+        "start": 770.73,
+        "duration": 2.91
+    },
+    {
+        "text": "by the text convo she was having",
+        "start": 773.64,
+        "duration": 1.29
+    },
+    {
+        "text": "with a colleague in real time,",
+        "start": 774.93,
+        "duration": 1.23
+    },
+    {
+        "text": "expressing what can only be described as",
+        "start": 776.16,
+        "duration": 1.71
+    },
+    {
+        "text": "maybe a little bit too much excitement",
+        "start": 777.87,
+        "duration": 1.74
+    },
+    {
+        "text": "about the drug-coated balloons,",
+        "start": 779.61,
+        "duration": 1.41
+    },
+    {
+        "text": "announcing, \"Just used 12,\"\nwith two exclamation marks,",
+        "start": 781.02,
+        "duration": 2.73
+    },
+    {
+        "text": "to which he responds, \"Does\nthat mean I owe you money?\"",
+        "start": 783.75,
+        "duration": 1.86
+    },
+    {
+        "text": "And she answers, \"That's\nwhat I'm thinking,\"",
+        "start": 785.61,
+        "duration": 1.53
+    },
+    {
+        "text": "with an emoji of someone\nrolling on the floor laughing,",
+        "start": 787.14,
+        "duration": 1.95
+    },
+    {
+        "text": "with them later saying,",
+        "start": 789.09,
+        "duration": 0.833
+    },
+    {
+        "text": "\"You're gonna wanna start\ngoing to the VA all the time,\"",
+        "start": 789.923,
+        "duration": 1.717
+    },
+    {
+        "text": "and the only reason we now\nhave these messages is because",
+        "start": 791.64,
+        "duration": 2.28
+    },
+    {
+        "text": "a whistleblower took Medtronic to court",
+        "start": 793.92,
+        "duration": 1.71
+    },
+    {
+        "text": "for allegedly bribing hospital staff",
+        "start": 795.63,
+        "duration": 1.68
+    },
+    {
+        "text": "into using exorbitant amounts of products,",
+        "start": 797.31,
+        "duration": 2.04
+    },
+    {
+        "text": "with the lawsuit and\ndocuments claiming that,",
+        "start": 799.35,
+        "duration": 1.59
+    },
+    {
+        "text": "between 2011 and 2018,",
+        "start": 800.94,
+        "duration": 1.65
+    },
+    {
+        "text": "the company gave VA\nworkers Apple electronics,",
+        "start": 802.59,
+        "duration": 2.34
+    },
+    {
+        "text": "NASCAR tickets, and\nhundreds of expensive meals,",
+        "start": 804.93,
+        "duration": 2.19
+    },
+    {
+        "text": "and, in exchange, the\nhospital allegedly signed",
+        "start": 807.12,
+        "duration": 1.74
+    },
+    {
+        "text": "a lucrative contract with Medtronic.",
+        "start": 808.86,
+        "duration": 1.41
+    },
+    {
+        "text": "Meanwhile, the company allegedly",
+        "start": 810.27,
+        "duration": 1.41
+    },
+    {
+        "text": "groomed and trained physicians",
+        "start": 811.68,
+        "duration": 1.35
+    },
+    {
+        "text": "who, let's say, use the devices liberally,",
+        "start": 813.03,
+        "duration": 2.1
+    },
+    {
+        "text": "and by liberally, I mean dozens at a time,",
+        "start": 815.13,
+        "duration": 2.19
+    },
+    {
+        "text": "with one hospital administrator\nwho was shocked to discover",
+        "start": 817.32,
+        "duration": 2.34
+    },
+    {
+        "text": "how many devices they were buying, saying,",
+        "start": 819.66,
+        "duration": 1.717
+    },
+    {
+        "text": "\"We were more expensive\nthan, I believe it was,",
+        "start": 821.377,
+        "duration": 2.033
+    },
+    {
+        "text": "the top 10 hospitals in the VA combined.\"",
+        "start": 823.41,
+        "duration": 3.15
+    },
+    {
+        "text": "And in the worst case, reportedly,",
+        "start": 826.56,
+        "duration": 1.41
+    },
+    {
+        "text": "a doctor used 33 devices on one person,",
+        "start": 827.97,
+        "duration": 3.09
+    },
+    {
+        "text": "with investigators actually finding that",
+        "start": 831.06,
+        "duration": 1.26
+    },
+    {
+        "text": "amputations rose 6x during\nthat same time period,",
+        "start": 832.32,
+        "duration": 3.3
+    },
+    {
+        "text": "though not concluding",
+        "start": 835.62,
+        "duration": 0.96
+    },
+    {
+        "text": "one way or the other\nabout it being causal.",
+        "start": 836.58,
+        "duration": 1.68
+    },
+    {
+        "text": "And attorneys in a lawsuit\nsay, \"It is unconscionable.",
+        "start": 838.26,
+        "duration": 2.46
+    },
+    {
+        "text": "There can be no valid\nmedically-acceptable basis",
+        "start": 840.72,
+        "duration": 2.46
+    },
+    {
+        "text": "to cram so many devices\ninto a human being.",
+        "start": 843.18,
+        "duration": 2.07
+    },
+    {
+        "text": "This is not medical\ntreatment. This is abuse.\"",
+        "start": 845.25,
+        "duration": 2.16
+    },
+    {
+        "text": "And in addition to using",
+        "start": 847.41,
+        "duration": 0.93
+    },
+    {
+        "text": "just a ludicrous number of these devices,",
+        "start": 848.34,
+        "duration": 2.58
+    },
+    {
+        "text": "they also allegedly used\nthem as a first resort",
+        "start": 850.92,
+        "duration": 2.34
+    },
+    {
+        "text": "during the earliest stages\nof peripheral artery disease",
+        "start": 853.26,
+        "duration": 2.31
+    },
+    {
+        "text": "despite there being cheaper alternatives",
+        "start": 855.57,
+        "duration": 1.56
+    },
+    {
+        "text": "that are at least as effective.",
+        "start": 857.13,
+        "duration": 1.38
+    },
+    {
+        "text": "Now, of course, with this,",
+        "start": 858.51,
+        "duration": 0.87
+    },
+    {
+        "text": "the company and the doctors\nare denying the allegations,",
+        "start": 859.38,
+        "duration": 2.01
+    },
+    {
+        "text": "but it's far from the first time",
+        "start": 861.39,
+        "duration": 1.32
+    },
+    {
+        "text": "that Medtronic has been\naccused of stuff like this.",
+        "start": 862.71,
+        "duration": 1.89
+    },
+    {
+        "text": "In 2018, for example,\nits subsidiary Covidien",
+        "start": 864.6,
+        "duration": 2.28
+    },
+    {
+        "text": "settled for $13 million over claims",
+        "start": 866.88,
+        "duration": 1.89
+    },
+    {
+        "text": "that it gave kickbacks to hospitals",
+        "start": 868.77,
+        "duration": 1.32
+    },
+    {
+        "text": "that used its mechanical\nblood clot devices,",
+        "start": 870.09,
+        "duration": 1.89
+    },
+    {
+        "text": "and another subsidiary\nforking over $18 million",
+        "start": 871.98,
+        "duration": 2.43
+    },
+    {
+        "text": "and admitting to persuading\nsurgeons to use its devices",
+        "start": 874.41,
+        "duration": 2.52
+    },
+    {
+        "text": "outside of approved\nprocedures in the brain,",
+        "start": 876.93,
+        "duration": 1.83
+    },
+    {
+        "text": "and then the next year,\nthe first subsidiary again",
+        "start": 878.76,
+        "duration": 1.89
+    },
+    {
+        "text": "settled for $17 million over claims",
+        "start": 880.65,
+        "duration": 1.98
+    },
+    {
+        "text": "that it gave in-kind marketing support",
+        "start": 882.63,
+        "duration": 1.59
+    },
+    {
+        "text": "to doctors using its vein products,",
+        "start": 884.22,
+        "duration": 1.53
+    },
+    {
+        "text": "and then the year after that,",
+        "start": 885.75,
+        "duration": 0.833
+    },
+    {
+        "text": "Medtronic paid $9 million to settle claims",
+        "start": 886.583,
+        "duration": 1.897
+    },
+    {
+        "text": "that it bribed a neurosurgeon\nto buy its medication pumps,",
+        "start": 888.48,
+        "duration": 2.25
+    },
+    {
+        "text": "which is is also one of\nthe reasons why I think",
+        "start": 890.73,
+        "duration": 1.71
+    },
+    {
+        "text": "you and I probably don't\nexpect this company",
+        "start": 892.44,
+        "duration": 1.89
+    },
+    {
+        "text": "to be held responsible,\nbecause when you're the world's",
+        "start": 894.33,
+        "duration": 1.89
+    },
+    {
+        "text": "largest producer of medical devices,",
+        "start": 896.22,
+        "duration": 1.47
+    },
+    {
+        "text": "playing with tens of billions of dollars,",
+        "start": 897.69,
+        "duration": 2.01
+    },
+    {
+        "text": "settlements are often just\nthe price of doing business.",
+        "start": 899.7,
+        "duration": 1.89
+    },
+    {
+        "text": "I mean, honestly, at this point,",
+        "start": 901.59,
+        "duration": 0.93
+    },
+    {
+        "text": "I think it should be one\nof the slogans for America.",
+        "start": 902.52,
+        "duration": 1.83
+    },
+    {
+        "text": "If you do the crime,",
+        "start": 904.35,
+        "duration": 1.11
+    },
+    {
+        "text": "you don't have to do the\ntime if you pay a dime.",
+        "start": 905.46,
+        "duration": 2.439
+    },
+    {
+        "text": "(patriotic music)",
+        "start": 907.899,
+        "duration": 2.305
+    },
+    {
+        "text": "(eagle shrieks)",
+        "start": 910.204,
+        "duration": 1.496
+    },
+    {
+        "text": "And that is actually\nwhere today's show ends.",
+        "start": 911.7,
+        "duration": 1.8
+    },
+    {
+        "text": "As always, I wanna say\nthank you for watching",
+        "start": 913.5,
+        "duration": 1.89
+    },
+    {
+        "text": "and being subscribed to these\ndaily dives into the news.",
+        "start": 915.39,
+        "duration": 2.34
+    },
+    {
+        "text": "My name's Philip DeFranco.\nYou've just been filled in.",
+        "start": 917.73,
+        "duration": 2.52
+    },
+    {
+        "text": "I love your faces and\nI'll see you tomorrow.",
+        "start": 920.25,
+        "duration": 2.793
+    }
+]

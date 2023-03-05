@@ -1,0 +1,2207 @@
+[
+    {
+        "text": "[Ringing]",
+        "start": 0.22,
+        "duration": 2.26
+    },
+    {
+        "text": "[Myah] Hello?",
+        "start": 5.52,
+        "duration": 0.8
+    },
+    {
+        "text": "[Ethan] Hey, um, this is Ethan, from h3h3.",
+        "start": 6.52,
+        "duration": 3.06
+    },
+    {
+        "text": "I'm here to see Tai Lopez.",
+        "start": 9.58,
+        "duration": 1.96
+    },
+    {
+        "text": "[Myah] Uhh...",
+        "start": 12.24,
+        "duration": 1.16
+    },
+    {
+        "text": "Hmmm. That's a little weird.",
+        "start": 13.4,
+        "duration": 1.76
+    },
+    {
+        "text": "I -- I feel like, that sounds like,",
+        "start": 15.16,
+        "duration": 2.22
+    },
+    {
+        "text": "not true.",
+        "start": 17.38,
+        "duration": 1.1
+    },
+    {
+        "text": "Um...",
+        "start": 18.48,
+        "duration": 0.98
+    },
+    {
+        "text": "[Ethan] Is Tai there?",
+        "start": 19.46,
+        "duration": 0.8
+    },
+    {
+        "text": "*Silence*",
+        "start": 20.14,
+        "duration": 1.2
+    },
+    {
+        "text": "[Myah] Mm-",
+        "start": 21.34,
+        "duration": 0.5
+    },
+    {
+        "text": "maybe?",
+        "start": 21.84,
+        "duration": 0.66
+    },
+    {
+        "text": "[Ethan] What's your name?",
+        "start": 23.14,
+        "duration": 0.68
+    },
+    {
+        "text": "[Myah] Myah.",
+        "start": 23.86,
+        "duration": 0.5
+    },
+    {
+        "text": "*beep*",
+        "start": 24.36,
+        "duration": 0.5
+    },
+    {
+        "text": "*Confuzzled Ethan*",
+        "start": 25.18,
+        "duration": 1.96
+    },
+    {
+        "text": "[Ethan shouting] Tai!",
+        "start": 31.16,
+        "duration": 0.96
+    },
+    {
+        "text": "Tai, it's Ethan!",
+        "start": 34.52,
+        "duration": 1.22
+    },
+    {
+        "text": "[Phone ring of destiny]",
+        "start": 35.74,
+        "duration": 1.18
+    },
+    {
+        "text": "[Tai] Hello?",
+        "start": 36.92,
+        "duration": 0.6
+    },
+    {
+        "text": "[Ethan] Hey Tai,",
+        "start": 38.06,
+        "duration": 1.12
+    },
+    {
+        "text": "it's Ethan, man.",
+        "start": 39.18,
+        "duration": 1.12
+    },
+    {
+        "text": "Uh, I've just been standing outside your house for like, 20 minutes.",
+        "start": 40.3,
+        "duration": 2.76
+    },
+    {
+        "text": "*Silence*",
+        "start": 43.12,
+        "duration": 1.66
+    },
+    {
+        "text": "[Tai] Ohhh, will they not let you in?",
+        "start": 44.9,
+        "duration": 2.06
+    },
+    {
+        "text": "I think I put you on like, a --",
+        "start": 46.96,
+        "duration": 1.58
+    },
+    {
+        "text": "a wanted poster in my house.",
+        "start": 48.54,
+        "duration": 1.76
+    },
+    {
+        "text": "I think you're on a \"forbidden entry\" thing. Let me --",
+        "start": 50.54,
+        "duration": 2.5
+    },
+    {
+        "text": "let me get you taken off real quick.",
+        "start": 53.04,
+        "duration": 0.86
+    },
+    {
+        "text": "[Ethan] Oh, yeah.",
+        "start": 54.4,
+        "duration": 0.76
+    },
+    {
+        "text": "We were supposed to meet here at two today, right?",
+        "start": 55.16,
+        "duration": 1.66
+    },
+    {
+        "text": "[Tai] Uhh, yeah, sorry, sorry, sorry.",
+        "start": 58.6,
+        "duration": 1.94
+    },
+    {
+        "text": "[Ethan] You've got a picture of me on the wall... that says \"wanted\"?",
+        "start": 60.58,
+        "duration": 3.38
+    },
+    {
+        "text": "[Tai] Yeah -- yeah, for that one video you made,",
+        "start": 65.16,
+        "duration": 3.06
+    },
+    {
+        "text": "you know?",
+        "start": 68.22,
+        "duration": 0.5
+    },
+    {
+        "text": "I had to protect myself.",
+        "start": 68.72,
+        "duration": 1.22
+    },
+    {
+        "text": "[Ethan] Thanks.",
+        "start": 70.8,
+        "duration": 1.06
+    },
+    {
+        "text": "[Myah] Sorry, you were on like, a \"do not enter\" list, so...",
+        "start": 71.86,
+        "duration": 2.46
+    },
+    {
+        "text": "[Ethan] Oh, seriously?",
+        "start": 74.32,
+        "duration": 0.96
+    },
+    {
+        "text": "[Myah] Yeah, but like, Tai just removed you, so...",
+        "start": 75.28,
+        "duration": 2.02
+    },
+    {
+        "text": "[Ethan] Okay, he took my picture?",
+        "start": 77.3,
+        "duration": 1.24
+    },
+    {
+        "text": "[Myah] Yeah, sorry.",
+        "start": 78.54,
+        "duration": 0.9
+    },
+    {
+        "text": "[Ethan] Okay, cool. So we can -- we are good?\n[Myah] Yeah, you can come in, that's fine.",
+        "start": 79.44,
+        "duration": 2.4
+    },
+    {
+        "text": "[Ethan] Okay.",
+        "start": 81.84,
+        "duration": 0.98
+    },
+    {
+        "text": "Thank you.",
+        "start": 82.82,
+        "duration": 0.8
+    },
+    {
+        "text": "[Myah] Yeah, for sure.",
+        "start": 83.62,
+        "duration": 0.96
+    },
+    {
+        "text": "[Ethan] Knowledge Society!",
+        "start": 85.24,
+        "duration": 1.4
+    },
+    {
+        "text": "It says -- it says -- your carpet says \"knowledge society!\"",
+        "start": 88.14,
+        "duration": 3.42
+    },
+    {
+        "text": "[Soothing classical music plays]",
+        "start": 91.56,
+        "duration": 13.92
+    },
+    {
+        "text": "[Tai] Oh -- hello Ethan.",
+        "start": 105.48,
+        "duration": 2.22
+    },
+    {
+        "text": "[Ethan] Hey Tai, what's up, man? How you doin?",
+        "start": 107.7,
+        "duration": 1.72
+    },
+    {
+        "text": "[Tai] Um...",
+        "start": 109.84,
+        "duration": 0.96
+    },
+    {
+        "text": "[Ethan] That was pretty dramatic.",
+        "start": 111.34,
+        "duration": 1.2
+    },
+    {
+        "text": "Do you usually welcome all your guests the same way?\n[Tai laughs]",
+        "start": 112.54,
+        "duration": 3.08
+    },
+    {
+        "text": "[Tai] No, I'm usually a little -- a little more cordial.",
+        "start": 116.02,
+        "duration": 2.48
+    },
+    {
+        "text": "[Ethan laughs] What up? How ya' doin'?",
+        "start": 118.5,
+        "duration": 0.86
+    },
+    {
+        "text": "[Tai] Good to meet you.",
+        "start": 119.36,
+        "duration": 0.72
+    },
+    {
+        "text": "[Ethan] Yeah, nice to meet you.",
+        "start": 120.08,
+        "duration": 0.94
+    },
+    {
+        "text": "[Tai] Interuppting my- my reading. This is my cliff notes.",
+        "start": 121.52,
+        "duration": 2.36
+    },
+    {
+        "text": "[Ethan] What you got there?",
+        "start": 123.88,
+        "duration": 1.52
+    },
+    {
+        "text": "[Tai] Cliff notes a day!",
+        "start": 125.4,
+        "duration": 1.06
+    },
+    {
+        "text": "[Ethan] First of all,",
+        "start": 126.46,
+        "duration": 0.52
+    },
+    {
+        "text": "thanks for inviting us out here.",
+        "start": 126.98,
+        "duration": 2.12
+    },
+    {
+        "text": "[Tai] Ah, no problem.",
+        "start": 129.1,
+        "duration": 0.68
+    },
+    {
+        "text": "[Ethan] I know we-we-",
+        "start": 129.78,
+        "duration": 1.16
+    },
+    {
+        "text": "I-I-I respect, you know,",
+        "start": 130.94,
+        "duration": 1.74
+    },
+    {
+        "text": "I respect that.",
+        "start": 132.68,
+        "duration": 0.86
+    },
+    {
+        "text": "[Tai] Yeah.\n[Ethan] I think it's awesome.",
+        "start": 134.06,
+        "duration": 1.34
+    },
+    {
+        "text": "[Tai] \"Keep your friends close and your enemies closer\" they say.",
+        "start": 135.4,
+        "duration": 2.279
+    },
+    {
+        "text": "[Ethan] Yeah, for sure.",
+        "start": 137.68,
+        "duration": 1.02
+    },
+    {
+        "text": "[Ethan] What, did you read that in a book?",
+        "start": 139.76,
+        "duration": 1.06
+    },
+    {
+        "text": "[Tai] Cliff notes only.",
+        "start": 141.08,
+        "duration": 1.22
+    },
+    {
+        "text": "[Ethan] That's all.",
+        "start": 142.3,
+        "duration": 1.36
+    },
+    {
+        "text": "[Tai] Should I take you out in the Lambo?\n[Ethan] Yeah!",
+        "start": 143.66,
+        "duration": 1.58
+    },
+    {
+        "text": "[Tai] What do you think? \n[Ethan] Most definitely.",
+        "start": 145.24,
+        "duration": 1.66
+    },
+    {
+        "text": "[Tai] Are you a good driver?",
+        "start": 146.9,
+        "duration": 0.62
+    },
+    {
+        "text": "[Ethan] No.",
+        "start": 148.18,
+        "duration": 0.5
+    },
+    {
+        "text": "[Ethan] But I'll drive it.",
+        "start": 148.76,
+        "duration": 1.1
+    },
+    {
+        "text": "[Tai] Nah, then I'll drive.",
+        "start": 149.86,
+        "duration": 0.94
+    },
+    {
+        "text": "[Ethan] So, this is your house?",
+        "start": 151.6,
+        "duration": 0.66
+    },
+    {
+        "text": "[Tai] This is my Zillow place.",
+        "start": 152.54,
+        "duration": 1.44
+    },
+    {
+        "text": "Air- this is my AirBnB.",
+        "start": 153.98,
+        "duration": 1.86
+    },
+    {
+        "text": "This is air-",
+        "start": 155.84,
+        "duration": 1.0
+    },
+    {
+        "text": "I started telling people after a video,",
+        "start": 156.84,
+        "duration": 1.4
+    },
+    {
+        "text": "I was like, you know what?",
+        "start": 158.24,
+        "duration": 0.58
+    },
+    {
+        "text": "AirBnB,",
+        "start": 159.62,
+        "duration": 1.2
+    },
+    {
+        "text": "you can rent it from me,",
+        "start": 160.94,
+        "duration": 1.58
+    },
+    {
+        "text": "ten thousand a night.",
+        "start": 162.88,
+        "duration": 1.32
+    },
+    {
+        "text": "[Ethan] So, let-let me get this straight.",
+        "start": 164.2,
+        "duration": 1.513
+    },
+    {
+        "text": "[Tai] okay?",
+        "start": 165.713,
+        "duration": 0.5
+    },
+    {
+        "text": "[Ethan] This is your house?",
+        "start": 166.213,
+        "duration": 1.252
+    },
+    {
+        "text": "[Tai] So, this house-",
+        "start": 167.465,
+        "duration": 1.115
+    },
+    {
+        "text": "because there's been a lot of controversy if this is my house or not,",
+        "start": 168.58,
+        "duration": 2.64
+    },
+    {
+        "text": "this is a house that I do through my business.",
+        "start": 171.35,
+        "duration": 2.17
+    },
+    {
+        "text": "It's not a rental.",
+        "start": 173.52,
+        "duration": 0.82
+    },
+    {
+        "text": "[Ethan] It's owned?",
+        "start": 175.58,
+        "duration": 0.5
+    },
+    {
+        "text": "[Tai] It's-it's a lease.",
+        "start": 176.08,
+        "duration": 1.1
+    },
+    {
+        "text": "A lot of the World,",
+        "start": 177.18,
+        "duration": 0.86
+    },
+    {
+        "text": "I think, is in a bubble.",
+        "start": 178.04,
+        "duration": 1.334
+    },
+    {
+        "text": "So, you start buying Realestate.",
+        "start": 179.374,
+        "duration": 1.366
+    },
+    {
+        "text": "If you want to be poor,",
+        "start": 180.74,
+        "duration": 0.86
+    },
+    {
+        "text": "buy high,-",
+        "start": 181.6,
+        "duration": 0.914
+    },
+    {
+        "text": "[Ethan] Okay, Tai, hold on.",
+        "start": 182.514,
+        "duration": 1.126
+    },
+    {
+        "text": "This isn't one of your infomercials.",
+        "start": 183.64,
+        "duration": 1.26
+    },
+    {
+        "text": "[Ethan] Come on, dude.",
+        "start": 184.9,
+        "duration": 0.5
+    },
+    {
+        "text": "[Tai] Oh. okay-\n[Ethan] Okay?",
+        "start": 185.4,
+        "duration": 0.5
+    },
+    {
+        "text": "[Tai] My bad, I got-I-I got a little excited, I guess.",
+        "start": 185.9,
+        "duration": 2.92
+    },
+    {
+        "text": "[Ethan] We're just hanging out, dude.",
+        "start": 188.82,
+        "duration": 0.8
+    },
+    {
+        "text": "[Ethan] We're just chillin' here.",
+        "start": 190.1,
+        "duration": 1.36
+    },
+    {
+        "text": "*Calm Ambient Pop*",
+        "start": 191.62,
+        "duration": 7.64
+    },
+    {
+        "text": "*Alerted sound*",
+        "start": 199.26,
+        "duration": 0.92
+    },
+    {
+        "text": "*Calm Ambient Pop continues*",
+        "start": 200.24,
+        "duration": 1.6
+    },
+    {
+        "text": "[Tai] And I just had built-",
+        "start": 201.84,
+        "duration": 1.06
+    },
+    {
+        "text": "I'm almost done building my library.",
+        "start": 202.9,
+        "duration": 1.52
+    },
+    {
+        "text": "So, have you read all the books in this library?",
+        "start": 204.68,
+        "duration": 2.24
+    },
+    {
+        "text": "[Tai] Ahh, I'd say I've read like,",
+        "start": 206.92,
+        "duration": 1.3
+    },
+    {
+        "text": "half, and half are to read.",
+        "start": 208.36,
+        "duration": 2.1
+    },
+    {
+        "text": "[Ethan] Take a look, and we find the weird shit",
+        "start": 210.54,
+        "duration": 1.64
+    },
+    {
+        "text": "that I know you're into.",
+        "start": 212.18,
+        "duration": 1.02
+    },
+    {
+        "text": "[Tai] No, he's trying to find-",
+        "start": 214.6,
+        "duration": 1.44
+    },
+    {
+        "text": "trying to find some dirt on me, eh?",
+        "start": 216.04,
+        "duration": 1.56
+    },
+    {
+        "text": "I guess you got a little tissue in this one day?",
+        "start": 218.42,
+        "duration": 1.88
+    },
+    {
+        "text": "[Tai] So you say- does this pass?",
+        "start": 221.58,
+        "duration": 1.56
+    },
+    {
+        "text": "*Alerted sound*",
+        "start": 223.24,
+        "duration": 0.5
+    },
+    {
+        "text": "[Tai] Are you gonna pass it? Is it an okay library?",
+        "start": 223.98,
+        "duration": 1.68
+    },
+    {
+        "text": "[Ethan] It's a great library.",
+        "start": 225.66,
+        "duration": 1.06
+    },
+    {
+        "text": "I mean, I don't think many people have libraries.",
+        "start": 226.92,
+        "duration": 2.2
+    },
+    {
+        "text": "[Tai] I know but y- I like libraries.",
+        "start": 229.12,
+        "duration": 2.14
+    },
+    {
+        "text": "[Ethan] I think like, five books is passing library these days.",
+        "start": 231.26,
+        "duration": 2.5
+    },
+    {
+        "text": "[Guy] I got a delivery, Tai. Where you want this?",
+        "start": 234.15,
+        "duration": 2.59
+    },
+    {
+        "text": "I can put this in your room or above a fire place.",
+        "start": 236.74,
+        "duration": 2.38
+    },
+    {
+        "text": "[Ethan] Oh my gaddd",
+        "start": 239.12,
+        "duration": 1.18
+    },
+    {
+        "text": "[Hila] Woahhh",
+        "start": 240.3,
+        "duration": 0.5
+    },
+    {
+        "text": "I want you to know,",
+        "start": 241.16,
+        "duration": 1.06
+    },
+    {
+        "text": "I had no part in this.",
+        "start": 242.22,
+        "duration": 1.22
+    },
+    {
+        "text": "[Ethan] Okay. Wait, wait, waitwaitwait",
+        "start": 243.44,
+        "duration": 2.16
+    },
+    {
+        "text": "[Ethan] Hold on...",
+        "start": 245.6,
+        "duration": 0.98
+    },
+    {
+        "text": "[Tai] I did this in my free time.",
+        "start": 246.58,
+        "duration": 1.06
+    },
+    {
+        "text": "*Numerous individuals laughing*",
+        "start": 247.64,
+        "duration": 2.94
+    },
+    {
+        "text": "[Ethan] What the hell's wrong with you, dude?",
+        "start": 250.64,
+        "duration": 1.62
+    },
+    {
+        "text": "[Tai] I- I wasn't involved in creating this.",
+        "start": 252.26,
+        "duration": 1.86
+    },
+    {
+        "text": "[Ethan] Tai, what the fuck, dude?",
+        "start": 254.12,
+        "duration": 1.06
+    },
+    {
+        "text": "[Ethan] Get a shot of this guy like,",
+        "start": 255.18,
+        "duration": 1.02
+    },
+    {
+        "text": "peeking around the corner here.",
+        "start": 256.2,
+        "duration": 0.94
+    },
+    {
+        "text": "*Laughter*",
+        "start": 257.14,
+        "duration": 1.58
+    },
+    {
+        "text": "[Ethan] You got like, 10 people like, lurking around.",
+        "start": 258.72,
+        "duration": 2.02
+    },
+    {
+        "text": "[Tai] It's just (incoherent).",
+        "start": 260.74,
+        "duration": 0.66
+    },
+    {
+        "text": "All my lawyers were here today.",
+        "start": 261.4,
+        "duration": 1.12
+    },
+    {
+        "text": "[Ethan] What are they doing here?",
+        "start": 262.52,
+        "duration": 0.5
+    },
+    {
+        "text": "[Tai] All my lawyers are here.",
+        "start": 263.02,
+        "duration": 1.109
+    },
+    {
+        "text": "[Ethan] These are lawyers you have to just standing around?",
+        "start": 264.129,
+        "duration": 1.791
+    },
+    {
+        "text": "[Tai] Yeah-well-",
+        "start": 265.92,
+        "duration": 0.5
+    },
+    {
+        "text": "[Ethan] And you're paying them hourly?",
+        "start": 266.42,
+        "duration": 0.59
+    },
+    {
+        "text": "*Living Meme busted*",
+        "start": 267.32,
+        "duration": 0.5
+    },
+    {
+        "text": "[Ethan] 'Cause we've been here for like, two hours.",
+        "start": 267.82,
+        "duration": 1.62
+    },
+    {
+        "text": "[Tai] They're on- they're on Salary.",
+        "start": 269.44,
+        "duration": 0.72
+    },
+    {
+        "text": "[Ethan] Are these- are these what the kids call 'Yeezys'?",
+        "start": 270.16,
+        "duration": 2.08
+    },
+    {
+        "text": "[Tai] Yeah",
+        "start": 272.24,
+        "duration": 0.58
+    },
+    {
+        "text": "[Tai] Those are- these are rare ones",
+        "start": 272.82,
+        "duration": 1.18
+    },
+    {
+        "text": "called Zebras.",
+        "start": 274.0,
+        "duration": 1.46
+    },
+    {
+        "text": "[Ethan] These are Yeezys, kids at home.",
+        "start": 275.46,
+        "duration": 1.38
+    },
+    {
+        "text": "[Tai] I bet you they know right now like,",
+        "start": 278.13,
+        "duration": 1.8
+    },
+    {
+        "text": "people know basketball shoes.",
+        "start": 279.93,
+        "duration": 1.83
+    },
+    {
+        "text": "[Ethan] It's a-it's a quite a grand house.",
+        "start": 281.76,
+        "duration": 1.54
+    },
+    {
+        "text": "[Tai] It's cool.",
+        "start": 283.68,
+        "duration": 0.5
+    },
+    {
+        "text": "[Ethan] The entrance is like, God damn,",
+        "start": 284.18,
+        "duration": 1.58
+    },
+    {
+        "text": "it's like Papa John money.",
+        "start": 285.76,
+        "duration": 1.38
+    },
+    {
+        "text": "[Tai] Is that big money to you?",
+        "start": 287.58,
+        "duration": 1.46
+    },
+    {
+        "text": "Papa John pizzas?",
+        "start": 289.04,
+        "duration": 1.02
+    },
+    {
+        "text": "[Ethan] Dude, Papa John- Pap--Papa John Shatner?",
+        "start": 290.06,
+        "duration": 2.44
+    },
+    {
+        "text": "[Ethan] I know you think you're doing well and like you're fucking killin' it,",
+        "start": 292.5,
+        "duration": 2.74
+    },
+    {
+        "text": "[Tai] Did you say \"Pop-\"",
+        "start": 295.24,
+        "duration": 0.5
+    },
+    {
+        "text": "[Tai] No, there's a lot of people richer than me.",
+        "start": 295.74,
+        "duration": 1.52
+    },
+    {
+        "text": "[Ethan] Papa John's killin'-Papa John?",
+        "start": 297.26,
+        "duration": 1.34
+    },
+    {
+        "text": "[Tai] \"Papa John Shatner?\"",
+        "start": 298.6,
+        "duration": 1.42
+    },
+    {
+        "text": "[Ethan] Yeah, Papa John Shatner, dude.",
+        "start": 300.02,
+        "duration": 1.62
+    },
+    {
+        "text": "[Ethan] And his son Beau.",
+        "start": 301.64,
+        "duration": 0.62
+    },
+    {
+        "text": "[Tai] This has got to be an inside joke",
+        "start": 303.12,
+        "duration": 1.58
+    },
+    {
+        "text": "that I don't know about right now.",
+        "start": 304.7,
+        "duration": 1.48
+    },
+    {
+        "text": "I got to go watch your channel.",
+        "start": 306.26,
+        "duration": 1.46
+    },
+    {
+        "text": "[Tai] I'll be searching-",
+        "start": 307.729,
+        "duration": 1.131
+    },
+    {
+        "text": "[Ethan] No, Papa John. He's like a billionaire.",
+        "start": 308.86,
+        "duration": 1.42
+    },
+    {
+        "text": "[Tai] Yeah, the guy who started the pizza.",
+        "start": 310.28,
+        "duration": 1.56
+    },
+    {
+        "text": "[Ethan] Yeah, Papa John Shatner.",
+        "start": 311.84,
+        "duration": 0.929
+    },
+    {
+        "text": "[Tai] Like, William Shatner?",
+        "start": 313.919,
+        "duration": 1.241
+    },
+    {
+        "text": "[Ethan] No, that's his name: Shatner.",
+        "start": 315.16,
+        "duration": 1.5
+    },
+    {
+        "text": "Papa John Shatner.",
+        "start": 316.66,
+        "duration": 0.969
+    },
+    {
+        "text": "[Tai] I'ma look that shit, I don't believe you.",
+        "start": 317.629,
+        "duration": 1.991
+    },
+    {
+        "text": "[Ethan] Is that- is it that unbelievable?",
+        "start": 319.62,
+        "duration": 2.38
+    },
+    {
+        "text": "*More calm ambient pop music*",
+        "start": 322.06,
+        "duration": 8.16
+    },
+    {
+        "text": "~Vape Naysh~",
+        "start": 330.28,
+        "duration": 1.88
+    },
+    {
+        "text": "*Calm ambient pop continues*",
+        "start": 332.16,
+        "duration": 4.72
+    },
+    {
+        "text": "[Ethan] You were saying yo-you",
+        "start": 336.98,
+        "duration": 2.06
+    },
+    {
+        "text": "you take your super cars down to San Diego, but you don't drive 'em?",
+        "start": 339.04,
+        "duration": 2.84
+    },
+    {
+        "text": "[Tai] Nah, I put 'em on a truck, man.",
+        "start": 341.88,
+        "duration": 1.84
+    },
+    {
+        "text": "They get too much miles on 'em.",
+        "start": 343.72,
+        "duration": 1.69
+    },
+    {
+        "text": "[Ethan] So you-",
+        "start": 345.41,
+        "duration": 0.85
+    },
+    {
+        "text": "[Tai] You drive 'em back and forth...",
+        "start": 346.26,
+        "duration": 1.2
+    },
+    {
+        "text": "[Ethan] So you-so, let me get this straight.",
+        "start": 347.46,
+        "duration": 1.14
+    },
+    {
+        "text": "You put it on a truck,\n[Tai] Yep",
+        "start": 348.6,
+        "duration": 1.5
+    },
+    {
+        "text": "[Ethan] you drive it...",
+        "start": 350.1,
+        "duration": 0.78
+    },
+    {
+        "text": "to San Diego. That's not-",
+        "start": 351.98,
+        "duration": 1.48
+    },
+    {
+        "text": "that's like a hundred miles.\n[Tai] Yeah, yeah. But with LA traffic",
+        "start": 353.46,
+        "duration": 3.12
+    },
+    {
+        "text": "you sittin' there in traffic.",
+        "start": 356.58,
+        "duration": 1.2
+    },
+    {
+        "text": "[Ethan] And then how do you get there?",
+        "start": 358.78,
+        "duration": 1.06
+    },
+    {
+        "text": "[Ethan] You fly.\n[Tai] Fly, yeah.",
+        "start": 359.84,
+        "duration": 1.46
+    },
+    {
+        "text": "[Ethan]And it's some give some guy drive all your cars down on the truck.",
+        "start": 361.3,
+        "duration": 3.56
+    },
+    {
+        "text": "[Tai] I usually don't take all",
+        "start": 364.86,
+        "duration": 0.91
+    },
+    {
+        "text": "I'll just take like two or three",
+        "start": 365.77,
+        "duration": 1.99
+    },
+    {
+        "text": "That's crazy.  I don't know why there's a lot of people around usually lines. It's going ok who's letting up?",
+        "start": 368.36,
+        "duration": 6.4
+    },
+    {
+        "text": "[Ethan] You're the attorney i can tell.",
+        "start": 374.76,
+        "duration": 2.72
+    },
+    {
+        "text": "[Attorney #420] You can tell? *Laughs*",
+        "start": 377.48,
+        "duration": 3.4
+    },
+    {
+        "text": "[Ethan] Its the bell or something. It's the bell for something about attorney. [Tai] There's anothe- [Ethan] No I know but what do you do?",
+        "start": 380.88,
+        "duration": 4.09
+    },
+    {
+        "text": "[Hila] Ethan, look, there's another attorney.",
+        "start": 385.82,
+        "duration": 1.68
+    },
+    {
+        "text": "[Ethan] Ok, so you're also another attorney?",
+        "start": 387.5,
+        "duration": 2.0
+    },
+    {
+        "text": "[Ethan] Is there... How many other attorneys are there here? [Tai] There's one more! [Attorney] One more downstairs.",
+        "start": 390.94,
+        "duration": 3.56
+    },
+    {
+        "text": "Army, they will not keep going or without three attorney injector",
+        "start": 395.02,
+        "duration": 3.26
+    },
+    {
+        "text": "[Tai] I usually don't have three attorneys. [Ethan] How much council do you need man?",
+        "start": 398.28,
+        "duration": 3.7
+    },
+    {
+        "text": "[Background] He needs a lot. [Tai] There... I actually have a thing in my ear, and they're...",
+        "start": 402.12,
+        "duration": 3.48
+    },
+    {
+        "text": "[Tai] ... listening in on everything we say.",
+        "start": 406.36,
+        "duration": 2.26
+    },
+    {
+        "text": "[Ethan] You guys mind just... stand... staying there for the rest of the time? [Tai laughs]",
+        "start": 408.62,
+        "duration": 3.02
+    },
+    {
+        "text": "[Attorney #69] You guys are freaked out!",
+        "start": 411.82,
+        "duration": 2.0
+    },
+    {
+        "text": "[Attorney #420] We're tailing you.",
+        "start": 414.68,
+        "duration": 1.22
+    },
+    {
+        "text": "[Ethan] Jesus, hey tai, your lawyer's following us, dude.",
+        "start": 416.7,
+        "duration": 3.1
+    },
+    {
+        "text": "[Attorney #420] *Probably gibberish*",
+        "start": 421.16,
+        "duration": 2.0
+    },
+    {
+        "text": "[Ethan] Are these lawyers here just because of this?",
+        "start": 424.999,
+        "duration": 1.901
+    },
+    {
+        "text": "[Tai] Nah, i think y- little bit",
+        "start": 426.9,
+        "duration": 2.0
+    },
+    {
+        "text": "[Ethan] Oh shit wait, the lawyers are here because of us!",
+        "start": 429.24,
+        "duration": 5.4
+    },
+    {
+        "text": "[Ethan] How we doin?",
+        "start": 434.84,
+        "duration": 0.96
+    },
+    {
+        "text": "[Lawyer #420] Pretty good... make... feel special?",
+        "start": 435.8,
+        "duration": 2.0
+    },
+    {
+        "text": "[Ethan] A little bit. A little afraid, i mean, the first time is like \"this guy is trailin us\" but then he keeps comin.",
+        "start": 437.8,
+        "duration": 5.3
+    },
+    {
+        "text": "So it's real",
+        "start": 443.96,
+        "duration": 0.84
+    },
+    {
+        "text": "[Attorney] It's real. [Ethan] This - wow.",
+        "start": 446.479,
+        "duration": 1.86
+    },
+    {
+        "text": "[Ethan] Damn, that Tai Lopez money's crazy, i wish i had an attorney followin me around.",
+        "start": 448.339,
+        "duration": 4.88
+    },
+    {
+        "text": "[Ethan] How am i doin by the way? Are we doin ok?",
+        "start": 453.3,
+        "duration": 2.1
+    },
+    {
+        "text": "[Attorney] Doing fine. [Hila laughs]",
+        "start": 455.4,
+        "duration": 1.879
+    },
+    {
+        "text": "[Ethan] Tai you got fuckin lawyers trailin us dude.",
+        "start": 457.279,
+        "duration": 3.221
+    },
+    {
+        "text": "[Ethan] Are you an attorney too? [Tai] Thats an attorney too.",
+        "start": 461.99,
+        "duration": 1.93
+    },
+    {
+        "text": "[Ethan] How many attorneys you have just for me?",
+        "start": 463.92,
+        "duration": 2.0
+    },
+    {
+        "text": "[Attorney #420] There's actually 100 of us. *Chuckles*        (papa bless)",
+        "start": 465.92,
+        "duration": 2.18
+    },
+    {
+        "text": "[Ethan] How-, i know you got eyes in the wall and shit",
+        "start": 468.64,
+        "duration": 2.0
+    },
+    {
+        "text": "[Tai] I like this, this wasn't even planned, it came out- *laughs*",
+        "start": 470.64,
+        "duration": 3.0
+    },
+    {
+        "text": "[Tai] David!?",
+        "start": 474.12,
+        "duration": 0.96
+    },
+    {
+        "text": "[Ethan] What the hell, dude?",
+        "start": 475.08,
+        "duration": 1.84
+    },
+    {
+        "text": "[Attorney #420] Another attorney.",
+        "start": 477.12,
+        "duration": 1.8
+    },
+    {
+        "text": "[Tai] Even for me, this is a lot. Th- this is a lot",
+        "start": 480.88,
+        "duration": 2.84
+    },
+    {
+        "text": "[Ethan] Yo, what the fuck.",
+        "start": 483.72,
+        "duration": 2.0
+    },
+    {
+        "text": "[Ethan] Oh my god, you don't even trust me.",
+        "start": 486.58,
+        "duration": 2.16
+    },
+    {
+        "text": "[Ethan] What wer- what wer y- what were you- was' the plan? What are you gonna do if i said some shit?",
+        "start": 489.28,
+        "duration": 4.42
+    },
+    {
+        "text": "[Attorney #420] There's an attorney in every room",
+        "start": 493.72,
+        "duration": 1.3
+    },
+    {
+        "text": "[Ethan] Yeah, I know.",
+        "start": 495.08,
+        "duration": 0.7
+    },
+    {
+        "text": "[Attorney #420] 16 attorneys-",
+        "start": 495.86,
+        "duration": 1.42
+    },
+    {
+        "text": "[Ethan] What happens if i, if i try some shit, like what would you do?",
+        "start": 497.28,
+        "duration": 2.24
+    },
+    {
+        "text": "[Tai] He knows- he knows karate.",
+        "start": 500.22,
+        "duration": 1.82
+    },
+    {
+        "text": "[Attorney #420] Sue 'er up.",
+        "start": 502.46,
+        "duration": 1.06
+    },
+    {
+        "text": "[Ethan] Ok. *laughs*",
+        "start": 503.52,
+        "duration": 1.58
+    },
+    {
+        "text": "[Hila] This is the dangerous part. *chuckles*           [Ethan] Yeah, this is not a good look for me.",
+        "start": 507.11,
+        "duration": 2.72
+    },
+    {
+        "text": "[Ethan] Let's just go on and pretend like I'm not being followed by Judge Swarm of attorneys.",
+        "start": 511.61,
+        "duration": 4.219
+    },
+    {
+        "text": "[Tai] Yeah, lets go outside.",
+        "start": 515.829,
+        "duration": 1.301
+    },
+    {
+        "text": "[Ethan] Make sure there's no one in the balconies and shit.",
+        "start": 517.13,
+        "duration": 4.47
+    },
+    {
+        "text": "[Tai] No we cleared it ready-. I cleared everything. [Ethan] alright.",
+        "start": 521.6,
+        "duration": 2.569
+    },
+    {
+        "text": "[Tai] I just got some dog.",
+        "start": 524.169,
+        "duration": 1.691
+    },
+    {
+        "text": "[Ethan] Are these dogs attorneys as well or they just dogs?",
+        "start": 525.86,
+        "duration": 2.27
+    },
+    {
+        "text": "[Ethan] And you got the wall of cuties here. What's going on with this? [Tai] That's my dad by the way. Just so people don't wonder",
+        "start": 531.68,
+        "duration": 4.609
+    },
+    {
+        "text": "why you got a guy, my dad was a full body builder. I read an article that said you,",
+        "start": 536.29,
+        "duration": 4.89
+    },
+    {
+        "text": "work out you can lift thirty percent more if there's beautiful women around. [Ethan] Some cuties? [Tai] So yeah, *mumbled gibberish*",
+        "start": 542.24,
+        "duration": 7.25
+    },
+    {
+        "text": "[Ethan] Does it motivate ya? [Tai] Surround- [Ethan] Does it work? What do you think?",
+        "start": 549.529,
+        "duration": 2.78
+    },
+    {
+        "text": "[Tai] It's better if they are in person",
+        "start": 553.68,
+        "duration": 1.68
+    },
+    {
+        "text": "[Smooth jazz]                                                 (Or some shit)",
+        "start": 555.36,
+        "duration": 5.44
+    },
+    {
+        "text": "[Ethan] Tai, let me ask you somethin'.",
+        "start": 561.04,
+        "duration": 1.44
+    },
+    {
+        "text": "[Tai] Yes?",
+        "start": 562.48,
+        "duration": 0.88
+    },
+    {
+        "text": "[Ethan] Lets be serious. Are a happy person? [Tai] Happy? Yeah, most of the time.",
+        "start": 563.36,
+        "duration": 5.24
+    },
+    {
+        "text": "Most of the time you know, (it) depends who I am around.",
+        "start": 569.22,
+        "duration": 3.0
+    },
+    {
+        "text": "[Ethan] Really? [Tai] Yeah. People can be annoying. But if I'm around good people...",
+        "start": 572.22,
+        "duration": 3.8
+    },
+    {
+        "text": "Then I'm pretty happy. [Ethan] I have this theory about like self-help gurus. [Tai] Okay",
+        "start": 576.16,
+        "duration": 4.76
+    },
+    {
+        "text": "I might be I'll face but I feel like a lot of people get into being gurus and self-help people almost like coaching themselves",
+        "start": 580.93,
+        "duration": 7.169
+    },
+    {
+        "text": "[Tai] Right [Ethan] Like they have some kind of like",
+        "start": 588.1,
+        "duration": 2.28
+    },
+    {
+        "text": "I don't know how to both of us were like darkness or depression underneath, but it's something like they're kind of talking to themselves",
+        "start": 590.38,
+        "duration": 6.569
+    },
+    {
+        "text": "[Tai] Right [Ethan] As much as other people",
+        "start": 597.319,
+        "duration": 1.981
+    },
+    {
+        "text": "[Tai] Yes, oh, dude for sure man. I think for me since I'm not totally all about like happiness",
+        "start": 599.3,
+        "duration": 5.719
+    },
+    {
+        "text": "But I talk a lot about mentors is proud",
+        "start": 605.019,
+        "duration": 2.4
+    },
+    {
+        "text": "I've thought about her like try to psychoanalyze myself probably [cuz] you know when I was born my dad was in prison",
+        "start": 607.42,
+        "duration": 5.039
+    },
+    {
+        "text": "I didn't have a dad",
+        "start": 612.459,
+        "duration": 1.69
+    },
+    {
+        "text": "Growing up, so you try to like figure out an alternative",
+        "start": 614.149,
+        "duration": 3.41
+    },
+    {
+        "text": "So at some point. I was like well, you don't have a dad you have mentors",
+        "start": 618.649,
+        "duration": 3.47
+    },
+    {
+        "text": "So I always think if I'd had a better upbringing",
+        "start": 622.12,
+        "duration": 3.14
+    },
+    {
+        "text": "You know I probably wouldn't be doing the stuff. I'm going now so... I [Ethan] So that's like a silver lining thing?",
+        "start": 626.6,
+        "duration": 5.3
+    },
+    {
+        "text": "I read a thing make your mess your message something like that. What would you say like you're... you're obviously someone doing very well",
+        "start": 632.5,
+        "duration": 6.08
+    },
+    {
+        "text": "Maybe three or four million if you ask the internet. Yeah, I like 50 grand",
+        "start": 639.439,
+        "duration": 4.43
+    },
+    {
+        "text": "15,000 edwards out of every day, but like what how like honestly, how has my affected your happiness like how much money",
+        "start": 644.72,
+        "duration": 7.4
+    },
+    {
+        "text": "Like I don't know how how does how did those two things play together? You know it's funny you are talking about... [Ethan] Very wealthy and",
+        "start": 653.3,
+        "duration": 5.899
+    },
+    {
+        "text": "Being content with life. I think money always say money is like a like a dog it's like a pit bull",
+        "start": 659.87,
+        "duration": 5.52
+    },
+    {
+        "text": "You don't control it as a turn on biting you",
+        "start": 666.12,
+        "duration": 2.599
+    },
+    {
+        "text": "But if you could control it it's it's a powerful thing so sometimes the other day speaking of lawyers",
+        "start": 668.72,
+        "duration": 6.33
+    },
+    {
+        "text": "I'll start one of my lawyers, and I was like man",
+        "start": 675.05,
+        "duration": 2.0
+    },
+    {
+        "text": "More money more headaches, and I was like I think that I think the easier the best place",
+        "start": 677.7,
+        "duration": 5.959
+    },
+    {
+        "text": "I was ever at the first time I made six figures right at like a hundred grand a year",
+        "start": 683.66,
+        "duration": 4.53
+    },
+    {
+        "text": "It was enough money because I had no debt no bills no obligation that I could do whatever I wanted within reason",
+        "start": 688.589,
+        "duration": 7.04
+    },
+    {
+        "text": "But it wasn't so much money that it attracted attention. That's a good place to be I'll tell you that [Ethan] So you don't necessarily need",
+        "start": 695.88,
+        "duration": 6.919
+    },
+    {
+        "text": "100 million you're saying [Tai] No hell no [Ehtan] You might have been at your happiest when you're making a hundred thousand a year",
+        "start": 703.35,
+        "duration": 5.39
+    },
+    {
+        "text": "I don't know about happy... I think happiness is different, but I think",
+        "start": 709.29,
+        "duration": 2.69
+    },
+    {
+        "text": "life was the easiest",
+        "start": 712.529,
+        "duration": 2.0
+    },
+    {
+        "text": "Smooth least complications. Yeah, it's like smooth known nowadays",
+        "start": 715.08,
+        "duration": 4.039
+    },
+    {
+        "text": "Parking I had a maid work here. She said she slipped on a banana peel",
+        "start": 719.64,
+        "duration": 4.159
+    },
+    {
+        "text": "Try to sue",
+        "start": 724.86,
+        "duration": 2.0
+    },
+    {
+        "text": "I was like are you gonna say... one days that she slipped on a banana peel when you make a hundred grand?",
+        "start": 726.99,
+        "duration": 6.109
+    },
+    {
+        "text": "Nobody's going to try to sue you for fucking slipping on a banana peel",
+        "start": 733.34,
+        "duration": 3.48
+    },
+    {
+        "text": "Tai, Temp-temporary identification. Explain this dude. this is a one-day rental just for me while I was here",
+        "start": 766.82,
+        "duration": 7.58
+    },
+    {
+        "text": "No. I dunno why that's there.",
+        "start": 774.4,
+        "duration": 2.68
+    },
+    {
+        "text": "Here, I'm gonna let me get... why don't we take off",
+        "start": 777.08,
+        "duration": 2.42
+    },
+    {
+        "text": "Ethan: Very convenient let me check the other cars.",
+        "start": 780.04,
+        "duration": 3.578
+    },
+    {
+        "text": "Tai: Check it.",
+        "start": 783.62,
+        "duration": 1.18
+    },
+    {
+        "text": "Ethan: Where's the pink slips you got any pink slips?",
+        "start": 784.82,
+        "duration": 2.48
+    },
+    {
+        "text": "All right, I got a confession to make Mm-hmm. I'm the groundskeeper here",
+        "start": 787.31,
+        "duration": 4.07
+    },
+    {
+        "text": "My boss is away",
+        "start": 792.56,
+        "duration": 2.0
+    },
+    {
+        "text": "Registration so that says moz group. That's my corporation that I own 100%",
+        "start": 794.78,
+        "duration": 3.36
+    },
+    {
+        "text": "Ethank: u have proof of that?",
+        "start": 799.36,
+        "duration": 1.72
+    },
+    {
+        "text": "Tai: yes, you can go on the Nevada's website look it up.",
+        "start": 801.08,
+        "duration": 3.58
+    },
+    {
+        "text": "Ethan: Can I find this car on zillow",
+        "start": 804.92,
+        "duration": 1.64
+    },
+    {
+        "text": "-Tai Laughing-",
+        "start": 806.84,
+        "duration": 1.68
+    },
+    {
+        "text": "Ethan: Can I get a release form for me?",
+        "start": 809.56,
+        "duration": 2.0
+    },
+    {
+        "text": "Lawyer: Yep, okay.",
+        "start": 813.89,
+        "duration": 1.61
+    },
+    {
+        "text": "Ethan: Can I get a release form?",
+        "start": 815.5,
+        "duration": 0.72
+    },
+    {
+        "text": "Ethan: I'm just kidding, I'm just kidding!",
+        "start": 817.84,
+        "duration": 1.42
+    },
+    {
+        "text": "Lawyer: Oh oh oh, you got me,",
+        "start": 819.58,
+        "duration": 2.0
+    },
+    {
+        "text": "no, but um",
+        "start": 821.69,
+        "duration": 2.0
+    },
+    {
+        "text": "We just signed some stuff. Do you need to see that?",
+        "start": 824.06,
+        "duration": 2.029
+    },
+    {
+        "text": "We were outside you weren't following us. You know. Yeah. He said it's not a big deal [seriously] [now], Ya know",
+        "start": 828.41,
+        "duration": 6.609
+    },
+    {
+        "text": "Just a little money. There's a little money yeah simple statement couple million",
+        "start": 836.68,
+        "duration": 4.25
+    },
+    {
+        "text": "So you get here? We're good",
+        "start": 841.99,
+        "duration": 2.0
+    },
+    {
+        "text": "Ethan oh",
+        "start": 844.029,
+        "duration": 1.56
+    },
+    {
+        "text": "I believe you know we're doing let this go this one has my this is the DMV registration",
+        "start": 845.589,
+        "duration": 4.76
+    },
+    {
+        "text": "And has my name [maas] group or tai lopez wear orange angle for my appointment. I you know what lse",
+        "start": 850.839,
+        "duration": 7.01
+    },
+    {
+        "text": "I'm not sure. Oh the rest up. [oh] [cuz] lease that means it's at least",
+        "start": 858.88,
+        "duration": 4.039
+    },
+    {
+        "text": "There you go. I mean, I I appreciate the paperwork. I don't know how to explain this",
+        "start": 863.529,
+        "duration": 4.19
+    },
+    {
+        "text": "Hey, man, I don't know. I don't know what to believe you know what it is",
+        "start": 868.389,
+        "duration": 3.14
+    },
+    {
+        "text": "It says we do somewhat luminati tricks on people",
+        "start": 873.07,
+        "duration": 2.599
+    },
+    {
+        "text": "here in our garage",
+        "start": 876.37,
+        "duration": 1.529
+    },
+    {
+        "text": "Just got finished. You're gonna give up to say it to with me. You said you know the whole thing no",
+        "start": 877.899,
+        "duration": 5.059
+    },
+    {
+        "text": "I don't know the whole thing you do here our garage here, Indians garage finish driving around the Hollywood hills",
+        "start": 882.959,
+        "duration": 5.88
+    },
+    {
+        "text": "But you know what I like more than these",
+        "start": 889.24,
+        "duration": 2.0
+    },
+    {
+        "text": "four lamborghinis and Rolls-Royce's",
+        "start": 891.579,
+        "duration": 2.33
+    },
+    {
+        "text": "emperor and Ferraris knowledge",
+        "start": 895.0,
+        "duration": 2.359
+    },
+    {
+        "text": "Because I world for this guy a billionaire warren buffett says the more you earn",
+        "start": 899.709,
+        "duration": 4.76
+    },
+    {
+        "text": "Know you the more you learn it. Yes",
+        "start": 905.26,
+        "duration": 3.199
+    },
+    {
+        "text": "right",
+        "start": 909.19,
+        "duration": 1.259
+    },
+    {
+        "text": "Ethan you were born to do this man. I want ask some questions. Yeah thats first video yep",
+        "start": 910.449,
+        "duration": 5.57
+    },
+    {
+        "text": "It was like it was like a meme was born immediately",
+        "start": 916.899,
+        "duration": 4.04
+    },
+    {
+        "text": "What was your reaction when that video just like was so close did you expect that got like all the different birds that we got?",
+        "start": 921.1,
+        "duration": 6.739
+    },
+    {
+        "text": "600 Million views are you serious?",
+        "start": 927.839,
+        "duration": 2.309
+    },
+    {
+        "text": "I got it at 100 million cuz I did I like had a few variations of it",
+        "start": 930.148,
+        "duration": 4.132
+    },
+    {
+        "text": "Having one with the ferrari in it. Do you know what a living meme is? Oh yeah.",
+        "start": 934.28,
+        "duration": 4.02
+    },
+    {
+        "text": "ETHAN: You're a living meme dude, you know that?",
+        "start": 938.3,
+        "duration": 1.36
+    },
+    {
+        "text": "TAI: That's people say. \nETHAN: How did you feel?\nTAI: You know- You know what?",
+        "start": 939.74,
+        "duration": 2.2
+    },
+    {
+        "text": "when that first kind of went viral and all the parody",
+        "start": 943.66,
+        "duration": 3.169
+    },
+    {
+        "text": "One of my buddies who like one of the richest guys in oh he called me up, and he goes \"Dude..\"",
+        "start": 946.92,
+        "duration": 4.6
+    },
+    {
+        "text": "Encourage that shit run contest you go the best thing that could ever happen to you in terms of making money and publicity",
+        "start": 952.18,
+        "duration": 6.8
+    },
+    {
+        "text": "it's just let shit become a living meme! Yeah exactly that's you need to put that anyway the 66th step the",
+        "start": 959.23,
+        "duration": 7.08
+    },
+    {
+        "text": "69th step of success become a living. It was sick. I mean how many go about me cameramen from Kate Remember?",
+        "start": 967.82,
+        "duration": 6.2
+    },
+    {
+        "text": "I mean let's to set right rip that last ones probably shit. Let's replace it with the better one",
+        "start": 974.02,
+        "duration": 4.47
+    },
+    {
+        "text": "No, no the last ones investment. Yeah, yeah, you should put that the first none",
+        "start": 979.22,
+        "duration": 3.679
+    },
+    {
+        "text": "No, because I want to show [that] to the people who persevere and get right yeah",
+        "start": 983.09,
+        "duration": 4.01
+    },
+    {
+        "text": "I heard the thing about being a living me ok [I] got questions for you",
+        "start": 987.68,
+        "duration": 4.94
+    },
+    {
+        "text": "oh shit better be a living me more a dead meme living of course that meme like",
+        "start": 992.62,
+        "duration": 5.339
+    },
+    {
+        "text": "you don't want to be a dead meme, so I had [to] cash from the outside girl here and",
+        "start": 998.24,
+        "duration": 3.589
+    },
+    {
+        "text": "I think she's making like a hundred grand a week. Do you think she should be a little?",
+        "start": 1002.71,
+        "duration": 4.22
+    },
+    {
+        "text": "Keep on being a living meme honestly. I'm not to up [to] date with her maybe",
+        "start": 1007.69,
+        "duration": 3.68
+    },
+    {
+        "text": "The fingers going I was getting the point ok because the meme doesn't decide if they're living or dead them the masses to sit",
+        "start": 1013.06,
+        "duration": 7.0
+    },
+    {
+        "text": "Yes, ok so obviously as a meme you want to be with and good memes never die",
+        "start": 1020.24,
+        "duration": 5.78
+    },
+    {
+        "text": "What's the betting like the Michael Jordan mean? I think that's the biggest one and crying. Yeah, that's a good one",
+        "start": 1026.5,
+        "duration": 5.72
+    },
+    {
+        "text": "I think ty lopez is one of my favorites one of our favorite. Good me one day dieted",
+        "start": 1032.22,
+        "duration": 3.93
+    },
+    {
+        "text": "Let me tell you something I learned by eating",
+        "start": 1036.31,
+        "duration": 2.0
+    },
+    {
+        "text": "He's more smooth, and he says he\u00eds like did an expert on a finale",
+        "start": 1038.86,
+        "duration": 3.8
+    },
+    {
+        "text": "I am I'm spent three hours with him as it didn't seem him interacting with my lawyers",
+        "start": 1042.66,
+        "duration": 5.369
+    },
+    {
+        "text": "I've seen him play basketball. I've seen her around dogs dogs. Always tell the truth. I love dogs",
+        "start": 1048.88,
+        "duration": 4.79
+    },
+    {
+        "text": "Yeah, that original commercial yes, like at someone with the marketing background. Yeah",
+        "start": 1053.67,
+        "duration": 4.589
+    },
+    {
+        "text": "I see how you put it together like to make it look [so] effortless with your iphone and like you just seen your garage saga",
+        "start": 1058.26,
+        "duration": 6.479
+    },
+    {
+        "text": "But I can tell that that shit was like almost like",
+        "start": 1064.75,
+        "duration": 3.92
+    },
+    {
+        "text": "Genius Lee put together like I feel like every detail you thought about my [website] a lot is true",
+        "start": 1069.82,
+        "duration": 6.02
+    },
+    {
+        "text": "I'd say fifty fifty fifty percent of it was luck fifty percent of it was I've done a lot of public speaking and sales stuff",
+        "start": 1075.91,
+        "duration": 6.739
+    },
+    {
+        "text": "so marketing",
+        "start": 1082.65,
+        "duration": 1.66
+    },
+    {
+        "text": "So I wish I could claim to be the genius some people think it is. It's good. It's funny thing about that video",
+        "start": 1084.31,
+        "duration": 6.649
+    },
+    {
+        "text": "I spoke at harvard the other a couple months ago. They study that video hard for all the vessels",
+        "start": 1090.96,
+        "duration": 5.41
+    },
+    {
+        "text": "Yeah, they're a every big school setting there is some like there's a there's something",
+        "start": 1096.47,
+        "duration": 5.389
+    },
+    {
+        "text": "I follow called the 25 cognitive biases by Charlie Munger cuz how to be persuasive",
+        "start": 1101.86,
+        "duration": 3.99
+    },
+    {
+        "text": "So if you watch when I watched it after I was like damn this do better tonight",
+        "start": 1106.1,
+        "duration": 4.729
+    },
+    {
+        "text": "But it wasn't I was by myself. It was a Sunday night",
+        "start": 1110.83,
+        "duration": 4.319
+    },
+    {
+        "text": "I supposed to develop my friends, and I was like when I must stay here, and I just got the lamborghini at [Southside]",
+        "start": 1115.15,
+        "duration": 4.89
+    },
+    {
+        "text": "And I still have that phone",
+        "start": 1120.04,
+        "duration": 1.74
+    },
+    {
+        "text": "I'm never going to throw that phone away",
+        "start": 1121.78,
+        "duration": 1.54
+    },
+    {
+        "text": "Kept that phone so let me ask you a question would you ever want to be a means consider yourself an email?",
+        "start": 1123.32,
+        "duration": 4.339
+    },
+    {
+        "text": "That's the really hope they do on my snapchat and people were saying things that reminded me of what you'd say to a mean",
+        "start": 1128.09,
+        "duration": 6.409
+    },
+    {
+        "text": "They're like [Papa] those armenians, okay, the thing is you can ask him you must be with me, okay?",
+        "start": 1134.5,
+        "duration": 5.4
+    },
+    {
+        "text": "Quite a bit louder than than my prius it is a little",
+        "start": 1147.41,
+        "duration": 3.619
+    },
+    {
+        "text": "If you had like three tips to give up me and my audience to like improving our life immediately. What would it be?",
+        "start": 1173.98,
+        "duration": 6.59
+    },
+    {
+        "text": "All [right] three tips to improve in your life",
+        "start": 1181.99,
+        "duration": 3.59
+    },
+    {
+        "text": "Number one most people don't know what they're talking [about] so don't listen to them only listen to qualified people and most people aren't qualified",
+        "start": 1188.95,
+        "duration": 7.88
+    },
+    {
+        "text": "number two number two I'd Say",
+        "start": 1202.98,
+        "duration": 3.829
+    },
+    {
+        "text": "Search the whole planet till you find somebody who knows what they're talking about",
+        "start": 1210.45,
+        "duration": 3.199
+    },
+    {
+        "text": "So ignore most people won't find a few people and listen to whatever they say",
+        "start": 1213.99,
+        "duration": 3.979
+    },
+    {
+        "text": "and three",
+        "start": 1219.09,
+        "duration": 2.0
+    },
+    {
+        "text": "[Tai] I'd say you get almost anything you want, but it usually takes a little longer than you expect",
+        "start": 1225.85,
+        "duration": 4.13
+    },
+    {
+        "text": "I'm sorry what, were you talking? I couldn't go I had the headphones on.\n(Tai chuckles)",
+        "start": 1234.62,
+        "duration": 3.589
+    },
+    {
+        "text": "[Ethan] Chips me about driving on these neighborhoods where everyone's driving around in these amazing... \n[Tai] Dude that LaFerrari right there is a",
+        "start": 1239.809,
+        "duration": 5.599
+    },
+    {
+        "text": "Million and a half dollar car that, this is...\n[Ethan] Wow, that's about... \n[Tai] This car is like",
+        "start": 1245.6,
+        "duration": 4.01
+    },
+    {
+        "text": "434 50... \n[Ethan] 430? IS that kind of embarrassing (Tai laughs) for you to kinda share the road with that guy? those share the road with that guy",
+        "start": 1250.7,
+        "duration": 6.41
+    },
+    {
+        "text": "[Tai] I'm embarrassed. How dare I, slum me.",
+        "start": 1257.11,
+        "duration": 5.51
+    },
+    {
+        "text": "[Tai] Yeah, that's how you know you're driving in Beverly Hills. You're driving it a mentor or roaster, and you're slumming it. \n[Ethan] Yeah, for sure.",
+        "start": 1262.62,
+        "duration": 2.02
+    },
+    {
+        "text": "Hey guys, what up?",
+        "start": 1265.18,
+        "duration": 2.84
+    },
+    {
+        "text": "[Ethan]It's Tai Lopez!\n[Tour Bus Guide] How are you?\n[Tai] Pretty good, how are you?",
+        "start": 1268.94,
+        "duration": 2.0
+    },
+    {
+        "text": "[Tai] You should run that little camera.\n[Tour Bus Guide] I love your car.",
+        "start": 1271.88,
+        "duration": 2.0
+    },
+    {
+        "text": "[Tai] Thank you.\n[Ethan] Do you guys know who he is?",
+        "start": 1276.46,
+        "duration": 2.0
+    },
+    {
+        "text": "[Tout Bus Guide] This guy here uh loves fancy cars.\n[Tai] There you go.",
+        "start": 1278.62,
+        "duration": 7.08
+    },
+    {
+        "text": "[Ethan] Check him out, TaiLopez.com.\n[Bus Tour Guide] Okay thank you guys.\n{Ethan] (Shouts) Sixty Nine Steps To Success Guys!",
+        "start": 1285.86,
+        "duration": 4.04
+    },
+    {
+        "text": "[Tai] Can you stop with the sixty nine!\n(Ethan laughs)\n[Tai] It means they get the number wrong!\n(Ethan laughs)",
+        "start": 1289.9,
+        "duration": 3.2
+    },
+    {
+        "text": "[Ethan] Dude what the fuck there's tours around your neighbourhood? \n[Tai] Oh yeah.",
+        "start": 1293.18,
+        "duration": 4.34
+    },
+    {
+        "text": "[Tai] Dude all.. if I go.. that's every time you go out and especially if you bring out a nice car.\n[Ethan] At least they got their money's worth.\n[Tai] Yeah I know.",
+        "start": 1297.52,
+        "duration": 4.049
+    },
+    {
+        "text": "[Tai] Exactly. I know it's so funny how people love that shit, that's a huge business here. \n[Ethan] Do you feel like people...?",
+        "start": 1301.569,
+        "duration": 8.071
+    },
+    {
+        "text": "Fetishize money and rich people?\n[Tai] Yeah for sure. Money is good, but it's not as.. it's not as good at people \nthink.",
+        "start": 1309.68,
+        "duration": 6.619
+    },
+    {
+        "text": "[Ethan] Do you feel like.. I mean in a way though you sell this lifestyle?\n[Tai] You know the reason... that's a good question.",
+        "start": 1316.299,
+        "duration": 6.75
+    },
+    {
+        "text": "I have mixed feelings sometimes,",
+        "start": 1323.049,
+        "duration": 1.841
+    },
+    {
+        "text": "People question the ethics like but it's not a setup like that's how I feel like",
+        "start": 1324.89,
+        "duration": 6.5
+    },
+    {
+        "text": "If I was literally only getting cars to make Youtube commercials to get people to buy stuff",
+        "start": 1331.73,
+        "duration": 5.359
+    },
+    {
+        "text": "I'd feel guilty, but",
+        "start": 1337.09,
+        "duration": 1.36
+    },
+    {
+        "text": "I've had them for almost a decade before I ever made.. so I don't think there's anything wrong with showing your life.",
+        "start": 1338.45,
+        "duration": 5.54
+    },
+    {
+        "text": "And I do think the school system is messed up, because it doesn't show reward just pain just take tests",
+        "start": 1343.99,
+        "duration": 4.859
+    },
+    {
+        "text": "What's wrong with showing a kid",
+        "start": 1349.13,
+        "duration": 2.0
+    },
+    {
+        "text": "Lamborghini  if that makes...? I can't tell you I got more people reading books than anyone in history.",
+        "start": 1351.38,
+        "duration": 4.13
+    },
+    {
+        "text": "And I don't say that in a cocky way, But a fact",
+        "start": 1355.51,
+        "duration": 2.41
+    },
+    {
+        "text": "And if it takes showing them a Ferrari who fucking cares, and I'm sure I haven't done. Haven't always done it perfectly but",
+        "start": 1358.68,
+        "duration": 7.84
+    },
+    {
+        "text": "Nothing's fake about it, and I and I try my best to",
+        "start": 1366.54,
+        "duration": 5.54
+    },
+    {
+        "text": "Tell people it's not all about the money. Who knows? I'm not a saint. That's one thing",
+        "start": 1372.12,
+        "duration": 5.2
+    },
+    {
+        "text": "I'll say, I never purport to be.\n[Ethan] Well it beware of people who say they're saints.",
+        "start": 1377.329,
+        "duration": 4.29
+    },
+    {
+        "text": "[Tai] But hopefully I'm not a devil.\n[Ethan] Anyway. It's really nice man. Thanks for having us over. \n[Tai] Yeah, it's cool.",
+        "start": 1382.199,
+        "duration": 4.46
+    },
+    {
+        "text": "It's time for you to get out now.\n[Ethan] What?",
+        "start": 1386.659,
+        "duration": 1.72
+    },
+    {
+        "text": "[Tai] Alright, take them out.",
+        "start": 1388.379,
+        "duration": 2.0
+    },
+    {
+        "text": "[Ethan] Hey dude, what's up?  \n[Security Guard] Let's go sir.\n[Ethan] Are you serious? Tai!\nI thought we had a good time.",
+        "start": 1391.079,
+        "duration": 4.91
+    },
+    {
+        "text": "We had a good time dude!",
+        "start": 1398.88,
+        "duration": 2.0
+    },
+    {
+        "text": "Tai why are you doing this dude!?\nYou know you need a code for this right?",
+        "start": 1405.42,
+        "duration": 5.34
+    },
+    {
+        "text": "Tai!",
+        "start": 1410.76,
+        "duration": 0.5
+    }
+]

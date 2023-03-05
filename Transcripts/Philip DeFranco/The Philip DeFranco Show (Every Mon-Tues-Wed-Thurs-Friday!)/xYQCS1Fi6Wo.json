@@ -1,0 +1,2467 @@
+[
+    {
+        "text": "- Sup, you beautiful bastards?",
+        "start": 0.18,
+        "duration": 1.46
+    },
+    {
+        "text": "Hope you've had a fantastic Monday.",
+        "start": 1.64,
+        "duration": 1.68
+    },
+    {
+        "text": "Welcome back to the Philip DeFranco show.",
+        "start": 3.32,
+        "duration": 1.99
+    },
+    {
+        "text": "Buckle up,",
+        "start": 5.31,
+        "duration": 0.833
+    },
+    {
+        "text": "hit that Like button,",
+        "start": 6.143,
+        "duration": 0.877
+    },
+    {
+        "text": "and lets just jump into to it.",
+        "start": 7.02,
+        "duration": 0.947
+    },
+    {
+        "text": "And the first thing we're\ngonna talk about today",
+        "start": 7.967,
+        "duration": 1.543
+    },
+    {
+        "text": "is this news about Apple and California.",
+        "start": 9.51,
+        "duration": 2.16
+    },
+    {
+        "text": "This morning, Apple announced\nthat they are pledging",
+        "start": 11.67,
+        "duration": 2.208
+    },
+    {
+        "text": "$2.5 billion to combat\nthe growing housing crisis",
+        "start": 13.878,
+        "duration": 2.542
+    },
+    {
+        "text": "in California, and reportedly that money",
+        "start": 16.42,
+        "duration": 1.91
+    },
+    {
+        "text": "will break down like this:",
+        "start": 18.33,
+        "duration": 0.977
+    },
+    {
+        "text": "$1 billion, for an affordable\nhousing investment fund,",
+        "start": 19.307,
+        "duration": 2.153
+    },
+    {
+        "text": "which will reportedly be the first",
+        "start": 21.46,
+        "duration": 1.12
+    },
+    {
+        "text": "of its kind in California,\nand allow the state",
+        "start": 22.58,
+        "duration": 2.06
+    },
+    {
+        "text": "to open lines of credit for new housing",
+        "start": 24.64,
+        "duration": 1.69
+    },
+    {
+        "text": "for very low to moderate income residents.",
+        "start": 26.33,
+        "duration": 1.81
+    },
+    {
+        "text": "Then another billion will go",
+        "start": 28.14,
+        "duration": 0.91
+    },
+    {
+        "text": "to a first time home buyer\nmortgage assistance fund,",
+        "start": 29.05,
+        "duration": 2.42
+    },
+    {
+        "text": "which will reportedly\nhelp with down payment",
+        "start": 31.47,
+        "duration": 1.62
+    },
+    {
+        "text": "assistance, and provide\nmore opportunities to buy",
+        "start": 33.09,
+        "duration": 2.27
+    },
+    {
+        "text": "for people like service personnel,",
+        "start": 35.36,
+        "duration": 1.5
+    },
+    {
+        "text": "school employees,",
+        "start": 36.86,
+        "duration": 0.91
+    },
+    {
+        "text": "and veterans.",
+        "start": 37.77,
+        "duration": 0.833
+    },
+    {
+        "text": "Apple will also reportedly\nuse $300 million in land",
+        "start": 38.603,
+        "duration": 2.637
+    },
+    {
+        "text": "that it owns in San Jose\navailable for affordable housing,",
+        "start": 41.24,
+        "duration": 2.52
+    },
+    {
+        "text": "and the rest of the money\nwill go to a Bay area",
+        "start": 43.76,
+        "duration": 1.57
+    },
+    {
+        "text": "housing fund, and means to\nsupport vulnerable populations.",
+        "start": 45.33,
+        "duration": 2.84
+    },
+    {
+        "text": "But as of right now,\nthe company anticipates",
+        "start": 48.17,
+        "duration": 1.55
+    },
+    {
+        "text": "that it will take two years\nfor this plan to be utilized.",
+        "start": 49.72,
+        "duration": 2.23
+    },
+    {
+        "text": "Also, of note, though,\nis Apple is not the first",
+        "start": 51.95,
+        "duration": 1.65
+    },
+    {
+        "text": "major tech company to contribute\nto this ongoing issue:",
+        "start": 53.6,
+        "duration": 2.38
+    },
+    {
+        "text": "In October, we saw Facebook\ncommit $1 billion to address",
+        "start": 55.98,
+        "duration": 2.65
+    },
+    {
+        "text": "the housing crisis in California.",
+        "start": 58.63,
+        "duration": 1.43
+    },
+    {
+        "text": "Earlier this year, Google\nalso pledged $1 billion",
+        "start": 60.06,
+        "duration": 1.88
+    },
+    {
+        "text": "to build homes in the\nBay area, and in fact,",
+        "start": 61.94,
+        "duration": 2.21
+    },
+    {
+        "text": "even over in Seattle,\nwhich is experiencing",
+        "start": 64.15,
+        "duration": 1.63
+    },
+    {
+        "text": "a similar crisis, Microsoft\npledged $500 million",
+        "start": 65.78,
+        "duration": 2.37
+    },
+    {
+        "text": "for affordable housing.",
+        "start": 68.15,
+        "duration": 1.23
+    },
+    {
+        "text": "Right, and so it seems that\nyou have these tech companies",
+        "start": 69.38,
+        "duration": 1.7
+    },
+    {
+        "text": "lending a helping hand, they're\nproviding aid in a crisis,",
+        "start": 71.08,
+        "duration": 3.28
+    },
+    {
+        "text": "that also, it is important to point out,",
+        "start": 74.36,
+        "duration": 1.4
+    },
+    {
+        "text": "that many also say was\nstarted in the first place,",
+        "start": 75.76,
+        "duration": 2.44
+    },
+    {
+        "text": "by them.",
+        "start": 78.2,
+        "duration": 0.833
+    },
+    {
+        "text": "Right, so for those that don't know,",
+        "start": 79.033,
+        "duration": 0.847
+    },
+    {
+        "text": "housing in California has actually become",
+        "start": 79.88,
+        "duration": 1.46
+    },
+    {
+        "text": "increasingly difficult, due\nto both cost and demand.",
+        "start": 81.34,
+        "duration": 2.41
+    },
+    {
+        "text": "According to the National\nLow Income Housing Coalition,",
+        "start": 83.75,
+        "duration": 2.4
+    },
+    {
+        "text": "California has the second\nhighest housing wage",
+        "start": 86.15,
+        "duration": 2.41
+    },
+    {
+        "text": "in the country, meaning that\nit requires someone to earn",
+        "start": 88.56,
+        "duration": 1.997
+    },
+    {
+        "text": "$34.69 an hour, to afford\na two bedroom rental home.",
+        "start": 90.557,
+        "duration": 3.703
+    },
+    {
+        "text": "Right, and so it points out\nthat if someone were working",
+        "start": 94.26,
+        "duration": 1.55
+    },
+    {
+        "text": "the state's minimum wage,\nwhich is $12 an hour,",
+        "start": 95.81,
+        "duration": 2.24
+    },
+    {
+        "text": "they would need to work 116 hours a week",
+        "start": 98.05,
+        "duration": 2.31
+    },
+    {
+        "text": "to afford that two bedroom rental home.",
+        "start": 100.36,
+        "duration": 1.53
+    },
+    {
+        "text": "And on the demand side of this issue,",
+        "start": 101.89,
+        "duration": 1.34
+    },
+    {
+        "text": "homes are also not being added at the rate",
+        "start": 103.23,
+        "duration": 1.73
+    },
+    {
+        "text": "of the state's growing population.",
+        "start": 104.96,
+        "duration": 1.39
+    },
+    {
+        "text": "And for specifics here, according to",
+        "start": 106.35,
+        "duration": 1.13
+    },
+    {
+        "text": "the McKinsey Global Institute's\n2016 report on California's",
+        "start": 107.48,
+        "duration": 2.94
+    },
+    {
+        "text": "housing gap, since 2005,\nCalifornia has added 308 units",
+        "start": 110.42,
+        "duration": 3.281
+    },
+    {
+        "text": "for every 1,000 new inhabitants.",
+        "start": 113.701,
+        "duration": 2.219
+    },
+    {
+        "text": "And to help put that\nnumber in perspective,",
+        "start": 115.92,
+        "duration": 1.49
+    },
+    {
+        "text": "New York has produced far more than that,",
+        "start": 117.41,
+        "duration": 1.72
+    },
+    {
+        "text": "adding 549 units per 1,000\nin that same timeframe,",
+        "start": 119.13,
+        "duration": 3.24
+    },
+    {
+        "text": "which inches towards twice\nas many as California.",
+        "start": 122.37,
+        "duration": 2.05
+    },
+    {
+        "text": "And in fact, Apple also\naddressed some of these issues",
+        "start": 124.42,
+        "duration": 1.94
+    },
+    {
+        "text": "in their press release,\nnoting that in the Bay area",
+        "start": 126.36,
+        "duration": 1.93
+    },
+    {
+        "text": "in general, home ownership\nis at a seven year low.",
+        "start": 128.29,
+        "duration": 2.27
+    },
+    {
+        "text": "And pointing out, that\njust between April and June",
+        "start": 130.56,
+        "duration": 1.65
+    },
+    {
+        "text": "of this year, 30,000 people\nmoved out of San Francisco,",
+        "start": 132.21,
+        "duration": 2.343
+    },
+    {
+        "text": "with their statement\npointing towards residents",
+        "start": 134.553,
+        "duration": 1.857
+    },
+    {
+        "text": "being priced out as a potential cause.",
+        "start": 136.41,
+        "duration": 1.64
+    },
+    {
+        "text": "Apple CEO Tim Cooke, also\nspeaking on this issue,",
+        "start": 138.05,
+        "duration": 2.52
+    },
+    {
+        "text": "saying, \"Before the world\nknew the name Silicon Valley,",
+        "start": 140.57,
+        "duration": 2.4
+    },
+    {
+        "text": "and long before we carried\ntechnology in our pockets,",
+        "start": 142.97,
+        "duration": 2.44
+    },
+    {
+        "text": "Apple called this region home, and we feel",
+        "start": 145.41,
+        "duration": 1.85
+    },
+    {
+        "text": "a profound civic responsibility\nto ensure it remains",
+        "start": 147.26,
+        "duration": 2.37
+    },
+    {
+        "text": "a vibrant place where people can live,",
+        "start": 149.63,
+        "duration": 1.89
+    },
+    {
+        "text": "have a family and\ncontribute to the community.",
+        "start": 151.52,
+        "duration": 1.87
+    },
+    {
+        "text": "Affordable housing means\nstability and dignity,",
+        "start": 153.39,
+        "duration": 2.01
+    },
+    {
+        "text": "opportunity and pride.",
+        "start": 155.4,
+        "duration": 1.34
+    },
+    {
+        "text": "When these things fall\nout of reach for too many,",
+        "start": 156.74,
+        "duration": 1.74
+    },
+    {
+        "text": "we know the course we\nare on is unsustainable,",
+        "start": 158.48,
+        "duration": 2.23
+    },
+    {
+        "text": "and Apple is committed to\nbeing part of the solution.",
+        "start": 160.71,
+        "duration": 1.96
+    },
+    {
+        "text": "Now, with these tech\ncompanies throwing billions",
+        "start": 162.67,
+        "duration": 1.85
+    },
+    {
+        "text": "of dollars at this issue,\nwith the emotion attached",
+        "start": 164.52,
+        "duration": 3.67
+    },
+    {
+        "text": "to Tim Cooke's words here,\nyou might be wondering",
+        "start": 168.19,
+        "duration": 2.177
+    },
+    {
+        "text": "\"Why do people blame these companies?\"",
+        "start": 170.367,
+        "duration": 2.043
+    },
+    {
+        "text": "And well, the gist of it is:",
+        "start": 172.41,
+        "duration": 0.833
+    },
+    {
+        "text": "You have these big tech\ncompanies that are largely based",
+        "start": 173.243,
+        "duration": 2.047
+    },
+    {
+        "text": "in the Bay area, and\nneighboring parts of California,",
+        "start": 175.29,
+        "duration": 2.0
+    },
+    {
+        "text": "so you have their employees\nmoving into, or already living",
+        "start": 177.29,
+        "duration": 2.42
+    },
+    {
+        "text": "in those areas, and what\nwe end up kind of seeing",
+        "start": 179.71,
+        "duration": 1.71
+    },
+    {
+        "text": "happening, I think it was\nreally well summarized",
+        "start": 181.42,
+        "duration": 1.94
+    },
+    {
+        "text": "in a 2018 report:",
+        "start": 183.36,
+        "duration": 1.14
+    },
+    {
+        "text": "Right, you have Karen Chapple, a professor",
+        "start": 184.5,
+        "duration": 1.22
+    },
+    {
+        "text": "at the University of California\nBerkeley, researching",
+        "start": 185.72,
+        "duration": 1.666
+    },
+    {
+        "text": "governance, planning, and\ndevelopment of U.S. cities,",
+        "start": 187.386,
+        "duration": 2.314
+    },
+    {
+        "text": "and she said, \"We have high\ntech jobs, which generate",
+        "start": 189.7,
+        "duration": 2.337
+    },
+    {
+        "text": "\"a lot of service jobs:\nhair-cutting salons, nail salons",
+        "start": 192.037,
+        "duration": 3.24
+    },
+    {
+        "text": "\"and masseuses, yoga\nstudios and dog care,\"",
+        "start": 195.277,
+        "duration": 2.62
+    },
+    {
+        "text": "\"High-end jobs and\nlow-end jobs are created",
+        "start": 197.897,
+        "duration": 2.04
+    },
+    {
+        "text": "\"at the same time, but\nyou have a housing market",
+        "start": 199.937,
+        "duration": 1.87
+    },
+    {
+        "text": "\"that is really only producing\nfor folks at the high end",
+        "start": 201.807,
+        "duration": 2.02
+    },
+    {
+        "text": "\"of the scale.",
+        "start": 203.827,
+        "duration": 0.833
+    },
+    {
+        "text": "\"There is a mismatch.\"",
+        "start": 204.66,
+        "duration": 0.833
+    },
+    {
+        "text": "Right, and it's not this kind of",
+        "start": 205.493,
+        "duration": 0.833
+    },
+    {
+        "text": "out-of-nowhere 2019 mismatch,",
+        "start": 206.326,
+        "duration": 1.041
+    },
+    {
+        "text": "we've seen reports in the past\nabout how emergency workers",
+        "start": 207.367,
+        "duration": 3.133
+    },
+    {
+        "text": "and teachers, right,\nthey can't afford to live",
+        "start": 210.5,
+        "duration": 1.8
+    },
+    {
+        "text": "in the areas that they serve.",
+        "start": 212.3,
+        "duration": 1.14
+    },
+    {
+        "text": "Writing reports about how\nsuper-commutes for areas like this",
+        "start": 213.44,
+        "duration": 2.47
+    },
+    {
+        "text": "are becoming far more common.",
+        "start": 215.91,
+        "duration": 1.24
+    },
+    {
+        "text": "A super-commute, if you're unaware,",
+        "start": 217.15,
+        "duration": 1.09
+    },
+    {
+        "text": "is like it taking 90 or\nmore minutes to get to work.",
+        "start": 218.24,
+        "duration": 2.26
+    },
+    {
+        "text": "Right, and so essentially,\nthat can be boiled down to,",
+        "start": 220.5,
+        "duration": 1.69
+    },
+    {
+        "text": "as wealthy tech workers come\nin, lower income residents",
+        "start": 222.19,
+        "duration": 2.37
+    },
+    {
+        "text": "are often left in a bad\nspot, often being priced out.",
+        "start": 224.56,
+        "duration": 2.183
+    },
+    {
+        "text": "Now, that said, the tech companies\naren't the only ones here",
+        "start": 226.743,
+        "duration": 2.277
+    },
+    {
+        "text": "trying to help the issue.",
+        "start": 229.02,
+        "duration": 1.1
+    },
+    {
+        "text": "Early in October, California\nGovernor, Gavin Newsom,",
+        "start": 230.12,
+        "duration": 2.3
+    },
+    {
+        "text": "signed legislation that\nwill cap annual rent hikes",
+        "start": 232.42,
+        "duration": 2.16
+    },
+    {
+        "text": "throughout the state.",
+        "start": 234.58,
+        "duration": 0.833
+    },
+    {
+        "text": "Meaning, that most renters can see",
+        "start": 235.413,
+        "duration": 1.087
+    },
+    {
+        "text": "no more than a five percent\nincrease, plus inflation,",
+        "start": 236.5,
+        "duration": 2.43
+    },
+    {
+        "text": "over the next decade, though it's argued",
+        "start": 238.93,
+        "duration": 1.54
+    },
+    {
+        "text": "that the state still has a long way to go,",
+        "start": 240.47,
+        "duration": 1.53
+    },
+    {
+        "text": "because as housing becomes\nexpensive and difficult to find,",
+        "start": 242.0,
+        "duration": 2.32
+    },
+    {
+        "text": "it leads to no shortage of other issues.",
+        "start": 244.32,
+        "duration": 1.6
+    },
+    {
+        "text": "With one primary one being homelessness.",
+        "start": 245.92,
+        "duration": 1.97
+    },
+    {
+        "text": "With San Jose, alone, for example,",
+        "start": 247.89,
+        "duration": 1.49
+    },
+    {
+        "text": "saying their homeless\npopulation has increased 40%",
+        "start": 249.38,
+        "duration": 2.48
+    },
+    {
+        "text": "in just two years.",
+        "start": 251.86,
+        "duration": 0.99
+    },
+    {
+        "text": "But ultimately, that's where\nwe are with the situation",
+        "start": 252.85,
+        "duration": 1.72
+    },
+    {
+        "text": "right now, and I want to\npass the question off to you",
+        "start": 254.57,
+        "duration": 1.91
+    },
+    {
+        "text": "on this.",
+        "start": 256.48,
+        "duration": 0.833
+    },
+    {
+        "text": "Obviously with this one, that\nthere are a few key points.",
+        "start": 257.313,
+        "duration": 1.528
+    },
+    {
+        "text": "One: What do you think about\nthese massive tech companies",
+        "start": 258.841,
+        "duration": 2.779
+    },
+    {
+        "text": "getting involved, throwing\nbillions of dollars",
+        "start": 261.62,
+        "duration": 2.27
+    },
+    {
+        "text": "at this issue?",
+        "start": 263.89,
+        "duration": 0.833
+    },
+    {
+        "text": "Also, what are your thoughts\non the government capping",
+        "start": 264.723,
+        "duration": 1.657
+    },
+    {
+        "text": "how much rent can be raised?",
+        "start": 266.38,
+        "duration": 1.6
+    },
+    {
+        "text": "Are you happy?",
+        "start": 267.98,
+        "duration": 0.833
+    },
+    {
+        "text": "You think that the government\nis protecting people here?",
+        "start": 268.813,
+        "duration": 1.837
+    },
+    {
+        "text": "Or are you angry because\nyou see the government",
+        "start": 270.65,
+        "duration": 2.01
+    },
+    {
+        "text": "messing with the free market?",
+        "start": 272.66,
+        "duration": 1.25
+    },
+    {
+        "text": "Also, if you have a problem\nwith the government here,",
+        "start": 273.91,
+        "duration": 1.57
+    },
+    {
+        "text": "are you more on board\nwith a private solution",
+        "start": 275.48,
+        "duration": 2.27
+    },
+    {
+        "text": "from these tech companies?",
+        "start": 277.75,
+        "duration": 1.01
+    },
+    {
+        "text": "Yeah, any and all thoughts\nyou have on this one,",
+        "start": 278.76,
+        "duration": 1.52
+    },
+    {
+        "text": "I would love to see.",
+        "start": 280.28,
+        "duration": 0.87
+    },
+    {
+        "text": "But from that, I want to\nshare some things I love today",
+        "start": 281.15,
+        "duration": 2.6
+    },
+    {
+        "text": "in, \"Today in Awesome,\"\nbrought to you by Drop,",
+        "start": 283.75,
+        "duration": 2.32
+    },
+    {
+        "text": "formerly known as Massdrop.",
+        "start": 286.07,
+        "duration": 0.833
+    },
+    {
+        "text": "And, if you haven't already noticed,",
+        "start": 286.903,
+        "duration": 1.837
+    },
+    {
+        "text": "I'm wearing one of their brand new",
+        "start": 288.74,
+        "duration": 1.2
+    },
+    {
+        "text": "and incredibly comfortable",
+        "start": 289.94,
+        "duration": 1.12
+    },
+    {
+        "text": "Peak to Plateau Yakino Wool Sweaters.",
+        "start": 291.06,
+        "duration": 1.93
+    },
+    {
+        "text": "And, if you're wondering, what Yakino is,",
+        "start": 292.99,
+        "duration": 2.13
+    },
+    {
+        "text": "I mean, that's...that's embarrassing.",
+        "start": 295.12,
+        "duration": 1.79
+    },
+    {
+        "text": "Am I--.",
+        "start": 296.91,
+        "duration": 0.833
+    },
+    {
+        "text": "Am I actually pronouncing it right?",
+        "start": 297.743,
+        "duration": 0.833
+    },
+    {
+        "text": "(laughs)",
+        "start": 298.576,
+        "duration": 0.833
+    },
+    {
+        "text": "It's a blend of Marino wool, and Yak wool.",
+        "start": 299.409,
+        "duration": 1.151
+    },
+    {
+        "text": "And that matters, because\nMarino is moisture-wicking,",
+        "start": 300.56,
+        "duration": 1.99
+    },
+    {
+        "text": "and Yak wool is exceptionally\nbreathable and soft.",
+        "start": 302.55,
+        "duration": 2.27
+    },
+    {
+        "text": "And so you put them together,\nand you get this sweater",
+        "start": 304.82,
+        "duration": 1.42
+    },
+    {
+        "text": "that feels like a big, warm\nhug, while also being able",
+        "start": 306.24,
+        "duration": 2.49
+    },
+    {
+        "text": "to withstand all-weather, outdoor use.",
+        "start": 308.73,
+        "duration": 1.72
+    },
+    {
+        "text": "And with this, Drop teamed\nup with the New Zealand-based",
+        "start": 310.45,
+        "duration": 1.75
+    },
+    {
+        "text": "clothing makers of Peak to\nPlateau, to get the design",
+        "start": 312.2,
+        "duration": 2.13
+    },
+    {
+        "text": "and fit just right on this sweater.",
+        "start": 314.33,
+        "duration": 1.58
+    },
+    {
+        "text": "And also, if my favorite\nisn't your favorite,",
+        "start": 315.91,
+        "duration": 2.16
+    },
+    {
+        "text": "they also have it in\nthree fantastic styles.",
+        "start": 318.07,
+        "duration": 2.02
+    },
+    {
+        "text": "And on the note of fantastic,",
+        "start": 320.09,
+        "duration": 1.32
+    },
+    {
+        "text": "Drop is offering this\nexclusive sweater for $35",
+        "start": 321.41,
+        "duration": 2.52
+    },
+    {
+        "text": "off its original price, making\nit just $65 for a sweater",
+        "start": 323.93,
+        "duration": 2.85
+    },
+    {
+        "text": "that you will not want to take off.",
+        "start": 326.78,
+        "duration": 1.3
+    },
+    {
+        "text": "And so, if you're looking\nto snag one for yourself,",
+        "start": 328.08,
+        "duration": 1.68
+    },
+    {
+        "text": "and/or, maybe it's a\npresent for someone else,",
+        "start": 329.76,
+        "duration": 1.85
+    },
+    {
+        "text": "just head on over to DropDeFranco.com.",
+        "start": 331.61,
+        "duration": 1.89
+    },
+    {
+        "text": "And, hey!",
+        "start": 333.5,
+        "duration": 0.833
+    },
+    {
+        "text": "While you're there, you\ncan also take a look",
+        "start": 334.333,
+        "duration": 0.833
+    },
+    {
+        "text": "at some of Drop's other\nexclusive collaborations",
+        "start": 335.166,
+        "duration": 1.129
+    },
+    {
+        "text": "with top brands.",
+        "start": 336.295,
+        "duration": 1.275
+    },
+    {
+        "text": "But yeah, main point:",
+        "start": 337.57,
+        "duration": 0.95
+    },
+    {
+        "text": "click it, check it out, and enjoy.",
+        "start": 338.52,
+        "duration": 1.7
+    },
+    {
+        "text": "And the first bit of awesome\ntoday, is a recommendation:",
+        "start": 340.22,
+        "duration": 2.51
+    },
+    {
+        "text": "You know, every now and then,\nwhen I really love something,",
+        "start": 342.73,
+        "duration": 2.14
+    },
+    {
+        "text": "I recommend a game, a TV series, a movie.",
+        "start": 344.87,
+        "duration": 2.82
+    },
+    {
+        "text": "I'll never stop recommending\n\"Train to Busan,\"",
+        "start": 347.69,
+        "duration": 2.24
+    },
+    {
+        "text": "it's on Netflix, right now.",
+        "start": 349.93,
+        "duration": 1.16
+    },
+    {
+        "text": "And if you haven't watched\nit, that is a travesty.",
+        "start": 351.09,
+        "duration": 1.83
+    },
+    {
+        "text": "But, today's recommendation\nis a game/experience.",
+        "start": 352.92,
+        "duration": 2.83
+    },
+    {
+        "text": "Transparently, they are in\nno way paying me to say this.",
+        "start": 355.75,
+        "duration": 3.1
+    },
+    {
+        "text": "I went to this place over\nthe weekend with my wife",
+        "start": 358.85,
+        "duration": 1.68
+    },
+    {
+        "text": "and two friends, called, \"Sandbox VR.\"",
+        "start": 360.53,
+        "duration": 2.17
+    },
+    {
+        "text": "It's a giant VR room.",
+        "start": 362.7,
+        "duration": 1.23
+    },
+    {
+        "text": "Everyone's got their\nown individual VR packs,",
+        "start": 363.93,
+        "duration": 2.49
+    },
+    {
+        "text": "sensors on their hands, their feet.",
+        "start": 366.42,
+        "duration": 2.24
+    },
+    {
+        "text": "Some sort of weaponry.",
+        "start": 368.66,
+        "duration": 1.1
+    },
+    {
+        "text": "Then you get to play one of several games;",
+        "start": 369.76,
+        "duration": 1.49
+    },
+    {
+        "text": "By far, the best one was\nthe zombie-shooter one.",
+        "start": 371.25,
+        "duration": 2.72
+    },
+    {
+        "text": "It is genuinely so fun, and\nI'm not just saying that",
+        "start": 373.97,
+        "duration": 1.463
+    },
+    {
+        "text": "because I scored the\nmost points on my team.",
+        "start": 375.433,
+        "duration": 2.427
+    },
+    {
+        "text": "I think, unfortunately,\nthough, outside of Asia,",
+        "start": 377.86,
+        "duration": 1.83
+    },
+    {
+        "text": "in North America, they only have places in",
+        "start": 379.69,
+        "duration": 1.9
+    },
+    {
+        "text": "LA, San Francisco, and Vancouver.",
+        "start": 381.59,
+        "duration": 1.53
+    },
+    {
+        "text": "But if you do get the chance,",
+        "start": 383.12,
+        "duration": 0.833
+    },
+    {
+        "text": "and I have a feeling that\nit's probably the most fun",
+        "start": 383.953,
+        "duration": 2.197
+    },
+    {
+        "text": "when it's four to six people,\ndefinitely give it a shot.",
+        "start": 386.15,
+        "duration": 2.5
+    },
+    {
+        "text": "It was all of our first\ntime over the weekend,",
+        "start": 388.65,
+        "duration": 1.92
+    },
+    {
+        "text": "but definitely going back.",
+        "start": 390.57,
+        "duration": 1.24
+    },
+    {
+        "text": "Then!",
+        "start": 391.81,
+        "duration": 0.833
+    },
+    {
+        "text": "If you didn't see it over\nthe weekend, I'm so excited!",
+        "start": 392.643,
+        "duration": 1.474
+    },
+    {
+        "text": "We got the confirmation\nthat on April 8th, 2022,",
+        "start": 394.117,
+        "duration": 2.973
+    },
+    {
+        "text": "we're gonna get the next\n\"Spiderman: Into the Spiderverse.\"",
+        "start": 397.09,
+        "duration": 2.86
+    },
+    {
+        "text": "Which, I will say, the\noriginal is one of my favorites",
+        "start": 399.95,
+        "duration": 1.86
+    },
+    {
+        "text": "of all time, so I'm both excited, and--.",
+        "start": 401.81,
+        "duration": 2.183
+    },
+    {
+        "text": "(nervous laugh)",
+        "start": 403.993,
+        "duration": 0.833
+    },
+    {
+        "text": "Always nervous.",
+        "start": 404.826,
+        "duration": 0.833
+    },
+    {
+        "text": "Then, Casually Explained gave us cycling.",
+        "start": 405.659,
+        "duration": 1.981
+    },
+    {
+        "text": "Then, SciShow gave us five\nthings we still get wrong",
+        "start": 407.64,
+        "duration": 2.06
+    },
+    {
+        "text": "about human reproduction.",
+        "start": 409.7,
+        "duration": 1.17
+    },
+    {
+        "text": "We had The Action Lab\nputting a giant ostrich egg",
+        "start": 410.87,
+        "duration": 2.04
+    },
+    {
+        "text": "in a vacuum chamber.",
+        "start": 412.91,
+        "duration": 1.01
+    },
+    {
+        "text": "We had Pharrell and Rick Rubin\nhaving an epic conversation,",
+        "start": 413.92,
+        "duration": 2.54
+    },
+    {
+        "text": "we have John Legend and Chrissie Tiegen",
+        "start": 416.46,
+        "duration": 1.44
+    },
+    {
+        "text": "taking a lie detector test,\nand if you want to see",
+        "start": 417.9,
+        "duration": 1.83
+    },
+    {
+        "text": "the full versions of\neverything I just shared,",
+        "start": 419.73,
+        "duration": 1.74
+    },
+    {
+        "text": "the secret link of the day,",
+        "start": 421.47,
+        "duration": 1.08
+    },
+    {
+        "text": "really, anything at all,",
+        "start": 422.55,
+        "duration": 1.64
+    },
+    {
+        "text": "links, as always, are in\nthe description down below.",
+        "start": 424.19,
+        "duration": 1.863
+    },
+    {
+        "text": "Then, in online\nentertainment/business news,",
+        "start": 426.053,
+        "duration": 2.807
+    },
+    {
+        "text": "we should definitely talk\nabout the chaos, and success,",
+        "start": 428.86,
+        "duration": 2.64
+    },
+    {
+        "text": "of the Shane Dawson/Jeffree Starr launch.",
+        "start": 431.5,
+        "duration": 1.73
+    },
+    {
+        "text": "Of course, as we briefly\ntouched on previous shows,",
+        "start": 433.23,
+        "duration": 2.29
+    },
+    {
+        "text": "this was a highly anticipated moment.",
+        "start": 435.52,
+        "duration": 1.95
+    },
+    {
+        "text": "Right, you had arguably\ntwo of the largest creators",
+        "start": 437.47,
+        "duration": 1.7
+    },
+    {
+        "text": "on the platform putting\nout a massive make up",
+        "start": 439.17,
+        "duration": 2.3
+    },
+    {
+        "text": "collaboration, with a promotion like,",
+        "start": 441.47,
+        "duration": 1.94
+    },
+    {
+        "text": "we've really never seen before.",
+        "start": 443.41,
+        "duration": 1.18
+    },
+    {
+        "text": "A six-part, up to this point, docu-series.",
+        "start": 444.59,
+        "duration": 2.31
+    },
+    {
+        "text": "A docu-series where each episode",
+        "start": 446.9,
+        "duration": 1.61
+    },
+    {
+        "text": "got tens of millions of views.",
+        "start": 448.51,
+        "duration": 2.28
+    },
+    {
+        "text": "Fans were getting emotionally attached",
+        "start": 450.79,
+        "duration": 1.81
+    },
+    {
+        "text": "to the process and the product.",
+        "start": 452.6,
+        "duration": 1.64
+    },
+    {
+        "text": "Right, and even Jeffree\nStarr, who, I mean obviously,",
+        "start": 454.24,
+        "duration": 1.88
+    },
+    {
+        "text": "he does benefit from this\nsituation, said that this release",
+        "start": 456.12,
+        "duration": 2.71
+    },
+    {
+        "text": "was gonna be a size\nthat he had really never",
+        "start": 458.83,
+        "duration": 1.62
+    },
+    {
+        "text": "touched on before.",
+        "start": 460.45,
+        "duration": 0.833
+    },
+    {
+        "text": "And so, when Friday rolled\naround, the big question was,",
+        "start": 461.283,
+        "duration": 1.654
+    },
+    {
+        "text": "\"How fast will this sell out?\"",
+        "start": 462.937,
+        "duration": 2.073
+    },
+    {
+        "text": "And the answer to that was,",
+        "start": 465.01,
+        "duration": 1.227
+    },
+    {
+        "text": "\"Not immediately, but not\nbecause of lack of interest,",
+        "start": 466.237,
+        "duration": 2.63
+    },
+    {
+        "text": "\"but rather, because there was too much.\"",
+        "start": 468.867,
+        "duration": 1.473
+    },
+    {
+        "text": "Fans completely overwhelmed the website",
+        "start": 470.34,
+        "duration": 1.95
+    },
+    {
+        "text": "before the company behind it, Shopify,",
+        "start": 472.29,
+        "duration": 1.127
+    },
+    {
+        "text": "could even finish listing\neach item for sale.",
+        "start": 473.417,
+        "duration": 2.633
+    },
+    {
+        "text": "And so, that's why, minutes\nafter the scheduled launch time,",
+        "start": 476.05,
+        "duration": 1.69
+    },
+    {
+        "text": "we saw Jeffree tweeting,\nthat the site had crashed.",
+        "start": 477.74,
+        "duration": 2.21
+    },
+    {
+        "text": "Adding that Shane is in a\nball crying on the floor.",
+        "start": 479.95,
+        "duration": 2.63
+    },
+    {
+        "text": "We saw screenshot after\nscreenshot from fans,",
+        "start": 482.58,
+        "duration": 2.33
+    },
+    {
+        "text": "showing the site being broken.",
+        "start": 484.91,
+        "duration": 1.56
+    },
+    {
+        "text": "Right, and issues persisted\nfor hours, with many users",
+        "start": 486.47,
+        "duration": 1.98
+    },
+    {
+        "text": "complaining that the site was crashing,",
+        "start": 488.45,
+        "duration": 1.4
+    },
+    {
+        "text": "there were error messages,\nmissing confirmation emails,",
+        "start": 489.85,
+        "duration": 2.31
+    },
+    {
+        "text": "and other issues.",
+        "start": 492.16,
+        "duration": 0.9
+    },
+    {
+        "text": "At the same time, though,\nyou also had people choosing",
+        "start": 493.06,
+        "duration": 1.63
+    },
+    {
+        "text": "to purchase the palette at\ntheir local Morphy's stores,",
+        "start": 494.69,
+        "duration": 1.97
+    },
+    {
+        "text": "but they still had to wait in huge lines",
+        "start": 496.66,
+        "duration": 1.087
+    },
+    {
+        "text": "to get their hand on any products.",
+        "start": 497.747,
+        "duration": 1.623
+    },
+    {
+        "text": "But ultimately, online,\nthings started working.",
+        "start": 499.37,
+        "duration": 2.0
+    },
+    {
+        "text": "The Conspiracy palette\ncompletely sold out,",
+        "start": 501.37,
+        "duration": 1.87
+    },
+    {
+        "text": "middle of the day.",
+        "start": 503.24,
+        "duration": 0.833
+    },
+    {
+        "text": "With the rest of the line\nselling out shortly after.",
+        "start": 504.073,
+        "duration": 1.717
+    },
+    {
+        "text": "And although we don't know\nthe exact figures just yet,",
+        "start": 505.79,
+        "duration": 1.8
+    },
+    {
+        "text": "you have people saying this\nlaunch probably broke a record.",
+        "start": 507.59,
+        "duration": 2.55
+    },
+    {
+        "text": "Also, according to Jeffree Starr,",
+        "start": 510.14,
+        "duration": 0.9
+    },
+    {
+        "text": "the statistics will be\nreleased in the coming days.",
+        "start": 511.04,
+        "duration": 1.93
+    },
+    {
+        "text": "All right, so while there was\na massive bump in the road,",
+        "start": 512.97,
+        "duration": 2.2
+    },
+    {
+        "text": "with, you know, the site\ncrashing, it not working,",
+        "start": 515.17,
+        "duration": 2.37
+    },
+    {
+        "text": "it also appears to be just,\nkind of a massive win.",
+        "start": 517.54,
+        "duration": 1.96
+    },
+    {
+        "text": "One: because things ended\nup selling out anyway,",
+        "start": 519.5,
+        "duration": 1.93
+    },
+    {
+        "text": "and if the documentary\nseries is to be believed,",
+        "start": 521.43,
+        "duration": 2.275
+    },
+    {
+        "text": "Shane Dawson just made\nsome \"Fuck You\" money.",
+        "start": 523.705,
+        "duration": 2.385
+    },
+    {
+        "text": "Right, estimates in the series,\njust around the palette,",
+        "start": 526.09,
+        "duration": 2.29
+    },
+    {
+        "text": "I mean, they were already\ntalking about eight figures.",
+        "start": 528.38,
+        "duration": 1.84
+    },
+    {
+        "text": "And, everything being broken,\nShane Dawson's reaction,",
+        "start": 530.22,
+        "duration": 2.92
+    },
+    {
+        "text": "apparently that's gonna\nbe in episode seven,",
+        "start": 533.14,
+        "duration": 1.69
+    },
+    {
+        "text": "so it's content.",
+        "start": 534.83,
+        "duration": 0.833
+    },
+    {
+        "text": "So yeah, it just appears like\na massive win in general,",
+        "start": 535.663,
+        "duration": 2.157
+    },
+    {
+        "text": "although you did have\nsome people complaining,",
+        "start": 537.82,
+        "duration": 1.59
+    },
+    {
+        "text": "all right, specifically\naround the docu-series",
+        "start": 539.41,
+        "duration": 1.55
+    },
+    {
+        "text": "in lead up to this\nlaunch, it has now accrued",
+        "start": 540.96,
+        "duration": 2.1
+    },
+    {
+        "text": "over 110 million views,",
+        "start": 543.06,
+        "duration": 1.75
+    },
+    {
+        "text": "you had some people complaining\nthat they felt click baited.",
+        "start": 544.81,
+        "duration": 1.92
+    },
+    {
+        "text": "And this, seemingly\nstemming from the trailer",
+        "start": 546.73,
+        "duration": 1.44
+    },
+    {
+        "text": "for this series.",
+        "start": 548.17,
+        "duration": 0.84
+    },
+    {
+        "text": "In the trailer, it appears\nthat Dawson includes footage",
+        "start": 549.01,
+        "duration": 1.73
+    },
+    {
+        "text": "of him reacting to Tati's initial video,",
+        "start": 550.74,
+        "duration": 1.89
+    },
+    {
+        "text": "and James's subscriber loss",
+        "start": 552.63,
+        "duration": 1.42
+    },
+    {
+        "text": "from that massive controversy,\nso in this series,",
+        "start": 554.05,
+        "duration": 2.23
+    },
+    {
+        "text": "it seems to have moved\nin chronological order,",
+        "start": 556.28,
+        "duration": 1.421
+    },
+    {
+        "text": "you don't really see a dive into that.",
+        "start": 557.701,
+        "duration": 2.079
+    },
+    {
+        "text": "And so you had some accusing\nhim of click baiting people",
+        "start": 559.78,
+        "duration": 1.86
+    },
+    {
+        "text": "into watching this docu-series.",
+        "start": 561.64,
+        "duration": 1.31
+    },
+    {
+        "text": "Although, some have also suggested",
+        "start": 562.95,
+        "duration": 1.18
+    },
+    {
+        "text": "that Dawson excluded\nthe drama out of respect",
+        "start": 564.13,
+        "duration": 1.68
+    },
+    {
+        "text": "for those involved, especially since",
+        "start": 565.81,
+        "duration": 1.4
+    },
+    {
+        "text": "both Tati Westbrook and James\nCharles recently released",
+        "start": 567.21,
+        "duration": 2.16
+    },
+    {
+        "text": "products last month.",
+        "start": 569.37,
+        "duration": 0.97
+    },
+    {
+        "text": "All right, so you had people\nsaying that maybe he thought",
+        "start": 570.34,
+        "duration": 1.24
+    },
+    {
+        "text": "it was too harmful to\nbring all that back up,",
+        "start": 571.58,
+        "duration": 1.62
+    },
+    {
+        "text": "or that it might seem petty, or targeted,",
+        "start": 573.2,
+        "duration": 2.21
+    },
+    {
+        "text": "considering the time of his release.",
+        "start": 575.41,
+        "duration": 1.4
+    },
+    {
+        "text": "Some also saying that maybe\nShane Dawson decided to pivot",
+        "start": 576.81,
+        "duration": 2.34
+    },
+    {
+        "text": "mid-series, with people\nspecifically pointing to a poll",
+        "start": 579.15,
+        "duration": 2.05
+    },
+    {
+        "text": "that Shane Dawson posted\nearlier in the series,",
+        "start": 581.2,
+        "duration": 1.84
+    },
+    {
+        "text": "asking viewers what they\nwanted to see more of.",
+        "start": 583.04,
+        "duration": 1.57
+    },
+    {
+        "text": "Right, more behind the scenes\nof business, or the drama,",
+        "start": 584.61,
+        "duration": 2.1
+    },
+    {
+        "text": "and this poll, seemingly\ncoming after the tease",
+        "start": 586.71,
+        "duration": 1.63
+    },
+    {
+        "text": "that we saw in the first episode:",
+        "start": 588.34,
+        "duration": 1.61
+    },
+    {
+        "text": "- So, you know.",
+        "start": 589.95,
+        "duration": 0.833
+    },
+    {
+        "text": "Usually, me, James Charles, Jaclyn Hill,",
+        "start": 590.783,
+        "duration": 2.093
+    },
+    {
+        "text": "well, whoever's free.",
+        "start": 592.876,
+        "duration": 1.044
+    },
+    {
+        "text": "- Yeah, I--.",
+        "start": 593.92,
+        "duration": 1.02
+    },
+    {
+        "text": "That's who we like then.",
+        "start": 594.94,
+        "duration": 1.036
+    },
+    {
+        "text": "- Yes.",
+        "start": 595.976,
+        "duration": 0.833
+    },
+    {
+        "text": "- Okay.\n- Today.",
+        "start": 596.809,
+        "duration": 0.833
+    },
+    {
+        "text": "(laughs)",
+        "start": 597.642,
+        "duration": 0.833
+    },
+    {
+        "text": "- And as far as my full opinion on this,",
+        "start": 598.475,
+        "duration": 1.301
+    },
+    {
+        "text": "one: I will say, I'm gonna\nhold it until I see the end",
+        "start": 599.776,
+        "duration": 2.844
+    },
+    {
+        "text": "of this series, but also,",
+        "start": 602.62,
+        "duration": 1.04
+    },
+    {
+        "text": "two: based off of murmurings\nI've heard in the community",
+        "start": 603.66,
+        "duration": 2.08
+    },
+    {
+        "text": "of other things that were shot,",
+        "start": 605.74,
+        "duration": 1.76
+    },
+    {
+        "text": "I think either, one:\nthere was a creative pivot",
+        "start": 607.5,
+        "duration": 2.2
+    },
+    {
+        "text": "after the first episode was released,",
+        "start": 609.7,
+        "duration": 1.53
+    },
+    {
+        "text": "or two: there still might be an inclusion",
+        "start": 611.23,
+        "duration": 1.75
+    },
+    {
+        "text": "near the end of this series.",
+        "start": 612.98,
+        "duration": 1.51
+    },
+    {
+        "text": "So, I guess regarding that\npoint, we'll have to wait and see",
+        "start": 614.49,
+        "duration": 1.75
+    },
+    {
+        "text": "but really, the main thing,\nto me, regarding this series,",
+        "start": 616.24,
+        "duration": 2.52
+    },
+    {
+        "text": "the power of online\npersonality is proving,",
+        "start": 618.76,
+        "duration": 2.42
+    },
+    {
+        "text": "once again, that it is king AND queen.",
+        "start": 621.18,
+        "duration": 2.28
+    },
+    {
+        "text": "Something that I think\npeople kind of understood,",
+        "start": 623.46,
+        "duration": 1.5
+    },
+    {
+        "text": "right, they look to the\nKylie Jenners of the world,",
+        "start": 624.96,
+        "duration": 1.89
+    },
+    {
+        "text": "but you know, a lot of that online success",
+        "start": 626.85,
+        "duration": 1.93
+    },
+    {
+        "text": "comes from mainstream success.",
+        "start": 628.78,
+        "duration": 1.56
+    },
+    {
+        "text": "But here, regardless of your\nopinion of Shane Dawson,",
+        "start": 630.34,
+        "duration": 2.239
+    },
+    {
+        "text": "and/or Jeffree Starr, you have\ntwo organic, online-created",
+        "start": 632.579,
+        "duration": 3.511
+    },
+    {
+        "text": "creators just destroying sales.",
+        "start": 636.09,
+        "duration": 2.51
+    },
+    {
+        "text": "But yeah, around the story,\nespecially if you were invested,",
+        "start": 638.6,
+        "duration": 2.18
+    },
+    {
+        "text": "you watched all the\nseries, part of the series,",
+        "start": 640.78,
+        "duration": 2.32
+    },
+    {
+        "text": "I'd love to know your\nthoughts on the launch",
+        "start": 643.1,
+        "duration": 1.8
+    },
+    {
+        "text": "and everything else.",
+        "start": 644.9,
+        "duration": 0.833
+    },
+    {
+        "text": "And then, finally, let's\ntalk about this huge news",
+        "start": 645.733,
+        "duration": 1.937
+    },
+    {
+        "text": "coming out of India,\nspecifically around the capital,",
+        "start": 647.67,
+        "duration": 2.06
+    },
+    {
+        "text": "New Delhi.",
+        "start": 649.73,
+        "duration": 0.833
+    },
+    {
+        "text": "Over the last few days, New\nDelhi and surrounding areas",
+        "start": 650.563,
+        "duration": 2.187
+    },
+    {
+        "text": "have experienced what some have described",
+        "start": 652.75,
+        "duration": 1.4
+    },
+    {
+        "text": "as record levels of toxic smog.",
+        "start": 654.15,
+        "duration": 1.727
+    },
+    {
+        "text": "And this poisonous smog,\nwhich the Delhi Chief Minister",
+        "start": 655.877,
+        "duration": 2.293
+    },
+    {
+        "text": "described as, \"Unbearable Pollution,\"",
+        "start": 658.17,
+        "duration": 1.69
+    },
+    {
+        "text": "has taken over this city of\nmore than 20 million people.",
+        "start": 659.86,
+        "duration": 2.42
+    },
+    {
+        "text": "And as of right now, it\nis not entirely clear",
+        "start": 662.28,
+        "duration": 1.62
+    },
+    {
+        "text": "how high the pollution levels are,",
+        "start": 663.9,
+        "duration": 1.71
+    },
+    {
+        "text": "and that's because the reported\nlevels were off the charts,",
+        "start": 665.61,
+        "duration": 2.68
+    },
+    {
+        "text": "literally.",
+        "start": 668.29,
+        "duration": 0.833
+    },
+    {
+        "text": "With some reporting, that\nmost areas in the city",
+        "start": 669.123,
+        "duration": 1.457
+    },
+    {
+        "text": "showed an air quality index of 999,",
+        "start": 670.58,
+        "duration": 2.68
+    },
+    {
+        "text": "because the meters can't\nactually record above that.",
+        "start": 673.26,
+        "duration": 2.03
+    },
+    {
+        "text": "But even if the number\nwasn't capped at 999,",
+        "start": 675.29,
+        "duration": 2.43
+    },
+    {
+        "text": "and likely above it, even if it was",
+        "start": 677.72,
+        "duration": 1.54
+    },
+    {
+        "text": "just 999, that number is\nstill three times higher",
+        "start": 679.26,
+        "duration": 3.33
+    },
+    {
+        "text": "than the hazardous level on\nthe global air quality index.",
+        "start": 682.59,
+        "duration": 2.63
+    },
+    {
+        "text": "With others reporting that the\nlevels of dangerous particles",
+        "start": 685.22,
+        "duration": 2.05
+    },
+    {
+        "text": "were more than 20 times higher",
+        "start": 687.27,
+        "duration": 1.55
+    },
+    {
+        "text": "than the World Health\nOrganization's recommended",
+        "start": 688.82,
+        "duration": 1.84
+    },
+    {
+        "text": "safe, daily maximum.",
+        "start": 690.66,
+        "duration": 1.01
+    },
+    {
+        "text": "Which, is the equivalent of\nsmoking more than two packs",
+        "start": 691.67,
+        "duration": 2.3
+    },
+    {
+        "text": "of cigarettes a day.",
+        "start": 693.97,
+        "duration": 0.833
+    },
+    {
+        "text": "So with this situation, the\nIndian government responded",
+        "start": 694.803,
+        "duration": 2.017
+    },
+    {
+        "text": "on Friday, by declaring a\npublic health emergency,",
+        "start": 696.82,
+        "duration": 2.14
+    },
+    {
+        "text": "shutting down all primary\nschools, and halting construction",
+        "start": 698.96,
+        "duration": 2.47
+    },
+    {
+        "text": "projects for several days.",
+        "start": 701.43,
+        "duration": 1.2
+    },
+    {
+        "text": "The government has also\nsaid that they would",
+        "start": 702.63,
+        "duration": 1.02
+    },
+    {
+        "text": "distribute masks to five\nmillion children in the city.",
+        "start": 703.65,
+        "duration": 2.4
+    },
+    {
+        "text": "Also, people have been\nencouraged to stay inside",
+        "start": 706.05,
+        "duration": 1.88
+    },
+    {
+        "text": "as much as possible.",
+        "start": 707.93,
+        "duration": 0.88
+    },
+    {
+        "text": "This, as we're seeing continued reports",
+        "start": 708.81,
+        "duration": 1.39
+    },
+    {
+        "text": "of people with respiratory\nproblems, headaches,",
+        "start": 710.2,
+        "duration": 1.94
+    },
+    {
+        "text": "and burning eyes.",
+        "start": 712.14,
+        "duration": 0.833
+    },
+    {
+        "text": "And it's also not just health problems.",
+        "start": 712.973,
+        "duration": 1.337
+    },
+    {
+        "text": "On Sunday, we saw flights\nbeing delayed and diverted,",
+        "start": 714.31,
+        "duration": 2.55
+    },
+    {
+        "text": "due to the fact that pilots\ncouldn't see through the smog.",
+        "start": 716.86,
+        "duration": 1.97
+    },
+    {
+        "text": "Smog, that has also\nreportedly caused traffic",
+        "start": 718.83,
+        "duration": 1.88
+    },
+    {
+        "text": "and car accidents, because\nof the limited view.",
+        "start": 720.71,
+        "duration": 1.82
+    },
+    {
+        "text": "Which, on the note of cars,",
+        "start": 722.53,
+        "duration": 1.23
+    },
+    {
+        "text": "today, officials in New Delhi\nstarted restricting the use",
+        "start": 723.76,
+        "duration": 2.03
+    },
+    {
+        "text": "of private vehicles to try\nto help lift the pollution.",
+        "start": 725.79,
+        "duration": 2.19
+    },
+    {
+        "text": "And, under those restrictions,\npeople can use their cars",
+        "start": 727.98,
+        "duration": 1.7
+    },
+    {
+        "text": "on alternating days.",
+        "start": 729.68,
+        "duration": 1.1
+    },
+    {
+        "text": "Cars with odd number license\nplates can drive on odd dates,",
+        "start": 730.78,
+        "duration": 2.55
+    },
+    {
+        "text": "and cars with even\nnumbered plates can drive",
+        "start": 733.33,
+        "duration": 1.59
+    },
+    {
+        "text": "on even numbered dates.",
+        "start": 734.92,
+        "duration": 0.87
+    },
+    {
+        "text": "And anyone found\nviolating the restrictions",
+        "start": 735.79,
+        "duration": 1.54
+    },
+    {
+        "text": "will face a fine, although:",
+        "start": 737.33,
+        "duration": 1.016
+    },
+    {
+        "text": "according to reports,\nanyone can drive on Sunday,",
+        "start": 738.346,
+        "duration": 2.094
+    },
+    {
+        "text": "and also, the seven million\nmotorbikes and scooters there",
+        "start": 740.44,
+        "duration": 2.18
+    },
+    {
+        "text": "are exempt from the\nrestrictions, as are those taking",
+        "start": 742.62,
+        "duration": 2.12
+    },
+    {
+        "text": "public transportation, and\ncars carrying only women.",
+        "start": 744.74,
+        "duration": 2.52
+    },
+    {
+        "text": "Now, while the dangerous smog in New Delhi",
+        "start": 747.26,
+        "duration": 1.52
+    },
+    {
+        "text": "is very, very bad, it's\nalso important to note,",
+        "start": 748.78,
+        "duration": 2.16
+    },
+    {
+        "text": "that this is not something new.",
+        "start": 750.94,
+        "duration": 1.16
+    },
+    {
+        "text": "In fact, this kind of air\npollution is something",
+        "start": 752.1,
+        "duration": 1.117
+    },
+    {
+        "text": "that's been happening\nin New Delhi every year",
+        "start": 753.217,
+        "duration": 2.023
+    },
+    {
+        "text": "around this time.",
+        "start": 755.24,
+        "duration": 0.833
+    },
+    {
+        "text": "And it's said to be caused by\na combination of a few things",
+        "start": 756.073,
+        "duration": 1.927
+    },
+    {
+        "text": "that all come together,\nin especially bad timing.",
+        "start": 758.0,
+        "duration": 2.11
+    },
+    {
+        "text": "One of the main things that\ncause pollution is crop fires.",
+        "start": 760.11,
+        "duration": 2.41
+    },
+    {
+        "text": "Every winter, farmers in the\nsurrounding areas of New Delhi",
+        "start": 762.52,
+        "duration": 2.18
+    },
+    {
+        "text": "and northern India burn old crops",
+        "start": 764.7,
+        "duration": 1.54
+    },
+    {
+        "text": "to make room to grow new ones.",
+        "start": 766.24,
+        "duration": 1.13
+    },
+    {
+        "text": "The smoke and the fumes\nfrom that process then drift",
+        "start": 767.37,
+        "duration": 1.76
+    },
+    {
+        "text": "to the suburbs in the city, where they mix",
+        "start": 769.13,
+        "duration": 1.58
+    },
+    {
+        "text": "with construction dust and car emissions.",
+        "start": 770.71,
+        "duration": 1.65
+    },
+    {
+        "text": "And then, to make matters even worse,",
+        "start": 772.36,
+        "duration": 1.88
+    },
+    {
+        "text": "that already toxic\ncombination mixes with smoke",
+        "start": 774.24,
+        "duration": 2.27
+    },
+    {
+        "text": "from fireworks displays,\nduring the Hindu holiday,",
+        "start": 776.51,
+        "duration": 2.16
+    },
+    {
+        "text": "Diwali, which also happens\nat this time of the year.",
+        "start": 778.67,
+        "duration": 2.26
+    },
+    {
+        "text": "But, all that said, because\nmuch of the pollution",
+        "start": 780.93,
+        "duration": 1.77
+    },
+    {
+        "text": "does come from the crop\nburning, many have criticized",
+        "start": 782.7,
+        "duration": 2.06
+    },
+    {
+        "text": "the vehicle alternation restrictions,",
+        "start": 784.76,
+        "duration": 1.51
+    },
+    {
+        "text": "arguing that it ultimately\nwill not do that much.",
+        "start": 786.27,
+        "duration": 1.87
+    },
+    {
+        "text": "Also, with this, leaders in\nNew Delhi, which in the past",
+        "start": 788.14,
+        "duration": 2.03
+    },
+    {
+        "text": "has been labeled, \"The Most\nPolluted City in the World,\"",
+        "start": 790.17,
+        "duration": 1.98
+    },
+    {
+        "text": "have said that any efforts\nthat they have made",
+        "start": 792.15,
+        "duration": 1.51
+    },
+    {
+        "text": "to clear up the pollution\nhave been undone by farmers",
+        "start": 793.66,
+        "duration": 2.16
+    },
+    {
+        "text": "burning crops in nearby states.",
+        "start": 795.82,
+        "duration": 1.33
+    },
+    {
+        "text": "And they have largely blamed the farmers.",
+        "start": 797.15,
+        "duration": 1.62
+    },
+    {
+        "text": "But others have noted that New Delhi",
+        "start": 798.77,
+        "duration": 1.29
+    },
+    {
+        "text": "frequently does not meet\nair quality guidelines,",
+        "start": 800.06,
+        "duration": 2.0
+    },
+    {
+        "text": "even when it's not crop\nburning and firework season.",
+        "start": 802.06,
+        "duration": 1.93
+    },
+    {
+        "text": "Right, also arguing that the\ncapital does have a major issue",
+        "start": 803.99,
+        "duration": 2.51
+    },
+    {
+        "text": "with traffic pollution.",
+        "start": 806.5,
+        "duration": 0.833
+    },
+    {
+        "text": "And according to scientists\nat India's state-run monitor",
+        "start": 807.333,
+        "duration": 1.957
+    },
+    {
+        "text": "SAFAR, crop burning in nearby\nstates only contributes",
+        "start": 809.29,
+        "duration": 2.3
+    },
+    {
+        "text": "to just over 40% of Delhi's pollution.",
+        "start": 811.59,
+        "duration": 1.88
+    },
+    {
+        "text": "And so, it seem like it's\nnot just the farmers,",
+        "start": 813.47,
+        "duration": 1.63
+    },
+    {
+        "text": "and that the politicians, at\nleast to a certain degree,",
+        "start": 815.1,
+        "duration": 1.89
+    },
+    {
+        "text": "are trying to scapegoat them.",
+        "start": 816.99,
+        "duration": 0.94
+    },
+    {
+        "text": "And while the pollution crisis in Delhi",
+        "start": 817.93,
+        "duration": 1.4
+    },
+    {
+        "text": "right now is extreme, it's also part",
+        "start": 819.33,
+        "duration": 1.69
+    },
+    {
+        "text": "of a much bigger problem\nfor India as a whole.",
+        "start": 821.02,
+        "duration": 2.04
+    },
+    {
+        "text": "Right, in May of 2018, a study by",
+        "start": 823.06,
+        "duration": 1.62
+    },
+    {
+        "text": "the World Health Organization found that,",
+        "start": 824.68,
+        "duration": 1.51
+    },
+    {
+        "text": "out of the top ten most\npolluted cities in the world,",
+        "start": 826.19,
+        "duration": 2.498
+    },
+    {
+        "text": "nine of them were in India.",
+        "start": 828.688,
+        "duration": 1.672
+    },
+    {
+        "text": "And so, as a result,\nmany have been calling on",
+        "start": 830.36,
+        "duration": 1.51
+    },
+    {
+        "text": "the government to take\nmore accountability,",
+        "start": 831.87,
+        "duration": 1.44
+    },
+    {
+        "text": "and actually do something,\narguing that the short term",
+        "start": 833.31,
+        "duration": 2.13
+    },
+    {
+        "text": "band-aid solutions aren't\ngoing to change anything.",
+        "start": 835.44,
+        "duration": 1.91
+    },
+    {
+        "text": "And that's why, on Saturday,\nwe saw people in New Delhi",
+        "start": 837.35,
+        "duration": 2.03
+    },
+    {
+        "text": "protesting the lack of government action,",
+        "start": 839.38,
+        "duration": 1.57
+    },
+    {
+        "text": "outside of Prime Minister\nModi's residence.",
+        "start": 840.95,
+        "duration": 1.74
+    },
+    {
+        "text": "And in fact, just today,\nIndia's Supreme Court",
+        "start": 842.69,
+        "duration": 1.95
+    },
+    {
+        "text": "actually criticized the\nNational and State governments",
+        "start": 844.64,
+        "duration": 2.1
+    },
+    {
+        "text": "for not doing anything\nto curb the pollution,",
+        "start": 846.74,
+        "duration": 1.76
+    },
+    {
+        "text": "saying in a report, \"This can't go on.",
+        "start": 848.5,
+        "duration": 1.827
+    },
+    {
+        "text": "\"People aren't safe even\ninside their houses and rooms.\"",
+        "start": 850.327,
+        "duration": 2.563
+    },
+    {
+        "text": "But ultimately, that is\nwhere we are with this story,",
+        "start": 852.89,
+        "duration": 1.79
+    },
+    {
+        "text": "right now.",
+        "start": 854.68,
+        "duration": 0.833
+    },
+    {
+        "text": "It's going to be very\ninteresting and important",
+        "start": 855.513,
+        "duration": 1.497
+    },
+    {
+        "text": "to see what happens next.",
+        "start": 857.01,
+        "duration": 1.06
+    },
+    {
+        "text": "It's just an insane thing to see.",
+        "start": 858.07,
+        "duration": 1.46
+    },
+    {
+        "text": "And that's where I'm\ngoing to end today's show.",
+        "start": 859.53,
+        "duration": 1.38
+    },
+    {
+        "text": "And hey, after you\nmaybe leave that comment",
+        "start": 860.91,
+        "duration": 1.8
+    },
+    {
+        "text": "if you liked today's video, let us know!",
+        "start": 862.71,
+        "duration": 1.77
+    },
+    {
+        "text": "Hit that Like button,",
+        "start": 864.48,
+        "duration": 0.99
+    },
+    {
+        "text": "also if you're new here,",
+        "start": 865.47,
+        "duration": 1.0
+    },
+    {
+        "text": "be sure you hit that Subscribe button,",
+        "start": 866.47,
+        "duration": 1.24
+    },
+    {
+        "text": "and definitely tap that bell\nto turn on notifications,",
+        "start": 867.71,
+        "duration": 1.93
+    },
+    {
+        "text": "that way you don't miss\nthese videos each weekday.",
+        "start": 869.64,
+        "duration": 1.85
+    },
+    {
+        "text": "Also, if you're not 100% Philled in,",
+        "start": 871.49,
+        "duration": 1.46
+    },
+    {
+        "text": "you can check out my latest podcast,",
+        "start": 872.95,
+        "duration": 1.27
+    },
+    {
+        "text": "or maybe you just missed the\nlast Philip DeFranco Show,",
+        "start": 874.22,
+        "duration": 1.79
+    },
+    {
+        "text": "you wanna catch up,",
+        "start": 876.01,
+        "duration": 0.89
+    },
+    {
+        "text": "you can click or tap right\nthere to watch either of those,",
+        "start": 876.9,
+        "duration": 1.91
+    },
+    {
+        "text": "but with that said, of course, as always,",
+        "start": 878.81,
+        "duration": 1.52
+    },
+    {
+        "text": "my name's Philip DeFranco,",
+        "start": 880.33,
+        "duration": 0.907
+    },
+    {
+        "text": "you've just been Philled in,",
+        "start": 881.237,
+        "duration": 1.663
+    },
+    {
+        "text": "I love yo' faces, and\nI'll see you tomorrow.",
+        "start": 882.9,
+        "duration": 2.653
+    }
+]

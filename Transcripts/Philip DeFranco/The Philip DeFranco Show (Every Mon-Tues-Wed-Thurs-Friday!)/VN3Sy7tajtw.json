@@ -1,0 +1,2047 @@
+[
+    {
+        "text": "Sup you beautiful bastards!",
+        "start": 0.0,
+        "duration": 1.46
+    },
+    {
+        "text": "Hope you having a fantastic Tuesday",
+        "start": 1.46,
+        "duration": 1.74
+    },
+    {
+        "text": "and welcome back to the Philip DeFranco Show",
+        "start": 3.2,
+        "duration": 1.86
+    },
+    {
+        "text": "and let's just jump into it.",
+        "start": 5.06,
+        "duration": 1.2
+    },
+    {
+        "text": "And the first thing I want to talk about today",
+        "start": 6.26,
+        "duration": 1.46
+    },
+    {
+        "text": "it was the most requested story of the day",
+        "start": 7.72,
+        "duration": 1.92
+    },
+    {
+        "text": "that can be summarized with",
+        "start": 9.64,
+        "duration": 1.04
+    },
+    {
+        "text": "\"Youtube's kicking people off the site?\"",
+        "start": 10.68,
+        "duration": 2.74
+    },
+    {
+        "text": "No, not really.",
+        "start": 13.58,
+        "duration": 1.04
+    },
+    {
+        "text": "But, some creators are being pushed away",
+        "start": 14.62,
+        "duration": 1.96
+    },
+    {
+        "text": "and the door is closing on future creators of certain genres.",
+        "start": 16.58,
+        "duration": 3.02
+    },
+    {
+        "text": "And the reason we're talking about this",
+        "start": 19.6,
+        "duration": 1.26
+    },
+    {
+        "text": "the reason it is so highly requested is",
+        "start": 20.86,
+        "duration": 1.64
+    },
+    {
+        "text": "that Ethan and Hila from the massive",
+        "start": 22.5,
+        "duration": 1.62
+    },
+    {
+        "text": "Youtube channel, h3h3Productions, put out a video",
+        "start": 24.34,
+        "duration": 2.9
+    },
+    {
+        "text": "called \"We're at an Important Crossroads in our Lives\"",
+        "start": 27.4,
+        "duration": 2.14
+    },
+    {
+        "text": "and the thumbnail says \"Goodbye Youtube\"",
+        "start": 29.54,
+        "duration": 2.02
+    },
+    {
+        "text": "and in the video he explains that",
+        "start": 31.56,
+        "duration": 1.4
+    },
+    {
+        "text": "one of the massive changes from Youtube",
+        "start": 32.96,
+        "duration": 0.78
+    },
+    {
+        "text": "that Hank Green has called the Ad-pocalypse",
+        "start": 34.24,
+        "duration": 2.3
+    },
+    {
+        "text": "it's effectively shut down advertising on their main channel",
+        "start": 36.9,
+        "duration": 2.72
+    },
+    {
+        "text": "whether it's because Youtube is directly demonetizing",
+        "start": 39.62,
+        "duration": 2.36
+    },
+    {
+        "text": "their video because they're saying that doesn't fit our guidelines",
+        "start": 41.98,
+        "duration": 2.34
+    },
+    {
+        "text": "or, and this is what we're seeing more and more,",
+        "start": 44.32,
+        "duration": 2.16
+    },
+    {
+        "text": "the videos are being categorized as either having",
+        "start": 46.48,
+        "duration": 1.2
+    },
+    {
+        "text": "profane language,",
+        "start": 47.68,
+        "duration": 1.4
+    },
+    {
+        "text": "or one of several different things it can be tagged as",
+        "start": 49.08,
+        "duration": 2.96
+    },
+    {
+        "text": "that many advertisers are going to opt out of",
+        "start": 52.04,
+        "duration": 1.6
+    },
+    {
+        "text": "on an across the board level.",
+        "start": 53.64,
+        "duration": 1.28
+    },
+    {
+        "text": "And Youtube changing their backend in this way for",
+        "start": 54.92,
+        "duration": 2.46
+    },
+    {
+        "text": "advertisers, is very obviously because advertisers started to boycott.",
+        "start": 57.38,
+        "duration": 2.68
+    },
+    {
+        "text": "So Youtube changed a lot of things in an attempt to put out that fire.",
+        "start": 60.12,
+        "duration": 2.04
+    },
+    {
+        "text": "Now something I've stated in the past",
+        "start": 62.16,
+        "duration": 1.4
+    },
+    {
+        "text": "and I still believe, is that we are not automatically deserving of advertiser money.",
+        "start": 63.56,
+        "duration": 4.06
+    },
+    {
+        "text": "But, once again, a big part of this problem",
+        "start": 67.62,
+        "duration": 2.0
+    },
+    {
+        "text": "is Youtube's lack of transparency and lack of reaching",
+        "start": 69.62,
+        "duration": 2.78
+    },
+    {
+        "text": "out to creators, and showing them what's changing.",
+        "start": 72.4,
+        "duration": 2.22
+    },
+    {
+        "text": "Youtube did throw it out into the world that",
+        "start": 74.62,
+        "duration": 1.8
+    },
+    {
+        "text": "videos could now be categorized as",
+        "start": 76.42,
+        "duration": 1.5
+    },
+    {
+        "text": "\"sexually suggestive\" \"sensational and shocking\"",
+        "start": 77.92,
+        "duration": 2.1
+    },
+    {
+        "text": "point out that there's \"profanity and rough language\"",
+        "start": 80.02,
+        "duration": 2.24
+    },
+    {
+        "text": "and they would allow advertisers to opt out of certain",
+        "start": 82.26,
+        "duration": 2.0
+    },
+    {
+        "text": "tiers of that content. But, they do not provide in our dashboard an area where we",
+        "start": 84.26,
+        "duration": 4.0
+    },
+    {
+        "text": "can see which videos got labeled what.",
+        "start": 88.26,
+        "duration": 2.0
+    },
+    {
+        "text": "For example, today's video which goes a little more sexual",
+        "start": 90.26,
+        "duration": 2.0
+    },
+    {
+        "text": "last week when we had to show a lot of",
+        "start": 92.26,
+        "duration": 2.0
+    },
+    {
+        "text": "video evidence",
+        "start": 94.26,
+        "duration": 0.5
+    },
+    {
+        "text": "that was really rough to watch",
+        "start": 94.76,
+        "duration": 1.5
+    },
+    {
+        "text": "I can understand that, but if there's no information",
+        "start": 96.26,
+        "duration": 2.0
+    },
+    {
+        "text": "put in front of my face or other creator's face",
+        "start": 98.26,
+        "duration": 2.0
+    },
+    {
+        "text": "there's no way that we can really learn. There's",
+        "start": 100.26,
+        "duration": 2.0
+    },
+    {
+        "text": "really no way where we know where the lines exist,",
+        "start": 102.26,
+        "duration": 2.0
+    },
+    {
+        "text": "it's very much a grey area. In my other videos, when everything is pretty much PG or PG-13",
+        "start": 104.26,
+        "duration": 4.0
+    },
+    {
+        "text": "am I still gonna get dinged",
+        "start": 108.26,
+        "duration": 1.5
+    },
+    {
+        "text": "because I call you \"beautiful bastard\"?",
+        "start": 109.76,
+        "duration": 1.54
+    },
+    {
+        "text": "I don't know, instead I have to wake up to WIRED.com",
+        "start": 111.3,
+        "duration": 2.5
+    },
+    {
+        "text": "articles.",
+        "start": 113.8,
+        "duration": 0.76
+    },
+    {
+        "text": "Where I have to find out that Google is",
+        "start": 114.56,
+        "duration": 1.28
+    },
+    {
+        "text": "working with agencies to hire outside workers",
+        "start": 115.84,
+        "duration": 2.04
+    },
+    {
+        "text": "who are rendering judgement on our videos.",
+        "start": 117.88,
+        "duration": 2.0
+    },
+    {
+        "text": "And whenever judgement they come to",
+        "start": 119.88,
+        "duration": 1.34
+    },
+    {
+        "text": "accept the videos completely fine",
+        "start": 121.22,
+        "duration": 2.0
+    },
+    {
+        "text": "or the video is demonized, we don't know.",
+        "start": 123.22,
+        "duration": 2.0
+    },
+    {
+        "text": "And this is disappointing to me because there was",
+        "start": 125.22,
+        "duration": 1.48
+    },
+    {
+        "text": "other YouTube news that had me hopeful",
+        "start": 126.7,
+        "duration": 1.48
+    },
+    {
+        "text": "You might have seen the headlines,",
+        "start": 128.18,
+        "duration": 1.02
+    },
+    {
+        "text": "\"YouTube fix brings 12 million videos back to Restricted Mode\"",
+        "start": 129.2,
+        "duration": 3.32
+    },
+    {
+        "text": "This is important. The Adpocolypse and Restricted Mode",
+        "start": 132.52,
+        "duration": 2.48
+    },
+    {
+        "text": "they're two separate things",
+        "start": 135.0,
+        "duration": 1.18
+    },
+    {
+        "text": "but also somewhat connected.",
+        "start": 136.18,
+        "duration": 1.06
+    },
+    {
+        "text": "YouTube advertises Restricted Mode",
+        "start": 137.24,
+        "duration": 1.6
+    },
+    {
+        "text": "as a way for schools and libraries to filter out mature content.",
+        "start": 138.84,
+        "duration": 3.26
+    },
+    {
+        "text": "And you might remember this, there were a lot of people",
+        "start": 142.1,
+        "duration": 1.36
+    },
+    {
+        "text": "that were complaining, but it didn't really gain main-stream attention",
+        "start": 143.46,
+        "duration": 2.8
+    },
+    {
+        "text": "until the LGBT community said \"We're also being blocked.\"",
+        "start": 146.26,
+        "duration": 3.22
+    },
+    {
+        "text": "And we're getting blocked on videos where we're just",
+        "start": 149.48,
+        "duration": 1.7
+    },
+    {
+        "text": "discussing being gay or being bi.",
+        "start": 151.18,
+        "duration": 2.02
+    },
+    {
+        "text": "So then YouTube acknowledged that this wasn't working as intended",
+        "start": 153.2,
+        "duration": 2.92
+    },
+    {
+        "text": "and vowed to fix it.",
+        "start": 156.12,
+        "duration": 1.16
+    },
+    {
+        "text": "and then we recently got the news from Johanna Wright,",
+        "start": 157.28,
+        "duration": 1.52
+    },
+    {
+        "text": "the VP of product management, who said",
+        "start": 158.8,
+        "duration": 2.0
+    },
+    {
+        "text": " ",
+        "start": 160.8,
+        "duration": 2.0
+    },
+    {
+        "text": "for this feature and now 12 million",
+        "start": 164.0,
+        "duration": 2.07
+    },
+    {
+        "text": "additional videos of all types including",
+        "start": 166.07,
+        "duration": 1.86
+    },
+    {
+        "text": "hundreds of thousands featuring lgbtq+",
+        "start": 167.93,
+        "duration": 2.4
+    },
+    {
+        "text": "content are available in restricted I",
+        "start": 170.33,
+        "duration": 1.89
+    },
+    {
+        "text": "and I rejoiced!",
+        "start": 172.32,
+        "duration": 0.78
+    },
+    {
+        "text": "I put YouTube in Restricted Mode",
+        "start": 173.1,
+        "duration": 1.34
+    },
+    {
+        "text": "I went to my channel and found that uh,",
+        "start": 174.44,
+        "duration": 2.0
+    },
+    {
+        "text": "four videos in from the past year and a half",
+        "start": 176.44,
+        "duration": 2.0
+    },
+    {
+        "text": "those uh, those are still the only ones available on my channel.",
+        "start": 178.44,
+        "duration": 2.48
+    },
+    {
+        "text": "which even if we said it wasn't a year and a half,",
+        "start": 180.92,
+        "duration": 2.0
+    },
+    {
+        "text": "it was just a year",
+        "start": 182.92,
+        "duration": 0.98
+    },
+    {
+        "text": "and I only post four videos a week,",
+        "start": 183.9,
+        "duration": 1.68
+    },
+    {
+        "text": "which I actually posted more,",
+        "start": 185.58,
+        "duration": 1.2
+    },
+    {
+        "text": "that means that 98.1% of my archive",
+        "start": 186.78,
+        "duration": 3.18
+    },
+    {
+        "text": "minimum. 98.1% of my archive is mature and not view-able in Restricted Mode.",
+        "start": 189.96,
+        "duration": 5.28
+    },
+    {
+        "text": "Which I know then a lot of people ask,",
+        "start": 195.24,
+        "duration": 1.26
+    },
+    {
+        "text": "\"Well, why are you being so blanketly blocked",
+        "start": 196.5,
+        "duration": 2.74
+    },
+    {
+        "text": "but CNN, Fox News, The Young Turks",
+        "start": 199.24,
+        "duration": 2.42
+    },
+    {
+        "text": "they have, what seems to be a massive archive in Restricted Mode?\"",
+        "start": 201.66,
+        "duration": 3.68
+    },
+    {
+        "text": "And to that I would respond, \"I'd have to dedicate a lot of time.\"",
+        "start": 205.42,
+        "duration": 2.0
+    },
+    {
+        "text": "I'm imagine some of their videos are being blocked",
+        "start": 207.42,
+        "duration": 2.0
+    },
+    {
+        "text": "but of course it does make me ask the question,",
+        "start": 209.42,
+        "duration": 1.72
+    },
+    {
+        "text": "\"Why almost almost all of my videos, but that's not the case elsewhere?\"",
+        "start": 211.14,
+        "duration": 3.18
+    },
+    {
+        "text": "and I don't know. Although I will say that Johanna Wright",
+        "start": 214.32,
+        "duration": 2.0
+    },
+    {
+        "text": "does try to provide some transparency here in the post writing,",
+        "start": 216.52,
+        "duration": 1.9
+    },
+    {
+        "text": "right here are some clear guidelines",
+        "start": 218.51,
+        "duration": 1.56
+    },
+    {
+        "text": "graders should think about if they want",
+        "start": 220.07,
+        "duration": 1.47
+    },
+    {
+        "text": "their videos to appear and restricted",
+        "start": 221.54,
+        "duration": 1.32
+    },
+    {
+        "text": "modis kusha and depiction of what your",
+        "start": 222.86,
+        "duration": 1.38
+    },
+    {
+        "text": "topic drugs and alcohol you're talking",
+        "start": 224.24,
+        "duration": 1.83
+    },
+    {
+        "text": "about drug use or abuse or if you're",
+        "start": 226.07,
+        "duration": 1.65
+    },
+    {
+        "text": "drinking alcohol on your videos you will",
+        "start": 227.72,
+        "duration": 1.35
+    },
+    {
+        "text": "likely not be available in restricted",
+        "start": 229.07,
+        "duration": 1.41
+    },
+    {
+        "text": "mode sack well some educational",
+        "start": 230.48,
+        "duration": 1.53
+    },
+    {
+        "text": "straightforward conversations about",
+        "start": 232.01,
+        "duration": 1.23
+    },
+    {
+        "text": "sexual education may be included in",
+        "start": 233.24,
+        "duration": 1.86
+    },
+    {
+        "text": "restricted mode overly detailed",
+        "start": 235.1,
+        "duration": 1.2
+    },
+    {
+        "text": "conversations about sex or sexual",
+        "start": 236.3,
+        "duration": 1.89
+    },
+    {
+        "text": "activity will likely be removed noting",
+        "start": 238.19,
+        "duration": 1.74
+    },
+    {
+        "text": "that this is one of the more difficult",
+        "start": 239.93,
+        "duration": 1.2
+    },
+    {
+        "text": "topics to train our systems on and",
+        "start": 241.13,
+        "duration": 1.74
+    },
+    {
+        "text": "context is key violence if your videos",
+        "start": 242.87,
+        "duration": 1.95
+    },
+    {
+        "text": "include graphic descriptions of violence",
+        "start": 244.82,
+        "duration": 1.68
+    },
+    {
+        "text": "violent acts natural disasters and",
+        "start": 246.5,
+        "duration": 1.86
+    },
+    {
+        "text": "tragedies or even violence in the news",
+        "start": 248.36,
+        "duration": 1.65
+    },
+    {
+        "text": "the tourist subject videos are covered",
+        "start": 250.01,
+        "duration": 1.77
+    },
+    {
+        "text": "specific details about events related to",
+        "start": 251.78,
+        "duration": 2.01
+    },
+    {
+        "text": "terrorism war crime and political",
+        "start": 253.79,
+        "duration": 2.1
+    },
+    {
+        "text": "conflicts are resulted in death or",
+        "start": 255.89,
+        "duration": 1.44
+    },
+    {
+        "text": "serious injury may not be available on",
+        "start": 257.33,
+        "duration": 1.89
+    },
+    {
+        "text": "restricted mode even if no graphic",
+        "start": 259.22,
+        "duration": 1.38
+    },
+    {
+        "text": "imagery is shown inappropriate language",
+        "start": 260.6,
+        "duration": 1.41
+    },
+    {
+        "text": "including profanity like f-bombs will",
+        "start": 262.01,
+        "duration": 1.83
+    },
+    {
+        "text": "also likely result in your video not",
+        "start": 263.84,
+        "duration": 1.59
+    },
+    {
+        "text": "being a",
+        "start": 265.43,
+        "duration": 0.5
+    },
+    {
+        "text": "So, essentially treat yourself like a Disney star on a Disney show",
+        "start": 266.9,
+        "duration": 2.82
+    },
+    {
+        "text": "and not a Disney star in the real world.",
+        "start": 269.74,
+        "duration": 2.22
+    },
+    {
+        "text": "And one again, I don't want it to come off like I'm whining.",
+        "start": 271.96,
+        "duration": 2.14
+    },
+    {
+        "text": "If you really wanna watch a show just don't use that library",
+        "start": 274.1,
+        "duration": 2.82
+    },
+    {
+        "text": "or that school's internet.",
+        "start": 276.92,
+        "duration": 1.16
+    },
+    {
+        "text": "It's annoying, it doesn't feel like they're treatment is equal",
+        "start": 278.08,
+        "duration": 2.0
+    },
+    {
+        "text": "but, I'm in YouTube's home.",
+        "start": 280.08,
+        "duration": 1.86
+    },
+    {
+        "text": "It's disappointing that is seems that YouTube thinks that I'm inappropriate for",
+        "start": 281.94,
+        "duration": 3.0
+    },
+    {
+        "text": "both advertisers and just general",
+        "start": 284.96,
+        "duration": 1.89
+    },
+    {
+        "text": "consumption. This kind of treatment will",
+        "start": 286.85,
+        "duration": 1.62
+    },
+    {
+        "text": "drive more and more creators to",
+        "start": 288.47,
+        "duration": 1.65
+    },
+    {
+        "text": "different platforms as we saw with Ethan",
+        "start": 290.12,
+        "duration": 2.28
+    },
+    {
+        "text": "and Hila from h3h3, they're saying",
+        "start": 292.4,
+        "duration": 1.8
+    },
+    {
+        "text": "goodbye to YouTube, *as much.",
+        "start": 294.2,
+        "duration": 2.16
+    },
+    {
+        "text": "Saying they're going to stop posting as",
+        "start": 296.36,
+        "duration": 1.26
+    },
+    {
+        "text": "much on YouTube instead of like the",
+        "start": 297.62,
+        "duration": 1.44
+    },
+    {
+        "text": "three videos a week they're going down",
+        "start": 299.06,
+        "duration": 1.68
+    },
+    {
+        "text": "to one making a smart move of moving",
+        "start": 300.74,
+        "duration": 1.56
+    },
+    {
+        "text": "their podcast over to Twitch where they",
+        "start": 302.3,
+        "duration": 1.71
+    },
+    {
+        "text": "can live stream, get tips and really I",
+        "start": 304.01,
+        "duration": 1.83
+    },
+    {
+        "text": "think we're just seeing the beginning of",
+        "start": 305.84,
+        "duration": 1.44
+    },
+    {
+        "text": "this they're going to push more and more",
+        "start": 307.28,
+        "duration": 1.59
+    },
+    {
+        "text": "creators away. And what sucks is while it",
+        "start": 308.87,
+        "duration": 1.77
+    },
+    {
+        "text": "does suck for me it does suck for many",
+        "start": 310.64,
+        "duration": 1.77
+    },
+    {
+        "text": "big creators out there right now who it",
+        "start": 312.41,
+        "duration": 1.71
+    },
+    {
+        "text": "really trashes is the small creator. A",
+        "start": 314.12,
+        "duration": 2.22
+    },
+    {
+        "text": "large creator's in a position where we can",
+        "start": 316.34,
+        "duration": 1.56
+    },
+    {
+        "text": "diversify, we have different tactics of",
+        "start": 317.9,
+        "duration": 1.92
+    },
+    {
+        "text": "ways that we can try and keep things",
+        "start": 319.82,
+        "duration": 1.29
+    },
+    {
+        "text": "afloat and still grow. But the little guy",
+        "start": 321.11,
+        "duration": 1.62
+    },
+    {
+        "text": "doesn't get the benefit of that size",
+        "start": 322.73,
+        "duration": 1.68
+    },
+    {
+        "text": "does not get the benefit of the really",
+        "start": 324.41,
+        "duration": 1.47
+    },
+    {
+        "text": "good month where they got excess money",
+        "start": 325.88,
+        "duration": 1.86
+    },
+    {
+        "text": "that they could put in like in a safe",
+        "start": 327.74,
+        "duration": 1.62
+    },
+    {
+        "text": "place and it does make me really worried",
+        "start": 329.36,
+        "duration": 1.71
+    },
+    {
+        "text": "about not only the future of the",
+        "start": 331.07,
+        "duration": 1.47
+    },
+    {
+        "text": "platform but the future creator. They're",
+        "start": 332.54,
+        "duration": 1.68
+    },
+    {
+        "text": "coming in at one of the hardest times",
+        "start": 334.22,
+        "duration": 1.53
+    },
+    {
+        "text": "ever to be who you want to be without",
+        "start": 335.75,
+        "duration": 2.49
+    },
+    {
+        "text": "having to censor yourself. And the question I",
+        "start": 338.24,
+        "duration": 1.89
+    },
+    {
+        "text": "want to pass off to you with the story",
+        "start": 340.13,
+        "duration": 1.29
+    },
+    {
+        "text": "is, \"Do you think that we're going to see",
+        "start": 341.42,
+        "duration": 1.74
+    },
+    {
+        "text": "more creators jump ship?\" Either fully or",
+        "start": 343.16,
+        "duration": 2.16
+    },
+    {
+        "text": "just making YouTube not their primary",
+        "start": 345.32,
+        "duration": 1.53
+    },
+    {
+        "text": "focus. I mean I'm not personally going to",
+        "start": 346.85,
+        "duration": 1.65
+    },
+    {
+        "text": "leave but I'm even tinkering with my",
+        "start": 348.5,
+        "duration": 1.59
+    },
+    {
+        "text": "business model that's based off of not",
+        "start": 350.09,
+        "duration": 2.16
+    },
+    {
+        "text": "trusting YouTube to do their job. Or  you",
+        "start": 352.25,
+        "duration": 1.74
+    },
+    {
+        "text": "have the mindset of people need to quit",
+        "start": 353.99,
+        "duration": 1.08
+    },
+    {
+        "text": "their bitchin'. Whether you agree or disagree with",
+        "start": 355.07,
+        "duration": 1.56
+    },
+    {
+        "text": "me I'd love know your thoughts are in",
+        "start": 356.63,
+        "duration": 1.35
+    },
+    {
+        "text": "the comments down below. From that I want",
+        "start": 357.98,
+        "duration": 1.68
+    },
+    {
+        "text": "to share some stuff I love today in",
+        "start": 359.66,
+        "duration": 1.62
+    },
+    {
+        "text": "Today In Awesome, brought to you by the \"Don't",
+        "start": 361.28,
+        "duration": 1.92
+    },
+    {
+        "text": "mind me I'm just catching invisible",
+        "start": 363.2,
+        "duration": 1.56
+    },
+    {
+        "text": "monsters\" shirt. A shirt for all of you",
+        "start": 364.76,
+        "duration": 1.47
+    },
+    {
+        "text": "people out that still playing Pok\u00e9mon Go",
+        "start": 366.23,
+        "duration": 1.77
+    },
+    {
+        "text": "because you want to get those Gen2",
+        "start": 368.0,
+        "duration": 1.44
+    },
+    {
+        "text": "Pok\u00e9mon but you want to explain why you're",
+        "start": 369.44,
+        "duration": 1.74
+    },
+    {
+        "text": "hanging out by what seems to be a",
+        "start": 371.18,
+        "duration": 1.5
+    },
+    {
+        "text": "children's park and or fire station so",
+        "start": 372.68,
+        "duration": 2.22
+    },
+    {
+        "text": "that run will only be up for a few days",
+        "start": 374.9,
+        "duration": 1.2
+    },
+    {
+        "text": "so if you want to snag one, grab it while",
+        "start": 376.1,
+        "duration": 1.74
+    },
+    {
+        "text": "you can in the links down below.",
+        "start": 377.84,
+        "duration": 1.41
+    },
+    {
+        "text": "And the first bit of Awesome is we got a brand",
+        "start": 379.25,
+        "duration": 1.56
+    },
+    {
+        "text": "new trailer for the Kingsmen: The Golden Circle and yes a bunch of new faces and",
+        "start": 380.81,
+        "duration": 4.86
+    },
+    {
+        "text": "an old one I didn't expect Mr. Colin",
+        "start": 385.67,
+        "duration": 2.55
+    },
+    {
+        "text": "Firth is back. A quick note for those of",
+        "start": 388.22,
+        "duration": 1.62
+    },
+    {
+        "text": "you who have not seen Kingsman: The",
+        "start": 389.84,
+        "duration": 1.29
+    },
+    {
+        "text": "Secret Service, fix that. I'm not saying it's",
+        "start": 391.13,
+        "duration": 2.4
+    },
+    {
+        "text": "like the best movie ever but it's so fun",
+        "start": 393.53,
+        "duration": 1.889
+    },
+    {
+        "text": "and the scene at the church, oh the scene",
+        "start": 395.419,
+        "duration": 2.281
+    },
+    {
+        "text": "at the church! That's all I'll say I",
+        "start": 397.7,
+        "duration": 1.35
+    },
+    {
+        "text": "don't want to ruin it",
+        "start": 399.05,
+        "duration": 0.56
+    },
+    {
+        "text": "for those who haven't experienced. The",
+        "start": 399.61,
+        "duration": 1.17
+    },
+    {
+        "text": "main point: I am pumped for this movie!",
+        "start": 400.78,
+        "duration": 1.919
+    },
+    {
+        "text": "Then if you ever watched a nature",
+        "start": 402.699,
+        "duration": 1.231
+    },
+    {
+        "text": "documentary and you want to kind of have",
+        "start": 403.93,
+        "duration": 1.709
+    },
+    {
+        "text": "those ruined for you got a fantastic",
+        "start": 405.639,
+        "duration": 1.68
+    },
+    {
+        "text": "video from Simon Cade for you. Gotta film",
+        "start": 407.319,
+        "duration": 2.16
+    },
+    {
+        "text": "theorists video on Rick and Morty. Also",
+        "start": 409.479,
+        "duration": 1.891
+    },
+    {
+        "text": "if you need some more Guardians of the",
+        "start": 411.37,
+        "duration": 0.99
+    },
+    {
+        "text": "Galaxy vol 2 there's a little feature",
+        "start": 412.36,
+        "duration": 1.559
+    },
+    {
+        "text": "right out now. If you want to see the",
+        "start": 413.919,
+        "duration": 1.231
+    },
+    {
+        "text": "full version to everything I just shared,",
+        "start": 415.15,
+        "duration": 1.59
+    },
+    {
+        "text": "the secret link of the day, anything at",
+        "start": 416.74,
+        "duration": 2.07
+    },
+    {
+        "text": "all, links is always are in the description",
+        "start": 418.81,
+        "duration": 1.68
+    },
+    {
+        "text": "down below. Then in the world is a",
+        "start": 420.49,
+        "duration": 1.41
+    },
+    {
+        "text": "horrifying place and I'm so glad I live",
+        "start": 421.9,
+        "duration": 1.889
+    },
+    {
+        "text": "in the global equivalent of Disneyland",
+        "start": 423.789,
+        "duration": 1.65
+    },
+    {
+        "text": "news. That's because according to India",
+        "start": 425.439,
+        "duration": 2.04
+    },
+    {
+        "text": "Express, a leopard wandered into a",
+        "start": 427.479,
+        "duration": 2.25
+    },
+    {
+        "text": "village and part of this was caught on",
+        "start": 429.729,
+        "duration": 1.68
+    },
+    {
+        "text": "video specifically the standoff between",
+        "start": 431.409,
+        "duration": 2.13
+    },
+    {
+        "text": "the park ranger and the leopard. Video",
+        "start": 433.539,
+        "duration": 2.041
+    },
+    {
+        "text": "shows the park ranger on a roof slowly",
+        "start": 435.58,
+        "duration": 1.92
+    },
+    {
+        "text": "backing away we don't see from what",
+        "start": 437.5,
+        "duration": 1.8
+    },
+    {
+        "text": "until holy crap the Ranger has to jump",
+        "start": 439.3,
+        "duration": 2.22
+    },
+    {
+        "text": "off the roof to avoid the leopard",
+        "start": 441.52,
+        "duration": 1.709
+    },
+    {
+        "text": "strike. Also I want to point out the",
+        "start": 443.229,
+        "duration": 1.231
+    },
+    {
+        "text": "scariest thing from this video other",
+        "start": 444.46,
+        "duration": 1.259
+    },
+    {
+        "text": "than obviously a leopard jumping at a",
+        "start": 445.719,
+        "duration": 1.5
+    },
+    {
+        "text": "man - that leopard lands and then just keeps",
+        "start": 447.219,
+        "duration": 1.98
+    },
+    {
+        "text": "going like nothing happened. Now the good",
+        "start": 449.199,
+        "duration": 1.59
+    },
+    {
+        "text": "news and the reason I'm showing you this",
+        "start": 450.789,
+        "duration": 1.38
+    },
+    {
+        "text": "video is that no one was killed after 12",
+        "start": 452.169,
+        "duration": 2.22
+    },
+    {
+        "text": "hours of leopard was captured, it did",
+        "start": 454.389,
+        "duration": 1.89
+    },
+    {
+        "text": "injure three people but there were no",
+        "start": 456.279,
+        "duration": 1.591
+    },
+    {
+        "text": "life-threatening injuries. They are reportedly",
+        "start": 457.87,
+        "duration": 1.47
+    },
+    {
+        "text": "not going to kill the leopard they are",
+        "start": 459.34,
+        "duration": 1.199
+    },
+    {
+        "text": "going to relocate it to a zoo. And there's",
+        "start": 460.539,
+        "duration": 1.65
+    },
+    {
+        "text": "really no main point to the story except",
+        "start": 462.189,
+        "duration": 1.621
+    },
+    {
+        "text": "maybe DAMN NATURE YOU SCARY. Or I'm so",
+        "start": 463.81,
+        "duration": 2.46
+    },
+    {
+        "text": "glad I live when and where I currently",
+        "start": 466.27,
+        "duration": 2.399
+    },
+    {
+        "text": "live. If I lived in hunter-gatherer times I",
+        "start": 468.669,
+        "duration": 2.101
+    },
+    {
+        "text": "would be murdered in three seconds. It's",
+        "start": 470.77,
+        "duration": 1.709
+    },
+    {
+        "text": "done. Then one of the most requested",
+        "start": 472.479,
+        "duration": 1.951
+    },
+    {
+        "text": "ridiculous stories that, ughhhh",
+        "start": 474.43,
+        "duration": 2.01
+    },
+    {
+        "text": "One of the most requested stories was about the Almond",
+        "start": 476.44,
+        "duration": 1.949
+    },
+    {
+        "text": "Robotic Service Droid 1.0",
+        "start": 478.389,
+        "duration": 2.071
+    },
+    {
+        "text": "AKA that dick sucking robot that everyone's",
+        "start": 480.46,
+        "duration": 2.34
+    },
+    {
+        "text": "been talking about this week. If you didn't",
+        "start": 482.8,
+        "duration": 1.47
+    },
+    {
+        "text": "know a company by the name of Arlan",
+        "start": 484.27,
+        "duration": 1.41
+    },
+    {
+        "text": "Robotics has launched an Indiegogo along",
+        "start": 485.68,
+        "duration": 2.099
+    },
+    {
+        "text": "with their campaign video. They advertise it",
+        "start": 487.779,
+        "duration": 1.92
+    },
+    {
+        "text": "as the first robotic droid capable of",
+        "start": 489.699,
+        "duration": 1.921
+    },
+    {
+        "text": "recreating intimate human oral",
+        "start": 491.62,
+        "duration": 1.65
+    },
+    {
+        "text": "interaction and they go on to explain",
+        "start": 493.27,
+        "duration": 1.29
+    },
+    {
+        "text": "And I will say yes most male toys look creepy as",
+        "start": 507.62,
+        "duration": 2.38
+    },
+    {
+        "text": "all hell in the video they show what",
+        "start": 510.009,
+        "duration": 1.47
+    },
+    {
+        "text": "powers the core of the apparatus a show",
+        "start": 511.479,
+        "duration": 2.641
+    },
+    {
+        "text": "what it can do to a popsicle and then",
+        "start": 514.12,
+        "duration": 2.37
+    },
+    {
+        "text": "later a banana and I will also say",
+        "start": 516.49,
+        "duration": 1.95
+    },
+    {
+        "text": "personally there's stuff said in the",
+        "start": 518.44,
+        "duration": 2.13
+    },
+    {
+        "text": "video that just, it just creeps me out.",
+        "start": 520.57,
+        "duration": 1.92
+    },
+    {
+        "text": "*Monotone voice* \"Soft scented hair brushing and flowing",
+        "start": 522.49,
+        "duration": 2.339
+    },
+    {
+        "text": "over the waist and thighs",
+        "start": 524.829,
+        "duration": 1.38
+    },
+    {
+        "text": "as you are slowly drawn to fulfillment.\"",
+        "start": 526.209,
+        "duration": 2.07
+    },
+    {
+        "text": "but here's my ultimate take away. If this is",
+        "start": 528.279,
+        "duration": 1.86
+    },
+    {
+        "text": "something you want, hey I'll even a link",
+        "start": 530.139,
+        "duration": 2.25
+    },
+    {
+        "text": "to the IndieGoGo. I'll link to it down",
+        "start": 532.389,
+        "duration": 1.411
+    },
+    {
+        "text": "below. They're looking for 12,500\u00a3 of",
+        "start": 533.8,
+        "duration": 2.37
+    },
+    {
+        "text": "funding, they are fifty percent on their",
+        "start": 536.17,
+        "duration": 1.62
+    },
+    {
+        "text": "way, power to you. I still stand by the",
+        "start": 537.79,
+        "duration": 2.279
+    },
+    {
+        "text": "fact that yes, men do need toys, but I",
+        "start": 540.069,
+        "duration": 1.86
+    },
+    {
+        "text": "will never be interested in something I",
+        "start": 541.929,
+        "duration": 2.4
+    },
+    {
+        "text": "need closet space for. Also anything that",
+        "start": 544.329,
+        "duration": 2.521
+    },
+    {
+        "text": "requires more than 20 second of prep is",
+        "start": 546.85,
+        "duration": 1.649
+    },
+    {
+        "text": "too long not just because I'm impatient",
+        "start": 548.499,
+        "duration": 1.95
+    },
+    {
+        "text": "but because that amount of time I'm just",
+        "start": 550.449,
+        "duration": 1.95
+    },
+    {
+        "text": "going to be thinking about what a weirdo",
+        "start": 552.399,
+        "duration": 1.68
+    },
+    {
+        "text": "I am. You ever heat up something horrible",
+        "start": 554.079,
+        "duration": 1.86
+    },
+    {
+        "text": "for yourself in the microwave and the",
+        "start": 555.94,
+        "duration": 1.259
+    },
+    {
+        "text": "entire time you're just thinking like, this",
+        "start": 557.2,
+        "duration": 1.44
+    },
+    {
+        "text": "is this is not a good choice for my life.",
+        "start": 558.64,
+        "duration": 2.189
+    },
+    {
+        "text": "It's like that but with something that",
+        "start": 560.829,
+        "duration": 1.32
+    },
+    {
+        "text": "looks like a motorized car jack that you",
+        "start": 562.149,
+        "duration": 1.8
+    },
+    {
+        "text": "put your penis into. Well maybe I'm alone",
+        "start": 563.949,
+        "duration": 1.8
+    },
+    {
+        "text": "on that. Then what is it with today?! Let's",
+        "start": 565.749,
+        "duration": 2.491
+    },
+    {
+        "text": "talk about 18 year old Jonna Hines from",
+        "start": 568.24,
+        "duration": 2.009
+    },
+    {
+        "text": "Central Florida. She has made national",
+        "start": 570.249,
+        "duration": 1.89
+    },
+    {
+        "text": "news with a video that has received over",
+        "start": 572.139,
+        "duration": 1.79
+    },
+    {
+        "text": "6.7 million views and that's just the",
+        "start": 573.929,
+        "duration": 2.26
+    },
+    {
+        "text": "original. It stemmed from a Twitter poll",
+        "start": 576.189,
+        "duration": 1.411
+    },
+    {
+        "text": "where she wrote, \"Y'all dare me to post a",
+        "start": 577.6,
+        "duration": 1.769
+    },
+    {
+        "text": "video amusing Damon's nuts as a beauty",
+        "start": 579.369,
+        "duration": 2.4
+    },
+    {
+        "text": "blender?\" and after 100,000 people voted",
+        "start": 581.769,
+        "duration": 2.79
+    },
+    {
+        "text": "yes won both the popular vote and the",
+        "start": 584.559,
+        "duration": 2.07
+    },
+    {
+        "text": "electoral college and then yes she posts",
+        "start": 586.629,
+        "duration": 2.25
+    },
+    {
+        "text": "a video to Twitter of her using her 20",
+        "start": 588.879,
+        "duration": 1.92
+    },
+    {
+        "text": "year old boyfriends bald as a beauty",
+        "start": 590.799,
+        "duration": 1.741
+    },
+    {
+        "text": "blender on her forehead and the internet",
+        "start": 592.54,
+        "duration": 1.709
+    },
+    {
+        "text": "rejoiced while also saying, \"Girl you nasty!\"",
+        "start": 594.249,
+        "duration": 2.101
+    },
+    {
+        "text": "I think some people send me the story",
+        "start": 596.35,
+        "duration": 1.649
+    },
+    {
+        "text": "because I thought I was going to slam",
+        "start": 597.999,
+        "duration": 1.111
+    },
+    {
+        "text": "this girl and this couple but I am very",
+        "start": 599.11,
+        "duration": 2.099
+    },
+    {
+        "text": "much of the mindset of, if you're not",
+        "start": 601.209,
+        "duration": 1.44
+    },
+    {
+        "text": "hurting anyone that's fine. But, what I will",
+        "start": 602.649,
+        "duration": 1.891
+    },
+    {
+        "text": "do is use this story as a reminder that",
+        "start": 604.54,
+        "duration": 1.979
+    },
+    {
+        "text": "if you are going to put something out on",
+        "start": 606.519,
+        "duration": 1.471
+    },
+    {
+        "text": "the internet whether it is balls on your",
+        "start": 607.99,
+        "duration": 2.039
+    },
+    {
+        "text": "forehead or just a stupid statement, that",
+        "start": 610.029,
+        "duration": 2.37
+    },
+    {
+        "text": "is something that is going to live on",
+        "start": 612.399,
+        "duration": 1.321
+    },
+    {
+        "text": "the Internet forever. When you're",
+        "start": 613.72,
+        "duration": 1.979
+    },
+    {
+        "text": "applying for jobs, when you're you're-maybe",
+        "start": 615.699,
+        "duration": 2.341
+    },
+    {
+        "text": "that relationship didn't work out and",
+        "start": 618.04,
+        "duration": 1.409
+    },
+    {
+        "text": "you're dating. It's at a first or third",
+        "start": 619.449,
+        "duration": 1.531
+    },
+    {
+        "text": "date topic of keywords to avoid on Google.",
+        "start": 620.98,
+        "duration": 2.37
+    },
+    {
+        "text": "Your future kids, friends, family, whatever.",
+        "start": 623.35,
+        "duration": 1.589
+    },
+    {
+        "text": "Treat the things that you put out",
+        "start": 624.939,
+        "duration": 1.02
+    },
+    {
+        "text": "publicly on the internet like it was a",
+        "start": 625.959,
+        "duration": 1.86
+    },
+    {
+        "text": "tattoo on your body or in this case or",
+        "start": 627.819,
+        "duration": 2.43
+    },
+    {
+        "text": "in some cases your face. What seems like",
+        "start": 630.249,
+        "duration": 1.65
+    },
+    {
+        "text": "a great idea in a moment, uh, maybe will not",
+        "start": 631.899,
+        "duration": 2.25
+    },
+    {
+        "text": "be long term. And then we need to talk",
+        "start": 634.149,
+        "duration": 1.62
+    },
+    {
+        "text": "about the story of that man who had his",
+        "start": 635.769,
+        "duration": 2.1
+    },
+    {
+        "text": "face slammed, he was dragged off of that",
+        "start": 637.869,
+        "duration": 2.041
+    },
+    {
+        "text": "United Flight and no, this is not a",
+        "start": 639.91,
+        "duration": 1.529
+    },
+    {
+        "text": "repeat from two weeks ago. By now you've",
+        "start": 641.439,
+        "duration": 1.86
+    },
+    {
+        "text": "seen that ridiculous, horrible footage.",
+        "start": 643.299,
+        "duration": 1.5
+    },
+    {
+        "text": "You initially saw a United's CEO standing",
+        "start": 644.799,
+        "duration": 2.4
+    },
+    {
+        "text": "by his people all the way to him back",
+        "start": 647.199,
+        "duration": 1.5
+    },
+    {
+        "text": "peddling, apologizing, saying this should",
+        "start": 648.699,
+        "duration": 1.68
+    },
+    {
+        "text": "never happen, we're going to change",
+        "start": 650.379,
+        "duration": 1.111
+    },
+    {
+        "text": "things. Well the massive update to this",
+        "start": 651.49,
+        "duration": 1.5
+    },
+    {
+        "text": "story we have is thanks to the Freedom",
+        "start": 652.99,
+        "duration": 1.74
+    },
+    {
+        "text": "of Information Act, The Los Angeles Times and",
+        "start": 654.73,
+        "duration": 2.039
+    },
+    {
+        "text": "other outlets asked for incident",
+        "start": 656.769,
+        "duration": 1.49
+    },
+    {
+        "text": "reports from this incident and for the first",
+        "start": 658.26,
+        "duration": 1.7
+    },
+    {
+        "text": "time reveals the names of the officers",
+        "start": 659.96,
+        "duration": 1.599
+    },
+    {
+        "text": "involved in the incident and how they",
+        "start": 661.559,
+        "duration": 2.041
+    },
+    {
+        "text": "described what transpired. And just a big",
+        "start": 663.6,
+        "duration": 2.429
+    },
+    {
+        "text": "note: this is how they reported this",
+        "start": 666.029,
+        "duration": 1.71
+    },
+    {
+        "text": "incident despite the fact that it",
+        "start": 667.739,
+        "duration": 1.981
+    },
+    {
+        "text": "contradicts most video evidence. They",
+        "start": 669.72,
+        "duration": 2.07
+    },
+    {
+        "text": "described this moment as Officer Long",
+        "start": 671.79,
+        "duration": 2.039
+    },
+    {
+        "text": "attempted to assist the subject off his",
+        "start": 673.829,
+        "duration": 1.98
+    },
+    {
+        "text": "seat with two hands. What a colorful,",
+        "start": 675.809,
+        "duration": 1.68
+    },
+    {
+        "text": "loose way to describe what was happening.",
+        "start": 677.489,
+        "duration": 3.77
+    },
+    {
+        "text": "They also wrote the subject responded",
+        "start": 681.259,
+        "duration": 2.74
+    },
+    {
+        "text": "repeatedly in an aggressive manner and",
+        "start": 683.999,
+        "duration": 1.8
+    },
+    {
+        "text": "just to remind you this is how",
+        "start": 685.799,
+        "duration": 1.171
+    },
+    {
+        "text": "aggressive Dr. Dao got,  \"No I'm not going,",
+        "start": 686.97,
+        "duration": 2.869
+    },
+    {
+        "text": "I'm not going.\" and they actually blamed",
+        "start": 689.839,
+        "duration": 2.74
+    },
+    {
+        "text": "him for his own face injury saying the",
+        "start": 692.579,
+        "duration": 2.22
+    },
+    {
+        "text": "subject then started flailing his arms",
+        "start": 694.799,
+        "duration": 1.56
+    },
+    {
+        "text": "and started to fight with Officer Long",
+        "start": 696.359,
+        "duration": 1.77
+    },
+    {
+        "text": "due to this incident the subject was",
+        "start": 698.129,
+        "duration": 1.471
+    },
+    {
+        "text": "able to knock officers right hand off",
+        "start": 699.6,
+        "duration": 1.769
+    },
+    {
+        "text": "the arm causing Officer Long to lose",
+        "start": 701.369,
+        "duration": 1.77
+    },
+    {
+        "text": "control of Mr. Dao. Consequently the",
+        "start": 703.139,
+        "duration": 1.86
+    },
+    {
+        "text": "subject fell and hit his mouth on the",
+        "start": 704.999,
+        "duration": 1.38
+    },
+    {
+        "text": "armrest across from him which caused an",
+        "start": 706.379,
+        "duration": 1.65
+    },
+    {
+        "text": "injury to his mouth and Officer Long",
+        "start": 708.029,
+        "duration": 1.41
+    },
+    {
+        "text": "regained control of the incident. What a",
+        "start": 709.439,
+        "duration": 1.2
+    },
+    {
+        "text": "beautiful way to describe a situation",
+        "start": 710.639,
+        "duration": 1.59
+    },
+    {
+        "text": "where you violently pulled on a man with",
+        "start": 712.229,
+        "duration": 1.98
+    },
+    {
+        "text": "such disregard that you ended up tossing",
+        "start": 714.209,
+        "duration": 1.86
+    },
+    {
+        "text": "his ass like he was a sack of soil at",
+        "start": 716.069,
+        "duration": 2.04
+    },
+    {
+        "text": "Home Depot into the back of your truck",
+        "start": 718.109,
+        "duration": 2.551
+    },
+    {
+        "text": "I have to say part of me is blown away and",
+        "start": 722.48,
+        "duration": 2.259
+    },
+    {
+        "text": "disgusted by this report and then the",
+        "start": 724.739,
+        "duration": 1.77
+    },
+    {
+        "text": "other part of me is almost just in awe",
+        "start": 726.509,
+        "duration": 2.341
+    },
+    {
+        "text": "of the balls you must have to write a",
+        "start": 728.85,
+        "duration": 2.609
+    },
+    {
+        "text": "report like this knowing full well that",
+        "start": 731.459,
+        "duration": 2.37
+    },
+    {
+        "text": "you were filmed. That a camera, not even",
+        "start": 733.829,
+        "duration": 1.92
+    },
+    {
+        "text": "camera, cameras filmed this incident to a",
+        "start": 735.749,
+        "duration": 2.971
+    },
+    {
+        "text": "way that I can cut between clips. Show the",
+        "start": 738.72,
+        "duration": 2.429
+    },
+    {
+        "text": "reality of the situation before, during,",
+        "start": 741.149,
+        "duration": 1.98
+    },
+    {
+        "text": "and after and you're like, nah, that's not",
+        "start": 743.129,
+        "duration": 2.49
+    },
+    {
+        "text": "how went down. Fake news! What? This is why one: we should always be able to film",
+        "start": 745.619,
+        "duration": 4.26
+    },
+    {
+        "text": "police doing what they're doing and two:",
+        "start": 749.879,
+        "duration": 1.77
+    },
+    {
+        "text": "while it's not a fix-all solution this",
+        "start": 751.649,
+        "duration": 1.44
+    },
+    {
+        "text": "is a fantastic situation to argue that",
+        "start": 753.089,
+        "duration": 2.131
+    },
+    {
+        "text": "all police and anyone in this sort of",
+        "start": 755.22,
+        "duration": 1.799
+    },
+    {
+        "text": "position should have a body camera. I'm",
+        "start": 757.019,
+        "duration": 1.56
+    },
+    {
+        "text": "blown away by this and it makes you",
+        "start": 758.579,
+        "duration": 1.2
+    },
+    {
+        "text": "wonder how often do they write reports",
+        "start": 759.779,
+        "duration": 1.86
+    },
+    {
+        "text": "like this that contradict reality. That's",
+        "start": 761.639,
+        "duration": 2.13
+    },
+    {
+        "text": "actually where I'm going to end today's",
+        "start": 763.769,
+        "duration": 1.02
+    },
+    {
+        "text": "show. And remember if you liked this video,",
+        "start": 764.789,
+        "duration": 1.47
+    },
+    {
+        "text": "you like what I try and do on this",
+        "start": 766.259,
+        "duration": 1.471
+    },
+    {
+        "text": "channel hit that like button. If you're",
+        "start": 767.73,
+        "duration": 1.5
+    },
+    {
+        "text": "new here hit, that subscribe button. Also if",
+        "start": 769.23,
+        "duration": 1.62
+    },
+    {
+        "text": "you missed and want to catch up on yesterday's",
+        "start": 770.85,
+        "duration": 1.349
+    },
+    {
+        "text": "Philip DeFranco show you can click or",
+        "start": 772.199,
+        "duration": 1.14
+    },
+    {
+        "text": "tap right there to watch that. If you",
+        "start": 773.339,
+        "duration": 1.47
+    },
+    {
+        "text": "want to see the newest vlog you can click or",
+        "start": 774.809,
+        "duration": 1.95
+    },
+    {
+        "text": "tap right. But that's said of course as",
+        "start": 776.759,
+        "duration": 2.01
+    },
+    {
+        "text": "always my name's Philip DeFranco, you've",
+        "start": 778.769,
+        "duration": 1.951
+    },
+    {
+        "text": "just been phill'd in, I love yo faces and",
+        "start": 780.72,
+        "duration": 2.489
+    },
+    {
+        "text": "I'll see you tomorrow.",
+        "start": 783.209,
+        "duration": 2.93
+    }
+]

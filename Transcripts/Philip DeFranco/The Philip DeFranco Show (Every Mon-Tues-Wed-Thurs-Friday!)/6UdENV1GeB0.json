@@ -1,0 +1,2637 @@
+[
+    {
+        "text": "- 'Sup, you beautiful bastards!",
+        "start": 0.0,
+        "duration": 1.53
+    },
+    {
+        "text": "Hope you've had a fantastic Tuesday.",
+        "start": 1.53,
+        "duration": 1.65
+    },
+    {
+        "text": "Welcome back to The Philip DeFranco Show",
+        "start": 3.18,
+        "duration": 1.89
+    },
+    {
+        "text": "and let's just jump into it.",
+        "start": 5.07,
+        "duration": 1.39
+    },
+    {
+        "text": "And the first thing we're\ngoing to talk about today",
+        "start": 6.46,
+        "duration": 1.29
+    },
+    {
+        "text": "is this interesting and\nmassive news around Facebook",
+        "start": 7.75,
+        "duration": 2.98
+    },
+    {
+        "text": "and really just truth.",
+        "start": 10.73,
+        "duration": 1.33
+    },
+    {
+        "text": "And if you've missed some recent shows,",
+        "start": 12.06,
+        "duration": 1.22
+    },
+    {
+        "text": "you know we've talked about\nFacebook on the show recently.",
+        "start": 13.28,
+        "duration": 1.98
+    },
+    {
+        "text": "Specifically, about it's recent\ndecision to not remove posts",
+        "start": 15.26,
+        "duration": 2.38
+    },
+    {
+        "text": "made by politicians that\nviolated the platforms rules",
+        "start": 17.64,
+        "duration": 2.38
+    },
+    {
+        "text": "even if those posts\ncontain false information.",
+        "start": 20.02,
+        "duration": 2.4
+    },
+    {
+        "text": "And, you know, following that,",
+        "start": 22.42,
+        "duration": 0.99
+    },
+    {
+        "text": "a lot of people criticized that move",
+        "start": 23.41,
+        "duration": 1.4
+    },
+    {
+        "text": "saying that the company was basically",
+        "start": 24.81,
+        "duration": 1.18
+    },
+    {
+        "text": "allowing politicians to\njust lie on Facebook.",
+        "start": 25.99,
+        "duration": 2.38
+    },
+    {
+        "text": "And the reason we're talking\nabout this once again today",
+        "start": 28.37,
+        "duration": 1.88
+    },
+    {
+        "text": "is because those criticisms are now",
+        "start": 30.25,
+        "duration": 1.43
+    },
+    {
+        "text": "hitting exceptionally\nclose to home for Facebook.",
+        "start": 31.68,
+        "duration": 2.35
+    },
+    {
+        "text": "Yesterday, the New York\nTimes reported that Facebook",
+        "start": 34.03,
+        "duration": 1.57
+    },
+    {
+        "text": "employees had written a\nletter to Mark Zuckerberg",
+        "start": 35.6,
+        "duration": 1.83
+    },
+    {
+        "text": "and other top executives calling on them",
+        "start": 37.43,
+        "duration": 1.52
+    },
+    {
+        "text": "to change the policy.",
+        "start": 38.95,
+        "duration": 1.17
+    },
+    {
+        "text": "According to the Times,",
+        "start": 40.12,
+        "duration": 0.833
+    },
+    {
+        "text": "the letter was posted\non Facebook Workplace,",
+        "start": 40.953,
+        "duration": 1.857
+    },
+    {
+        "text": "which is the company's\ninternal communications board",
+        "start": 42.81,
+        "duration": 1.78
+    },
+    {
+        "text": "for employees, and has been\nthere for two weeks now.",
+        "start": 44.59,
+        "duration": 2.31
+    },
+    {
+        "text": "And, according to multiple sources,",
+        "start": 46.9,
+        "duration": 1.14
+    },
+    {
+        "text": "as of Monday, more than 250 employees",
+        "start": 48.04,
+        "duration": 2.03
+    },
+    {
+        "text": "had signed the message.",
+        "start": 50.07,
+        "duration": 0.88
+    },
+    {
+        "text": "And in this letter, the employees say",
+        "start": 50.95,
+        "duration": 1.24
+    },
+    {
+        "text": "that Facebook is a place\nof free expression,",
+        "start": 52.19,
+        "duration": 2.32
+    },
+    {
+        "text": "but that they are worried\nthat the policy would undo",
+        "start": 54.51,
+        "duration": 2.07
+    },
+    {
+        "text": "all the work that they've\ndone since the 2016 election",
+        "start": 56.58,
+        "duration": 2.25
+    },
+    {
+        "text": "to fight misinformation writing,",
+        "start": 58.83,
+        "duration": 1.52
+    },
+    {
+        "text": "free speech and paid speech\nare not the same thing.",
+        "start": 60.35,
+        "duration": 2.8
+    },
+    {
+        "text": "Our current policies on fact checking",
+        "start": 63.15,
+        "duration": 1.7
+    },
+    {
+        "text": "people in political office,\nor those running for office,",
+        "start": 64.85,
+        "duration": 2.7
+    },
+    {
+        "text": "are a threat to what Facebook stands for.",
+        "start": 67.55,
+        "duration": 1.8
+    },
+    {
+        "text": "We strongly object to\nthis policy as it stands.",
+        "start": 69.35,
+        "duration": 2.72
+    },
+    {
+        "text": "It doesn't protect voices,\nbut instead allows politicians",
+        "start": 72.07,
+        "duration": 2.84
+    },
+    {
+        "text": "to weaponize our platform\nby targeting people",
+        "start": 74.91,
+        "duration": 2.13
+    },
+    {
+        "text": "who believe that content posted",
+        "start": 77.04,
+        "duration": 1.2
+    },
+    {
+        "text": "by political figures is trustworthy.",
+        "start": 78.24,
+        "duration": 1.6
+    },
+    {
+        "text": "They then go on to say that they believe",
+        "start": 79.84,
+        "duration": 1.24
+    },
+    {
+        "text": "that the policy has the potential to",
+        "start": 81.08,
+        "duration": 1.09
+    },
+    {
+        "text": "increase distrust on\nthe platform and adding,",
+        "start": 82.17,
+        "duration": 2.25
+    },
+    {
+        "text": "it communicates that we are okay profiting",
+        "start": 84.42,
+        "duration": 2.11
+    },
+    {
+        "text": "from deliberate misinformation campaigns",
+        "start": 86.53,
+        "duration": 1.9
+    },
+    {
+        "text": "by those in or seeking positions of power.",
+        "start": 88.43,
+        "duration": 2.35
+    },
+    {
+        "text": "And continuing that the policy could",
+        "start": 90.78,
+        "duration": 1.39
+    },
+    {
+        "text": "undo integrity product work,\nthat the teams have done",
+        "start": 92.17,
+        "duration": 2.13
+    },
+    {
+        "text": "to prepare for the 2020\nelection and adding that,",
+        "start": 94.3,
+        "duration": 2.0
+    },
+    {
+        "text": "this policy has the potential to continue",
+        "start": 96.3,
+        "duration": 1.37
+    },
+    {
+        "text": "to cause harm in coming\nelections around the world.",
+        "start": 97.67,
+        "duration": 2.3
+    },
+    {
+        "text": "And the letter doesn't kind of just",
+        "start": 99.97,
+        "duration": 1.3
+    },
+    {
+        "text": "object or complain, it\nalso outlines six proposals",
+        "start": 101.27,
+        "duration": 2.92
+    },
+    {
+        "text": "for improvement which\ninclude holding political ads",
+        "start": 104.19,
+        "duration": 2.25
+    },
+    {
+        "text": "to the same standard as other ads,",
+        "start": 106.44,
+        "duration": 1.94
+    },
+    {
+        "text": "stronger design for political ads",
+        "start": 108.38,
+        "duration": 1.46
+    },
+    {
+        "text": "so people can distinguish them as ads.",
+        "start": 109.84,
+        "duration": 1.88
+    },
+    {
+        "text": "Eestricting political ads",
+        "start": 111.72,
+        "duration": 1.12
+    },
+    {
+        "text": "from being targeted to custom audiences.",
+        "start": 112.84,
+        "duration": 1.82
+    },
+    {
+        "text": "Observing election silence periods",
+        "start": 114.66,
+        "duration": 1.68
+    },
+    {
+        "text": "for all elections around the world,",
+        "start": 116.34,
+        "duration": 1.68
+    },
+    {
+        "text": "also setting joint ad spending caps",
+        "start": 118.02,
+        "duration": 1.69
+    },
+    {
+        "text": "for both politicians and PACs,",
+        "start": 119.71,
+        "duration": 1.71
+    },
+    {
+        "text": "and, finally, making clearer policies",
+        "start": 121.42,
+        "duration": 1.46
+    },
+    {
+        "text": "for political ads if Facebook",
+        "start": 122.88,
+        "duration": 1.22
+    },
+    {
+        "text": "does not change it's current policy.",
+        "start": 124.1,
+        "duration": 1.72
+    },
+    {
+        "text": "Things such as updating the\nway that they are displayed",
+        "start": 125.82,
+        "duration": 1.89
+    },
+    {
+        "text": "so that it's clear that\nFacebook policies for",
+        "start": 127.71,
+        "duration": 1.59
+    },
+    {
+        "text": "fact-checking misinformation\ndo not apply to that content.",
+        "start": 129.3,
+        "duration": 2.71
+    },
+    {
+        "text": "With the Facebook employees\nclosing this letter",
+        "start": 132.01,
+        "duration": 1.68
+    },
+    {
+        "text": "saying that they want\nto have an open dialogue",
+        "start": 133.69,
+        "duration": 1.7
+    },
+    {
+        "text": "and see actual change\nand that they are quote,",
+        "start": 135.39,
+        "duration": 1.82
+    },
+    {
+        "text": "looking forward to working\ntowards solutions together.",
+        "start": 137.21,
+        "duration": 2.27
+    },
+    {
+        "text": "Okay, so, that's the letter",
+        "start": 139.48,
+        "duration": 1.15
+    },
+    {
+        "text": "and it's a really big\ndeal for a few reasons.",
+        "start": 140.63,
+        "duration": 1.76
+    },
+    {
+        "text": "First of all, it shows that even",
+        "start": 142.39,
+        "duration": 0.97
+    },
+    {
+        "text": "some of people who work at Facebook",
+        "start": 143.36,
+        "duration": 1.39
+    },
+    {
+        "text": "are opposed to the company's\npolitical speech policy",
+        "start": 144.75,
+        "duration": 1.84
+    },
+    {
+        "text": "and, so much so, that\nthey're willing to speak out.",
+        "start": 146.59,
+        "duration": 1.71
+    },
+    {
+        "text": "And that, in and of itself, is massive",
+        "start": 148.3,
+        "duration": 1.49
+    },
+    {
+        "text": "because internal resistance at\nFacebook is pretty damn rare.",
+        "start": 149.79,
+        "duration": 2.25
+    },
+    {
+        "text": "And when you're looking at a company",
+        "start": 152.04,
+        "duration": 1.13
+    },
+    {
+        "text": "that is just as massive as Facebook,",
+        "start": 153.17,
+        "duration": 1.76
+    },
+    {
+        "text": "it's very easy to just kind of look at it",
+        "start": 154.93,
+        "duration": 1.75
+    },
+    {
+        "text": "as this one giant blob rather than",
+        "start": 156.68,
+        "duration": 2.52
+    },
+    {
+        "text": "a collection of people\nwith different opinions.",
+        "start": 159.2,
+        "duration": 1.7
+    },
+    {
+        "text": "As many others have pointed out,",
+        "start": 160.9,
+        "duration": 0.93
+    },
+    {
+        "text": "here Facebook has not\nusually been included",
+        "start": 161.83,
+        "duration": 1.64
+    },
+    {
+        "text": "in the recent wave of internal",
+        "start": 163.47,
+        "duration": 1.13
+    },
+    {
+        "text": "revolts and protests that\nother big tech companies",
+        "start": 164.6,
+        "duration": 2.2
+    },
+    {
+        "text": "like Google, Amazon, and Microsoft.",
+        "start": 166.8,
+        "duration": 1.99
+    },
+    {
+        "text": "Places where employees\nhave held mass protests",
+        "start": 168.79,
+        "duration": 1.89
+    },
+    {
+        "text": "against their company's\nimpact on climate change,",
+        "start": 170.68,
+        "duration": 2.15
+    },
+    {
+        "text": "sexual harassment policies, and contracts",
+        "start": 172.83,
+        "duration": 2.19
+    },
+    {
+        "text": "with military and law enforcement bodies.",
+        "start": 175.02,
+        "duration": 1.55
+    },
+    {
+        "text": "I mean, notably at Amazon\nJeff Bezos announced",
+        "start": 176.57,
+        "duration": 1.93
+    },
+    {
+        "text": "that he would accelerate\nthe company's climate goals",
+        "start": 178.5,
+        "duration": 1.71
+    },
+    {
+        "text": "back in September and\nthat after Amazon workers,",
+        "start": 180.21,
+        "duration": 2.09
+    },
+    {
+        "text": "who for years had\npressured Bezos to do more",
+        "start": 182.3,
+        "duration": 1.77
+    },
+    {
+        "text": "to address the company's carbon footprint,",
+        "start": 184.07,
+        "duration": 1.44
+    },
+    {
+        "text": "planned a 1700 worker walkout.",
+        "start": 185.51,
+        "duration": 1.79
+    },
+    {
+        "text": "But with Facebook, it's\npublicized they have",
+        "start": 187.3,
+        "duration": 1.9
+    },
+    {
+        "text": "a strong sense of mission",
+        "start": 189.2,
+        "duration": 1.33
+    },
+    {
+        "text": "and a tight knit corporate culture",
+        "start": 190.53,
+        "duration": 1.37
+    },
+    {
+        "text": "among it's rank and file employees.",
+        "start": 191.9,
+        "duration": 1.88
+    },
+    {
+        "text": "So, dissatisfaction among employees",
+        "start": 193.78,
+        "duration": 1.31
+    },
+    {
+        "text": "is rarely put in the public view",
+        "start": 195.09,
+        "duration": 1.4
+    },
+    {
+        "text": "and as I think Vice rightly points out",
+        "start": 196.49,
+        "duration": 2.04
+    },
+    {
+        "text": "most of the time that we've\nseen employee activism",
+        "start": 198.53,
+        "duration": 1.72
+    },
+    {
+        "text": "at Facebook it's often\ntacked onto other activist",
+        "start": 200.25,
+        "duration": 2.35
+    },
+    {
+        "text": "movements at other companies.",
+        "start": 202.6,
+        "duration": 1.28
+    },
+    {
+        "text": "And the reason it's\nimportant to note that is",
+        "start": 203.88,
+        "duration": 1.39
+    },
+    {
+        "text": "it just shows how divisive\nthis policy is at Facebook.",
+        "start": 205.27,
+        "duration": 2.39
+    },
+    {
+        "text": "And following this letter\ngetting out there in the world,",
+        "start": 207.66,
+        "duration": 1.83
+    },
+    {
+        "text": "we saw a number of people\nsupport the employees",
+        "start": 209.49,
+        "duration": 2.14
+    },
+    {
+        "text": "with politicians like",
+        "start": 211.63,
+        "duration": 0.833
+    },
+    {
+        "text": "Representative Alexandria Ocasio-Cortez",
+        "start": 212.463,
+        "duration": 1.977
+    },
+    {
+        "text": "applauding the Facebook employees' efforts",
+        "start": 214.44,
+        "duration": 1.58
+    },
+    {
+        "text": "writing on Twitter,\ncourageous workers at Facebook",
+        "start": 216.02,
+        "duration": 1.95
+    },
+    {
+        "text": "are now standing up to the\ncorporation's leadership,",
+        "start": 217.97,
+        "duration": 2.09
+    },
+    {
+        "text": "challenging Zuckerberg's disturbing policy",
+        "start": 220.06,
+        "duration": 1.86
+    },
+    {
+        "text": "on allowing paid, targeted\ndisinformation ads",
+        "start": 221.92,
+        "duration": 2.29
+    },
+    {
+        "text": "in the 2020 election.",
+        "start": 224.21,
+        "duration": 1.25
+    },
+    {
+        "text": "We also saw several senators chiming in",
+        "start": 225.46,
+        "duration": 1.77
+    },
+    {
+        "text": "like Elizabeth Warren who tweeted,",
+        "start": 227.23,
+        "duration": 1.48
+    },
+    {
+        "text": "Facebook's own employees know",
+        "start": 228.71,
+        "duration": 1.16
+    },
+    {
+        "text": "just how dangerous their\npolicy allowing politicians",
+        "start": 229.87,
+        "duration": 2.19
+    },
+    {
+        "text": "to lie in political ads\nwill be for our democracy.",
+        "start": 232.06,
+        "duration": 2.32
+    },
+    {
+        "text": "Mark Zuckerberg should listen to them",
+        "start": 234.38,
+        "duration": 1.53
+    },
+    {
+        "text": "and I applaud their brave efforts",
+        "start": 235.91,
+        "duration": 1.35
+    },
+    {
+        "text": "to hold their own company accountable.",
+        "start": 237.26,
+        "duration": 1.68
+    },
+    {
+        "text": "And those reactions, of\ncourse, not surprising.",
+        "start": 238.94,
+        "duration": 1.63
+    },
+    {
+        "text": "Both AOC and Warren have been\narguably some of the most",
+        "start": 240.57,
+        "duration": 2.28
+    },
+    {
+        "text": "vocal critics of the new Facebook policy.",
+        "start": 242.85,
+        "duration": 1.9
+    },
+    {
+        "text": "Like we talked about before,",
+        "start": 244.75,
+        "duration": 1.01
+    },
+    {
+        "text": "we saw Warren run a fake\nad that said Zuckerberg",
+        "start": 245.76,
+        "duration": 2.05
+    },
+    {
+        "text": "had endorsed Trump in the 2020 election",
+        "start": 247.81,
+        "duration": 1.82
+    },
+    {
+        "text": "but that ad going on to\nsay that this is not true",
+        "start": 249.63,
+        "duration": 2.41
+    },
+    {
+        "text": "but what Zuckerberg has done is",
+        "start": 252.04,
+        "duration": 1.33
+    },
+    {
+        "text": "given Donald Trump free\nreign to lie on his platform",
+        "start": 253.37,
+        "duration": 2.73
+    },
+    {
+        "text": "and then to pay Facebook gobs of money",
+        "start": 256.1,
+        "duration": 1.5
+    },
+    {
+        "text": "to push out their lies to American voters.",
+        "start": 257.6,
+        "duration": 1.81
+    },
+    {
+        "text": "And when it comes to AOC,\nI mean, just last week,",
+        "start": 259.41,
+        "duration": 1.84
+    },
+    {
+        "text": "while questioning Zuckerberg\nat a congressional hearing,",
+        "start": 261.25,
+        "duration": 1.94
+    },
+    {
+        "text": "there was this clip that went viral.",
+        "start": 263.19,
+        "duration": 1.35
+    },
+    {
+        "text": "- Could I run ads targeting\nRepublicans in primaries",
+        "start": 264.54,
+        "duration": 4.12
+    },
+    {
+        "text": "saying that they voted\nfor the Green New Deal?",
+        "start": 268.66,
+        "duration": 2.3
+    },
+    {
+        "text": "- Sorry, can you repeat that?",
+        "start": 272.89,
+        "duration": 2.25
+    },
+    {
+        "text": "- Would I be able to run\nadvertisements on Facebook",
+        "start": 275.14,
+        "duration": 2.76
+    },
+    {
+        "text": "targeting Republicans in primaries",
+        "start": 277.9,
+        "duration": 1.77
+    },
+    {
+        "text": "saying that they voted\nfor the Green New Deal?",
+        "start": 279.67,
+        "duration": 2.55
+    },
+    {
+        "text": "I mean, if you're not fact-checking",
+        "start": 282.22,
+        "duration": 1.05
+    },
+    {
+        "text": "political advertisements,\nI'm just trying to understand",
+        "start": 283.27,
+        "duration": 2.0
+    },
+    {
+        "text": "the bounds here.",
+        "start": 285.27,
+        "duration": 1.57
+    },
+    {
+        "text": "What's fair game?",
+        "start": 286.84,
+        "duration": 0.833
+    },
+    {
+        "text": "- Congresswoman, I don't know the answer",
+        "start": 287.673,
+        "duration": 2.177
+    },
+    {
+        "text": "to that off the top of my head.",
+        "start": 289.85,
+        "duration": 1.31
+    },
+    {
+        "text": "- You don't know if\nI'll be able to do that?",
+        "start": 291.16,
+        "duration": 1.778
+    },
+    {
+        "text": "- I think probably.",
+        "start": 292.938,
+        "duration": 0.833
+    },
+    {
+        "text": "- And, in fact, since then,\na PAC run by Adriel Hampton,",
+        "start": 293.771,
+        "duration": 2.539
+    },
+    {
+        "text": "a political activist who\nowns a marketing firm",
+        "start": 296.31,
+        "duration": 1.8
+    },
+    {
+        "text": "in San Francisco, actually\ntested what AOC was describing",
+        "start": 298.11,
+        "duration": 2.88
+    },
+    {
+        "text": "running an ad that spliced\ntogether audio clips",
+        "start": 300.99,
+        "duration": 1.8
+    },
+    {
+        "text": "of Senator Lindsey Graham so it sounded",
+        "start": 302.79,
+        "duration": 1.41
+    },
+    {
+        "text": "like he was saying that he\nsupported the Green New Deal.",
+        "start": 304.2,
+        "duration": 1.85
+    },
+    {
+        "text": "And there Facebook later said\nthat it had removed that ad.",
+        "start": 306.05,
+        "duration": 2.44
+    },
+    {
+        "text": "Although, it's believed\nit's probably because PACs",
+        "start": 308.49,
+        "duration": 2.14
+    },
+    {
+        "text": "and independent organizations\nare not individual politicians",
+        "start": 310.63,
+        "duration": 2.76
+    },
+    {
+        "text": "so the policy exempting political figures",
+        "start": 313.39,
+        "duration": 1.67
+    },
+    {
+        "text": "does not apply to them.",
+        "start": 315.06,
+        "duration": 0.93
+    },
+    {
+        "text": "But that's not where\nHampton's efforts stopped.",
+        "start": 315.99,
+        "duration": 1.64
+    },
+    {
+        "text": "Just yesterday, Hampton himself registered",
+        "start": 317.63,
+        "duration": 1.9
+    },
+    {
+        "text": "as a candidate for governor of California,",
+        "start": 319.53,
+        "duration": 1.66
+    },
+    {
+        "text": "but it appears that he's not running",
+        "start": 321.19,
+        "duration": 1.37
+    },
+    {
+        "text": "to try to make the world a better place",
+        "start": 322.56,
+        "duration": 1.85
+    },
+    {
+        "text": "to be the best governor for California.",
+        "start": 324.41,
+        "duration": 2.65
+    },
+    {
+        "text": "Instead, it's just so he\ncan run false Facebook ads.",
+        "start": 327.06,
+        "duration": 2.8
+    },
+    {
+        "text": "And while speaking to CNN, Hampton said,",
+        "start": 329.86,
+        "duration": 1.757
+    },
+    {
+        "text": "\"The genesis of this campaign\nis social media regulation",
+        "start": 331.617,
+        "duration": 2.82
+    },
+    {
+        "text": "\"and to ensure these is not\nan exemption in fact-checking",
+        "start": 334.437,
+        "duration": 2.68
+    },
+    {
+        "text": "\"specifically for\npoliticians like Donald Trump",
+        "start": 337.117,
+        "duration": 2.23
+    },
+    {
+        "text": "\"who like to lie online.\"",
+        "start": 339.347,
+        "duration": 1.21
+    },
+    {
+        "text": "\"I think social media\nis incredibly powerful.\"",
+        "start": 340.557,
+        "duration": 2.223
+    },
+    {
+        "text": "And adding, \"I believe that Facebook",
+        "start": 342.78,
+        "duration": 1.517
+    },
+    {
+        "text": "\"has the power to shift elections.\"",
+        "start": 344.297,
+        "duration": 1.933
+    },
+    {
+        "text": "But, ultimately, that is where we are",
+        "start": 346.23,
+        "duration": 1.32
+    },
+    {
+        "text": "with the story right now.",
+        "start": 347.55,
+        "duration": 0.833
+    },
+    {
+        "text": "You know, moving forward,",
+        "start": 348.383,
+        "duration": 0.833
+    },
+    {
+        "text": "it's going to be really\nfascinating to see if other",
+        "start": 349.216,
+        "duration": 1.344
+    },
+    {
+        "text": "politicians respond with similar tactics",
+        "start": 350.56,
+        "duration": 1.89
+    },
+    {
+        "text": "like running ads with just blatant lies.",
+        "start": 352.45,
+        "duration": 1.79
+    },
+    {
+        "text": "Also, it'd be interesting to see if we see",
+        "start": 354.24,
+        "duration": 1.38
+    },
+    {
+        "text": "other people run for office\njust so they can do the same.",
+        "start": 355.62,
+        "duration": 2.23
+    },
+    {
+        "text": "Also, I mean, as far as what\nFacebook does from here,",
+        "start": 357.85,
+        "duration": 2.09
+    },
+    {
+        "text": "so far they've responded to the letter",
+        "start": 359.94,
+        "duration": 1.58
+    },
+    {
+        "text": "with a spokesperson saying in a statement,",
+        "start": 361.52,
+        "duration": 1.44
+    },
+    {
+        "text": "Facebook's culture is built on openness,",
+        "start": 362.96,
+        "duration": 1.76
+    },
+    {
+        "text": "so we appreciate our employees voicing",
+        "start": 364.72,
+        "duration": 1.58
+    },
+    {
+        "text": "their thoughts on this important topic,",
+        "start": 366.3,
+        "duration": 1.41
+    },
+    {
+        "text": "but then adding, We remain committed to",
+        "start": 367.71,
+        "duration": 1.64
+    },
+    {
+        "text": "not censoring political speech,",
+        "start": 369.35,
+        "duration": 1.64
+    },
+    {
+        "text": "and will continue\nexploring additional steps",
+        "start": 370.99,
+        "duration": 1.66
+    },
+    {
+        "text": "we can take to bring\nincreased transparency",
+        "start": 372.65,
+        "duration": 1.88
+    },
+    {
+        "text": "to political ads.",
+        "start": 374.53,
+        "duration": 0.833
+    },
+    {
+        "text": "But like I said, we're\ngoing to have to wait to see",
+        "start": 375.363,
+        "duration": 1.537
+    },
+    {
+        "text": "if anything happens here,\nif any of the pressure",
+        "start": 376.9,
+        "duration": 2.44
+    },
+    {
+        "text": "both internally and externally\nwill get to Facebook,",
+        "start": 379.34,
+        "duration": 3.4
+    },
+    {
+        "text": "and, of course, connected to this story,",
+        "start": 382.74,
+        "duration": 1.08
+    },
+    {
+        "text": "I would love to know your thoughts.",
+        "start": 383.82,
+        "duration": 1.45
+    },
+    {
+        "text": "But, from that, I want to\nshare some stuff I loved today",
+        "start": 385.27,
+        "duration": 2.51
+    },
+    {
+        "text": "in today in awesome brought\nto you by Seat Geek.",
+        "start": 387.78,
+        "duration": 2.52
+    },
+    {
+        "text": "And for those that don't know,",
+        "start": 390.3,
+        "duration": 0.833
+    },
+    {
+        "text": "Seat Geek is the fantastic ticket app",
+        "start": 391.133,
+        "duration": 1.597
+    },
+    {
+        "text": "that takes the confusion\nout of buying tickets",
+        "start": 392.73,
+        "duration": 1.49
+    },
+    {
+        "text": "for all kinds of live events",
+        "start": 394.22,
+        "duration": 1.25
+    },
+    {
+        "text": "from concerts to comedy\nshows to sporting events.",
+        "start": 395.47,
+        "duration": 2.01
+    },
+    {
+        "text": "They put all the tickets in one place.",
+        "start": 397.48,
+        "duration": 1.85
+    },
+    {
+        "text": "They give them zero to 100 scores,",
+        "start": 399.33,
+        "duration": 1.42
+    },
+    {
+        "text": "so you know if you're\ngetting a good deal or not.",
+        "start": 400.75,
+        "duration": 1.41
+    },
+    {
+        "text": "I have the app on my phone and it is",
+        "start": 402.16,
+        "duration": 1.15
+    },
+    {
+        "text": "by far the easiest way to\nshop for tickets to whatever",
+        "start": 403.31,
+        "duration": 2.22
+    },
+    {
+        "text": "whether it be a last minute date idea,",
+        "start": 405.53,
+        "duration": 1.7
+    },
+    {
+        "text": "a birthday, or holiday present.",
+        "start": 407.23,
+        "duration": 1.67
+    },
+    {
+        "text": "Maybe get something for you.",
+        "start": 408.9,
+        "duration": 1.169
+    },
+    {
+        "text": "You know, the gift of an\nexperience is awesome.",
+        "start": 410.069,
+        "duration": 1.411
+    },
+    {
+        "text": "Go to a concert, a comedy show,",
+        "start": 411.48,
+        "duration": 1.83
+    },
+    {
+        "text": "of course football season,\nthe NBA, of course,",
+        "start": 413.31,
+        "duration": 2.1
+    },
+    {
+        "text": "is just starting up.",
+        "start": 415.41,
+        "duration": 0.833
+    },
+    {
+        "text": "Hell, they even have\ngreat finds on Broadway,",
+        "start": 416.243,
+        "duration": 1.767
+    },
+    {
+        "text": "but the main point is if\nyou want to check this out,",
+        "start": 418.01,
+        "duration": 1.98
+    },
+    {
+        "text": "you want to try it out,",
+        "start": 419.99,
+        "duration": 0.98
+    },
+    {
+        "text": "just head on over to SeatGeekPhil.com,",
+        "start": 420.97,
+        "duration": 1.63
+    },
+    {
+        "text": "or just click that link\nin the description,",
+        "start": 422.6,
+        "duration": 1.52
+    },
+    {
+        "text": "and when you use code PHIL",
+        "start": 424.12,
+        "duration": 1.49
+    },
+    {
+        "text": "you will get $20 off your\nfirst ticket purchase.",
+        "start": 425.61,
+        "duration": 2.32
+    },
+    {
+        "text": "So, click it, check it out,",
+        "start": 427.93,
+        "duration": 0.92
+    },
+    {
+        "text": "use the code, save and enjoy.",
+        "start": 428.85,
+        "duration": 1.89
+    },
+    {
+        "text": "And the first bit of awesome today is",
+        "start": 430.74,
+        "duration": 1.24
+    },
+    {
+        "text": "if you're looking for more news",
+        "start": 431.98,
+        "duration": 1.13
+    },
+    {
+        "text": "or just something interesting,",
+        "start": 433.11,
+        "duration": 1.39
+    },
+    {
+        "text": "we did a deep dive on\nChernobyl and nuclear fallout.",
+        "start": 434.5,
+        "duration": 2.91
+    },
+    {
+        "text": "It's definitely worth a\nwatch after today's show.",
+        "start": 437.41,
+        "duration": 1.95
+    },
+    {
+        "text": "Then, oh my god, I'm so excited",
+        "start": 439.36,
+        "duration": 1.71
+    },
+    {
+        "text": "We've got the official\ntrailer for the Mandalorian.",
+        "start": 441.07,
+        "duration": 1.97
+    },
+    {
+        "text": "Very excited for specifically that,",
+        "start": 443.04,
+        "duration": 1.22
+    },
+    {
+        "text": "but also just really\ninterested to see what these",
+        "start": 444.26,
+        "duration": 1.9
+    },
+    {
+        "text": "Disney+ originals are like.",
+        "start": 446.16,
+        "duration": 1.38
+    },
+    {
+        "text": "Then, we have Kerry\nWashington breaking down",
+        "start": 447.54,
+        "duration": 1.72
+    },
+    {
+        "text": "her career from Ray to Django Unchained.",
+        "start": 449.26,
+        "duration": 2.44
+    },
+    {
+        "text": "We have Dove Cameron\nhijacking a stranger's phone.",
+        "start": 451.7,
+        "duration": 2.15
+    },
+    {
+        "text": "Then, Netflix gave us a behind the scenes",
+        "start": 453.85,
+        "duration": 2.02
+    },
+    {
+        "text": "for El Camino: A Breaking Bad Movie.",
+        "start": 455.87,
+        "duration": 1.78
+    },
+    {
+        "text": "Then, TED-Ed gave us claws versus nails.",
+        "start": 457.65,
+        "duration": 1.98
+    },
+    {
+        "text": "Jimmy Kimmel gave us three ridiculous",
+        "start": 459.63,
+        "duration": 1.5
+    },
+    {
+        "text": "questions with Nick Offerman.",
+        "start": 461.13,
+        "duration": 1.43
+    },
+    {
+        "text": "Then, we got the newest episode\nof the Shane Dawson doc,",
+        "start": 462.56,
+        "duration": 2.0
+    },
+    {
+        "text": "The Failure of Jeffree\nStar and Shane Dawson.",
+        "start": 464.56,
+        "duration": 1.91
+    },
+    {
+        "text": "Then, we got the Honest\nTrailer for the Shining.",
+        "start": 466.47,
+        "duration": 1.93
+    },
+    {
+        "text": "We have Binging with Babish giving us",
+        "start": 468.4,
+        "duration": 1.35
+    },
+    {
+        "text": "glazed pork chops from Apex Legends.",
+        "start": 469.75,
+        "duration": 1.96
+    },
+    {
+        "text": "And if you want to see the\nfull versions of everything",
+        "start": 471.71,
+        "duration": 1.61
+    },
+    {
+        "text": "I just shared, the secret link of the day,",
+        "start": 473.32,
+        "duration": 1.67
+    },
+    {
+        "text": "really anything at all, links, as always,",
+        "start": 474.99,
+        "duration": 2.26
+    },
+    {
+        "text": "are in the description down below.",
+        "start": 477.25,
+        "duration": 1.16
+    },
+    {
+        "text": "Then, albeit a quickie, let's\ntalk about the massive news",
+        "start": 478.41,
+        "duration": 2.49
+    },
+    {
+        "text": "coming from the NCAA.",
+        "start": 480.9,
+        "duration": 1.43
+    },
+    {
+        "text": "You know, in past shows, we\ntalked about California's",
+        "start": 482.33,
+        "duration": 1.87
+    },
+    {
+        "text": "Fair Pay to Play Act, a bill that'll allow",
+        "start": 484.2,
+        "duration": 2.07
+    },
+    {
+        "text": "college athletes in California to be paid",
+        "start": 486.27,
+        "duration": 2.26
+    },
+    {
+        "text": "for their image, their\nname, their likeness.",
+        "start": 488.53,
+        "duration": 2.578
+    },
+    {
+        "text": "And when this was happening,\nthere was a number of people",
+        "start": 491.108,
+        "duration": 1.112
+    },
+    {
+        "text": "saying this is forcing\ncolleges to pay athletes.",
+        "start": 492.22,
+        "duration": 3.1
+    },
+    {
+        "text": "That's not what it was.",
+        "start": 495.32,
+        "duration": 0.833
+    },
+    {
+        "text": "And of course, in the build\nup to the signing of the bill",
+        "start": 496.153,
+        "duration": 2.247
+    },
+    {
+        "text": "and after the signing of\nthe bill you have the NCAA",
+        "start": 498.4,
+        "duration": 2.58
+    },
+    {
+        "text": "saying, well, one, if this goes through,",
+        "start": 500.98,
+        "duration": 1.5
+    },
+    {
+        "text": "they might have to take\naway California's college",
+        "start": 502.48,
+        "duration": 1.84
+    },
+    {
+        "text": "eligibility in the NCAA and\nwhile there was a lot of support",
+        "start": 504.32,
+        "duration": 2.61
+    },
+    {
+        "text": "for this bill from\nathletes, former athletes,",
+        "start": 506.93,
+        "duration": 2.74
+    },
+    {
+        "text": "you also had some exceptions\nlike that of Tim Tebow.",
+        "start": 509.67,
+        "duration": 2.34
+    },
+    {
+        "text": "But the reason we're\ntalking about this today is,",
+        "start": 512.01,
+        "duration": 1.76
+    },
+    {
+        "text": "according to reports, the\nNCAA's Board of Governors",
+        "start": 513.77,
+        "duration": 2.76
+    },
+    {
+        "text": "voted Tuesday to allow\ncollege athletes to receive",
+        "start": 516.53,
+        "duration": 2.54
+    },
+    {
+        "text": "compensation for their\nnames, images, and likenesses",
+        "start": 519.07,
+        "duration": 3.35
+    },
+    {
+        "text": "with Michael V. Drake, the board's chair",
+        "start": 522.42,
+        "duration": 1.8
+    },
+    {
+        "text": "and president of the\nOhio State University,",
+        "start": 524.22,
+        "duration": 1.8
+    },
+    {
+        "text": "saying in a statement,",
+        "start": 526.02,
+        "duration": 0.833
+    },
+    {
+        "text": "\"We must embrace change to provide",
+        "start": 526.853,
+        "duration": 1.594
+    },
+    {
+        "text": "\"the best possible experience\nfor college athletes.",
+        "start": 528.447,
+        "duration": 2.2
+    },
+    {
+        "text": "\"This modernization for the future",
+        "start": 530.647,
+        "duration": 1.54
+    },
+    {
+        "text": "\"is a natural extension of the\nnumerous steps NCAA members",
+        "start": 532.187,
+        "duration": 3.13
+    },
+    {
+        "text": "\"have taken in the recent\nyears to improve support",
+        "start": 535.317,
+        "duration": 2.19
+    },
+    {
+        "text": "\"for student-athletes, including\nfull cost of attendance",
+        "start": 537.507,
+        "duration": 2.74
+    },
+    {
+        "text": "\"and guaranteed scholarships.\"",
+        "start": 540.247,
+        "duration": 1.363
+    },
+    {
+        "text": "Are you really trying\nto take credit for this?",
+        "start": 541.61,
+        "duration": 2.28
+    },
+    {
+        "text": "What we're really seeing here",
+        "start": 543.89,
+        "duration": 0.84
+    },
+    {
+        "text": "is California stood up\nto the NCAA and said,",
+        "start": 544.73,
+        "duration": 2.307
+    },
+    {
+        "text": "\"Hey, ya greedy fucks, let's strip back",
+        "start": 547.037,
+        "duration": 1.85
+    },
+    {
+        "text": "\"some of the ownership you feel you have",
+        "start": 548.887,
+        "duration": 1.84
+    },
+    {
+        "text": "\"on these young athletes\nwho're putting their minds",
+        "start": 550.727,
+        "duration": 2.75
+    },
+    {
+        "text": "\"and their bodies on the line",
+        "start": 553.477,
+        "duration": 1.37
+    },
+    {
+        "text": "\"every week because what you're doing",
+        "start": 554.847,
+        "duration": 1.54
+    },
+    {
+        "text": "\"is predatory in nature.\"",
+        "start": 556.387,
+        "duration": 1.653
+    },
+    {
+        "text": "And, in this game of\nchicken, the NCAA swerved.",
+        "start": 558.04,
+        "duration": 2.93
+    },
+    {
+        "text": "But because that quote really\nfeels like you want it,",
+        "start": 560.97,
+        "duration": 2.03
+    },
+    {
+        "text": "I guess props for making\nthe right decision",
+        "start": 563.0,
+        "duration": 2.6
+    },
+    {
+        "text": "even though you seemingly were forced to.",
+        "start": 565.6,
+        "duration": 2.15
+    },
+    {
+        "text": "One, so that the inevitable\nwas less painful for you",
+        "start": 567.75,
+        "duration": 2.84
+    },
+    {
+        "text": "and two, so you could\nseemingly try to save face",
+        "start": 570.59,
+        "duration": 3.14
+    },
+    {
+        "text": "and take ownership of\nthis positive change.",
+        "start": 573.73,
+        "duration": 2.02
+    },
+    {
+        "text": "But also, I do wanna note,\ntechnically as of right now",
+        "start": 575.75,
+        "duration": 2.85
+    },
+    {
+        "text": "no change has been implemented.",
+        "start": 578.6,
+        "duration": 1.79
+    },
+    {
+        "text": "There are guidelines that the\nNCAA says any changes to name",
+        "start": 580.39,
+        "duration": 2.89
+    },
+    {
+        "text": "and image rights rules should follow",
+        "start": 583.28,
+        "duration": 1.74
+    },
+    {
+        "text": "and, per the NCAA statement,\nany changes made to the rules",
+        "start": 585.02,
+        "duration": 3.16
+    },
+    {
+        "text": "would be implemented January 2021,",
+        "start": 588.18,
+        "duration": 2.24
+    },
+    {
+        "text": "but it's not in place yet and notably",
+        "start": 590.42,
+        "duration": 2.13
+    },
+    {
+        "text": "on the NCAA's website in the",
+        "start": 592.55,
+        "duration": 1.67
+    },
+    {
+        "text": "Questions and Answers on\nName, Image, and Likeness",
+        "start": 594.22,
+        "duration": 2.47
+    },
+    {
+        "text": "section which says it was updated today,",
+        "start": 596.69,
+        "duration": 2.04
+    },
+    {
+        "text": "the NCAA still views the\naction taken by California",
+        "start": 598.73,
+        "duration": 2.82
+    },
+    {
+        "text": "as likely unconstitutional.",
+        "start": 601.55,
+        "duration": 1.93
+    },
+    {
+        "text": "And regarding the questions\nthey ask themself,",
+        "start": 603.48,
+        "duration": 1.95
+    },
+    {
+        "text": "is the NCAA challenging it in court?",
+        "start": 605.43,
+        "duration": 1.76
+    },
+    {
+        "text": "They say, \"The NCAA is closely\nmonitoring the approaches",
+        "start": 607.19,
+        "duration": 2.567
+    },
+    {
+        "text": "\"taken by state governments\nand the US Congress",
+        "start": 609.757,
+        "duration": 1.97
+    },
+    {
+        "text": "\"and is considering all\npotential next steps.\"",
+        "start": 611.727,
+        "duration": 2.203
+    },
+    {
+        "text": "So, that fine print BS\nleaves me skeptical,",
+        "start": 613.93,
+        "duration": 2.88
+    },
+    {
+        "text": "you know, we'll see, time will tell.",
+        "start": 616.81,
+        "duration": 1.43
+    },
+    {
+        "text": "And then, let's talk about\nthis really interesting",
+        "start": 618.24,
+        "duration": 1.54
+    },
+    {
+        "text": "situation and debate and scandal",
+        "start": 619.78,
+        "duration": 2.41
+    },
+    {
+        "text": "around Katie Hill's resignation.",
+        "start": 622.19,
+        "duration": 1.853
+    },
+    {
+        "text": "And this is a really messy\nstory, I was looking online.",
+        "start": 624.043,
+        "duration": 1.927
+    },
+    {
+        "text": "There's also a lot of\nconfusion around this story.",
+        "start": 625.97,
+        "duration": 2.1
+    },
+    {
+        "text": "So, we're going to try and break down",
+        "start": 628.07,
+        "duration": 0.99
+    },
+    {
+        "text": "what actually happened\nhere, what happened when,",
+        "start": 629.06,
+        "duration": 1.95
+    },
+    {
+        "text": "what it means for Hill, for\npolitics, and women in general.",
+        "start": 631.01,
+        "duration": 2.89
+    },
+    {
+        "text": "Right, so, Katie Hill is a 32 year old",
+        "start": 633.9,
+        "duration": 1.71
+    },
+    {
+        "text": "Democratic Representative from California",
+        "start": 635.61,
+        "duration": 1.85
+    },
+    {
+        "text": "and this is her first term.",
+        "start": 637.46,
+        "duration": 1.27
+    },
+    {
+        "text": "And, notably here, she actually defeated",
+        "start": 638.73,
+        "duration": 1.33
+    },
+    {
+        "text": "the incumbent Republican, Steve Knight,",
+        "start": 640.06,
+        "duration": 1.6
+    },
+    {
+        "text": "in last year's midterm.",
+        "start": 641.66,
+        "duration": 1.22
+    },
+    {
+        "text": "Right, and this is a massive deal",
+        "start": 642.88,
+        "duration": 1.24
+    },
+    {
+        "text": "and I know that if you're unfamiliar,",
+        "start": 644.12,
+        "duration": 1.38
+    },
+    {
+        "text": "when you think of California you probably",
+        "start": 645.5,
+        "duration": 1.4
+    },
+    {
+        "text": "just think all blue districts.",
+        "start": 646.9,
+        "duration": 1.28
+    },
+    {
+        "text": "Not the case!",
+        "start": 648.18,
+        "duration": 0.833
+    },
+    {
+        "text": "Hill's district had actually been",
+        "start": 649.013,
+        "duration": 0.833
+    },
+    {
+        "text": "Republican controlled since 1993.",
+        "start": 649.846,
+        "duration": 1.511
+    },
+    {
+        "text": "Right, so it was massive news\nwhen she flipped that seat.",
+        "start": 651.357,
+        "duration": 2.453
+    },
+    {
+        "text": "But, the reason we're talking",
+        "start": 653.81,
+        "duration": 0.833
+    },
+    {
+        "text": "about Hill today is\nnot this ultra-belated,",
+        "start": 654.643,
+        "duration": 2.387
+    },
+    {
+        "text": "wow, can you believe it happened, story.",
+        "start": 657.03,
+        "duration": 1.63
+    },
+    {
+        "text": "It's about what we've seen\nhappen over the last month.",
+        "start": 658.66,
+        "duration": 2.36
+    },
+    {
+        "text": "And it all starts earlier this month.",
+        "start": 661.02,
+        "duration": 1.55
+    },
+    {
+        "text": "You had a right-wing\npolitical blog publish",
+        "start": 662.57,
+        "duration": 1.58
+    },
+    {
+        "text": "allegations that Hill was\nin a three-way relationship",
+        "start": 664.15,
+        "duration": 2.06
+    },
+    {
+        "text": "between her husband and a female staffer.",
+        "start": 666.21,
+        "duration": 1.94
+    },
+    {
+        "text": "It then went on to make another allegation",
+        "start": 668.15,
+        "duration": 1.87
+    },
+    {
+        "text": "this time that she was having an affair",
+        "start": 670.02,
+        "duration": 1.19
+    },
+    {
+        "text": "with her legislative director.",
+        "start": 671.21,
+        "duration": 1.36
+    },
+    {
+        "text": "Also, to note here, Hill and her husband",
+        "start": 672.57,
+        "duration": 1.44
+    },
+    {
+        "text": "were reportedly estranged at the time",
+        "start": 674.01,
+        "duration": 1.39
+    },
+    {
+        "text": "of the second allegation\nwith Hill actually",
+        "start": 675.4,
+        "duration": 1.52
+    },
+    {
+        "text": "calling her estranged husband abusive",
+        "start": 676.92,
+        "duration": 2.04
+    },
+    {
+        "text": "and saying that he tried to humiliate her.",
+        "start": 678.96,
+        "duration": 1.64
+    },
+    {
+        "text": "However, there's actually\nanother aspect of this story",
+        "start": 680.6,
+        "duration": 2.08
+    },
+    {
+        "text": "because the blog didn't\njust make allegations",
+        "start": 682.68,
+        "duration": 1.54
+    },
+    {
+        "text": "of inappropriate relationships.",
+        "start": 684.22,
+        "duration": 1.44
+    },
+    {
+        "text": "It was followed up by also\nincluding private text messages",
+        "start": 685.66,
+        "duration": 2.32
+    },
+    {
+        "text": "and even nude photos\nof Hill in that story.",
+        "start": 687.98,
+        "duration": 2.12
+    },
+    {
+        "text": "Which, for the record, those\nphotos were somewhat censored",
+        "start": 690.1,
+        "duration": 1.92
+    },
+    {
+        "text": "but for a lot of people\nthat wasn't the point",
+        "start": 692.02,
+        "duration": 1.67
+    },
+    {
+        "text": "because the blog still published",
+        "start": 693.69,
+        "duration": 1.04
+    },
+    {
+        "text": "those photos without her consent.",
+        "start": 694.73,
+        "duration": 1.32
+    },
+    {
+        "text": "And regarding those photos,",
+        "start": 696.05,
+        "duration": 0.94
+    },
+    {
+        "text": "Hill has actually implied that\nshe thinks that her husband",
+        "start": 696.99,
+        "duration": 2.0
+    },
+    {
+        "text": "might have supplied\nthose photos to the blog.",
+        "start": 698.99,
+        "duration": 1.69
+    },
+    {
+        "text": "Right, so, after that Hill went to",
+        "start": 700.68,
+        "duration": 1.08
+    },
+    {
+        "text": "the US Capitol Police and\nopened an investigation to find",
+        "start": 701.76,
+        "duration": 2.41
+    },
+    {
+        "text": "out who leaked the photos.",
+        "start": 704.17,
+        "duration": 1.04
+    },
+    {
+        "text": "But, on October 23, the House\nEthics Committee announced",
+        "start": 705.21,
+        "duration": 2.3
+    },
+    {
+        "text": "that it would also open an investigation,",
+        "start": 707.51,
+        "duration": 1.86
+    },
+    {
+        "text": "but this one focused\non whether or not Hill",
+        "start": 709.37,
+        "duration": 1.37
+    },
+    {
+        "text": "had that inappropriate relationship",
+        "start": 710.74,
+        "duration": 1.3
+    },
+    {
+        "text": "with her legislative director.",
+        "start": 712.04,
+        "duration": 1.2
+    },
+    {
+        "text": "And of note here, right,\none of the things is",
+        "start": 713.24,
+        "duration": 1.043
+    },
+    {
+        "text": "that if they found the\nallegation to be true,",
+        "start": 714.283,
+        "duration": 1.987
+    },
+    {
+        "text": "even if it was consensual,",
+        "start": 716.27,
+        "duration": 1.44
+    },
+    {
+        "text": "Hill would be guilty of\nviolating a new ethics rule",
+        "start": 717.71,
+        "duration": 1.68
+    },
+    {
+        "text": "passed by congress last year.",
+        "start": 719.39,
+        "duration": 1.25
+    },
+    {
+        "text": "A rule prohibiting members of congress",
+        "start": 720.64,
+        "duration": 1.4
+    },
+    {
+        "text": "from engaging in sexual\nrelationships with their aides.",
+        "start": 722.04,
+        "duration": 2.0
+    },
+    {
+        "text": "And what we ended up seeing that same day",
+        "start": 724.04,
+        "duration": 1.35
+    },
+    {
+        "text": "is that Hill sent down an\nemail to her constituents.",
+        "start": 725.39,
+        "duration": 2.02
+    },
+    {
+        "text": "In it, she admits that\nshe had an inappropriate",
+        "start": 727.41,
+        "duration": 1.68
+    },
+    {
+        "text": "relationship with a female staffer.",
+        "start": 729.09,
+        "duration": 1.59
+    },
+    {
+        "text": "Also, noting that it had happened",
+        "start": 730.68,
+        "duration": 1.13
+    },
+    {
+        "text": "before she became a\ncongresswoman which is why",
+        "start": 731.81,
+        "duration": 1.91
+    },
+    {
+        "text": "that allegation was not part\nof the ethics investigation.",
+        "start": 733.72,
+        "duration": 2.47
+    },
+    {
+        "text": "Hill then denied having an affair",
+        "start": 736.19,
+        "duration": 1.22
+    },
+    {
+        "text": "with her legislative director and promised",
+        "start": 737.41,
+        "duration": 1.68
+    },
+    {
+        "text": "to cooperate with the investigation.",
+        "start": 739.09,
+        "duration": 1.44
+    },
+    {
+        "text": "But, then the story took\nanother massive turn on Sunday,",
+        "start": 740.53,
+        "duration": 2.79
+    },
+    {
+        "text": "when Hill tweeted, \"It is\nwith a broken heart that",
+        "start": 743.32,
+        "duration": 1.817
+    },
+    {
+        "text": "\"today I announce my\nresignation from Congress.",
+        "start": 745.137,
+        "duration": 2.4
+    },
+    {
+        "text": "\"This is the hardest thing\nI have ever had to do,",
+        "start": 747.537,
+        "duration": 1.87
+    },
+    {
+        "text": "\"but I believe it is the best\nthing for my constituents,",
+        "start": 749.407,
+        "duration": 2.2
+    },
+    {
+        "text": "\"my community, and our country.\"",
+        "start": 751.607,
+        "duration": 1.433
+    },
+    {
+        "text": "With Hill also sharing the photo of",
+        "start": 753.04,
+        "duration": 1.22
+    },
+    {
+        "text": "her official resignation letter reading,",
+        "start": 754.26,
+        "duration": 1.587
+    },
+    {
+        "text": "\"This is what needs to happen\nso that the good people",
+        "start": 755.847,
+        "duration": 1.83
+    },
+    {
+        "text": "\"who supported me will\nno longer be subjected",
+        "start": 757.677,
+        "duration": 1.96
+    },
+    {
+        "text": "\"to the pain inflicted\nby my abusive husband",
+        "start": 759.637,
+        "duration": 2.01
+    },
+    {
+        "text": "\"and the brutality of\nhateful political operatives",
+        "start": 761.647,
+        "duration": 2.21
+    },
+    {
+        "text": "\"who seem to happily provide\na platform to a monster",
+        "start": 763.857,
+        "duration": 2.36
+    },
+    {
+        "text": "\"who is driving a smear campaign",
+        "start": 766.217,
+        "duration": 1.27
+    },
+    {
+        "text": "\"built around cyber exploitation.\"",
+        "start": 767.487,
+        "duration": 1.713
+    },
+    {
+        "text": "And continuing, \"Having private\nphotos of personal moments",
+        "start": 769.2,
+        "duration": 2.447
+    },
+    {
+        "text": "\"weaponized against me\nhas been an appalling",
+        "start": 771.647,
+        "duration": 1.87
+    },
+    {
+        "text": "\"invasion of my privacy.\"",
+        "start": 773.517,
+        "duration": 1.363
+    },
+    {
+        "text": "And following that up\nby calling the action",
+        "start": 774.88,
+        "duration": 1.67
+    },
+    {
+        "text": "illegal and saying, \"we are\ncurrently pursuing all of our",
+        "start": 776.55,
+        "duration": 2.407
+    },
+    {
+        "text": "\"available legal options.\"",
+        "start": 778.957,
+        "duration": 1.263
+    },
+    {
+        "text": "And a lot of this debate has been focused",
+        "start": 780.22,
+        "duration": 1.61
+    },
+    {
+        "text": "on that aspect, on cyber exploitation or,",
+        "start": 781.83,
+        "duration": 2.25
+    },
+    {
+        "text": "as it's more commonly known, revenge porn.",
+        "start": 784.08,
+        "duration": 1.91
+    },
+    {
+        "text": "Because you have people\nessentially arguing,",
+        "start": 785.99,
+        "duration": 1.36
+    },
+    {
+        "text": "politician or not,\nultimately what you have",
+        "start": 787.35,
+        "duration": 2.18
+    },
+    {
+        "text": "is a blog leaking Hill's nude\nphotos without her consent.",
+        "start": 789.53,
+        "duration": 2.7
+    },
+    {
+        "text": "And also notably, in California,\nrevenge porn is illegal.",
+        "start": 792.23,
+        "duration": 2.71
+    },
+    {
+        "text": "Like we've seen with other\nstories where people have",
+        "start": 794.94,
+        "duration": 1.57
+    },
+    {
+        "text": "had their nude photos leaked\nwithout their consent,",
+        "start": 796.51,
+        "duration": 1.947
+    },
+    {
+        "text": "we saw a number of people\ncriticizing the person",
+        "start": 798.457,
+        "duration": 2.183
+    },
+    {
+        "text": "in the photo, saying if you\ndon't want things leaked,",
+        "start": 800.64,
+        "duration": 2.12
+    },
+    {
+        "text": "then don't be in the photo.",
+        "start": 802.76,
+        "duration": 1.17
+    },
+    {
+        "text": "You know, we saw people like Greg Gutfeld",
+        "start": 803.93,
+        "duration": 1.54
+    },
+    {
+        "text": "on The Five on Fox News\nsaying things like,",
+        "start": 805.47,
+        "duration": 2.11
+    },
+    {
+        "text": "- The fact, the reason\nwhy this story is big,",
+        "start": 807.58,
+        "duration": 1.98
+    },
+    {
+        "text": "unfortunately, is because\nthere were visuals.",
+        "start": 809.56,
+        "duration": 2.93
+    },
+    {
+        "text": "There were pictures and,\nwhen you have pictures,",
+        "start": 812.49,
+        "duration": 1.87
+    },
+    {
+        "text": "you get the Daily Mail, you\nget TMZ, you get Drudge, right?",
+        "start": 814.36,
+        "duration": 4.64
+    },
+    {
+        "text": "And unfortunately those\npictures were leaked after",
+        "start": 819.0,
+        "duration": 2.15
+    },
+    {
+        "text": "an erotic adventure went awry.",
+        "start": 821.15,
+        "duration": 2.06
+    },
+    {
+        "text": "I mean, everybody was having fun",
+        "start": 823.21,
+        "duration": 1.94
+    },
+    {
+        "text": "and then when it breaks apart.",
+        "start": 825.15,
+        "duration": 1.38
+    },
+    {
+        "text": "That's why you don't take pictures.",
+        "start": 826.53,
+        "duration": 1.53
+    },
+    {
+        "text": "That's the moral lesson here!",
+        "start": 828.06,
+        "duration": 1.77
+    },
+    {
+        "text": "- But on the other side of\nthis, you have people like",
+        "start": 829.83,
+        "duration": 1.41
+    },
+    {
+        "text": "Senator Kamala Harris\nsaying that Hill is actually",
+        "start": 831.24,
+        "duration": 1.97
+    },
+    {
+        "text": "the victim of a double standard\nfor female politicians.",
+        "start": 833.21,
+        "duration": 2.29
+    },
+    {
+        "text": "And of Hill, she said she\nrespected her decision",
+        "start": 835.5,
+        "duration": 1.8
+    },
+    {
+        "text": "to resign but also said,",
+        "start": 837.3,
+        "duration": 1.057
+    },
+    {
+        "text": "\"It was clearly meant to embarrass her.",
+        "start": 838.357,
+        "duration": 1.73
+    },
+    {
+        "text": "\"There's so much that people do",
+        "start": 840.087,
+        "duration": 0.833
+    },
+    {
+        "text": "\"about women and they sexuality\nthat's about shaming them.\"",
+        "start": 840.92,
+        "duration": 2.55
+    },
+    {
+        "text": "Right, and what she said there\nis also another big point",
+        "start": 843.47,
+        "duration": 1.76
+    },
+    {
+        "text": "that people have focused on here.",
+        "start": 845.23,
+        "duration": 0.833
+    },
+    {
+        "text": "You have people saying you\nhave this rising congresswoman,",
+        "start": 846.063,
+        "duration": 2.217
+    },
+    {
+        "text": "a woman who says that she was\nin an abusive relationship,",
+        "start": 848.28,
+        "duration": 2.39
+    },
+    {
+        "text": "her nude photos are leaked.",
+        "start": 850.67,
+        "duration": 1.48
+    },
+    {
+        "text": "You have allegations of a\nconsensual affair and, suddenly,",
+        "start": 852.15,
+        "duration": 2.53
+    },
+    {
+        "text": "she finds herself being forced to resign",
+        "start": 854.68,
+        "duration": 1.45
+    },
+    {
+        "text": "as the whole story blows up\nand makes front page news.",
+        "start": 856.13,
+        "duration": 1.99
+    },
+    {
+        "text": "Which, one, some places have\nhighlighted Hill's resignation",
+        "start": 858.12,
+        "duration": 2.53
+    },
+    {
+        "text": "as another generational\nissue with the New York Times",
+        "start": 860.65,
+        "duration": 1.94
+    },
+    {
+        "text": "pointing out that lawyers\nand activists have said that,",
+        "start": 862.59,
+        "duration": 2.12
+    },
+    {
+        "text": "these new kinds of internet\nexposure could impact",
+        "start": 864.71,
+        "duration": 2.31
+    },
+    {
+        "text": "a whole class of rising politicians.",
+        "start": 867.02,
+        "duration": 1.64
+    },
+    {
+        "text": "But we ultimately are where we are.",
+        "start": 868.66,
+        "duration": 1.41
+    },
+    {
+        "text": "We have Hill saying that she'll resign.",
+        "start": 870.07,
+        "duration": 1.5
+    },
+    {
+        "text": "Also, it appears that Hill\nalready knows her next move",
+        "start": 871.57,
+        "duration": 2.05
+    },
+    {
+        "text": "after she formally resigns.",
+        "start": 873.62,
+        "duration": 1.25
+    },
+    {
+        "text": "Yesterday announcing that she was vowing",
+        "start": 874.87,
+        "duration": 1.61
+    },
+    {
+        "text": "to fight revenge porn.",
+        "start": 876.48,
+        "duration": 1.37
+    },
+    {
+        "text": "- There's one thing that I know for sure.",
+        "start": 877.85,
+        "duration": 2.48
+    },
+    {
+        "text": "I will not allow my\nexperience to scare off",
+        "start": 880.33,
+        "duration": 2.62
+    },
+    {
+        "text": "other young women or girls\nfrom running for office.",
+        "start": 882.95,
+        "duration": 3.05
+    },
+    {
+        "text": "For the sake of all of us,\nwe cannot let that happen.",
+        "start": 886.0,
+        "duration": 2.853
+    },
+    {
+        "text": "I'm hurt, I'm angry.",
+        "start": 889.96,
+        "duration": 2.31
+    },
+    {
+        "text": "The path that I saw so clearly",
+        "start": 892.27,
+        "duration": 1.6
+    },
+    {
+        "text": "for myself is no longer there.",
+        "start": 893.87,
+        "duration": 1.77
+    },
+    {
+        "text": "I never claimed to be\nperfect, but I never thought",
+        "start": 895.64,
+        "duration": 2.77
+    },
+    {
+        "text": "my imperfections would\nbe weaponized and used",
+        "start": 898.41,
+        "duration": 2.29
+    },
+    {
+        "text": "to try to destroy me and the\ncommunity that I've loved",
+        "start": 900.7,
+        "duration": 2.74
+    },
+    {
+        "text": "for my entire life.",
+        "start": 903.44,
+        "duration": 0.93
+    },
+    {
+        "text": "- But yeah, ultimately, that's\nwhere we are with this story.",
+        "start": 904.37,
+        "duration": 2.37
+    },
+    {
+        "text": "One of the key things with this story,",
+        "start": 906.74,
+        "duration": 1.55
+    },
+    {
+        "text": "and I've actually seen it used for kind of",
+        "start": 908.29,
+        "duration": 1.93
+    },
+    {
+        "text": "completely opposite reasons,",
+        "start": 910.22,
+        "duration": 1.6
+    },
+    {
+        "text": "is the mentioning of a double standard.",
+        "start": 911.82,
+        "duration": 2.18
+    },
+    {
+        "text": "You have some people making the claim",
+        "start": 914.0,
+        "duration": 1.21
+    },
+    {
+        "text": "that it only got this bad\nbecause you're talking",
+        "start": 915.21,
+        "duration": 2.16
+    },
+    {
+        "text": "about a female candidate\nalso same-sex relations.",
+        "start": 917.37,
+        "duration": 3.2
+    },
+    {
+        "text": "But, also at the same time,\non the other side of this",
+        "start": 920.57,
+        "duration": 1.97
+    },
+    {
+        "text": "you have some people saying, yes,",
+        "start": 922.54,
+        "duration": 1.12
+    },
+    {
+        "text": "there is a double standard,\nbut they argue that Katie Hill",
+        "start": 923.66,
+        "duration": 2.1
+    },
+    {
+        "text": "is actually being treated\nbetter because she is a woman.",
+        "start": 925.76,
+        "duration": 2.05
+    },
+    {
+        "text": "The people and the media\nwould hit way harder for,",
+        "start": 927.81,
+        "duration": 2.13
+    },
+    {
+        "text": "let's say, a male candidate\nwith a greater focus",
+        "start": 929.94,
+        "duration": 1.93
+    },
+    {
+        "text": "on a male candidates use\nof his position of power",
+        "start": 931.87,
+        "duration": 2.54
+    },
+    {
+        "text": "in a relationship with someone beneath him",
+        "start": 934.41,
+        "duration": 1.7
+    },
+    {
+        "text": "whether it be with\nallegations while that person",
+        "start": 936.11,
+        "duration": 1.75
+    },
+    {
+        "text": "was a representative or\non the campaign trail.",
+        "start": 937.86,
+        "duration": 1.96
+    },
+    {
+        "text": "Yeah, it's been really\ninteresting it to watch",
+        "start": 939.82,
+        "duration": 1.87
+    },
+    {
+        "text": "the fallout from this, the\ndebate that has stemmed from it,",
+        "start": 941.69,
+        "duration": 2.86
+    },
+    {
+        "text": "and, of course, I pass the\nquestion off to you around this.",
+        "start": 944.55,
+        "duration": 1.85
+    },
+    {
+        "text": "What are your thoughts on\nthis situation in general?",
+        "start": 946.4,
+        "duration": 1.72
+    },
+    {
+        "text": "Do you believe there is\na double standard here?",
+        "start": 948.12,
+        "duration": 2.39
+    },
+    {
+        "text": "If so, what kind?",
+        "start": 950.51,
+        "duration": 1.49
+    },
+    {
+        "text": "Yeah, any and all thoughts around this,",
+        "start": 952.0,
+        "duration": 1.27
+    },
+    {
+        "text": "I'd love to see in those\ncomments down below.",
+        "start": 953.27,
+        "duration": 2.026
+    },
+    {
+        "text": "And that's where we're\ngoing to end today's show.",
+        "start": 955.296,
+        "duration": 1.284
+    },
+    {
+        "text": "And, hey, if you're not 100% filled in,",
+        "start": 956.58,
+        "duration": 1.49
+    },
+    {
+        "text": "you should definitely check out that",
+        "start": 958.07,
+        "duration": 1.07
+    },
+    {
+        "text": "brand new deep dive we put out today",
+        "start": 959.14,
+        "duration": 1.47
+    },
+    {
+        "text": "or maybe you just missed yesterday's show,",
+        "start": 960.61,
+        "duration": 1.75
+    },
+    {
+        "text": "you want to catch up, you can click or tap",
+        "start": 962.36,
+        "duration": 1.54
+    },
+    {
+        "text": "right there to watch either of those.",
+        "start": 963.9,
+        "duration": 1.56
+    },
+    {
+        "text": "But with that said, of course, as always,",
+        "start": 965.46,
+        "duration": 1.39
+    },
+    {
+        "text": "my name's Philip DeFranco,\nyou've just been Philled In.",
+        "start": 966.85,
+        "duration": 2.61
+    },
+    {
+        "text": "I love yo' faces and\nI'll see you tomorrow.",
+        "start": 969.46,
+        "duration": 2.823
+    }
+]

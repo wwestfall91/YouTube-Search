@@ -1,0 +1,957 @@
+[
+    {
+        "text": "welcome back to the Philip DeFranco Show, and let's just jump into it.",
+        "start": 3.36,
+        "duration": 3.38
+    },
+    {
+        "text": "And the first thing we're gonna talk about today, just to get it out of the way,",
+        "start": 6.74,
+        "duration": 2.64
+    },
+    {
+        "text": "a lot of people have been messaging me because they've been very concerned,",
+        "start": 9.38,
+        "duration": 2.64
+    },
+    {
+        "text": "and that is people sending me examples of DaddyOFive fans seemingly making threats against me.",
+        "start": 12.02,
+        "duration": 4.28
+    },
+    {
+        "text": "If you don't remember, a little while back, we talked about Mike Martin, DaddyOFive on YouTube.",
+        "start": 16.3,
+        "duration": 3.7
+    },
+    {
+        "text": "They had 'prank videos' on YouTube that some people saw as child abuse.",
+        "start": 20.0,
+        "duration": 4.24
+    },
+    {
+        "text": "Mainly because, in the videos, you had examples of screaming, and seemingly emotional abuse,",
+        "start": 24.24,
+        "duration": 4.2
+    },
+    {
+        "text": "and kids getting knocked around and hit.",
+        "start": 28.44,
+        "duration": 2.16
+    },
+    {
+        "text": "And honestly, the story is too large to recap. I'll include links down below if you don't know what I'm talking about.",
+        "start": 30.6,
+        "duration": 4.9
+    },
+    {
+        "text": "The reason I'm talking about this today is not because of Mike Martin specifically, but because of their fans.",
+        "start": 35.5,
+        "duration": 4.36
+    },
+    {
+        "text": "There is a closed-to-the-public DaddyOFive Facebook fan page.",
+        "start": 39.86,
+        "duration": 3.8
+    },
+    {
+        "text": "In the past it was promoted by Mike Martin on Twitter, where he said,",
+        "start": 43.66,
+        "duration": 2.58
+    },
+    {
+        "text": "We got a Facebook go join this awesome fan group its by fan for fans and most of all for fans only",
+        "start": 46.24,
+        "duration": 4.78
+    },
+    {
+        "text": "And some people, like Nerd City on YouTube, gained access to it and saw a lot of what was going on.",
+        "start": 51.1,
+        "duration": 5.46
+    },
+    {
+        "text": "There were a lot of Mike Martin apologists, you had examples of people saying they were gonna call Child Services on me,",
+        "start": 56.56,
+        "duration": 4.92
+    },
+    {
+        "text": "and also, this was a new one,",
+        "start": 61.48,
+        "duration": 1.36
+    },
+    {
+        "text": "[off-camera:] He has cuss words in his work. In his words.",
+        "start": 83.1,
+        "duration": 3.0
+    },
+    {
+        "text": "And he likes to take out all YouTubers that we all like.",
+        "start": 86.14,
+        "duration": 2.02
+    },
+    {
+        "text": "[off-camera:] Every time he starts a video, he starts with,",
+        "start": 88.6,
+        "duration": 2.04
+    },
+    {
+        "text": "[off-camera:] \"Damn, beautiful... people.\"",
+        "start": 90.74,
+        "duration": 2.0
+    },
+    {
+        "text": "That man right there is the reason why, when I go to public events, like the VidCon coming up,",
+        "start": 92.74,
+        "duration": 4.5
+    },
+    {
+        "text": "I always have armed security with me.",
+        "start": 97.24,
+        "duration": 2.24
+    },
+    {
+        "text": "And to the people sending me this concerned about my safety, thank you, but yes, I am also aware of it.",
+        "start": 99.48,
+        "duration": 4.22
+    },
+    {
+        "text": "Also, I do need to point out that this is one of the lightest examples of a threat.",
+        "start": 103.7,
+        "duration": 4.6
+    },
+    {
+        "text": "I've gotten far worse specific ones before.",
+        "start": 108.3,
+        "duration": 2.76
+    },
+    {
+        "text": "This guy is just one example of what I have to deal with, in general because what I do on this show will make a lot of people angry.",
+        "start": 111.06,
+        "duration": 6.12
+    },
+    {
+        "text": "If you've watched the show for a while, you know I take shots on people on the left, the right,",
+        "start": 117.18,
+        "duration": 2.78
+    },
+    {
+        "text": "and just, in general, uh, people I find to be shitty people. And there are a lot of examples of that.",
+        "start": 119.98,
+        "duration": 4.3
+    },
+    {
+        "text": "And there are a lot of people that would love if I didn't do what I do.",
+        "start": 124.28,
+        "duration": 3.46
+    },
+    {
+        "text": "And that's even more of a reason why I have to continue doing it.",
+        "start": 127.74,
+        "duration": 2.98
+    },
+    {
+        "text": "Unfortunately , at this point it's just part of the job.",
+        "start": 130.72,
+        "duration": 1.94
+    },
+    {
+        "text": "And actually,  kind of connected to this story, let's talk about the big Youtube announcement today.",
+        "start": 132.66,
+        "duration": 3.82
+    },
+    {
+        "text": "It had to do with extremism and free speech.",
+        "start": 136.48,
+        "duration": 2.08
+    },
+    {
+        "text": "On Google's official blog Kent Walker, General Counsel to Google, wrote an op-ed.",
+        "start": 138.56,
+        "duration": 3.94
+    },
+    {
+        "text": "It's titled four steps we're taking today to fight terrorism online",
+        "start": 142.5,
+        "duration": 2.84
+    },
+    {
+        "text": "And this appears to be the latest update and response to the ad-pocalypse.",
+        "start": 145.42,
+        "duration": 3.44
+    },
+    {
+        "text": "For those new here over the past few months there have been a lot of people including",
+        "start": 148.86,
+        "duration": 2.96
+    },
+    {
+        "text": "many advertisers not happy about where their ads were appearing.",
+        "start": 151.82,
+        "duration": 2.94
+    },
+    {
+        "text": "And these advertisers complaining that their ads were being put up against extremist content hateful content",
+        "start": 154.76,
+        "duration": 4.82
+    },
+    {
+        "text": "There's a boycott; Youtube said we're gonna do better. They put through changes; we talked about it in the past",
+        "start": 159.58,
+        "duration": 3.72
+    },
+    {
+        "text": "And now in addition to all of that we have these four steps. Three most likely won't pertain to most content.",
+        "start": 163.3,
+        "duration": 4.42
+    },
+    {
+        "text": "And one well we're going to have to see but lets talk about the three first",
+        "start": 167.72,
+        "duration": 3.1
+    },
+    {
+        "text": "They say first we are increasing our use of technology to help identify extremist and terrorism-related videos",
+        "start": 170.82,
+        "duration": 5.1
+    },
+    {
+        "text": "This can be challenging: a video of a terrorist attack may be informative news reporting if broadcast by the BBC",
+        "start": 175.92,
+        "duration": 4.74
+    },
+    {
+        "text": "or glorification of violence if uploaded in a different context by a different user. We have used video analysis models",
+        "start": 180.66,
+        "duration": 4.8
+    },
+    {
+        "text": "to find and assess more than 50 per cent of the terrorism-related content we have removed over the past 6 months",
+        "start": 185.46,
+        "duration": 4.4
+    },
+    {
+        "text": "We will now devote more engineering resources to apply our most advanced machine learning research to train new (quote) 'content classifiers'",
+        "start": 189.86,
+        "duration": 7.04
+    },
+    {
+        "text": "to help us more quickly identify an remove extremist and terrorism-related content.",
+        "start": 196.9,
+        "duration": 3.56
+    },
+    {
+        "text": "Second because technology alone is not a silver bullet, we will greatly increase the number of independent experts in Youtube's trusted",
+        "start": 200.46,
+        "duration": 5.1
+    },
+    {
+        "text": "Flagger programme. Machines can help identify problematic videos, but human experts still play a role.",
+        "start": 205.6,
+        "duration": 4.72
+    },
+    {
+        "text": "in nuanced decisions about the line between violent propaganda and religious or newsworthy speech",
+        "start": 210.32,
+        "duration": 4.56
+    },
+    {
+        "text": "While many user flags can  be inaccurate, Trusted Flagger reports are accurate over 90 per cent of the time and help us",
+        "start": 214.88,
+        "duration": 5.08
+    },
+    {
+        "text": "scale our efforts. Also, Youtube will expand its role in counter-radicalization efforts.",
+        "start": 219.96,
+        "duration": 3.52
+    },
+    {
+        "text": "We are working to implement the Redirect Method more broadly across Europe. This promising approach harnesses the power",
+        "start": 223.48,
+        "duration": 4.76
+    },
+    {
+        "text": "of targeted online advertising to reach potential Isis recruits, and redirects them towards anti-terrorist videos that can change their minds",
+        "start": 228.24,
+        "duration": 6.54
+    },
+    {
+        "text": "about joining. In previous deployments of this system, potential recruits have clicked through on the ads at an unusually high rate, and watched",
+        "start": 234.78,
+        "duration": 5.56
+    },
+    {
+        "text": "over a half a million minutes of video content that debunks terrorist recruiting  messages",
+        "start": 240.34,
+        "duration": 3.72
+    },
+    {
+        "text": "So those are three big swings at combating terrorism and extremism but there's also a forth point that many are concerned about",
+        "start": 244.06,
+        "duration": 5.78
+    },
+    {
+        "text": "We've talked about in the past where videos like mine where were talking about big world events and not seen as advertiser friendly",
+        "start": 249.84,
+        "duration": 5.16
+    },
+    {
+        "text": "Sometimes were age gated you have people saying you know we were on trending but then we were taken off.",
+        "start": 255.0,
+        "duration": 4.32
+    },
+    {
+        "text": "and obviously as Youtube's pointed out there trying to always make sure that there hitting the right videos there working on it",
+        "start": 259.32,
+        "duration": 4.66
+    },
+    {
+        "text": "Well google wrote \"We will be taking a tougher stance on videos that do not clearly violate our policys\"",
+        "start": 263.98,
+        "duration": 4.94
+    },
+    {
+        "text": "\"for example, videos that contain inflammatory religious or supremacist content\"",
+        "start": 268.92,
+        "duration": 3.14
+    },
+    {
+        "text": "\"In future these will appear behind an interstitial warning and they will not be monetized, recommenced, or eligible for comments or user endorsements\"",
+        "start": 272.06,
+        "duration": 6.72
+    },
+    {
+        "text": "\"That means these videos will have less engagement and will be harder to find\"",
+        "start": 278.78,
+        "duration": 2.8
+    },
+    {
+        "text": "\"We think this strikes the right balance between free expression and access to information without promoting extremely offensive viewpoints.\"",
+        "start": 281.58,
+        "duration": 5.58
+    },
+    {
+        "text": "and so as expected you have a lot of people saying okay well where is the line. And I feel like its a justified concern considering Youtube's past",
+        "start": 287.16,
+        "duration": 6.4
+    },
+    {
+        "text": "as far as what videos they hit. In their examples they talk about supremacists which of course makes you think of a white supremacists",
+        "start": 293.56,
+        "duration": 5.1
+    },
+    {
+        "text": "doing a rally video yeah fuck the white supremacists but based off of conversations I had with people from Youtube",
+        "start": 298.66,
+        "duration": 5.0
+    },
+    {
+        "text": "It also sounded like it was going to go towards \"any kind of attack\" so it turns into the question what is an attack",
+        "start": 303.66,
+        "duration": 6.52
+    },
+    {
+        "text": "If Im making a point against a prominent twitter troll that declares that there an anti racism advocate but all they do is spout bigoted bullshit",
+        "start": 310.18,
+        "duration": 5.9
+    },
+    {
+        "text": "If I say I think that your a stupid fucken race baiter is that all of a sudden an \"attack\" also if you have a commentary channel and your talking",
+        "start": 316.08,
+        "duration": 7.02
+    },
+    {
+        "text": "about white supremacists and their arguments and how their wrong are you going to be included in that",
+        "start": 323.1,
+        "duration": 4.58
+    },
+    {
+        "text": "Will you get dinged and have everything stripped from your videos because technically your video contains that content even though you don't agree with it",
+        "start": 327.68,
+        "duration": 6.08
+    },
+    {
+        "text": "and maybe your arguing against it and right now I think the unfortunate truth is we don't know and there's two reasons for that",
+        "start": 333.76,
+        "duration": 4.68
+    },
+    {
+        "text": "The first being that well Youtube does not want to actively link out to a video they have done this too because the video they pointed too",
+        "start": 338.44,
+        "duration": 6.46
+    },
+    {
+        "text": "there actively going the efforts to make sure it is not promoted and by showing an example they would be promoting it",
+        "start": 344.9,
+        "duration": 5.76
+    },
+    {
+        "text": "And the second is I honestly don't believe that Youtube knows where the okay line is. They know where the extreme line is then at",
+        "start": 350.66,
+        "duration": 6.1
+    },
+    {
+        "text": "at what point do you get to the grey and hazy. So I think that's why they also provide some of the most extreme examples of the content",
+        "start": 356.76,
+        "duration": 5.5
+    },
+    {
+        "text": "they don't want to support and their vague about the less types of content and I think ultimately its a wait and see situation.",
+        "start": 362.26,
+        "duration": 4.5
+    },
+    {
+        "text": "You have to see now that this is being implemented what people are going to be dinged.",
+        "start": 366.76,
+        "duration": 4.2
+    },
+    {
+        "text": "And the question I want to pass off you to you with this story is are you happy about this or are you worried?",
+        "start": 370.96,
+        "duration": 3.16
+    },
+    {
+        "text": "You trust Youtube or you worried about it but from there I want to share some stuff I love today and today in awesome",
+        "start": 374.12,
+        "duration": 4.92
+    },
+    {
+        "text": "And the first bit of awesome I have to share is from The Dodo I feel like there may be a lot of people that uh maybe the world is weighing you down",
+        "start": 379.04,
+        "duration": 5.58
+    },
+    {
+        "text": "You need some hope so I had to share this around 10 minute video from The Dodo called best animal dads of all time fathers day compilation",
+        "start": 384.62,
+        "duration": 6.9
+    },
+    {
+        "text": "So if it makes you feel good its from an animal channel that focuses on animal welfare if that's up your ally check it out subscribe",
+        "start": 391.52,
+        "duration": 4.9
+    },
+    {
+        "text": "Then we got a from Mike Tumi who showed the Amazon Echo if instead of Alexa you got Alex Jones",
+        "start": 396.42,
+        "duration": 5.66
+    },
+    {
+        "text": "Dad: Alexa how tall is Mount Everest? Alex: Look it up for yourself I mean this is what there what do you think tap water is its a gay bomb baby",
+        "start": 402.08,
+        "duration": 7.0
+    },
+    {
+        "text": "And I have to say as much as a wacko I Alex Jones is I love his voice. Sometimes just to make myself laugh I'll say crazy random shit in his voice",
+        "start": 409.14,
+        "duration": 8.26
+    },
+    {
+        "text": "As you got to do is sound like a man that doesn't want to admit that he has  emphysema and go to the doctor",
+        "start": 417.4,
+        "duration": 3.52
+    },
+    {
+        "text": "and then just say things like the smoke monster from Lost is obvious propaganda from the alien leprechauns",
+        "start": 420.92,
+        "duration": 5.14
+    },
+    {
+        "text": "sent down here to promote the globalist lizard people agenda so that the little children that play the Pokemon they dont",
+        "start": 426.06,
+        "duration": 5.66
+    },
+    {
+        "text": "want you to know that the same people that made Pokemon faked the moon landing we wont even go into Pokemon",
+        "start": 431.72,
+        "duration": 4.56
+    },
+    {
+        "text": "they would just that's just a liberal black lives matter bullshit killing white people agenda. I got the documents right here I didn't want to believe it",
+        "start": 436.28,
+        "duration": 6.4
+    },
+    {
+        "text": "people but the truth is the true.",
+        "start": 442.68,
+        "duration": 2.14
+    },
+    {
+        "text": "In normal voice: That probably didn't even sound anything like him but it was still so much fun for me",
+        "start": 444.82,
+        "duration": 3.08
+    },
+    {
+        "text": "Then The Slo Mo Guys put out a new video where I thought someone was going to die for a second. Luckily spoiler alert no one died but they did have to blur out a dick",
+        "start": 447.9,
+        "duration": 7.32
+    },
+    {
+        "text": "And if you want to see the full versions of everything I just shared the secret link of the day anything at all links as always are in the description down below",
+        "start": 455.22,
+        "duration": 7.06
+    },
+    {
+        "text": "Then lets talk about that production of Julius Caesar by Shakespeare in the park. This of course was a huge story last week a lot of people",
+        "start": 462.28,
+        "duration": 6.04
+    },
+    {
+        "text": "arguing about it. The play features a very Trump like character as Julius Caesar he of course gets stabbed multiple times he dies",
+        "start": 468.34,
+        "duration": 6.84
+    },
+    {
+        "text": "There were many Trump supporters who called this murder porn that it was inciting more violence. Many for the protection were saying your",
+        "start": 475.18,
+        "duration": 4.66
+    },
+    {
+        "text": "your missing the point of Julius Caesar that its actually anti violence. Also people pointed out that in the past there was also another production",
+        "start": 479.84,
+        "duration": 5.64
+    },
+    {
+        "text": "of Julius Caesar which featured an Obama like character who is stabbed and killed. I thought for the most part by the end of the week",
+        "start": 485.48,
+        "duration": 4.84
+    },
+    {
+        "text": "the story was over but I was wrong. Friday night a journalist for The Rebel by the name of Laura Loomers stormed the stage",
+        "start": 490.32,
+        "duration": 5.24
+    },
+    {
+        "text": "Laura: This is violence against the right. This is violence against Donald Trump. Violence against Donald Trump.",
+        "start": 495.56,
+        "duration": 6.56
+    },
+    {
+        "text": "People booing",
+        "start": 502.12,
+        "duration": 3.04
+    },
+    {
+        "text": "Laura: Shame for the New York City Public Theater for doing this. (inaudible) Shame on Cathy Griffin. Shame.",
+        "start": 505.16,
+        "duration": 11.98
+    },
+    {
+        "text": "Jack Posobiece: You are all goebbels . You are all Nazi's like Joseph Goebbels. This is Goebbels. You are all Goebbels. You are inciting terrorists",
+        "start": 518.88,
+        "duration": 10.0
+    },
+    {
+        "text": "This is the blood of (?) is on your hands",
+        "start": 529.02,
+        "duration": 2.94
+    },
+    {
+        "text": "\"Loomer was arrested and charged with  disorderly conduct and trespassing\"",
+        "start": 531.96,
+        "duration": 3.46
+    },
+    {
+        "text": "Also there was a lot of confusion about what happened to the play. I imagine it as because the other guy that was filming Jack Posobiece",
+        "start": 535.42,
+        "duration": 5.32
+    },
+    {
+        "text": "His video he tweeted \"Breaking Julius Ceasar Gets SHUTDOWN\" so a lot of people thought the whole play got canceled but no it was just they",
+        "start": 540.74,
+        "duration": 5.64
+    },
+    {
+        "text": "they stopped the show temporarily.",
+        "start": 546.38,
+        "duration": 1.7
+    },
+    {
+        "text": "According to a statement from the public theater. \"Two protesters disturbed our show tonight we stopped the show for less than a minute",
+        "start": 548.08,
+        "duration": 4.3
+    },
+    {
+        "text": "and our stage manager handled it beautifully\"",
+        "start": 552.42,
+        "duration": 1.58
+    },
+    {
+        "text": "\"The staff removed the protesters peacefully, and the show resumed with the line 'Liberty! Freedom!'\"",
+        "start": 554.0,
+        "duration": 3.8
+    },
+    {
+        "text": "\"The audience rose to their feet to thank the actors, and we joyfully continued free speech for all, but lets not stop the show\"",
+        "start": 557.8,
+        "duration": 5.06
+    },
+    {
+        "text": "And this also wasn't the end of the interruptions the play would get on its final night on Sunday there were two other people that stormed the stage",
+        "start": 562.86,
+        "duration": 6.36
+    },
+    {
+        "text": "And then what was really interesting to me was after all of this there seemed to be a lot of in fighting among conservatives or people",
+        "start": 569.22,
+        "duration": 6.2
+    },
+    {
+        "text": "that you wouldn't think of as liberals. You had Fox News show host Sean Hannity sharing these videos with captions like",
+        "start": 575.42,
+        "duration": 5.26
+    },
+    {
+        "text": "\"Are democrats happy? They started the \"resistance no? Then Hannity promoted a video where there were protesters shouting liberal hate kills",
+        "start": 580.68,
+        "duration": 6.16
+    },
+    {
+        "text": "Protesters: Liberal hate kills",
+        "start": 586.88,
+        "duration": 1.74
+    },
+    {
+        "text": "And in walks in editor and chief for the Daily Caller Ben Shapiro calling out what he thinks is hypocrisy",
+        "start": 588.62,
+        "duration": 5.24
+    },
+    {
+        "text": "Tweeting \"The left chants \"conservative hate kills\" and you call them snowflakes. Which is right. Stop with this stupidity\"",
+        "start": 593.86,
+        "duration": 4.94
+    },
+    {
+        "text": "And in response Ben the only person being stupid here is you. I was tweeting \"exactly\" what was said with video. I'm mature enough to let people decide.",
+        "start": 598.8,
+        "duration": 6.5
+    },
+    {
+        "text": "Now if there was a play that killed an Obama look alike every night and people protested, would you call that stupid? This hate is disgusting",
+        "start": 605.3,
+        "duration": 5.0
+    },
+    {
+        "text": "Shapiro says \"and btw, I blasted to the \"Julius Caesar\" production that doesn't mean you get to block other free speech exercise.",
+        "start": 610.3,
+        "duration": 5.78
+    },
+    {
+        "text": "Hannity says  \"what world are you living in? When did I say to \"block free speech\". Ben gets your facts straight.",
+        "start": 616.08,
+        "duration": 3.74
+    },
+    {
+        "text": "Shapiro says \"You could help fight escalating snowflakery rather than tacitly promoting it. Your better than this.",
+        "start": 619.82,
+        "duration": 4.74
+    },
+    {
+        "text": "Ben \"breaking news\". in the tweet I quoted what was said. Frankly its so vile I support peaceful protests vs plays killing Potus's",
+        "start": 624.56,
+        "duration": 6.32
+    },
+    {
+        "text": "We're not talking about a protest outside the event. I'd agree with you! We're talking about storming the stage",
+        "start": 630.88,
+        "duration": 3.96
+    },
+    {
+        "text": "And as you'd imagine people from all different backgrounds joined this debate. People backing \"their guy\"",
+        "start": 634.84,
+        "duration": 5.14
+    },
+    {
+        "text": "So I wanted to take that argument kinda take that the question around that and pass it off to you what are you thoughts here",
+        "start": 639.98,
+        "duration": 5.2
+    },
+    {
+        "text": "First let me know if you supported or hated the idea of a Donald Trump character being stabbed to death in this play.",
+        "start": 645.18,
+        "duration": 4.96
+    },
+    {
+        "text": "If that was too far or no you thought it was art and there's a different message there and secondly what are your thoughts",
+        "start": 650.14,
+        "duration": 3.96
+    },
+    {
+        "text": "about these people storming the stage to interrupt the performance. Are the people storming the stage snowflakey since that is the word",
+        "start": 654.1,
+        "duration": 6.26
+    },
+    {
+        "text": "were using with this story. You support the storming the stage and the interruption or no you think it should have been outside the venue",
+        "start": 660.38,
+        "duration": 5.18
+    },
+    {
+        "text": "Also a little note I wanted to make here there are a lot of people that are like outraged and shocked that this women was arrested",
+        "start": 665.56,
+        "duration": 4.92
+    },
+    {
+        "text": "but to that I'd say even the people behind it knew exactly what was going to happen. If you if you go to the registration information for freelaura.com",
+        "start": 670.48,
+        "duration": 7.96
+    },
+    {
+        "text": "which is where there trying to raise funds for their \"legal defense\" according to the WHOIS information that website was registered",
+        "start": 678.46,
+        "duration": 4.9
+    },
+    {
+        "text": "6 hours before the play even started. The Rebel knew what they were doing and they knew it was going to happen",
+        "start": 683.36,
+        "duration": 5.04
+    },
+    {
+        "text": "and thats not a comment on who you should support or not thats just a you should not be surprised. I mean the people involved weren't",
+        "start": 688.4,
+        "duration": 5.58
+    },
+    {
+        "text": "and then very briefly lets talk about Carrie Fisher, Carrie who of course was best known for Princess Leigh or Carrie Mother Fucking Fisher died",
+        "start": 693.98,
+        "duration": 5.94
+    },
+    {
+        "text": "in December of last year when she was 60 and a lot of people have been wondering why what was the cause of death",
+        "start": 699.92,
+        "duration": 5.16
+    },
+    {
+        "text": "Well last Friday the L.A county coroners office said that she died because of \"sleep apnea and other undetermined factors\"",
+        "start": 705.08,
+        "duration": 5.34
+    },
+    {
+        "text": "The coroner also pointing out that she suffered from a heart disease and drug use but no specifics were given at that time.",
+        "start": 710.42,
+        "duration": 4.56
+    },
+    {
+        "text": "Well today the coroner's office revealed that Carrie Fisher had cocaine, methadone, methdone, and opiates in her system when she passed away",
+        "start": 714.98,
+        "duration": 6.46
+    },
+    {
+        "text": "but still the coroner's office said that they don't know the exact reason. Stating based on the available toxicological information we can not",
+        "start": 721.44,
+        "duration": 5.52
+    },
+    {
+        "text": "establish the significance of the multiple substances that were detected in Ms. Fishers blood and tissue, with regard to the cause of death",
+        "start": 727.04,
+        "duration": 4.88
+    },
+    {
+        "text": "And the reason for that is well here exposure to cocaine was in the past 72 hours the other drugs they found traces of or a mode exposure",
+        "start": 731.92,
+        "duration": 6.56
+    },
+    {
+        "text": "and after this information came out it sparked a debate of is it any one damm's business people arguing that its disrespectful to share this information",
+        "start": 738.48,
+        "duration": 6.6
+    },
+    {
+        "text": "There's people arguing weather it was disrespectful or not to her or her family that this information was being shared",
+        "start": 745.08,
+        "duration": 5.26
+    },
+    {
+        "text": "And personally I end up standing by the opinion of Carrie Fishers only child Billie Lourd addressed the reports saying",
+        "start": 750.34,
+        "duration": 5.62
+    },
+    {
+        "text": "\"My mom battled drug addiction and mental illness her entire life, she ultimately died of it. She was purposefully open in all of her work",
+        "start": 755.96,
+        "duration": 5.16
+    },
+    {
+        "text": "about the social stigmas surrounding these diseases. She talked about the shame that torments people and their families",
+        "start": 761.12,
+        "duration": 4.9
+    },
+    {
+        "text": "confronted by these diseases. I know my Mom she'd want her death to encourage people to be open about their struggles",
+        "start": 766.02,
+        "duration": 4.46
+    },
+    {
+        "text": "Seek help, fight for government funding for mental health programs. Shame and those social stigmas are the enemies of progress",
+        "start": 770.48,
+        "duration": 5.26
+    },
+    {
+        "text": "to solutions and ultimately a cure\"",
+        "start": 775.74,
+        "duration": 1.74
+    },
+    {
+        "text": "And that's one of the reasons I decided to cover and share this story because I hope that there is a lesson that can be learned here",
+        "start": 777.48,
+        "duration": 4.84
+    },
+    {
+        "text": "Both for people that struggle with their addiction and they feel shame and they hide it and so they dont get help but also",
+        "start": 782.32,
+        "duration": 4.98
+    },
+    {
+        "text": "because hopefully this makes at least one person more open to someone around them that is struggling with this so they can see",
+        "start": 787.34,
+        "duration": 6.1
+    },
+    {
+        "text": "this story that is representative on some level to all of the other stories out there of people struggling that just need someone else",
+        "start": 793.44,
+        "duration": 6.48
+    },
+    {
+        "text": "You being there is not going to guarantee success in a battle against addiction but it helps. Maybe it makes it so that there's a meaningful",
+        "start": 800.02,
+        "duration": 7.0
+    },
+    {
+        "text": "moving of the needle and that the number of people that die with their silence and their shame and the people that actually get help",
+        "start": 807.02,
+        "duration": 5.7
+    },
+    {
+        "text": "so that was my take away from it. And then we have to talk about the Finsbury Park van attack in London",
+        "start": 812.72,
+        "duration": 3.9
+    },
+    {
+        "text": "Now the perpetrator of this attack has since been identified I of course will not be showing his name or his face because fuck him",
+        "start": 816.62,
+        "duration": 6.06
+    },
+    {
+        "text": "but heres what you need to know about this terrorist attack. A 47 year old white man drove his van through a crowd of muslims",
+        "start": 822.68,
+        "duration": 6.36
+    },
+    {
+        "text": "reportedly a bunch of the soon to be victims were helping a man who had collapsed from heat exhaustion.The results of this attack",
+        "start": 829.04,
+        "duration": 5.94
+    },
+    {
+        "text": "was one dead with 10 injured including two disabled. According to eye witnesses the attacker was shouting",
+        "start": 834.98,
+        "duration": 4.78
+    },
+    {
+        "text": "\"Im going to kill all Muslims- I did my bit\" After this man was arrested he reportedly was smiling waving and blowing kisses",
+        "start": 839.78,
+        "duration": 6.74
+    },
+    {
+        "text": "Also if your wondering how someone can driver their van through a group full of people and the other people who weren't hit they dont kill",
+        "start": 846.52,
+        "duration": 5.44
+    },
+    {
+        "text": "the man who did this. Well that appears to be because of the Mosques Emam who did help subdue this monster",
+        "start": 851.96,
+        "duration": 5.2
+    },
+    {
+        "text": "Seen on film shouting \"Dont hit him, you do not touch him- hand him into the police\" or as he put it he and his group",
+        "start": 857.16,
+        "duration": 4.54
+    },
+    {
+        "text": "of brothers helped extinguish the flames of anger. Cause I don't want to misrepresent the situation.",
+        "start": 861.7,
+        "duration": 4.02
+    },
+    {
+        "text": "There were people that chased after him they were hitting him but the Emam was able to calm them to stop the attacking",
+        "start": 865.72,
+        "duration": 5.34
+    },
+    {
+        "text": "so the police could get him. That kind of restraint is amazing to me and as far as the attack itself Metropolitan police say that they believe",
+        "start": 871.06,
+        "duration": 5.7
+    },
+    {
+        "text": "the suspect acted alone. Scotland Yard is treating this attack as a terrorist incident and I feel like its important that people understand",
+        "start": 876.76,
+        "duration": 5.04
+    },
+    {
+        "text": "that this is a terrorist attack we have to call it what it is. There are people that automatically say well what about the mental health",
+        "start": 881.8,
+        "duration": 6.1
+    },
+    {
+        "text": "sure mental health can be involved in any attack. You think someone you would describe as sane individual you what I think is a great idea",
+        "start": 887.94,
+        "duration": 6.34
+    },
+    {
+        "text": "to take a backpack fill it with bombs and then blow it up outside an Ariana Grande concert.",
+        "start": 894.28,
+        "duration": 4.56
+    },
+    {
+        "text": "or I'm just gonna drive my van through a group full of random Muslims. No. but both of these incidents are terrorism",
+        "start": 898.84,
+        "duration": 4.9
+    },
+    {
+        "text": "and its important to identify and talk about it as rationally as possible because fear and anger they are far greater motivaters than trying",
+        "start": 903.76,
+        "duration": 7.0
+    },
+    {
+        "text": "than trying to break down a situation and look at them. This is a very real concern and problem violence brings on more violence",
+        "start": 910.76,
+        "duration": 5.68
+    },
+    {
+        "text": "That's why its so important that no matter the color of someone skin we identify terrorism we identify evil and we denounce it and",
+        "start": 916.5,
+        "duration": 6.36
+    },
+    {
+        "text": "we don't let the extremists and the fucken crazies on whatever side they are on rule what the rest of us do.",
+        "start": 922.9,
+        "duration": 5.44
+    },
+    {
+        "text": "These extremists that go out there and kill people yes their goal is to maim and to kill but its mainly also be stabilized",
+        "start": 928.38,
+        "duration": 5.48
+    },
+    {
+        "text": "To break people apart, to alienate to separate and cause further violence",
+        "start": 933.86,
+        "duration": 3.74
+    },
+    {
+        "text": "And that's actually where I'm going to end today's show and remember if you liked this video you like what I do on this channel hit that like button",
+        "start": 937.6,
+        "duration": 5.06
+    },
+    {
+        "text": "If your new hear hit that subscribe button also remember if you missed the last Philip Defranco show you want to catch up click or tap right there to watch that",
+        "start": 942.66,
+        "duration": 5.84
+    },
+    {
+        "text": "If you want to see today's brand new behind the scenes vlog click or tap right there but to that said of course as always",
+        "start": 948.54,
+        "duration": 5.64
+    },
+    {
+        "text": "My name is Philip DeFranco you've just been Philled in I love your faces and I'll see you tomorrow",
+        "start": 954.2,
+        "duration": 5.5
+    }
+]

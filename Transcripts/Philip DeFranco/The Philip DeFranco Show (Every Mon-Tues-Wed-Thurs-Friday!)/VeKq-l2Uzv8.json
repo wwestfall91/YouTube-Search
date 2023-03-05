@@ -1,0 +1,1327 @@
+[
+    {
+        "text": "'Sup you beautiful bastards?",
+        "start": 0.0,
+        "duration": 1.38
+    },
+    {
+        "text": "Hope you're having a fantastic Monday",
+        "start": 1.38,
+        "duration": 1.8
+    },
+    {
+        "text": "Welcome back to the Philip DeFranco Show",
+        "start": 3.18,
+        "duration": 1.86
+    },
+    {
+        "text": "and let's just jump into it.",
+        "start": 5.04,
+        "duration": 1.24
+    },
+    {
+        "text": "And the first thing we're gonna talk about today is",
+        "start": 6.28,
+        "duration": 1.52
+    },
+    {
+        "text": "YouTube is in crisis",
+        "start": 7.8,
+        "duration": 1.64
+    },
+    {
+        "text": "Now a story that in general got overshadowed last week",
+        "start": 9.44,
+        "duration": 1.9
+    },
+    {
+        "text": "because everyone was kinda freaking out about YouTube Restricted Mode",
+        "start": 11.34,
+        "duration": 2.72
+    },
+    {
+        "text": "was that there was a growing international boycott of YouTube and Google ads",
+        "start": 14.06,
+        "duration": 3.92
+    },
+    {
+        "text": "We had news coming out of the UK that the British government,",
+        "start": 17.98,
+        "duration": 2.32
+    },
+    {
+        "text": "Toyota, McDonald's, hundreds of companies were pulling their ads",
+        "start": 20.3,
+        "duration": 3.22
+    },
+    {
+        "text": "Then we got the news stateside that AT&T, Verizon, Johnnson and Johnson",
+        "start": 23.52,
+        "duration": 3.56
+    },
+    {
+        "text": "and others pulled their advertising",
+        "start": 27.08,
+        "duration": 1.68
+    },
+    {
+        "text": "Then over the weekend we saw news out of Australia,",
+        "start": 28.76,
+        "duration": 1.82
+    },
+    {
+        "text": "that Holden and Kia were pulling their advertising",
+        "start": 30.58,
+        "duration": 2.28
+    },
+    {
+        "text": "and now the newest and biggest set of news",
+        "start": 32.9,
+        "duration": 1.68
+    },
+    {
+        "text": "and I feel like we predicted it on this show, is YouTube's response",
+        "start": 34.58,
+        "duration": 3.26
+    },
+    {
+        "text": "And this is news that could massively hurt my channel, any news channel, commentary channels",
+        "start": 37.84,
+        "duration": 4.5
+    },
+    {
+        "text": "And we got a peek at what this change would be on the 20th",
+        "start": 42.34,
+        "duration": 2.28
+    },
+    {
+        "text": "Youtube wrote this blog post a week ago titled \"Strengthening Youtube for advertisers and Creators\"",
+        "start": 44.62,
+        "duration": 4.48
+    },
+    {
+        "text": "writing \"there's a difference between the free expression that lives on YouTube that lives on YouTube",
+        "start": 49.1,
+        "duration": 2.6
+    },
+    {
+        "text": "and the content brands have told us they want to advertise against.\"",
+        "start": 51.7,
+        "duration": 2.64
+    },
+    {
+        "text": "Our advertiser-friendly content policies set the tone for which videos can earn revenue,",
+        "start": 54.34,
+        "duration": 3.54
+    },
+    {
+        "text": "ensuring that ads only appear where they should.",
+        "start": 57.88,
+        "duration": 2.14
+    },
+    {
+        "text": "After listening to strong feedback from our advertisers",
+        "start": 60.02,
+        "duration": 2.02
+    },
+    {
+        "text": "today we announced and number of actions",
+        "start": 62.04,
+        "duration": 1.76
+    },
+    {
+        "text": "and we want to explain what these changes might mean for you, our YouTube creators.",
+        "start": 63.8,
+        "duration": 3.22
+    },
+    {
+        "text": "Tougher stance on hate speech",
+        "start": 67.02,
+        "duration": 1.48
+    },
+    {
+        "text": "We will be implementing broader demonetization policies",
+        "start": 68.5,
+        "duration": 2.34
+    },
+    {
+        "text": "around videos that are perceived to be hateful or inflammatory.",
+        "start": 70.86,
+        "duration": 2.72
+    },
+    {
+        "text": "This includes removing ads more effectively from content that is harassing or attacking people",
+        "start": 73.58,
+        "duration": 3.82
+    },
+    {
+        "text": "based on their race, religion, gender or similar categories.\"",
+        "start": 77.4,
+        "duration": 2.76
+    },
+    {
+        "text": "Also connected to this was accelerating appeals,",
+        "start": 80.18,
+        "duration": 2.34
+    },
+    {
+        "text": "writing, \"Today, any creator whose video is demonetized can launch an appeal to have their video reviewed.\"",
+        "start": 82.52,
+        "duration": 3.98
+    },
+    {
+        "text": "\"Moving forward we plan to improve the process so that reviews can happen even faster.\"",
+        "start": 86.5,
+        "duration": 3.4
+    },
+    {
+        "text": "So the question, \"okay Phil, so they wrote this blog post a week ago,",
+        "start": 89.9,
+        "duration": 2.24
+    },
+    {
+        "text": "why are you talking about it now?\"",
+        "start": 92.14,
+        "duration": 1.54
+    },
+    {
+        "text": "Well, while they posted the article a week ago,",
+        "start": 93.68,
+        "duration": 1.74
+    },
+    {
+        "text": "They actually implemented changes over the weekend.",
+        "start": 95.42,
+        "duration": 2.38
+    },
+    {
+        "text": "Although you might not have noticed because it doesn't appear that YouTube or Google emailed the creators.",
+        "start": 97.8,
+        "duration": 4.56
+    },
+    {
+        "text": "Over the weekend, YouTube pushed through those broader demonetization policies.",
+        "start": 102.36,
+        "duration": 3.3
+    },
+    {
+        "text": "If you're a creator on this platform, I highly recommend you go through your backlog",
+        "start": 105.66,
+        "duration": 3.14
+    },
+    {
+        "text": "and see how many of your videos have now been demonetized over the weekend",
+        "start": 108.8,
+        "duration": 3.8
+    },
+    {
+        "text": "If you're a long-time viewer of the channel, you know several months ago",
+        "start": 112.6,
+        "duration": 2.48
+    },
+    {
+        "text": "I looked at all the videos on my catalog that were demonetized",
+        "start": 115.08,
+        "duration": 3.38
+    },
+    {
+        "text": "And now, in addition to that, I got dinged 10 more times",
+        "start": 118.46,
+        "duration": 2.26
+    },
+    {
+        "text": "I had 10 videos demonetized and I didn't receive a single email.",
+        "start": 120.72,
+        "duration": 2.94
+    },
+    {
+        "text": "once again a big problem for YouTube here is communication",
+        "start": 123.66,
+        "duration": 2.68
+    },
+    {
+        "text": "while YouTube did announce a week ago that they would be doing something in the near future, no one received Emails",
+        "start": 126.34,
+        "duration": 3.7
+    },
+    {
+        "text": "and because videos have been demonetized without people receiving Emails people have been calling this shadow demonetization",
+        "start": 130.04,
+        "duration": 5.82
+    },
+    {
+        "text": "some even going further and calling this shadow censorship, although I understand why there is a debate there",
+        "start": 135.86,
+        "duration": 4.54
+    },
+    {
+        "text": "YT needs to calm down existing advertisers to make sure they don't join this mass exodus",
+        "start": 140.4,
+        "duration": 3.86
+    },
+    {
+        "text": "I'm testing this new appeal process to see how effective that can be and I'll update you on that later",
+        "start": 144.26,
+        "duration": 3.98
+    },
+    {
+        "text": "I imagine there will be similar cases to other YTers that talk about current events",
+        "start": 148.24,
+        "duration": 3.54
+    },
+    {
+        "text": "but most of the videos that were demonetized had to do with discussion with race issues",
+        "start": 151.78,
+        "duration": 3.66
+    },
+    {
+        "text": "videos where we discussed people calling others white supremacists",
+        "start": 155.44,
+        "duration": 3.22
+    },
+    {
+        "text": "videos where we talked about the outrage around \"Dear White People\" the series,",
+        "start": 158.66,
+        "duration": 3.5
+    },
+    {
+        "text": "although I will say that was the first video I put an appeal on and won that appeal",
+        "start": 162.16,
+        "duration": 3.28
+    },
+    {
+        "text": "I got a response to that video pretty fast, so that leads me to believe that they have actually accelerate the appeals process",
+        "start": 165.44,
+        "duration": 5.12
+    },
+    {
+        "text": "although that might also be because they're not being slammed right now because people don't realize that their videos were demonetized",
+        "start": 170.56,
+        "duration": 4.62
+    },
+    {
+        "text": "But there is also concern of, \"Will this affect people evenly?\"",
+        "start": 175.18,
+        "duration": 3.44
+    },
+    {
+        "text": "And obviously this is going to hit commentary channels more, news channels more.",
+        "start": 178.62,
+        "duration": 2.94
+    },
+    {
+        "text": "But there is also an argument that if you are not ultra liberal that",
+        "start": 181.56,
+        "duration": 2.86
+    },
+    {
+        "text": "you will be hit a lot more.",
+        "start": 184.42,
+        "duration": 1.36
+    },
+    {
+        "text": "Some of it does stem from the restricted mode controversy.",
+        "start": 185.78,
+        "duration": 2.24
+    },
+    {
+        "text": "A lot of moderate/right-leaning content seem to be restricted at a higher rate.",
+        "start": 188.02,
+        "duration": 3.6
+    },
+    {
+        "text": "And it feels like it didn't become a mainstream conversation until some LGBT creators were also hit,",
+        "start": 191.62,
+        "duration": 4.88
+    },
+    {
+        "text": "although not as many of those creators had their entire catalogues restricted.",
+        "start": 196.5,
+        "duration": 3.18
+    },
+    {
+        "text": "But I also feel that it would be too simplistic to hate on YouTube for this because we're subject to their every whim,",
+        "start": 199.68,
+        "duration": 5.04
+    },
+    {
+        "text": "And youtube's in this weird situation where they have to try to make advertisers happy otherwise they continue to hemorrhage future money.",
+        "start": 204.72,
+        "duration": 4.7
+    },
+    {
+        "text": "And this is something that affects the small creator all the way to the biggest creators like PewDiePie",
+        "start": 209.64,
+        "duration": 4.28
+    },
+    {
+        "text": "whose recent press in the wall street journal, and the New York Times, all those other places",
+        "start": 213.92,
+        "duration": 3.4
+    },
+    {
+        "text": "have added fuel to this fire.",
+        "start": 217.32,
+        "duration": 1.22
+    },
+    {
+        "text": "Google removed Felix's channel from the premium advertising tier,",
+        "start": 218.54,
+        "duration": 3.26
+    },
+    {
+        "text": "but without a doubt there were advertisers going, \"You were putting our premium content where we pay even more",
+        "start": 221.8,
+        "duration": 5.04
+    },
+    {
+        "text": "for safe content next to Nazi jokes and imagery? How can I trust you?\"",
+        "start": 226.84,
+        "duration": 3.56
+    },
+    {
+        "text": "And keep in mind, I'm saying that from the point of the advertisers.",
+        "start": 230.4,
+        "duration": 2.78
+    },
+    {
+        "text": "I still believe that the Wall Street Journal and tons of outlets misrepresented PewDiePie completely.",
+        "start": 233.18,
+        "duration": 4.72
+    },
+    {
+        "text": "and they took out of context, semi-edgy jokes and painted him as the new Hitler.",
+        "start": 237.9,
+        "duration": 4.22
+    },
+    {
+        "text": "Which is ridiculous if you actually looked at the content.",
+        "start": 242.12,
+        "duration": 1.96
+    },
+    {
+        "text": "But I'm getting off track.",
+        "start": 244.08,
+        "duration": 0.66
+    },
+    {
+        "text": "And my final thought on this is while I am concerned because it does appear that it will be harder to make a living for people that talk about the news",
+        "start": 244.74,
+        "duration": 5.78
+    },
+    {
+        "text": "and pop culture and real issues, I understand that Youtube is in a weird place right now.",
+        "start": 250.52,
+        "duration": 4.14
+    },
+    {
+        "text": "If you look at this advertiser boycott at this stage",
+        "start": 254.66,
+        "duration": 2.62
+    },
+    {
+        "text": "without it even growing further, if you look at it through the lens of three to five year impact",
+        "start": 257.28,
+        "duration": 4.36
+    },
+    {
+        "text": "we're not even talking about hundreds of millions of dollars of ad revenue anymore,",
+        "start": 261.64,
+        "duration": 2.88
+    },
+    {
+        "text": "we're talking about billions.  Billions on billions, so I understand YouTube rushing to change things.",
+        "start": 264.52,
+        "duration": 5.26
+    },
+    {
+        "text": "And how we'll criticize them moving forward has less to do with which videos get flagged and how fast and how good their appeals process is.",
+        "start": 269.78,
+        "duration": 6.48
+    },
+    {
+        "text": "and so that'll be something I'll be watching intently.",
+        "start": 276.26,
+        "duration": 1.96
+    },
+    {
+        "text": "And as far as how this affects this channel and how it affects my aspirations to make a news network,",
+        "start": 278.22,
+        "duration": 4.64
+    },
+    {
+        "text": "I, the more that I think about it, the more that I think that fan funding and fan support is the way to go.",
+        "start": 282.86,
+        "duration": 5.1
+    },
+    {
+        "text": "I think it's one of the only ways that indie organizations can be free of the strings that come with funding,",
+        "start": 287.96,
+        "duration": 4.54
+    },
+    {
+        "text": "the strings that sometimes come with corporations,",
+        "start": 292.5,
+        "duration": 1.78
+    },
+    {
+        "text": "in a way that allows them to be truly independent and not potentially lose all their revenue",
+        "start": 294.28,
+        "duration": 4.26
+    },
+    {
+        "text": "from a day, because an automated system said, \"No, no money for you.\"",
+        "start": 298.54,
+        "duration": 3.52
+    },
+    {
+        "text": "We'll have to wait and see.  And a question I want to pass off with this story is",
+        "start": 302.06,
+        "duration": 2.44
+    },
+    {
+        "text": "does this concern you about creators you watch on YouTube?",
+        "start": 304.5,
+        "duration": 2.84
+    },
+    {
+        "text": "If you are a creator yourself, does this concern you?",
+        "start": 307.34,
+        "duration": 2.46
+    },
+    {
+        "text": "Do you see this as the beginning of the end for some, or is this \"YouTube growing up?\"",
+        "start": 309.8,
+        "duration": 3.66
+    },
+    {
+        "text": "That's the way I saw one person describe it.  I'd love to know your thoughts here.",
+        "start": 313.46,
+        "duration": 2.36
+    },
+    {
+        "text": "But from that, I wanna share some stuff I love today in Today In Awesome, brought to you by the Defranco 2024 shirt.",
+        "start": 315.9,
+        "duration": 5.8
+    },
+    {
+        "text": "The shirt that says, \"Hey, in a timeline where the world is not in complete ruin by 2024, I will vote for Philip Defranco.\"",
+        "start": 321.7,
+        "duration": 5.46
+    },
+    {
+        "text": "\"Things have gotten so bad, people are actually willing to vote for that guy.\"",
+        "start": 327.16,
+        "duration": 3.26
+    },
+    {
+        "text": "And/or just a way to help support the show.",
+        "start": 330.42,
+        "duration": 2.24
+    },
+    {
+        "text": "Either way, if you wanna grab this shirt, it is available for the next five days in the links down below.",
+        "start": 332.66,
+        "duration": 3.7
+    },
+    {
+        "text": "And the first bit of awesome is a video that takes two things I love and mixes them.",
+        "start": 336.36,
+        "duration": 3.88
+    },
+    {
+        "text": "And in that case, it was Deadpool and musicals.",
+        "start": 340.24,
+        "duration": 2.66
+    },
+    {
+        "text": "Specifically, a Beauty and the Beast 'Gaston' parody of Deadpool.",
+        "start": 342.9,
+        "duration": 3.84
+    },
+    {
+        "text": "I think this is the thing I love most today. I highly recommend it.",
+        "start": 346.74,
+        "duration": 2.84
+    },
+    {
+        "text": "Then, you've probably seen it over the weekend, but I gotta share the Justice League trailer and OOH!",
+        "start": 349.58,
+        "duration": 4.2
+    },
+    {
+        "text": "Say what you will about the final product, Warner Bros makes a fantastic trailer.",
+        "start": 353.78,
+        "duration": 3.56
+    },
+    {
+        "text": "Based on recent movies, I do not know if I'm going to like this movie but I am a fan of this trailer and it has me all hyped.",
+        "start": 357.34,
+        "duration": 6.3
+    },
+    {
+        "text": "It's getting me where I wanna go, but we'll have to wait for the movie to come out to see if it's a big let down or just right.",
+        "start": 363.64,
+        "duration": 4.12
+    },
+    {
+        "text": "Then, if you're a fan of Carpool Karaoke, they released a fifteen minute version for Red Nose Day.",
+        "start": 367.76,
+        "duration": 5.12
+    },
+    {
+        "text": "And then, a bit of awesome I kept getting sent.",
+        "start": 372.88,
+        "duration": 2.34
+    },
+    {
+        "text": "People kept sharing me a new trend coming from the thrillsoftomorrow Instagram and that is Glitter Booty.",
+        "start": 375.22,
+        "duration": 5.12
+    },
+    {
+        "text": "People saying, \"Isn't it gorgeous?\"",
+        "start": 380.34,
+        "duration": 1.44
+    },
+    {
+        "text": "And I have to say, \"Yes, I am a fan of the picture, but also two, that seems like a nightmare.\"",
+        "start": 381.78,
+        "duration": 4.52
+    },
+    {
+        "text": "I don't even wanna walk into a room if someone in that room is doing anything with glitter",
+        "start": 386.3,
+        "duration": 4.64
+    },
+    {
+        "text": "let alone caking it onto their body.",
+        "start": 390.94,
+        "duration": 1.72
+    },
+    {
+        "text": "One spill and you're finding glitter on yourself three months later.",
+        "start": 392.66,
+        "duration": 2.6
+    },
+    {
+        "text": "Can you imagine what these models are going to experience?",
+        "start": 395.26,
+        "duration": 1.98
+    },
+    {
+        "text": "So thank you for the art, but no thank you for participation.",
+        "start": 397.24,
+        "duration": 2.48
+    },
+    {
+        "text": "And if you wanna see the full versions of anything I just shared, the secret link of the day, anything at all,",
+        "start": 399.72,
+        "duration": 4.18
+    },
+    {
+        "text": "links as always are in the description down below.",
+        "start": 403.9,
+        "duration": 2.0
+    },
+    {
+        "text": "Then, a quick thing I wanna say to the thousands of you that were like, \"Hey Phil, is this you?\"",
+        "start": 405.9,
+        "duration": 3.94
+    },
+    {
+        "text": "linking to an article with the headline, \"Spring Breakers Are Abusing Sea Creatures To Get Drunk\"",
+        "start": 409.84,
+        "duration": 3.86
+    },
+    {
+        "text": "No, that is not me on the left.",
+        "start": 413.7,
+        "duration": 1.26
+    },
+    {
+        "text": "One, look at my pasty-ass skin. The only thing that describes what colour I am",
+        "start": 414.96,
+        "duration": 3.86
+    },
+    {
+        "text": "is to say that it looks like I am winning a game of hide and seek with the sun.",
+        "start": 418.82,
+        "duration": 2.68
+    },
+    {
+        "text": "I heard Trevor Noah describe my level of pastiness that way, and I've just ripped it off since. So accurate.",
+        "start": 421.5,
+        "duration": 4.8
+    },
+    {
+        "text": "Two, I appreciate anyone that thinks that my arms are currently that big.",
+        "start": 426.3,
+        "duration": 2.88
+    },
+    {
+        "text": "And finally three, literally the only thing myself and the person in this photo have in common is our straight-ass hair.",
+        "start": 429.18,
+        "duration": 5.8
+    },
+    {
+        "text": "He doesn't even appear to have neck problems.",
+        "start": 434.98,
+        "duration": 1.5
+    },
+    {
+        "text": "Just wanted to throw that out there, lets move on.",
+        "start": 436.48,
+        "duration": 2.0
+    },
+    {
+        "text": "Then, in international news, we had eighteen people hurt in Hong Kong because an escalator freaked out.",
+        "start": 438.48,
+        "duration": 4.9
+    },
+    {
+        "text": "There's video of it taking place, the escalator seems to be working fine, and then!",
+        "start": 443.38,
+        "duration": 3.12
+    },
+    {
+        "text": "The escalator breaks in a non-Mitch Hedberg way, where it just reverts to stairs.",
+        "start": 446.5,
+        "duration": 3.9
+    },
+    {
+        "text": "The escalator abruptly goes in reverse and speeds up,",
+        "start": 450.4,
+        "duration": 2.92
+    },
+    {
+        "text": "throwing all these people that thought the escalator was just going to do its job and not try and kill them.",
+        "start": 453.32,
+        "duration": 4.6
+    },
+    {
+        "text": "I guess the main point of this story is I'm glad no one died, it could have been a lot worse.",
+        "start": 457.92,
+        "duration": 3.86
+    },
+    {
+        "text": "And ultimately, never trust technology because one day, technology will kill us all.",
+        "start": 461.78,
+        "duration": 3.88
+    },
+    {
+        "text": "Once Skynet's up, and gains access to the internet, it's gonna see videos like this,",
+        "start": 465.66,
+        "duration": 3.5
+    },
+    {
+        "text": "it's gonna see those videos from Boston Dynamic, and it's gonna go, \"Hey! Gotta get rid of the humans, and we'll start with the escalators.\"",
+        "start": 469.16,
+        "duration": 5.26
+    },
+    {
+        "text": "Is that really the point? No, but I just-- There's really no other way to end that story. Moving on.",
+        "start": 474.42,
+        "duration": 3.58
+    },
+    {
+        "text": "And then lets talk about a story that blew up over the weekend, you may have seen one of the headlines.",
+        "start": 478.0,
+        "duration": 3.66
+    },
+    {
+        "text": "\"United Airlines refused to let three girls board a flight because they were wearing leggings.\"",
+        "start": 481.66,
+        "duration": 3.76
+    },
+    {
+        "text": "People shouting, \"This is an attack on women! This is slut-shaming! They're going after leggings now?\"",
+        "start": 485.42,
+        "duration": 5.06
+    },
+    {
+        "text": "Is United Airlines standing against comfy clothing that is often flattering?",
+        "start": 490.48,
+        "duration": 4.22
+    },
+    {
+        "text": "What's the deal?",
+        "start": 494.7,
+        "duration": 0.62
+    },
+    {
+        "text": "Well, it's slightly more complicated than many of the initial outrage headlines.",
+        "start": 495.32,
+        "duration": 3.2
+    },
+    {
+        "text": "Shannon Watts, who was there, tweeted, \"A @united gate agent isn't letting girls in leggings get on flight from Denver to Minneapolis because spandex is not allowed?\"",
+        "start": 498.62,
+        "duration": 7.0
+    },
+    {
+        "text": "\"She's forcing them to change or put dresses on over leggings or they can't board. Since when does @united police women's clothing?\"",
+        "start": 505.62,
+        "duration": 5.26
+    },
+    {
+        "text": "\"Gate agent for flight 215 at 7:55. Said she doesn't make the rules, just follows them. I guess @united is not letting women wear athletic wear?\"",
+        "start": 510.88,
+        "duration": 6.36
+    },
+    {
+        "text": "And there was a lot of outrage. People saying that they were slut shaming, that they were policing women.",
+        "start": 517.24,
+        "duration": 3.92
+    },
+    {
+        "text": "Even celebrities like Chrissy Teigen chiming in saying you know, I've been on United flights with pretty much no pants on.\"",
+        "start": 521.16,
+        "duration": 4.78
+    },
+    {
+        "text": "And asking, 'why is this happenning?\"",
+        "start": 525.94,
+        "duration": 1.28
+    },
+    {
+        "text": "Initially, United responding that they were well within their rights.",
+        "start": 527.22,
+        "duration": 2.4
+    },
+    {
+        "text": "Citing the contract of carriage, rule 21, they can refuse entry or remove a passenger from a flight because...",
+        "start": 529.62,
+        "duration": 5.06
+    },
+    {
+        "text": "the passenger is barefoot or not properly clothed.",
+        "start": 534.68,
+        "duration": 2.7
+    },
+    {
+        "text": "Then, putting out another tweet that said...",
+        "start": 537.38,
+        "duration": 1.22
+    },
+    {
+        "text": "\"The passengers this morning were United pass riders who were not in compliance with our dress code policy for company benefit travel.\"",
+        "start": 538.6,
+        "duration": 5.66
+    },
+    {
+        "text": "And then, finally, in a company post, writing,",
+        "start": 544.26,
+        "duration": 2.58
+    },
+    {
+        "text": "Now, in the situation where the three passengers were initially denied entry,",
+        "start": 591.36,
+        "duration": 3.6
+    },
+    {
+        "text": "one of the younger girls was later allowed on the flight because she put on a dress,",
+        "start": 594.96,
+        "duration": 3.34
+    },
+    {
+        "text": "but even with the younger girl getting on the flight, even with United explaining their point of view,",
+        "start": 598.3,
+        "duration": 3.66
+    },
+    {
+        "text": "there are still many people who are angry. Some arguing that leggings are business casual, especially for a little ten year old girl.",
+        "start": 601.96,
+        "duration": 5.32
+    },
+    {
+        "text": "Many still saying, \"Why are you policing what a ten year old girl wears? Leggings are comfortable, they're not obscene.\"",
+        "start": 607.28,
+        "duration": 5.56
+    },
+    {
+        "text": "Despite a United spokesperson saying that these pass travellers, \"aren't allowed to wear things like spandex leggings, tattered or ripped jeans,",
+        "start": 612.84,
+        "duration": 5.14
+    },
+    {
+        "text": "midriff shirts, flip flops or any article of clothing that shows their undergarments.\"",
+        "start": 617.98,
+        "duration": 3.64
+    },
+    {
+        "text": "There are people pointing out in response to this that it's not listed in rule 21.",
+        "start": 621.62,
+        "duration": 3.28
+    },
+    {
+        "text": "Although the counterpoint there is that is is vague enough. \"Not properly clothed\" could be anything that the airline states.",
+        "start": 624.9,
+        "duration": 5.26
+    },
+    {
+        "text": "And ultimately, the main point I wanted to talk about this is I wanted to pick your brains.",
+        "start": 630.16,
+        "duration": 2.56
+    },
+    {
+        "text": "Does your response to this news story change as we get more information?",
+        "start": 632.72,
+        "duration": 3.32
+    },
+    {
+        "text": "The initial story being that three girls were refused entry to an airplane because they wore leggings.",
+        "start": 636.04,
+        "duration": 4.04
+    },
+    {
+        "text": "The new information changes the narrative to representatives of the company were not allowed entry.",
+        "start": 640.08,
+        "duration": 4.4
+    },
+    {
+        "text": "Does that change the situation for you?",
+        "start": 644.48,
+        "duration": 1.48
+    },
+    {
+        "text": "Is your reaction different? If, instead of these girls getting free flights, or heavily discounted flights,",
+        "start": 645.96,
+        "duration": 4.58
+    },
+    {
+        "text": "they paid for the ticket, does that change it up for you? Because they're getting free tickets,",
+        "start": 650.54,
+        "duration": 3.24
+    },
+    {
+        "text": "do you think that there should be a compromise, that they should follow those other rules?",
+        "start": 653.78,
+        "duration": 2.72
+    },
+    {
+        "text": "I'd really love to know your thoughts here, because mine personally are",
+        "start": 656.5,
+        "duration": 3.12
+    },
+    {
+        "text": "I think that banning women from entering a plane for whatever reason, because they're wearing leggings, I think that's silly.",
+        "start": 659.62,
+        "duration": 5.34
+    },
+    {
+        "text": "But, as stupid as that leggings policy is, if they're running the show and they're giving out free tickets,",
+        "start": 664.96,
+        "duration": 4.4
+    },
+    {
+        "text": "then maybe you follow the rules.",
+        "start": 669.36,
+        "duration": 1.68
+    },
+    {
+        "text": "But also, there's part of my brain that goes, \"This can't be the first time something like this happened.\"",
+        "start": 671.04,
+        "duration": 4.22
+    },
+    {
+        "text": "It feels like there had to have been some sort of other interaction with the gate agent and the women who were banned from this flight.",
+        "start": 675.26,
+        "duration": 6.16
+    },
+    {
+        "text": "That the gate agent would choose to make an example of them, I just-- It feels like it.",
+        "start": 681.42,
+        "duration": 3.08
+    },
+    {
+        "text": "Main point, I'd love to know your opinion here.",
+        "start": 684.5,
+        "duration": 1.44
+    },
+    {
+        "text": "And then let's talk about a big issue if you're watching this video, you're watching any video,",
+        "start": 685.94,
+        "duration": 3.68
+    },
+    {
+        "text": "if you're doing anything on the internet.",
+        "start": 689.62,
+        "duration": 1.98
+    },
+    {
+        "text": "This is a story that's based in the United States, but also does have an international impact.",
+        "start": 691.6,
+        "duration": 3.68
+    },
+    {
+        "text": "And that's often the case with any large, powerful country.",
+        "start": 695.28,
+        "duration": 2.32
+    },
+    {
+        "text": "When a country does something, the world looks, and it can be used as an example.",
+        "start": 697.6,
+        "duration": 3.32
+    },
+    {
+        "text": "And the reason we're talking about this is the Senate has voted to gut internet privacy.",
+        "start": 700.92,
+        "duration": 4.08
+    },
+    {
+        "text": "And it was a vote that was split, essentially, across party lines, Republicans versus Democrats.",
+        "start": 705.0,
+        "duration": 3.7
+    },
+    {
+        "text": "And a lot of people are freaking out about this right now, and I feel like rightly so.",
+        "start": 708.7,
+        "duration": 3.8
+    },
+    {
+        "text": "Now, the heart of this situation, the problem right now, it has to do with your choice.",
+        "start": 712.5,
+        "duration": 3.48
+    },
+    {
+        "text": "While lawmakers who voted yes on this bill defended their decision, saying that the FCC restrictions were overly restrictive and innovation-stifling,",
+        "start": 716.0,
+        "duration": 7.0
+    },
+    {
+        "text": "those who were standing against it are saying that this is the beginning of the end of privacy online.",
+        "start": 723.0,
+        "duration": 4.8
+    },
+    {
+        "text": "And the only thing keeping this bill from being the new law of the land is it has to go through the House representatives",
+        "start": 727.8,
+        "duration": 5.06
+    },
+    {
+        "text": "and then Donald Trump has to sign it.",
+        "start": 732.86,
+        "duration": 1.56
+    },
+    {
+        "text": "And once that happens, your internet service provider will no longer have to ask you if you want to share information.",
+        "start": 734.42,
+        "duration": 5.36
+    },
+    {
+        "text": "They can just start collecting the contents of your communications, your precise geo location,",
+        "start": 739.78,
+        "duration": 3.62
+    },
+    {
+        "text": "financial information, a ton of stuff. The ISPs won't have to give you a chance to opt out of sharing that information.",
+        "start": 743.4,
+        "duration": 5.26
+    },
+    {
+        "text": "And if this passes, there's expected to be a transparency problem. According to reports,",
+        "start": 748.66,
+        "duration": 4.06
+    },
+    {
+        "text": "And, and this is the big important part,",
+        "start": 757.06,
+        "duration": 2.3
+    },
+    {
+        "text": "The argument is, if the rules are repealed, why would an ISP face that public embarrassment?",
+        "start": 763.62,
+        "duration": 4.92
+    },
+    {
+        "text": "Why would they risk lowering consumer confidence by telling people, \"Oh, sorry, data breach! Whoops! Anyway, see ya later.\"",
+        "start": 768.54,
+        "duration": 6.04
+    },
+    {
+        "text": "So then there's the question of, well why would they want to gut these FCC regulations?",
+        "start": 774.58,
+        "duration": 3.3
+    },
+    {
+        "text": "Well, there are people that believe that it's because of the $1.7m+ Donald Trump spent lobbying members of congress who voted yes,",
+        "start": 777.88,
+        "duration": 6.2
+    },
+    {
+        "text": "but there's also the argument that the government should not be involved in this.",
+        "start": 784.08,
+        "duration": 2.78
+    },
+    {
+        "text": "That it does stifle, as they said, innovation and also profits.",
+        "start": 786.86,
+        "duration": 3.08
+    },
+    {
+        "text": "Because, in large, that's what they're going to do with the information, they're going to make money off of you.",
+        "start": 789.94,
+        "duration": 3.86
+    },
+    {
+        "text": "They're gonna take what you do online, your browsing data, and they're gonna sell it to an advertising company.",
+        "start": 793.8,
+        "duration": 4.08
+    },
+    {
+        "text": "Where you're going, what you're doing, your age, your gender, your shopping habits, nationality, political affiliation, sexual orientation,",
+        "start": 798.22,
+        "duration": 7.0
+    },
+    {
+        "text": "everything about you, they'll sell that to an advertising company, that company then goes,",
+        "start": 805.22,
+        "duration": 3.02
+    },
+    {
+        "text": "\"Okay, this is how we hyper-focus. And we can up how effective our advertising is.\"",
+        "start": 808.24,
+        "duration": 3.2
+    },
+    {
+        "text": "But also, that's just more information about you, what you do, what you're looking at",
+        "start": 811.44,
+        "duration": 4.12
+    },
+    {
+        "text": "that could get into the hands of people you don't want to have that information.",
+        "start": 815.56,
+        "duration": 2.64
+    },
+    {
+        "text": "One of the recent examples was broadband provider TalkTalk. There was a data breach there that exposed the personal details of 157,000 customers.",
+        "start": 818.24,
+        "duration": 7.0
+    },
+    {
+        "text": "Some of which included bank account and credit card information.",
+        "start": 825.24,
+        "duration": 2.56
+    },
+    {
+        "text": "So let's say that happened to Verizon in the United States. If they weren't legally obligated to talk about that,",
+        "start": 827.8,
+        "duration": 5.02
+    },
+    {
+        "text": "why would they disclose that information if it wasn't already publicly available?",
+        "start": 832.82,
+        "duration": 3.6
+    },
+    {
+        "text": "Now for some of you out there, you have no expectation of privacy, you don't care what they do with this information.",
+        "start": 836.42,
+        "duration": 4.16
+    },
+    {
+        "text": "But, for those of you out there that do care, you are concerned, you have a problem with this,",
+        "start": 840.58,
+        "duration": 3.52
+    },
+    {
+        "text": "there's a few things you can do.",
+        "start": 844.1,
+        "duration": 1.2
+    },
+    {
+        "text": "The first is that you can call your representative in the House.",
+        "start": 845.3,
+        "duration": 2.34
+    },
+    {
+        "text": "Calling your representative is often considered the most effective, followed by handwritten letters, then emails and online petitions kinda follow.",
+        "start": 847.64,
+        "duration": 6.78
+    },
+    {
+        "text": "So that's why, if you actually wanna have an impact, I highly recommend calling.",
+        "start": 854.42,
+        "duration": 2.72
+    },
+    {
+        "text": "If you wanna find out their contact information, what their number is, I'll include a link down below.",
+        "start": 857.14,
+        "duration": 4.08
+    },
+    {
+        "text": "Call them and let them know, as your representative, you want them to vote this way.",
+        "start": 861.22,
+        "duration": 3.46
+    },
+    {
+        "text": "They're supposed to be your representative, so remind them of that.",
+        "start": 864.68,
+        "duration": 2.74
+    },
+    {
+        "text": "Even if they don't care about that, they'll probably care about getting re-elected, so they may listen.",
+        "start": 867.42,
+        "duration": 3.82
+    },
+    {
+        "text": "Also, I wanna take this time to remind you that encryption is your best friend.",
+        "start": 871.24,
+        "duration": 3.52
+    },
+    {
+        "text": "You can use things like the Tor browser, it's a free, open-sourced browser...",
+        "start": 874.76,
+        "duration": 4.54
+    },
+    {
+        "text": "And what that means is, even if the page is unencrypted, it doesn't have that HTTPS,",
+        "start": 881.8,
+        "duration": 5.52
+    },
+    {
+        "text": "your ISP will be able to see that you're using the browser, but they won't be able to see what websites and web pages you're using.",
+        "start": 887.32,
+        "duration": 4.48
+    },
+    {
+        "text": "Now, the downside, it's a little slower, and like anything else, there are vulnerabilities there as well.",
+        "start": 891.8,
+        "duration": 5.06
+    },
+    {
+        "text": "Which is why you can also use a VPN, a virtual private network.",
+        "start": 896.86,
+        "duration": 2.82
+    },
+    {
+        "text": "If you've watched the show for a while, you'll know that I've talked about this a lot.",
+        "start": 899.68,
+        "duration": 2.76
+    },
+    {
+        "text": "That encrypts your entire web traffic, and puts it in this little secure tunnel.",
+        "start": 902.44,
+        "duration": 3.1
+    },
+    {
+        "text": "Looked like I was giving a dick an Indian burn.",
+        "start": 905.54,
+        "duration": 1.36
+    },
+    {
+        "text": "Also, finishing this sentence, I understand why I'm not always seen as advertiser friendly.",
+        "start": 906.9,
+        "duration": 3.78
+    },
+    {
+        "text": "And, if any of this is interesting to you, I'll link to it all down below.",
+        "start": 910.68,
+        "duration": 2.7
+    },
+    {
+        "text": "And that's where I'm going to end that story. I am very, very concerned about this.",
+        "start": 913.38,
+        "duration": 3.34
+    },
+    {
+        "text": "This getting through feels like it's the beginning of the end for the idea of net neutrality.",
+        "start": 916.72,
+        "duration": 4.24
+    },
+    {
+        "text": "A world where the little guy with a new idea gets snuffed out by corporate greed.",
+        "start": 920.96,
+        "duration": 4.16
+    },
+    {
+        "text": "I'm all for money and corporations making money from this information,",
+        "start": 925.12,
+        "duration": 3.38
+    },
+    {
+        "text": "IF users are agreeing to it. But taking away my voice, my opinion, my choice,",
+        "start": 928.5,
+        "duration": 5.0
+    },
+    {
+        "text": "especially in a world where the ISPs have worked together to limit the number of options you have available in your area for internet,",
+        "start": 933.52,
+        "duration": 7.0
+    },
+    {
+        "text": "we don't live in a world where you have twenty choices for ISPs, so if there is a company that is selling your information without giving you a choice,",
+        "start": 940.82,
+        "duration": 7.0
+    },
+    {
+        "text": "you could easily leave them because there's a free and open market, that's not the case here.",
+        "start": 947.82,
+        "duration": 3.58
+    },
+    {
+        "text": "Look at where the money came from, look who voted for it.",
+        "start": 951.4,
+        "duration": 2.06
+    },
+    {
+        "text": "They limit your choices so it's pointless if you leave them, because the only other options also helped fund this bill.",
+        "start": 953.46,
+        "duration": 5.76
+    },
+    {
+        "text": "And I don't care if you're a liberal or a conservative, anti-competition is anti-American.",
+        "start": 959.22,
+        "duration": 4.5
+    },
+    {
+        "text": "When you kill competition, especially in an arena like internet,",
+        "start": 963.72,
+        "duration": 3.02
+    },
+    {
+        "text": "the thing that is heavily needed for so much of what we do every day, you can't be surprised when those companies steamroll over all the customers.",
+        "start": 967.18,
+        "duration": 7.0
+    },
+    {
+        "text": "So that's where I'm gonna end that one, and I, of course, whether you agree with me or you don't,",
+        "start": 974.18,
+        "duration": 3.36
+    },
+    {
+        "text": "on this last story, the first one, or anything in between, I wanna know what you're thinking today.",
+        "start": 977.54,
+        "duration": 3.6
+    },
+    {
+        "text": "Leave those comments down below, and let's talk it out.",
+        "start": 981.14,
+        "duration": 1.7
+    },
+    {
+        "text": "And remember, if you like this video, like what I try and do on this channel, hit that like button!",
+        "start": 982.84,
+        "duration": 3.56
+    },
+    {
+        "text": "If you're new here, hit that subscribe button, it helps make sure you don't miss these daily videos, but",
+        "start": 986.4,
+        "duration": 3.58
+    },
+    {
+        "text": "if you did miss the last Philip Defranco Show, you can click or tap right there to watch that.",
+        "start": 989.98,
+        "duration": 3.04
+    },
+    {
+        "text": "Or, if you wanna see today's brand new, behind-the-scenes vlog, you can click or tap right there to watch that.",
+        "start": 993.02,
+        "duration": 3.56
+    },
+    {
+        "text": "But that said, of course, as always, my name's Philip Defranco, you've just been Philled in, I love your faces, and I'll see you tomorrow.",
+        "start": 996.58,
+        "duration": 6.94
+    }
+]

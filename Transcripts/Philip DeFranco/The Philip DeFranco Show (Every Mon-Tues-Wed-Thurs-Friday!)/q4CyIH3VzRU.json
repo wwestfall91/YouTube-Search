@@ -1,0 +1,357 @@
+[
+    {
+        "text": "Sup you beautiful bastards. Hope you're having a fantastic Thursday.",
+        "start": 0.02,
+        "duration": 2.78
+    },
+    {
+        "text": "Welcome back to the Philip Defranco show and let's just jump into it.",
+        "start": 2.8,
+        "duration": 3.88
+    },
+    {
+        "text": "And the first thing we are going to talk about today are actually two stories that are somewhat connected.",
+        "start": 6.68,
+        "duration": 3.42
+    },
+    {
+        "text": "Yesterday, you have millions of people waiting to see the the what next thing that Shane Dawson was going to be putting out into the world.",
+        "start": 10.1,
+        "duration": 5.24
+    },
+    {
+        "text": "People knew that it was going to be about conspiracy theories, but not exactly which one.",
+        "start": 15.36,
+        "duration": 3.56
+    },
+    {
+        "text": "And he ended up covering a whole slew of them.",
+        "start": 19.04,
+        "duration": 2.14
+    },
+    {
+        "text": "Some connected to the fires out here in California, some connected to the Apple iPhone issue that we've actually learned more about.",
+        "start": 21.18,
+        "duration": 6.24
+    },
+    {
+        "text": "And then also among other things he covered deep fakes, which we're gonna, which is gonna be the second part of this.",
+        "start": 27.42,
+        "duration": 4.58
+    },
+    {
+        "text": "But before we jump into that, one of the big things that as talked about before he released the series that people were waiting to see is what YouTube would do.",
+        "start": 32.0,
+        "duration": 6.24
+    },
+    {
+        "text": "And that was because last Friday YouTube announced changes around conspiracy videos.",
+        "start": 38.24,
+        "duration": 3.38
+    },
+    {
+        "text": "Specifically saying, \"Even if a video does not cross the line as far as community guidlines,",
+        "start": 41.66,
+        "duration": 3.98
+    },
+    {
+        "text": "if it is what they consider borderline content, it won't pop up in recommended for people that are not subscribed to that channel.\"",
+        "start": 45.64,
+        "duration": 5.08
+    },
+    {
+        "text": "Well, we ended up actually seeing is, well for some people going to be the bigger deal,",
+        "start": 50.72,
+        "duration": 3.74
+    },
+    {
+        "text": "Shane Dawson's video, according to the Verge, was demonetized in its first 12 hours.",
+        "start": 54.46,
+        "duration": 3.96
+    },
+    {
+        "text": "And there was a lot of speculation, as to whether this was connected to the content of the video,",
+        "start": 58.42,
+        "duration": 3.66
+    },
+    {
+        "text": "specifically being about conspiracy theories.",
+        "start": 62.14,
+        "duration": 1.64
+    },
+    {
+        "text": "But reportedly it ended up actually being a YouTube error.",
+        "start": 63.78,
+        "duration": 3.14
+    },
+    {
+        "text": "And it wasn\u2019t even connected to conspiracy theories, but rather, footage around the Bird Box challenge.",
+        "start": 66.92,
+        "duration": 5.62
+    },
+    {
+        "text": "And as the report explains, \u201cSince Dawson included footage of the prank, Youtube\u2019s system assumed",
+        "start": 72.54,
+        "duration": 3.92
+    },
+    {
+        "text": "that the video was promoting harmful and dangerous activities, and it removed monetization privileges.\u201d",
+        "start": 76.46,
+        "duration": 3.82
+    },
+    {
+        "text": "And reputedly around this situation a YouTube spoke person said,",
+        "start": 80.28,
+        "duration": 2.86
+    },
+    {
+        "text": "\u201cSometimes we get it wrong in determining whether a video is suitable for advertising,",
+        "start": 83.14,
+        "duration": 2.76
+    },
+    {
+        "text": "so we encourage creators to appeal for a review if they think there\u2019s been an error.\u201d",
+        "start": 85.9,
+        "duration": 3.86
+    },
+    {
+        "text": "So long story short, it wasn\u2019t hit because of conspiracy theory content,",
+        "start": 89.76,
+        "duration": 3.28
+    },
+    {
+        "text": "so, that was what kind of a lot of people were waiting for.",
+        "start": 93.04,
+        "duration": 2.4
+    },
+    {
+        "text": "It was not hit for the proper reasons, but because of other changes that we talked about previously.",
+        "start": 95.44,
+        "duration": 3.78
+    },
+    {
+        "text": "But it was still hit, and it brings up an issue that many creators on this platform have.",
+        "start": 99.22,
+        "duration": 4.6
+    },
+    {
+        "text": "If one of the largest YouTuber\u2019s on the platform who is going to release a video video that is expected to hit at",
+        "start": 103.82,
+        "duration": 3.66
+    },
+    {
+        "text": "least 10 million views by the end of the week, it is highly anticipated, even he has this problem, no one is safe.",
+        "start": 107.6,
+        "duration": 8.46
+    },
+    {
+        "text": "Now luckily for Shane, he has been able to find his own sponsors now,",
+        "start": 116.06,
+        "duration": 3.22
+    },
+    {
+        "text": "but still you have this person that released about 2 hours of content in just one video not getting money",
+        "start": 119.28,
+        "duration": 4.18
+    },
+    {
+        "text": "for the midrolls that he put into the video.",
+        "start": 123.46,
+        "duration": 1.76
+    },
+    {
+        "text": "And the Verge talks about it from the sense of Shane Dawson may have lost $12,000.",
+        "start": 125.26,
+        "duration": 3.46
+    },
+    {
+        "text": "And they do this based off an expected $2 CPM, but would I would go and say",
+        "start": 128.72,
+        "duration": 4.3
+    },
+    {
+        "text": "Forward facing on this site as of recording this it says that his video has 8.6 million views.",
+        "start": 133.02,
+        "duration": 3.76
+    },
+    {
+        "text": "Now, if you're not aware, the public number and the actual real time number",
+        "start": 136.78,
+        "duration": 3.0
+    },
+    {
+        "text": "those are often different.",
+        "start": 139.78,
+        "duration": 1.22
+    },
+    {
+        "text": "So, it wouldn't surprise me if this video is at 9.4 to actually 10 million views.",
+        "start": 141.0,
+        "duration": 3.66
+    },
+    {
+        "text": "And then let's assume that during this 12 hour block it's half the views, so we'll say 5 million,",
+        "start": 144.66,
+        "duration": 3.78
+    },
+    {
+        "text": "just to have a kind of clean number.",
+        "start": 148.44,
+        "duration": 1.4
+    },
+    {
+        "text": "Shane Dawson on this video, now that we see the ads back, he has 6 midrolls, a pre-roll, and a post-roll.",
+        "start": 149.84,
+        "duration": 4.96
+    },
+    {
+        "text": "I would say,  hey let's estimate that he doesn't have a $2 CPM, he has a four dollar CPM.",
+        "start": 154.8,
+        "duration": 3.58
+    },
+    {
+        "text": "He's one of the biggest people on the platform, we're getting out of January, CPM's are probably going",
+        "start": 158.38,
+        "duration": 3.6
+    },
+    {
+        "text": "to get better, though I can't speak to any actual numbers.",
+        "start": 161.98,
+        "duration": 2.36
+    },
+    {
+        "text": "But, when people talk about the CPM of a YouTube video, it's usually only considering pre-roll and post-roll.",
+        "start": 164.34,
+        "duration": 4.74
+    },
+    {
+        "text": "With 6 midrolls you could add a multiplier to it.",
+        "start": 169.08,
+        "duration": 2.22
+    },
+    {
+        "text": "Now, for the sake of not going ridiculous numbers, i'm not going to just multiply it by 6,",
+        "start": 171.3,
+        "duration": 4.46
+    },
+    {
+        "text": "i'm going to multiply it by 3, because not everyone watches through the entire thing,",
+        "start": 175.76,
+        "duration": 3.02
+    },
+    {
+        "text": "maybe they skip around, instead of getting a pre-roll, they just get something like a lower third.",
+        "start": 178.78,
+        "duration": 3.76
+    },
+    {
+        "text": "So all of a sudden, not using ridiculous numbers, you could assume that Shane Dawson should be looking at",
+        "start": 182.54,
+        "duration": 4.44
+    },
+    {
+        "text": "a $12 CPM if monetized properly, you're looking at 5 million views, I mean you're talking about potentially",
+        "start": 186.98,
+        "duration": 4.42
+    },
+    {
+        "text": "60 thousand dollars in missed revenue.",
+        "start": 191.4,
+        "duration": 2.48
+    },
+    {
+        "text": "Now obviously it's not a situation where it's nefarious, like YouTube got the money and they're just not sharing.",
+        "start": 193.88,
+        "duration": 4.52
+    },
+    {
+        "text": "Ads are just not delivered and so Shane and YouTube technically lose, although Shane more so.",
+        "start": 198.4,
+        "duration": 4.42
+    },
+    {
+        "text": "And I don't explain this part of the story to be like, \"Oh, poor Shane\" right, I think a lot of people",
+        "start": 202.82,
+        "duration": 3.54
+    },
+    {
+        "text": "look to his situation, they see his house, they're like, you could say this about any creator and people are like,",
+        "start": 206.36,
+        "duration": 4.56
+    },
+    {
+        "text": "\"Well, they're not hurting\" but, this is a massive issue if you're talking about people",
+        "start": 210.92,
+        "duration": 3.64
+    },
+    {
+        "text": "on this platform trying to have something sustainable.",
+        "start": 214.56,
+        "duration": 2.72
+    },
+    {
+        "text": "And it's that uncertainty right there that results in people like myself going",
+        "start": 217.28,
+        "duration": 3.2
+    },
+    {
+        "text": "\"Hey we have to launch things like DeFrancoElite.com\" right, paid subscription, people can support.",
+        "start": 220.48,
+        "duration": 4.12
+    },
+    {
+        "text": "And that's why people like myself have to both field and look for sponsors out there,",
+        "start": 224.6,
+        "duration": 4.64
+    },
+    {
+        "text": "and dedicate time and resources to that, because otherwise it's unsustainable.",
+        "start": 229.24,
+        "duration": 3.22
+    },
+    {
+        "text": "And it's crazy if the explanation behind Shane's video is true because you have almost 2 hours of content",
+        "start": 232.46,
+        "duration": 4.58
+    },
+    {
+        "text": "and a single clip undermining the entire thing.",
+        "start": 237.04,
+        "duration": 2.68
+    },
+    {
+        "text": "Like, I get frustrated because I know if I talk about one story out of 5 in a show",
+        "start": 239.72,
+        "duration": 3.24
+    },
+    {
+        "text": "that it can completely tank the entire thing.",
+        "start": 242.96,
+        "duration": 1.6
+    },
+    {
+        "text": "I can't even imagine how frustrating it would be in his shoes.",
+        "start": 244.56,
+        "duration": 2.8
+    },
+    {
+        "text": "So there's that part that i'll leave there because i'm also working in a completely different video",
+        "start": 247.36,
+        "duration": 3.36
+    },
+    {
+        "text": "regarding the copyright problem.",
+        "start": 250.72,
+        "duration": 1.78
+    },
+    {
+        "text": "But, main point, there is that part, and then one of the things that Shane Dawson talked about,",
+        "start": 252.5,
+        "duration": 3.8
+    },
+    {
+        "text": "that I want to talk about even further, were deep fakes.",
+        "start": 256.3,
+        "duration": 2.64
+    }
+]

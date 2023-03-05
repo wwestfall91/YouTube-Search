@@ -1,0 +1,952 @@
+[
+    {
+        "text": "Sup you Beautiful Bastards! Hope you're having a fantastic Wednesday!",
+        "start": 0.0,
+        "duration": 3.5
+    },
+    {
+        "text": "Welcome back to the Philip DeFranco Show, and let's just jump into it!",
+        "start": 3.5,
+        "duration": 3.18
+    },
+    {
+        "text": "And the first thing we're gonna talk about today; By far one of the most",
+        "start": 6.68,
+        "duration": 2.2
+    },
+    {
+        "text": "requested stories of the day today is YouTube censorship in the news again.",
+        "start": 8.88,
+        "duration": 4.16
+    },
+    {
+        "text": "YouTube made an announcement in the last 24 hours that has a lot of people concerned.",
+        "start": 13.04,
+        "duration": 4.04
+    },
+    {
+        "text": "If you're new to this situation, YouTube has been under fire for a while now from all sides.",
+        "start": 17.08,
+        "duration": 4.68
+    },
+    {
+        "text": "Some saying YouTube is not censoring hate speech, extremist videos enough.",
+        "start": 21.76,
+        "duration": 3.3
+    },
+    {
+        "text": "Others saying that they're going too far.",
+        "start": 25.06,
+        "duration": 1.82
+    },
+    {
+        "text": "And these guys saying it's great that you're trying to stop ISIS propaganda",
+        "start": 26.88,
+        "duration": 2.8
+    },
+    {
+        "text": "and recruitment videos.",
+        "start": 29.68,
+        "duration": 0.94
+    },
+    {
+        "text": "But it also appears to some that YouTube's attempt to stop extremist videos",
+        "start": 30.62,
+        "duration": 3.28
+    },
+    {
+        "text": "is also resulting in the coming down on channels that have opinions that aren't popular.",
+        "start": 33.9,
+        "duration": 4.58
+    },
+    {
+        "text": "Essentially this being an attack on other things.",
+        "start": 38.48,
+        "duration": 1.9
+    },
+    {
+        "text": "Like I said, in the past day, YouTube  released a blog post titled:",
+        "start": 40.38,
+        "duration": 2.92
+    },
+    {
+        "text": "\"An update on our commitment to fight terror content online\"",
+        "start": 43.3,
+        "duration": 2.74
+    },
+    {
+        "text": "They explain \"better detection and faster removal driven by machine learning.\"",
+        "start": 46.04,
+        "duration": 3.0
+    },
+    {
+        "text": "And this part just makes sense to me. Having machine learning is important.",
+        "start": 49.04,
+        "duration": 3.04
+    },
+    {
+        "text": "The scale is impossible for human beings.",
+        "start": 52.08,
+        "duration": 2.12
+    },
+    {
+        "text": "Reportedly 400 hours of video are uploaded to YouTube every minute.",
+        "start": 54.2,
+        "duration": 3.5
+    },
+    {
+        "text": "And while YouTube even says that these tools are not perfect,",
+        "start": 57.7,
+        "duration": 2.42
+    },
+    {
+        "text": "there is no reasonable human workforce that would be able to go through this themselves.",
+        "start": 60.12,
+        "duration": 3.42
+    },
+    {
+        "text": "They then talk about \"early intervention and expanding counter-extremism work.\"",
+        "start": 63.54,
+        "duration": 3.68
+    },
+    {
+        "text": "They then talk about things like their \"jigsaw redirect method,\"",
+        "start": 67.22,
+        "duration": 2.04
+    },
+    {
+        "text": "which is actually a really interesting program.",
+        "start": 69.26,
+        "duration": 1.66
+    },
+    {
+        "text": "The idea here being that if someone's searching \"ISIS recruitment videos,\"",
+        "start": 70.92,
+        "duration": 3.2
+    },
+    {
+        "text": "that instead of getting that, they'll find videos with anti-ISIS arguments,",
+        "start": 74.12,
+        "duration": 3.38
+    },
+    {
+        "text": "interviews with victims of ISIS.",
+        "start": 77.5,
+        "duration": 1.94
+    },
+    {
+        "text": "Although as of right now, the jigsaw method is only available in certain markets.",
+        "start": 79.44,
+        "duration": 3.74
+    },
+    {
+        "text": "But then YouTube talks about their tougher standards.",
+        "start": 83.18,
+        "duration": 2.2
+    },
+    {
+        "text": "They write \"We'll soon be applying tougher treatment to videos that aren't illegal,\"",
+        "start": 85.38,
+        "duration": 3.36
+    },
+    {
+        "text": "\"but have been flagged by users as potential violations of our policies on hate speech and violent extremism.\"",
+        "start": 88.74,
+        "duration": 4.9
+    },
+    {
+        "text": "\"If we find these videos don't policies, but contain controversial religious or supremacist content,\"",
+        "start": 93.64,
+        "duration": 5.36
+    },
+    {
+        "text": "\"they will be placed in a limited state.\"",
+        "start": 99.0,
+        "duration": 1.82
+    },
+    {
+        "text": "And they explain \"The videos will remain on YouTube behind and interstitial,\"",
+        "start": 100.82,
+        "duration": 2.78
+    },
+    {
+        "text": "\"won't be recommended, won't be monetized,\"",
+        "start": 103.6,
+        "duration": 2.14
+    },
+    {
+        "text": "\"and won't have key features including comments, suggested videos, and likes.\"",
+        "start": 105.74,
+        "duration": 3.4
+    },
+    {
+        "text": "\"We'll begin to roll this new treatment out to videos on desktop versions of YouTube in the coming weeks,\"",
+        "start": 109.14,
+        "duration": 3.66
+    },
+    {
+        "text": "\"and will bring it to mobile experiences soon thereafter.\"",
+        "start": 112.8,
+        "duration": 2.02
+    },
+    {
+        "text": "And they explain that they're going to be able to do this with more experts.",
+        "start": 114.82,
+        "duration": 2.64
+    },
+    {
+        "text": "Saying, \"Of course, our systems are only as good as the data they're based on.\"",
+        "start": 117.46,
+        "duration": 3.02
+    },
+    {
+        "text": "\"Over the past few weeks, we have begun working with more than 15 additional expert NGOs and institutions through our Trusted Flagger program,\"",
+        "start": 120.48,
+        "duration": 5.84
+    },
+    {
+        "text": "\"These organizations bring expert knowledge to complex issues like hate speech, radicalization, and terrorism\"",
+        "start": 126.32,
+        "duration": 5.12
+    },
+    {
+        "text": "\"that will help us better identify content that is being used to radicalize and recruit extremists.\"",
+        "start": 131.44,
+        "duration": 3.84
+    },
+    {
+        "text": "And so the question becomes \"Who is YouTube working with here?\"",
+        "start": 135.28,
+        "duration": 2.46
+    },
+    {
+        "text": "And the first group they mention, the tip of the spear here is the Anti-Defamation League.",
+        "start": 137.74,
+        "duration": 3.86
+    },
+    {
+        "text": "Now that raised a lot of flags for a lot of people.",
+        "start": 141.6,
+        "duration": 2.24
+    },
+    {
+        "text": "If you remember, the Anti-Defamation League is the organization that officially labelled Pepe the Frog as a hate symbol.",
+        "start": 143.84,
+        "duration": 5.8
+    },
+    {
+        "text": "That is the first organization that YouTube said is going to help them figure out what content to take down.",
+        "start": 149.64,
+        "duration": 5.58
+    },
+    {
+        "text": "And I have to say it concerns me that an organization where I questioned their judgement based on their past, their recent past,",
+        "start": 155.22,
+        "duration": 5.56
+    },
+    {
+        "text": "was the first group that YouTube like threw out their like \"Hey, look at who we're with!\"",
+        "start": 160.78,
+        "duration": 3.38
+    },
+    {
+        "text": "Especially when it's an organization, and I acknowledge that I'm a pessimist here,",
+        "start": 164.16,
+        "duration": 3.42
+    },
+    {
+        "text": "an organization that will receive more money, will receive more donations",
+        "start": 167.58,
+        "duration": 3.28
+    },
+    {
+        "text": "if people go \"Oh my god, hate's everywhere! Even Pepe the Frog is a hate symbol? Here's money. I didn't know it was that bad.\"",
+        "start": 170.86,
+        "duration": 5.26
+    },
+    {
+        "text": "And I'm not saying there's not hate in this world. There is hate in this world.",
+        "start": 176.12,
+        "duration": 3.78
+    },
+    {
+        "text": "But with YouTube saying they are getting even tougher, and organizations like this are on the front lines,",
+        "start": 179.9,
+        "duration": 4.36
+    },
+    {
+        "text": "I am very concerned, and I understand why many others are concerned.",
+        "start": 184.26,
+        "duration": 2.76
+    },
+    {
+        "text": "And that's without diving into the fact that they say the system isn't perfect,",
+        "start": 187.02,
+        "duration": 3.26
+    },
+    {
+        "text": "and at the same time, YouTube's talking about a huge chunk of the videos being removed",
+        "start": 190.28,
+        "duration": 3.34
+    },
+    {
+        "text": "before even one person flagged them.",
+        "start": 193.62,
+        "duration": 1.98
+    },
+    {
+        "text": "And once again, I talk about stories like this not because I get dinged every now and then.",
+        "start": 195.6,
+        "duration": 3.78
+    },
+    {
+        "text": "I don't think that they're going to hit me on this.",
+        "start": 199.38,
+        "duration": 2.06
+    },
+    {
+        "text": "We no longer solely rely on YouTube revenue anymore thanks to awesome sponsors",
+        "start": 201.44,
+        "duration": 3.74
+    },
+    {
+        "text": "that have followed in supporting us for the next year.",
+        "start": 205.18,
+        "duration": 2.1
+    },
+    {
+        "text": "Thanks to Beautiful Bastards that are a part of the nation supporting us over at DeFrancoElite.com with their dollars.",
+        "start": 207.28,
+        "duration": 4.64
+    },
+    {
+        "text": "And I doubt YouTube would do that to our show, because they wouldn't want to hit the hornet's nest.",
+        "start": 211.92,
+        "duration": 3.08
+    },
+    {
+        "text": "But I do mention this, because it does seem like a potential freedom of speech problem,",
+        "start": 215.0,
+        "duration": 3.02
+    },
+    {
+        "text": "and I think that there are a lot of small channels out there that are trying to come up that might be hit by this.",
+        "start": 218.02,
+        "duration": 4.78
+    },
+    {
+        "text": "And I say that hoping that my concerns and my fears aren't ever realized.",
+        "start": 222.8,
+        "duration": 3.5
+    },
+    {
+        "text": "But with that said, I do want to pass the question off to you. What are your thoughts here?",
+        "start": 226.3,
+        "duration": 3.48
+    },
+    {
+        "text": "Do you trust YouTube, their machine learning, these organizations that they are now working with?",
+        "start": 229.78,
+        "duration": 3.88
+    },
+    {
+        "text": "Yes, no, maybe so, I'd love to know what you think in those comments down below.",
+        "start": 233.66,
+        "duration": 3.1
+    },
+    {
+        "text": "But from that I wanna share some stuff I loved today in \"Today In Awesome\" brought to you by SeatGeek.",
+        "start": 236.76,
+        "duration": 4.84
+    },
+    {
+        "text": "SeatGeek of course the fantastic ticket app that takes the confusion out of buying tickets.",
+        "start": 241.6,
+        "duration": 3.98
+    },
+    {
+        "text": "They put all the tickets in one place, rate it 0 to 100 based on how good of a deal you're getting.",
+        "start": 245.58,
+        "duration": 4.14
+    },
+    {
+        "text": "I've got the app on my phone and it is by far the easiest way to buy tickets to",
+        "start": 249.72,
+        "duration": 3.14
+    },
+    {
+        "text": "a baseball game, a concert, a whatever.",
+        "start": 252.86,
+        "duration": 2.36
+    },
+    {
+        "text": "So if you want to download the app like so many already have, click that link in the description down below,",
+        "start": 255.22,
+        "duration": 4.1
+    },
+    {
+        "text": "and use coupon code PHIL for $20 off your first ticket purchase.",
+        "start": 259.32,
+        "duration": 3.12
+    },
+    {
+        "text": "And the first bit of Awesome is this trailer for the movie Bodied.",
+        "start": 262.44,
+        "duration": 2.78
+    },
+    {
+        "text": "It's a Battle Rap satire directed by Joseph Kahn. It's got an all-star cast and it has Eminem on as a producer.",
+        "start": 265.22,
+        "duration": 5.46
+    },
+    {
+        "text": "And the trailer they released made the Battle Rap seem like 8 mile, but on steroids.",
+        "start": 270.68,
+        "duration": 4.42
+    },
+    {
+        "text": "Simply put, I am just so happy that this is a thing.",
+        "start": 275.1,
+        "duration": 2.2
+    },
+    {
+        "text": "Then we got a trailer for LBJ starring Woody Harrelson.",
+        "start": 277.3,
+        "duration": 2.82
+    },
+    {
+        "text": "Then we got a trailer for Season 2 of Vice Principals, and I just have to say",
+        "start": 280.12,
+        "duration": 2.94
+    },
+    {
+        "text": "if you have not seen this series on HBO yet, fix that. Use your friend's HBO GO log-in, watch it right now.",
+        "start": 283.06,
+        "duration": 5.54
+    },
+    {
+        "text": "Danny McBride, Walter Goggins just carry this thing on their back and it is so fun.",
+        "start": 288.6,
+        "duration": 5.24
+    },
+    {
+        "text": "Then we got a brand-new Adam Ruins Everything on why the Myers-Briggs test is BS.",
+        "start": 293.84,
+        "duration": 4.32
+    },
+    {
+        "text": "And then we got a new episode of You Suck At Cooking for mozzarella sticks.",
+        "start": 298.16,
+        "duration": 3.94
+    },
+    {
+        "text": "And if you want to see the full versions for everything I just shared, the secret link of the day,",
+        "start": 302.1,
+        "duration": 3.56
+    },
+    {
+        "text": "anything at all, links as always are in the description down below.",
+        "start": 305.66,
+        "duration": 3.14
+    },
+    {
+        "text": "Then in huge consumer alerts news, if you or one of  your friends has one of those foofoo,",
+        "start": 308.8,
+        "duration": 4.34
+    },
+    {
+        "text": "but totally cute iPhone cases with the glitter and the water, beware!",
+        "start": 313.14,
+        "duration": 3.54
+    },
+    {
+        "text": "Reportedly 275,000 cases are being recalled right now.",
+        "start": 316.9,
+        "duration": 3.76
+    },
+    {
+        "text": "The style was sold by many popular fashion brands including Victoria's Secret, Nordstrom, Tory Burch, Henri Bendel, and they were even sold on Amazon.",
+        "start": 321.5,
+        "duration": 7.0
+    },
+    {
+        "text": "Now before you throw your case away, keep in mind that it's not all glitter cases.",
+        "start": 328.5,
+        "duration": 3.06
+    },
+    {
+        "text": "The cases we're talking about here was made by a company called Mixbin.",
+        "start": 331.56,
+        "duration": 2.44
+    },
+    {
+        "text": "And this recall appears to be from many reports worldwide of \"skin irritation and chemical burns.\"",
+        "start": 334.0,
+        "duration": 4.72
+    },
+    {
+        "text": "One consumer even reported \"permanent scarring from a chemical burn and another consumer reported\"",
+        "start": 338.72,
+        "duration": 3.78
+    },
+    {
+        "text": "\"chemical burns and swelling to her leg, face, neck, chest, upper body, and hands.\"",
+        "start": 342.5,
+        "duration": 4.04
+    },
+    {
+        "text": "And it appears that the reason this is happening is that the liquid inside of the case is leaking out onto people.",
+        "start": 346.54,
+        "duration": 4.66
+    },
+    {
+        "text": "And the photos people have posted of this happening, they range from \"Oh, that's kind of bad,\" to \"Holy, what the!\"",
+        "start": 351.2,
+        "duration": 4.42
+    },
+    {
+        "text": "If you wanna see if your case is being recalled, Mixbin has a website for that,",
+        "start": 355.62,
+        "duration": 3.94
+    },
+    {
+        "text": "and the company is urging people stop using these cases and to contact them for a full refund.",
+        "start": 359.56,
+        "duration": 4.72
+    },
+    {
+        "text": "Then in a huge update on the Venezuela story that I covered yesterday.",
+        "start": 364.28,
+        "duration": 3.16
+    },
+    {
+        "text": "You are not going to believe it, but the company that provided the voting system for the election says it was tampered with.",
+        "start": 367.44,
+        "duration": 5.64
+    },
+    {
+        "text": "Wait what?! The election in Venezuela wasn't legitimate?! What?! Turns out air is breathable, what?!",
+        "start": 373.08,
+        "duration": 4.84
+    },
+    {
+        "text": "Who could have ever guessed?",
+        "start": 377.92,
+        "duration": 1.04
+    },
+    {
+        "text": "The company here that provided 24,000 voting machines says that they did provide very accurate results, but altered results were announced in their place.",
+        "start": 379.1,
+        "duration": 7.0
+    },
+    {
+        "text": "In fact, the situation is so sketchy, the CEO of Smartmatic himself, said that \"the actual voter turnout differed by at least, at least one million.\"",
+        "start": 387.98,
+        "duration": 7.0
+    },
+    {
+        "text": "And that's saying something, considering Venezuela is publicly stating that 8 million people voted.",
+        "start": 394.98,
+        "duration": 4.22
+    },
+    {
+        "text": "Although as you might remember yesterday, international observers said it was probably closer to 2.5.",
+        "start": 399.2,
+        "duration": 3.9
+    },
+    {
+        "text": "And separately from that the Reuters News Agency reported that inside the government,",
+        "start": 403.1,
+        "duration": 4.18
+    },
+    {
+        "text": "Reportedly, \"Venezuela's electoral authorities authorities said fewer than four million votes had been cast just two hours before polls closed.\"",
+        "start": 407.28,
+        "duration": 5.72
+    },
+    {
+        "text": "And that is in addition to how skewed Maduro made the situation.",
+        "start": 413.0,
+        "duration": 3.82
+    },
+    {
+        "text": "But even with the international backlash, international condemnation, the opposition in his own country,",
+        "start": 416.82,
+        "duration": 4.92
+    },
+    {
+        "text": "the facts coming from the company that provided the voting machines, it does appear that Maduro is",
+        "start": 421.74,
+        "duration": 4.82
+    },
+    {
+        "text": "going to still swear in the new constituent assembly this Thursday.",
+        "start": 426.56,
+        "duration": 3.8
+    },
+    {
+        "text": "And as you'd expect, the opposition is planning a protest and march in coordination with this.",
+        "start": 430.36,
+        "duration": 4.36
+    },
+    {
+        "text": "I mean I know that we joke on this show and in our community that facts don't seem to matter anymore, but oh my god.",
+        "start": 434.72,
+        "duration": 5.66
+    },
+    {
+        "text": "When I say \"I don't know what's gonna happen next,\" it's because anything seems to be possible, but we'll just have to wait and see.",
+        "start": 440.38,
+        "duration": 5.88
+    },
+    {
+        "text": "And then let's talk about the crazy Air Transat situation.",
+        "start": 446.26,
+        "duration": 3.46
+    },
+    {
+        "text": "If you've not heard, there was a plane full of passengers that were stuck on a tarmac for six hours.",
+        "start": 449.72,
+        "duration": 5.34
+    },
+    {
+        "text": "So let's talk about it. There's this flight from Brussels to Montreal. It's an 8 hour flight, but the weather is bad.",
+        "start": 455.06,
+        "duration": 5.26
+    },
+    {
+        "text": "They're not able to land in Montreal, they have to divert to Ottawa. So the plane lands in Ottawa.",
+        "start": 460.32,
+        "duration": 3.96
+    },
+    {
+        "text": "Passengers are told \"we're gonna be here for 30 minutes for refueling.\"",
+        "start": 464.28,
+        "duration": 3.0
+    },
+    {
+        "text": "But as you know from the beginning of this story, it doesn't take 30 minutes.",
+        "start": 467.28,
+        "duration": 2.84
+    },
+    {
+        "text": "So you have this plane of 336 passengers. Everyone just had a long flight. Everyone's a little bit frustrated.",
+        "start": 470.12,
+        "duration": 5.54
+    },
+    {
+        "text": "Reportedly there wasn't a lot of food on the plane at this time, so they rationed whatever food was left in the tiny little snacks for the children.",
+        "start": 475.66,
+        "duration": 6.22
+    },
+    {
+        "text": "They began giving passengers water every 30 minutes, but then quickly ran out.",
+        "start": 481.88,
+        "duration": 3.84
+    },
+    {
+        "text": "Then the electricity shut off which means there's no lights, no air conditioning in this tube of 336 people.",
+        "start": 485.72,
+        "duration": 6.22
+    },
+    {
+        "text": "Just hearing the descriptions makes me cringe.",
+        "start": 491.94,
+        "duration": 2.36
+    },
+    {
+        "text": "People were saying there were \"Children that were crying, passengers became extremely hot,\"",
+        "start": 494.3,
+        "duration": 3.66
+    },
+    {
+        "text": "\"some had trouble breathing, at least one person threw up.\"",
+        "start": 497.96,
+        "duration": 2.96
+    },
+    {
+        "text": "And the entire time passengers were refused when they requested to deplane.",
+        "start": 500.92,
+        "duration": 3.4
+    },
+    {
+        "text": "There was also a passenger that was panicking about her dog who was in the cargo,",
+        "start": 504.32,
+        "duration": 3.5
+    },
+    {
+        "text": "but it appears they didn't do anything for her for hours.",
+        "start": 507.82,
+        "duration": 2.74
+    },
+    {
+        "text": "They landed at 5:00pm and her dog wasn't checked until 9:15.",
+        "start": 510.56,
+        "duration": 2.92
+    },
+    {
+        "text": "Then after 4 hours on the tarmac someone calls 911. This results in paramedics boarding the plane, but the passengers still couldn't get off at this point.",
+        "start": 514.28,
+        "duration": 7.0
+    },
+    {
+        "text": "Emergency responders distributed water bottles.They also allowed the plane doors to open so that the air could circulate out,",
+        "start": 521.28,
+        "duration": 5.58
+    },
+    {
+        "text": "but also reportedly allowed fumes into the plane.",
+        "start": 526.86,
+        "duration": 3.06
+    },
+    {
+        "text": "But finally after all of this craziness, the plane gets to take off at 11:00pm and lands 30 minutes later.",
+        "start": 529.92,
+        "duration": 5.64
+    },
+    {
+        "text": "They were on the tarmac for 6 hours and then flew 30 minutes.",
+        "start": 535.56,
+        "duration": 3.04
+    },
+    {
+        "text": "I will never complain about a flight I'm on ever again.",
+        "start": 538.6,
+        "duration": 2.44
+    },
+    {
+        "text": "Actually that's a lie. Bitching about air travel is like in my top 20 things to do.",
+        "start": 541.04,
+        "duration": 3.46
+    },
+    {
+        "text": "Now somehow the story gets even better. On Tuesday Air Transat releases a statement saying,",
+        "start": 544.5,
+        "duration": 3.96
+    },
+    {
+        "text": "\"Following yesterday's violent late-afternoon thunderstorms in Montreal,\"",
+        "start": 548.46,
+        "duration": 2.94
+    },
+    {
+        "text": "\"some of our flights from Europe and the South had to be diverted to other airports.\"",
+        "start": 551.4,
+        "duration": 3.06
+    },
+    {
+        "text": "\"Unfortunately, this unusual situation beyond our control caused delays of several hours for our passengers.\"",
+        "start": 554.46,
+        "duration": 5.3
+    },
+    {
+        "text": "\"Nearly 30 planes with several airlines, including Air Transat,\"",
+        "start": 559.76,
+        "duration": 3.34
+    },
+    {
+        "text": "\"were diverted to Ottawa, creating exceptional traffic there.\"",
+        "start": 563.1,
+        "duration": 2.76
+    },
+    {
+        "text": "\"As a result, Ottawa airport staff were unable to provide with loading bridges or stairs\"",
+        "start": 565.86,
+        "duration": 4.08
+    },
+    {
+        "text": "\"that would have enabled the passengers on the Brussels flight to disembark\"",
+        "start": 569.94,
+        "duration": 3.02
+    },
+    {
+        "text": "\"or our grounds crew to replenish the aircraft's empty drinking water reservoir.\"",
+        "start": 572.96,
+        "duration": 3.64
+    },
+    {
+        "text": "\"We sincerely regret the inconveniences for our passengers caused by this situation that was beyond our control.\"",
+        "start": 576.6,
+        "duration": 5.48
+    },
+    {
+        "text": "So to paraphrase, it was a really shitty situation. A lot of people were delayed,",
+        "start": 582.08,
+        "duration": 3.7
+    },
+    {
+        "text": "but we weren't able to deboard you and we weren't able to get more water because of the airport.",
+        "start": 585.78,
+        "duration": 3.86
+    },
+    {
+        "text": "But then the Ottawa airport released a statement that can really only be summarized as \"Bitch, what?!\"",
+        "start": 589.64,
+        "duration": 4.38
+    },
+    {
+        "text": "Saying, \"We had a gate available and air stairs ready in the event that the airline decided to deplane.\"",
+        "start": 594.02,
+        "duration": 5.12
+    },
+    {
+        "text": "\"We also had buses on the tarmac ready to shuttle passengers to the terminal,\"",
+        "start": 599.14,
+        "duration": 3.06
+    },
+    {
+        "text": "\"buses the Authority purchased for situations such as as this.\"",
+        "start": 602.2,
+        "duration": 3.4
+    },
+    {
+        "text": "\"Neither the ground handling service nor the airline requested either of these during the event.\"",
+        "start": 605.6,
+        "duration": 4.44
+    },
+    {
+        "text": "Adding that the airport wasn't even aware of the conditions on the plane until after the police arrived.",
+        "start": 610.04,
+        "duration": 4.42
+    },
+    {
+        "text": "Saying, \"Once in the aircraft, Airport Authority personnel realized that the aircraft had no operating air conditioning.\"",
+        "start": 614.46,
+        "duration": 4.8
+    },
+    {
+        "text": "\"We made arrangements for bottled water to be delivered to the aircraft and distributed by Authority personnel.\"",
+        "start": 619.26,
+        "duration": 4.54
+    },
+    {
+        "text": "\"We also offered to bring fans to the aircraft to help cool it.\"",
+        "start": 623.8,
+        "duration": 2.44
+    },
+    {
+        "text": "And the airport spokesman closed on,",
+        "start": 626.24,
+        "duration": 1.64
+    },
+    {
+        "text": "\"We keep a supply of water, food, diapers and other personal hygiene necessities to support passenger\"",
+        "start": 627.88,
+        "duration": 4.5
+    },
+    {
+        "text": "\"needs in irregular operation scenarios, and were prepared to deploy these supplies.\"",
+        "start": 632.38,
+        "duration": 3.82
+    },
+    {
+        "text": "\"although our staff tried several times to contact the aircrew through the handlers to provide further assistance,\"",
+        "start": 636.2,
+        "duration": 5.1
+    },
+    {
+        "text": "\"the air crew was non-communicative and did not take us up on our offers to assist further.\"",
+        "start": 641.3,
+        "duration": 4.32
+    },
+    {
+        "text": "And that, my friends, is a \"Go fuck yourself.\" in Canadian.",
+        "start": 645.62,
+        "duration": 3.36
+    },
+    {
+        "text": "And this story isn't just a horrible travel story. This has become a political issue.",
+        "start": 648.98,
+        "duration": 3.92
+    },
+    {
+        "text": "Politicians have chimed in that instances like this would happen a lot less if they could pass some legislation.",
+        "start": 652.9,
+        "duration": 4.64
+    },
+    {
+        "text": "And specifically it would be federal legislation around air passengers' rights.",
+        "start": 657.54,
+        "duration": 3.44
+    },
+    {
+        "text": "Karen McCrimmon saying, \"this would establish clear standards for how passengers are to be treated in various situations,\"",
+        "start": 660.98,
+        "duration": 4.74
+    },
+    {
+        "text": "\"including cases of overbooking, delays, cancellations, long delays on the tarmac, and lost or damaged baggage.\"",
+        "start": 665.72,
+        "duration": 5.44
+    },
+    {
+        "text": "The bill in question here is known as C-49, and part of it would require airlines",
+        "start": 671.16,
+        "duration": 2.86
+    },
+    {
+        "text": "if a flight is stuck on a tarmac for 3 hours, they'll have to supply food, water,",
+        "start": 674.02,
+        "duration": 3.52
+    },
+    {
+        "text": "and possibly disembark if there can be security.",
+        "start": 677.54,
+        "duration": 2.14
+    },
+    {
+        "text": "And personally I have to say I'm for anything that defends the passengers here,",
+        "start": 679.68,
+        "duration": 3.68
+    },
+    {
+        "text": "because I feel like airlines in general have a \"thanks for your money, now go fuck yourself\" policy.",
+        "start": 683.36,
+        "duration": 4.26
+    },
+    {
+        "text": "And actually that's the note that I'm going to end today's show on.",
+        "start": 687.62,
+        "duration": 2.64
+    },
+    {
+        "text": "Of course I'd love to know your thoughts whether it be on the last story, the first one, anything in between.",
+        "start": 690.26,
+        "duration": 4.34
+    },
+    {
+        "text": "Let me know what you're thinking in those comments down below.",
+        "start": 694.6,
+        "duration": 2.42
+    },
+    {
+        "text": "And remember if you liked this video, you like what I try and do on this channel, hit that \"Like\" button.",
+        "start": 697.02,
+        "duration": 4.0
+    },
+    {
+        "text": "If you're new here hit that \"Subscribe\" button.",
+        "start": 701.02,
+        "duration": 1.44
+    },
+    {
+        "text": "Also if you missed yesterday's Philip DeFranco Show, you wanna catch up, click or tap right there to watch that.",
+        "start": 702.46,
+        "duration": 3.72
+    },
+    {
+        "text": "Or if you wanna see the newest behind-the-scenes vlog click or tap right there to watch that.",
+        "start": 706.18,
+        "duration": 4.26
+    },
+    {
+        "text": "But that said of course, as always, my name's Philip DeFranco. You've just been Phill'd in.",
+        "start": 710.44,
+        "duration": 4.44
+    },
+    {
+        "text": "I love yo faces, and I'll see you tomorrow.",
+        "start": 714.88,
+        "duration": 3.16
+    }
+]

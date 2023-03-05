@@ -1,0 +1,72 @@
+[
+    {
+        "text": "[Cheery background music]",
+        "start": 0.0,
+        "duration": 1.38
+    },
+    {
+        "text": "[Man] Mmm, chocolate!",
+        "start": 1.38,
+        "duration": 1.46
+    },
+    {
+        "text": "[Woman] Mmm, mmm. Peanut butter!",
+        "start": 3.42,
+        "duration": 2.12
+    },
+    {
+        "text": "[Man] Hey!\n[Woman] Oh!",
+        "start": 7.14,
+        "duration": 0.5
+    },
+    {
+        "text": "[Woman] Oh -- hey, you got your chocolate in my peanut butter!",
+        "start": 9.62,
+        "duration": 2.34
+    },
+    {
+        "text": "[Man] You got peanut butter on my chocolate!",
+        "start": 11.96,
+        "duration": 1.26
+    },
+    {
+        "text": "[Woman] What?!\n[Man] What?!",
+        "start": 13.64,
+        "duration": 0.96
+    },
+    {
+        "text": "[distorted background music]",
+        "start": 15.32,
+        "duration": 4.0
+    },
+    {
+        "text": "[Distorted voice of Man] Peanut butter!",
+        "start": 19.32,
+        "duration": 2.0
+    },
+    {
+        "text": "[Distorted voice of Man and Woman saying \"What?!\" repeatedly]",
+        "start": 21.32,
+        "duration": 4.94
+    },
+    {
+        "text": "[Narrator singing] Recee's peanut butter cup!",
+        "start": 26.26,
+        "duration": 2.16
+    },
+    {
+        "text": "And Recee's crunchy peanut butter cups, topped with --",
+        "start": 28.42,
+        "duration": 3.22
+    },
+    {
+        "text": "[Distorted voice of Man] Peanut butter!",
+        "start": 31.64,
+        "duration": 1.48
+    },
+    {
+        "text": "[Woman's voice distorted] What?!\n[Man's voice distorted] What?!",
+        "start": 33.12,
+        "duration": 2.52
+    }
+]

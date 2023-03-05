@@ -1,0 +1,2722 @@
+[
+    {
+        "text": "- Hi, you beautiful bastards.",
+        "start": 3.5,
+        "duration": 1.42
+    },
+    {
+        "text": "It's me, Daniel Sloss.",
+        "start": 4.92,
+        "duration": 1.14
+    },
+    {
+        "text": "It's Wednesday,",
+        "start": 6.06,
+        "duration": 0.833
+    },
+    {
+        "text": "and you're watching the\nPhilip DeFranco Show.",
+        "start": 6.893,
+        "duration": 1.737
+    },
+    {
+        "text": "Let's just jump right into it.",
+        "start": 8.63,
+        "duration": 1.259
+    },
+    {
+        "text": "- Another Wednesday,\nanother potential PDS host",
+        "start": 9.889,
+        "duration": 2.601
+    },
+    {
+        "text": "that I have to fire.",
+        "start": 12.49,
+        "duration": 1.73
+    },
+    {
+        "text": "Daniel Sloss is great, I just\ncouldn't afford his day rate.",
+        "start": 14.22,
+        "duration": 1.91
+    },
+    {
+        "text": "But unfortunate firing aside,",
+        "start": 16.13,
+        "duration": 1.51
+    },
+    {
+        "text": "if you'd like to check\nout my brand new podcast",
+        "start": 17.64,
+        "duration": 1.68
+    },
+    {
+        "text": "with Daniel Sloss, I actually uploaded it",
+        "start": 19.32,
+        "duration": 1.67
+    },
+    {
+        "text": "right before this video.",
+        "start": 20.99,
+        "duration": 0.833
+    },
+    {
+        "text": "If you want the video version,\ngo to youtube.com/aconvowith,",
+        "start": 21.823,
+        "duration": 2.877
+    },
+    {
+        "text": "or if you want the audio version, right,",
+        "start": 24.7,
+        "duration": 1.607
+    },
+    {
+        "text": "the Spotifys, the Apple\nPodcasts, the wherever,",
+        "start": 26.307,
+        "duration": 2.173
+    },
+    {
+        "text": "you can go to linkshole.com.",
+        "start": 28.48,
+        "duration": 1.22
+    },
+    {
+        "text": "And honestly, if there was a first time",
+        "start": 29.7,
+        "duration": 1.36
+    },
+    {
+        "text": "to check out the podcast if\nyou have not done it yet,",
+        "start": 31.06,
+        "duration": 1.691
+    },
+    {
+        "text": "it's with this episode.",
+        "start": 32.751,
+        "duration": 1.649
+    },
+    {
+        "text": "I was really looking forward to it,",
+        "start": 34.4,
+        "duration": 0.9
+    },
+    {
+        "text": "and it was a fantastic time.",
+        "start": 35.3,
+        "duration": 1.21
+    },
+    {
+        "text": "So, yeah, check that out,",
+        "start": 36.51,
+        "duration": 0.86
+    },
+    {
+        "text": "but this is the Philip DeFranco Show.",
+        "start": 37.37,
+        "duration": 1.66
+    },
+    {
+        "text": "Welcome, buckle up, hit that Like button,",
+        "start": 39.03,
+        "duration": 2.31
+    },
+    {
+        "text": "and let's just jump into it.",
+        "start": 41.34,
+        "duration": 1.017
+    },
+    {
+        "text": "And the first thing we're\ngonna talk about today,",
+        "start": 42.357,
+        "duration": 1.743
+    },
+    {
+        "text": "I just gotta give a shout\nout to the number one",
+        "start": 44.1,
+        "duration": 1.5
+    },
+    {
+        "text": "super fan of the PDS, Susan Wojcicki,",
+        "start": 45.6,
+        "duration": 1.957
+    },
+    {
+        "text": "and Susan Wojcicki, if you don't know,",
+        "start": 47.557,
+        "duration": 1.513
+    },
+    {
+        "text": "she's the CEO of YouTube,\nand yesterday she actually",
+        "start": 49.07,
+        "duration": 2.8
+    },
+    {
+        "text": "did something that was notable to me.",
+        "start": 51.87,
+        "duration": 1.29
+    },
+    {
+        "text": "If you watched yesterday's show,",
+        "start": 53.16,
+        "duration": 0.94
+    },
+    {
+        "text": "you might have seen me complain,",
+        "start": 54.1,
+        "duration": 1.1
+    },
+    {
+        "text": "but also bring to light\nthat YouTube has just been",
+        "start": 55.2,
+        "duration": 2.14
+    },
+    {
+        "text": "cracking down on any video\nthat involves coronavirus,",
+        "start": 57.34,
+        "duration": 3.08
+    },
+    {
+        "text": "de-monetizing it.",
+        "start": 60.42,
+        "duration": 1.05
+    },
+    {
+        "text": "Essentially, in their\nefforts to stop crazy",
+        "start": 61.47,
+        "duration": 1.86
+    },
+    {
+        "text": "conspiracy theorist videos,\nde-incentivizing those,",
+        "start": 63.33,
+        "duration": 2.5
+    },
+    {
+        "text": "they wanna get factual\ninformation out there,",
+        "start": 65.83,
+        "duration": 2.1
+    },
+    {
+        "text": "so you have an informed public.",
+        "start": 67.93,
+        "duration": 1.15
+    },
+    {
+        "text": "I also joked on Twitter about it,",
+        "start": 69.08,
+        "duration": 1.29
+    },
+    {
+        "text": "and Susan actually replied to me saying,",
+        "start": 70.37,
+        "duration": 1.717
+    },
+    {
+        "text": "\"we hear you.",
+        "start": 72.087,
+        "duration": 0.833
+    },
+    {
+        "text": "\"Update to come on this\ntomorrow, stay tuned.\"",
+        "start": 72.92,
+        "duration": 2.12
+    },
+    {
+        "text": "And tomorrow came, and\nI did get an update.",
+        "start": 75.04,
+        "duration": 2.64
+    },
+    {
+        "text": "The video was manually\nreviewed by a human,",
+        "start": 77.68,
+        "duration": 2.3
+    },
+    {
+        "text": "and de-monetized.",
+        "start": 79.98,
+        "duration": 1.203
+    },
+    {
+        "text": "(laughs)",
+        "start": 81.183,
+        "duration": 2.083
+    },
+    {
+        "text": "Oh, shit!",
+        "start": 84.604,
+        "duration": 1.096
+    },
+    {
+        "text": "I'm too exhausted to be angry.",
+        "start": 85.7,
+        "duration": 1.27
+    },
+    {
+        "text": "It's just funny at this point.",
+        "start": 86.97,
+        "duration": 1.03
+    },
+    {
+        "text": "Though, to be fair, she didn't say",
+        "start": 88.0,
+        "duration": 1.07
+    },
+    {
+        "text": "she was gonna fix it for me.",
+        "start": 89.07,
+        "duration": 0.93
+    },
+    {
+        "text": "She just said that she heard me.",
+        "start": 90.0,
+        "duration": 1.19
+    },
+    {
+        "text": "Also, as far as the actual update to this,",
+        "start": 91.19,
+        "duration": 2.06
+    },
+    {
+        "text": "Susan Wojcicki did release a blog",
+        "start": 93.25,
+        "duration": 1.81
+    },
+    {
+        "text": "on the YouTube Creators Blog,\nand regarding monetization",
+        "start": 95.06,
+        "duration": 2.21
+    },
+    {
+        "text": "there she said \"YouTube's\npolicies are designed to support",
+        "start": 97.27,
+        "duration": 2.037
+    },
+    {
+        "text": "\"your work on the\nplatform, to protect users,",
+        "start": 99.307,
+        "duration": 1.72
+    },
+    {
+        "text": "\"and to give advertisers confidence",
+        "start": 101.027,
+        "duration": 1.53
+    },
+    {
+        "text": "\"about where their ads run.",
+        "start": 102.557,
+        "duration": 1.15
+    },
+    {
+        "text": "\"We know many of you\nhave had questions about",
+        "start": 103.707,
+        "duration": 1.45
+    },
+    {
+        "text": "\"our sensitive events policy,\nwhich currently does not allow",
+        "start": 105.157,
+        "duration": 2.26
+    },
+    {
+        "text": "\"monetization if a video includes",
+        "start": 107.417,
+        "duration": 1.67
+    },
+    {
+        "text": "\"more than a passing\nmention of the coronavirus.",
+        "start": 109.087,
+        "duration": 2.09
+    },
+    {
+        "text": "\"Our sensitive events\npolicy was designed to apply",
+        "start": 111.177,
+        "duration": 2.1
+    },
+    {
+        "text": "\"to short-term events of\nsignificant magnitude,",
+        "start": 113.277,
+        "duration": 1.89
+    },
+    {
+        "text": "\"like a natural disaster.",
+        "start": 115.167,
+        "duration": 1.15
+    },
+    {
+        "text": "\"It's becoming clear this\nissue is now an ongoing",
+        "start": 116.317,
+        "duration": 2.08
+    },
+    {
+        "text": "\"and important part of\neveryday conversation,",
+        "start": 118.397,
+        "duration": 1.62
+    },
+    {
+        "text": "\"and we wanna make sure news organizations",
+        "start": 120.017,
+        "duration": 1.52
+    },
+    {
+        "text": "\"and creators can continue\nproducing quality videos",
+        "start": 121.537,
+        "duration": 2.22
+    },
+    {
+        "text": "\"in a sustainable way.\"",
+        "start": 123.757,
+        "duration": 0.973
+    },
+    {
+        "text": "And then adding, \"in the days\nahead, we will enable ads",
+        "start": 124.73,
+        "duration": 2.327
+    },
+    {
+        "text": "\"for content discussing the coronavirus",
+        "start": 127.057,
+        "duration": 1.63
+    },
+    {
+        "text": "\"on a limited number of channels,",
+        "start": 128.687,
+        "duration": 1.4
+    },
+    {
+        "text": "\"including creators who\naccurately self-certify",
+        "start": 130.087,
+        "duration": 2.09
+    },
+    {
+        "text": "\"and a range of news partners.\"",
+        "start": 132.177,
+        "duration": 1.483
+    },
+    {
+        "text": "So, here's what I'll do.",
+        "start": 133.66,
+        "duration": 0.833
+    },
+    {
+        "text": "The out that I'll give\nSusan and YouTube is",
+        "start": 134.493,
+        "duration": 1.687
+    },
+    {
+        "text": "maybe this will change moving forward.",
+        "start": 136.18,
+        "duration": 1.68
+    },
+    {
+        "text": "This is recent.",
+        "start": 137.86,
+        "duration": 1.29
+    },
+    {
+        "text": "I thought for a second maybe that video",
+        "start": 139.15,
+        "duration": 1.12
+    },
+    {
+        "text": "was still de-monetized 'cause I had said",
+        "start": 140.27,
+        "duration": 2.41
+    },
+    {
+        "text": "(mumbles)\n(laughs)",
+        "start": 142.68,
+        "duration": 1.61
+    },
+    {
+        "text": "fuck you, YouTube.",
+        "start": 144.29,
+        "duration": 0.95
+    },
+    {
+        "text": "Yeah, that, but looking deeper\ninto the de-monetization,",
+        "start": 145.24,
+        "duration": 2.11
+    },
+    {
+        "text": "it was still that sensitive issues tag",
+        "start": 147.35,
+        "duration": 1.56
+    },
+    {
+        "text": "that got me de-monetized.",
+        "start": 148.91,
+        "duration": 0.91
+    },
+    {
+        "text": "But hey, maybe it'll\nchange, but I don't know.",
+        "start": 149.82,
+        "duration": 1.867
+    },
+    {
+        "text": "And maybe you've noticed\nit in the past week.",
+        "start": 151.687,
+        "duration": 1.583
+    },
+    {
+        "text": "I think I've just run out of the energy",
+        "start": 153.27,
+        "duration": 1.32
+    },
+    {
+        "text": "from stopping the voice\nin my head from saying",
+        "start": 154.59,
+        "duration": 2.98
+    },
+    {
+        "text": "all the things I feel.",
+        "start": 157.57,
+        "duration": 1.15
+    },
+    {
+        "text": "Also, as far as what\nelse YouTube is doing,",
+        "start": 158.72,
+        "duration": 1.92
+    },
+    {
+        "text": "earlier in the post Susan\nwrote, \"we're using our homepage",
+        "start": 160.64,
+        "duration": 2.047
+    },
+    {
+        "text": "\"to direct users to the\nWorld Health Organization,",
+        "start": 162.687,
+        "duration": 1.85
+    },
+    {
+        "text": "\"the Centers for Disease\nControl and Prevention,",
+        "start": 164.537,
+        "duration": 2.03
+    },
+    {
+        "text": "\"and other local\nauthoritative organizations",
+        "start": 166.567,
+        "duration": 1.93
+    },
+    {
+        "text": "\"around the world to ensure\nusers can easily find updates.\"",
+        "start": 168.497,
+        "duration": 2.403
+    },
+    {
+        "text": "Also adding, \"we're donating\nadvertising inventory",
+        "start": 170.9,
+        "duration": 2.297
+    },
+    {
+        "text": "\"to governments and NGOs\nin impacted regions,",
+        "start": 173.197,
+        "duration": 2.3
+    },
+    {
+        "text": "\"who are using it to spotlight\ntimely, helpful information.\"",
+        "start": 175.497,
+        "duration": 2.573
+    },
+    {
+        "text": "But yeah, that was a thing.",
+        "start": 178.07,
+        "duration": 1.76
+    },
+    {
+        "text": "Then in other internet-y news,",
+        "start": 179.83,
+        "duration": 1.37
+    },
+    {
+        "text": "we should talk about the further",
+        "start": 181.2,
+        "duration": 0.99
+    },
+    {
+        "text": "mainstream-ification of\nTikTok and its stars.",
+        "start": 182.19,
+        "duration": 2.46
+    },
+    {
+        "text": "If you're unfamiliar with TikTok,",
+        "start": 184.65,
+        "duration": 1.64
+    },
+    {
+        "text": "just talk to someone\nthat's younger than you.",
+        "start": 186.29,
+        "duration": 1.95
+    },
+    {
+        "text": "I use the app as a consumer.",
+        "start": 188.24,
+        "duration": 1.2
+    },
+    {
+        "text": "I don't currently post on it, but I mean,",
+        "start": 189.44,
+        "duration": 1.56
+    },
+    {
+        "text": "you just look at it and you see,",
+        "start": 191.0,
+        "duration": 1.33
+    },
+    {
+        "text": "oh, this is the big thing now.",
+        "start": 192.33,
+        "duration": 1.55
+    },
+    {
+        "text": "Possibly in part to the videos\nbeing 15 to 60 seconds long,",
+        "start": 193.88,
+        "duration": 2.39
+    },
+    {
+        "text": "it feels like its discovery engine",
+        "start": 196.27,
+        "duration": 1.63
+    },
+    {
+        "text": "is just on a completely different level.",
+        "start": 197.9,
+        "duration": 1.32
+    },
+    {
+        "text": "With the right videos, the right strategy,",
+        "start": 199.22,
+        "duration": 1.29
+    },
+    {
+        "text": "I mean, you have people going from nothing",
+        "start": 200.51,
+        "duration": 1.77
+    },
+    {
+        "text": "to 60,000, 100,000 followers like that.",
+        "start": 202.28,
+        "duration": 2.87
+    },
+    {
+        "text": "While there have been a lot\nof behind the scenes things",
+        "start": 205.15,
+        "duration": 1.6
+    },
+    {
+        "text": "regarding creators, and\ncontent, which, I mean,",
+        "start": 206.75,
+        "duration": 2.46
+    },
+    {
+        "text": "that's a whole different deep dive,",
+        "start": 209.21,
+        "duration": 1.14
+    },
+    {
+        "text": "one of the main faces leading the charge",
+        "start": 210.35,
+        "duration": 1.52
+    },
+    {
+        "text": "for the mainstream-ification of TikTok,",
+        "start": 211.87,
+        "duration": 1.93
+    },
+    {
+        "text": "so even your grandma\nknows that it's a thing,",
+        "start": 213.8,
+        "duration": 1.93
+    },
+    {
+        "text": "is Charlie D'Amelio.",
+        "start": 215.73,
+        "duration": 1.17
+    },
+    {
+        "text": "She's a 15-year-old girl who is not only",
+        "start": 216.9,
+        "duration": 2.09
+    },
+    {
+        "text": "one of the biggest influencers on the app,",
+        "start": 218.99,
+        "duration": 1.75
+    },
+    {
+        "text": "she is one of the biggest\ninfluencers of 2020.",
+        "start": 220.74,
+        "duration": 2.59
+    },
+    {
+        "text": "She started blowing up\nin summer of last year",
+        "start": 223.33,
+        "duration": 1.82
+    },
+    {
+        "text": "and she currently has 35.1\nmillion followers on TikTok,",
+        "start": 225.15,
+        "duration": 3.73
+    },
+    {
+        "text": "and also moving that\naudience off platform,",
+        "start": 228.88,
+        "duration": 1.88
+    },
+    {
+        "text": "Instagram, 9.4 million, YouTube, 1.7.",
+        "start": 230.76,
+        "duration": 2.2
+    },
+    {
+        "text": "And what I will say, and I\nthink I said a similar thing",
+        "start": 232.96,
+        "duration": 2.17
+    },
+    {
+        "text": "about Ninja regarding\ne-sports and streaming,",
+        "start": 235.13,
+        "duration": 2.66
+    },
+    {
+        "text": "if there is one of the\nmain faces to be had,",
+        "start": 237.79,
+        "duration": 2.94
+    },
+    {
+        "text": "I think it's actually good that it's her.",
+        "start": 240.73,
+        "duration": 1.332
+    },
+    {
+        "text": "Right, because I think\nfame for young people",
+        "start": 242.062,
+        "duration": 1.348
+    },
+    {
+        "text": "can be incredibly toxic.",
+        "start": 243.41,
+        "duration": 1.73
+    },
+    {
+        "text": "You look at her previous interviews,",
+        "start": 245.14,
+        "duration": 1.29
+    },
+    {
+        "text": "and she also did one last\nnight on Jimmy Fallon,",
+        "start": 246.43,
+        "duration": 2.4
+    },
+    {
+        "text": "and you go, oh, this is\nactually a good representative,",
+        "start": 248.83,
+        "duration": 2.13
+    },
+    {
+        "text": "not only talking about her rise,",
+        "start": 250.96,
+        "duration": 1.21
+    },
+    {
+        "text": "but using her platform and\nthe platforms given to her",
+        "start": 252.17,
+        "duration": 2.56
+    },
+    {
+        "text": "to talk about bullying, there\ntalking about her campaign",
+        "start": 254.73,
+        "duration": 2.34
+    },
+    {
+        "text": "to raise awareness about cyberbullying,",
+        "start": 257.07,
+        "duration": 2.0
+    },
+    {
+        "text": "teaming up with UNICEF to\ntalk about this in general,",
+        "start": 259.07,
+        "duration": 2.14
+    },
+    {
+        "text": "but also her personal experiences\nand struggles with it.",
+        "start": 261.21,
+        "duration": 2.34
+    },
+    {
+        "text": "And I will say personally\nI love seeing it,",
+        "start": 263.55,
+        "duration": 1.95
+    },
+    {
+        "text": "one, because it is promoting a positive,",
+        "start": 265.5,
+        "duration": 2.09
+    },
+    {
+        "text": "but also, two, because\nI've seen a lot of the hate",
+        "start": 267.59,
+        "duration": 3.59
+    },
+    {
+        "text": "that was thrown at her.",
+        "start": 271.18,
+        "duration": 1.07
+    },
+    {
+        "text": "It was ridiculous, intense, at times,",
+        "start": 272.25,
+        "duration": 1.85
+    },
+    {
+        "text": "seemingly overwhelming\nher top comment section,",
+        "start": 274.1,
+        "duration": 2.54
+    },
+    {
+        "text": "and ultimately, I'm\nhappy about this moment,",
+        "start": 276.64,
+        "duration": 1.4
+    },
+    {
+        "text": "because sometimes the kids show me",
+        "start": 278.04,
+        "duration": 2.27
+    },
+    {
+        "text": "that maybe the future can be better.",
+        "start": 280.31,
+        "duration": 1.9
+    },
+    {
+        "text": "Yeah, a little entertainment\nslash positive news,",
+        "start": 282.21,
+        "duration": 2.43
+    },
+    {
+        "text": "for a change.",
+        "start": 284.64,
+        "duration": 0.833
+    },
+    {
+        "text": "But from that, I wanna share\nsome stuff I love today",
+        "start": 285.473,
+        "duration": 2.427
+    },
+    {
+        "text": "in today in awesome, brought to you by,",
+        "start": 287.9,
+        "duration": 1.89
+    },
+    {
+        "text": "it is really a sign of\nthe times, Reel Paper.",
+        "start": 289.79,
+        "duration": 2.45
+    },
+    {
+        "text": "I'm not sure if you know this.",
+        "start": 292.24,
+        "duration": 0.84
+    },
+    {
+        "text": "I was genuinely shocked by this number.",
+        "start": 293.08,
+        "duration": 1.93
+    },
+    {
+        "text": "Every day over 27,000 trees are cut down",
+        "start": 295.01,
+        "duration": 2.73
+    },
+    {
+        "text": "to produce toilet paper.",
+        "start": 297.74,
+        "duration": 1.03
+    },
+    {
+        "text": "And so, the fantastic people at Reel Paper",
+        "start": 298.77,
+        "duration": 1.8
+    },
+    {
+        "text": "wanted to combat this issue,",
+        "start": 300.57,
+        "duration": 1.51
+    },
+    {
+        "text": "and they found a much more sustainable",
+        "start": 302.08,
+        "duration": 1.5
+    },
+    {
+        "text": "solution using bamboo.",
+        "start": 303.58,
+        "duration": 1.46
+    },
+    {
+        "text": "And what's awesome is there's absolutely",
+        "start": 305.04,
+        "duration": 1.37
+    },
+    {
+        "text": "no sacrifice in quality.",
+        "start": 306.41,
+        "duration": 1.45
+    },
+    {
+        "text": "It's still strong, soft, it is triple ply,",
+        "start": 307.86,
+        "duration": 2.32
+    },
+    {
+        "text": "so you won't even miss your old brand.",
+        "start": 310.18,
+        "duration": 1.31
+    },
+    {
+        "text": "Making it even more\nfantastic, they ship directly",
+        "start": 311.49,
+        "duration": 2.04
+    },
+    {
+        "text": "to your home for free,\nwhich, one, free is good,",
+        "start": 313.53,
+        "duration": 2.17
+    },
+    {
+        "text": "but also, two, the fact\nthat you don't have to go",
+        "start": 315.7,
+        "duration": 2.19
+    },
+    {
+        "text": "to the store, have you\nseen these insane videos",
+        "start": 317.89,
+        "duration": 2.26
+    },
+    {
+        "text": "of crazy Karens fighting\nover toilet paper?",
+        "start": 320.15,
+        "duration": 2.17
+    },
+    {
+        "text": "Right, and the unfortunate thing is really",
+        "start": 322.32,
+        "duration": 1.33
+    },
+    {
+        "text": "there's never been a better\ntime to try something new,",
+        "start": 323.65,
+        "duration": 2.52
+    },
+    {
+        "text": "and not only do you get\ngood with Reel Paper,",
+        "start": 326.17,
+        "duration": 2.19
+    },
+    {
+        "text": "but you also help do good.",
+        "start": 328.36,
+        "duration": 1.42
+    },
+    {
+        "text": "For every roll that's\npurchased, Reel Paper donates",
+        "start": 329.78,
+        "duration": 1.76
+    },
+    {
+        "text": "a single use biodegradable\ntoilet to someone that's in need,",
+        "start": 331.54,
+        "duration": 2.64
+    },
+    {
+        "text": "and to get you started Reel\nPaper is offering $10 off",
+        "start": 334.18,
+        "duration": 2.46
+    },
+    {
+        "text": "your first subscription box\nwhen you use code DEFRANCO.",
+        "start": 336.64,
+        "duration": 2.43
+    },
+    {
+        "text": "So, be sure to click that link down below,",
+        "start": 339.07,
+        "duration": 1.72
+    },
+    {
+        "text": "or just head on over to\nreelpaper.com/defranco,",
+        "start": 340.79,
+        "duration": 2.66
+    },
+    {
+        "text": "use code DEFRANCO, and you'll\nbe doing something good",
+        "start": 343.45,
+        "duration": 2.0
+    },
+    {
+        "text": "for the environment,\nsomeone else, and yourself.",
+        "start": 345.45,
+        "duration": 2.16
+    },
+    {
+        "text": "And the first bit of\nawesome is I've had a lot",
+        "start": 347.61,
+        "duration": 1.21
+    },
+    {
+        "text": "of people asking me, you know,",
+        "start": 348.82,
+        "duration": 0.99
+    },
+    {
+        "text": "when are you gonna release\nthe First Amendment shirts,",
+        "start": 349.81,
+        "duration": 2.09
+    },
+    {
+        "text": "and the answer to that is actually today.",
+        "start": 351.9,
+        "duration": 1.82
+    },
+    {
+        "text": "This is a limited run pre-order,",
+        "start": 353.72,
+        "duration": 1.24
+    },
+    {
+        "text": "so you only have until Sunday to snag one.",
+        "start": 354.96,
+        "duration": 2.38
+    },
+    {
+        "text": "You can either get it\nin this color or in red,",
+        "start": 357.34,
+        "duration": 1.91
+    },
+    {
+        "text": "and of course if you wanna\nsnag one while you can,",
+        "start": 359.25,
+        "duration": 1.5
+    },
+    {
+        "text": "you can get it at shopdefranco.com.",
+        "start": 360.75,
+        "duration": 2.32
+    },
+    {
+        "text": "Then we had Katie Holmes\ntalking \"Dawson's Creek,\"",
+        "start": 363.07,
+        "duration": 2.197
+    },
+    {
+        "text": "\"Batman,\" and the cashmere bra.",
+        "start": 365.267,
+        "duration": 1.623
+    },
+    {
+        "text": "We got a blooper reel for\n\"I Am Not Okay with This.\"",
+        "start": 366.89,
+        "duration": 2.12
+    },
+    {
+        "text": "Architectural Digest got an inside look",
+        "start": 369.01,
+        "duration": 1.8
+    },
+    {
+        "text": "at Dakota Johnson's home.",
+        "start": 370.81,
+        "duration": 1.14
+    },
+    {
+        "text": "We had Gus Johnson taking on Steve Harvey",
+        "start": 371.95,
+        "duration": 1.8
+    },
+    {
+        "text": "being terrible with women.",
+        "start": 373.75,
+        "duration": 1.12
+    },
+    {
+        "text": "We had Billie Lourd exploring ASMR.",
+        "start": 374.87,
+        "duration": 1.94
+    },
+    {
+        "text": "You had Jimmy Kimmel\nasking people on the street",
+        "start": 376.81,
+        "duration": 2.11
+    },
+    {
+        "text": "their knowledge about coronavirus,",
+        "start": 378.92,
+        "duration": 1.82
+    },
+    {
+        "text": "and if you wanna see the\nfull versions of everything",
+        "start": 380.74,
+        "duration": 1.54
+    },
+    {
+        "text": "I just shared, the secret link of the day,",
+        "start": 382.28,
+        "duration": 1.66
+    },
+    {
+        "text": "really anything at all, links, as always,",
+        "start": 383.94,
+        "duration": 2.19
+    },
+    {
+        "text": "are in the description down below.",
+        "start": 386.13,
+        "duration": 1.18
+    },
+    {
+        "text": "And then, let's talk\nabout the update around",
+        "start": 387.31,
+        "duration": 1.63
+    },
+    {
+        "text": "Harvey Weinstein, who the\nlast time we talked about him",
+        "start": 388.94,
+        "duration": 2.74
+    },
+    {
+        "text": "he'd been found guilty on\ntwo counts in Manhattan,",
+        "start": 391.68,
+        "duration": 2.61
+    },
+    {
+        "text": "those being third degree rape,",
+        "start": 394.29,
+        "duration": 1.32
+    },
+    {
+        "text": "and first degree criminal sexual act.",
+        "start": 395.61,
+        "duration": 1.78
+    },
+    {
+        "text": "He was facing between five\nand 29 years in prison.",
+        "start": 397.39,
+        "duration": 2.66
+    },
+    {
+        "text": "You had Weinstein's lawyers\nasking for just the five years,",
+        "start": 400.05,
+        "duration": 2.16
+    },
+    {
+        "text": "citing his his bad health, his age,",
+        "start": 402.21,
+        "duration": 2.23
+    },
+    {
+        "text": "and it appears today the\njudge said I hear you,",
+        "start": 404.44,
+        "duration": 2.72
+    },
+    {
+        "text": "I definitely do, but\nhe's getting 23 years.",
+        "start": 407.16,
+        "duration": 2.26
+    },
+    {
+        "text": "All right, so, if his alleged\nhealth issues are legitimate,",
+        "start": 409.42,
+        "duration": 2.62
+    },
+    {
+        "text": "this is essentially a life sentence,",
+        "start": 412.04,
+        "duration": 1.76
+    },
+    {
+        "text": "and that's even without factoring in that",
+        "start": 413.8,
+        "duration": 1.3
+    },
+    {
+        "text": "Weinstein's still facing four\nfelony charges in Los Angeles",
+        "start": 415.1,
+        "duration": 2.88
+    },
+    {
+        "text": "for rape and sexual battery.",
+        "start": 417.98,
+        "duration": 1.19
+    },
+    {
+        "text": "Right, if he ends up\ngetting convicted there,",
+        "start": 419.17,
+        "duration": 1.19
+    },
+    {
+        "text": "I mean, that could add\n28 years to his sentence,",
+        "start": 420.36,
+        "duration": 2.54
+    },
+    {
+        "text": "and my general reaction to this is good,",
+        "start": 422.9,
+        "duration": 2.02
+    },
+    {
+        "text": "but it also highlights an issue.",
+        "start": 424.92,
+        "duration": 1.69
+    },
+    {
+        "text": "Yes, Harvey Weinstein is\nbeing held accountable,",
+        "start": 426.61,
+        "duration": 2.38
+    },
+    {
+        "text": "but how many years later?",
+        "start": 428.99,
+        "duration": 1.83
+    },
+    {
+        "text": "I mean, a thing to consider,\nright, that Manhattan judgment,",
+        "start": 430.82,
+        "duration": 2.77
+    },
+    {
+        "text": "that's based off of just\ntwo women who accused him",
+        "start": 433.59,
+        "duration": 2.57
+    },
+    {
+        "text": "out of at least 90.",
+        "start": 436.16,
+        "duration": 1.48
+    },
+    {
+        "text": "And so, when I read that\nWeinstein spoke at length",
+        "start": 437.64,
+        "duration": 2.08
+    },
+    {
+        "text": "at the hearing about his charitable deeds,",
+        "start": 439.72,
+        "duration": 2.11
+    },
+    {
+        "text": "how he was totally confused about",
+        "start": 441.83,
+        "duration": 2.42
+    },
+    {
+        "text": "what these women were saying,\nit kind of falls on deaf ears,",
+        "start": 444.25,
+        "duration": 2.13
+    },
+    {
+        "text": "considering the horrific nature\nof some of the testimony,",
+        "start": 446.38,
+        "duration": 2.56
+    },
+    {
+        "text": "and just the pile of accusations.",
+        "start": 448.94,
+        "duration": 2.65
+    },
+    {
+        "text": "And so, when Judge James Burke said,",
+        "start": 451.59,
+        "duration": 1.827
+    },
+    {
+        "text": "\"although this is a first conviction,",
+        "start": 453.417,
+        "duration": 1.85
+    },
+    {
+        "text": "\"it is not a first offense,\" I nod,",
+        "start": 455.267,
+        "duration": 2.483
+    },
+    {
+        "text": "and understand the 23 year sentence.",
+        "start": 457.75,
+        "duration": 1.647
+    },
+    {
+        "text": "Right, so there's that.",
+        "start": 459.397,
+        "duration": 1.363
+    },
+    {
+        "text": "Also, an interesting\nthing that has come out,",
+        "start": 460.76,
+        "duration": 1.87
+    },
+    {
+        "text": "there are recently unsealed\ncourt documents that show",
+        "start": 462.63,
+        "duration": 1.76
+    },
+    {
+        "text": "that weeks after the first\naccusations were published",
+        "start": 464.39,
+        "duration": 2.0
+    },
+    {
+        "text": "by The New Yorker and The New York Times",
+        "start": 466.39,
+        "duration": 1.53
+    },
+    {
+        "text": "you had Weinstein desperately reaching out",
+        "start": 467.92,
+        "duration": 1.72
+    },
+    {
+        "text": "to wealthy friends for their support,",
+        "start": 469.64,
+        "duration": 1.31
+    },
+    {
+        "text": "this reportedly including Jeff Bezos,",
+        "start": 470.95,
+        "duration": 1.71
+    },
+    {
+        "text": "Tim Cook, Mike Bloomberg.",
+        "start": 472.66,
+        "duration": 1.64
+    },
+    {
+        "text": "In a letter to the\nheads of Apple he wrote,",
+        "start": 474.3,
+        "duration": 1.587
+    },
+    {
+        "text": "\"I don't need you to make\nany public statements,",
+        "start": 475.887,
+        "duration": 1.9
+    },
+    {
+        "text": "\"just a private one to my Gmail address",
+        "start": 477.787,
+        "duration": 1.8
+    },
+    {
+        "text": "\"saying that you support\nme getting therapy",
+        "start": 479.587,
+        "duration": 1.86
+    },
+    {
+        "text": "\"and the help I need\nbefore the board fires me.",
+        "start": 481.447,
+        "duration": 2.07
+    },
+    {
+        "text": "\"I'm in a tough spot.",
+        "start": 483.517,
+        "duration": 0.92
+    },
+    {
+        "text": "\"Many of the allegations are false,",
+        "start": 484.437,
+        "duration": 1.67
+    },
+    {
+        "text": "\"but I need your help with this\nprivate letter of support.\"",
+        "start": 486.107,
+        "duration": 1.953
+    },
+    {
+        "text": "Also, even more interestingly,\nother documents showed",
+        "start": 488.06,
+        "duration": 2.21
+    },
+    {
+        "text": "that Weinstein had\ncompiled a red flag list",
+        "start": 490.27,
+        "duration": 2.03
+    },
+    {
+        "text": "of industry figures who\nhe suspected might be",
+        "start": 492.3,
+        "duration": 1.66
+    },
+    {
+        "text": "talking about his sexual\nbehavior to the media,",
+        "start": 493.96,
+        "duration": 1.76
+    },
+    {
+        "text": "and that list was sent to\nhis private investigators,",
+        "start": 495.72,
+        "duration": 1.98
+    },
+    {
+        "text": "reportedly including about\n70 names, like Ben Affleck,",
+        "start": 497.7,
+        "duration": 2.65
+    },
+    {
+        "text": "Rose McGowan, and several others.",
+        "start": 500.35,
+        "duration": 1.51
+    },
+    {
+        "text": "Right, so, that has led\nto people saying, well,",
+        "start": 501.86,
+        "duration": 1.44
+    },
+    {
+        "text": "why was Affleck's name on this list?",
+        "start": 503.3,
+        "duration": 2.4
+    },
+    {
+        "text": "What did he know?",
+        "start": 505.7,
+        "duration": 1.076
+    },
+    {
+        "text": "But ultimately, that's where\nwe are with this Weinstein",
+        "start": 506.776,
+        "duration": 1.634
+    },
+    {
+        "text": "story today, and of course I\npass the question off to you.",
+        "start": 508.41,
+        "duration": 2.15
+    },
+    {
+        "text": "What are your thoughts on this?",
+        "start": 510.56,
+        "duration": 0.833
+    },
+    {
+        "text": "And then, we should talk\nabout Super Tuesday part deux.",
+        "start": 511.393,
+        "duration": 2.807
+    },
+    {
+        "text": "So, yesterday, six more\nstates held their primaries,",
+        "start": 514.2,
+        "duration": 1.96
+    },
+    {
+        "text": "and it was a big win for Biden.",
+        "start": 516.16,
+        "duration": 1.82
+    },
+    {
+        "text": "As of right now, Biden\nhas picked up Idaho,",
+        "start": 517.98,
+        "duration": 1.89
+    },
+    {
+        "text": "Michigan, Mississippi, Missouri.",
+        "start": 519.87,
+        "duration": 1.99
+    },
+    {
+        "text": "Bernie took in North Dakota,",
+        "start": 521.86,
+        "duration": 1.66
+    },
+    {
+        "text": "and Washington right now\nis still too close to call.",
+        "start": 523.52,
+        "duration": 2.29
+    },
+    {
+        "text": "Now, what I will say is going into this",
+        "start": 525.81,
+        "duration": 1.62
+    },
+    {
+        "text": "it appeared that Biden would win,",
+        "start": 527.43,
+        "duration": 1.48
+    },
+    {
+        "text": "but what was even more\nsignificant here was",
+        "start": 528.91,
+        "duration": 1.59
+    },
+    {
+        "text": "how much he won by, and here\nwe'll start with Michigan,",
+        "start": 530.5,
+        "duration": 2.56
+    },
+    {
+        "text": "because Michigan was largely viewed",
+        "start": 533.06,
+        "duration": 1.13
+    },
+    {
+        "text": "as the most important\nstate in yesterday's races.",
+        "start": 534.19,
+        "duration": 2.01
+    },
+    {
+        "text": "This was for a few reasons.",
+        "start": 536.2,
+        "duration": 1.03
+    },
+    {
+        "text": "First, it had the most\ndelegates to give with 125,",
+        "start": 537.23,
+        "duration": 3.01
+    },
+    {
+        "text": "and secondly, it was considered\nan absolute essential state",
+        "start": 540.24,
+        "duration": 2.43
+    },
+    {
+        "text": "for Bernie Sanders to win.",
+        "start": 542.67,
+        "duration": 1.15
+    },
+    {
+        "text": "Bernie won Michigan back in 2016.",
+        "start": 543.82,
+        "duration": 1.88
+    },
+    {
+        "text": "It was largely considered\nthe win that launched him",
+        "start": 545.7,
+        "duration": 2.0
+    },
+    {
+        "text": "in the race against Hillary Clinton,",
+        "start": 547.7,
+        "duration": 1.39
+    },
+    {
+        "text": "but what we ended up seeing\nwas Biden winning in Michigan",
+        "start": 549.09,
+        "duration": 2.15
+    },
+    {
+        "text": "by more than double digits,\nwinning 52.9% to Bernie's 36.4.",
+        "start": 551.24,
+        "duration": 4.95
+    },
+    {
+        "text": "Also, as far as states\nthat Bernie won in 2016,",
+        "start": 556.19,
+        "duration": 1.93
+    },
+    {
+        "text": "but he lost yesterday, you had Idaho,",
+        "start": 558.12,
+        "duration": 2.07
+    },
+    {
+        "text": "though the margin there was not as big.",
+        "start": 560.19,
+        "duration": 1.5
+    },
+    {
+        "text": "Also, regarding Washington,\nas of recording this video,",
+        "start": 561.69,
+        "duration": 2.19
+    },
+    {
+        "text": "with 67% of the vote in\nBernie is ahead 32.7 to 32.5%,",
+        "start": 563.88,
+        "duration": 4.6
+    },
+    {
+        "text": "though I do wanna point this out,",
+        "start": 568.48,
+        "duration": 1.2
+    },
+    {
+        "text": "notably, Warren who dropped out last week",
+        "start": 569.68,
+        "duration": 1.81
+    },
+    {
+        "text": "is polling at 12.3% in Washington.",
+        "start": 571.49,
+        "duration": 2.25
+    },
+    {
+        "text": "Right, and we previously talked\nabout in a number of states",
+        "start": 573.74,
+        "duration": 1.78
+    },
+    {
+        "text": "this was gonna be an issue.",
+        "start": 575.52,
+        "duration": 1.03
+    },
+    {
+        "text": "Washington has a long early\nvoting period, mail in ballots.",
+        "start": 576.55,
+        "duration": 3.1
+    },
+    {
+        "text": "Right, so there, there's\na big question mark",
+        "start": 579.65,
+        "duration": 1.66
+    },
+    {
+        "text": "of how much did it hurt Bernie,",
+        "start": 581.31,
+        "duration": 1.177
+    },
+    {
+        "text": "but also there, the fact\nthat this race is even close",
+        "start": 582.487,
+        "duration": 2.503
+    },
+    {
+        "text": "is incredibly significant,\nbecause it was a race",
+        "start": 584.99,
+        "duration": 2.11
+    },
+    {
+        "text": "where in 2016 he absolutely\ndestroyed Clinton.",
+        "start": 587.1,
+        "duration": 2.89
+    },
+    {
+        "text": "In 2016, he pulled in 70% of the vote,",
+        "start": 589.99,
+        "duration": 2.44
+    },
+    {
+        "text": "and then you had Mississippi and Missouri.",
+        "start": 592.43,
+        "duration": 1.62
+    },
+    {
+        "text": "Once again, Biden was\npredicted to win those states,",
+        "start": 594.05,
+        "duration": 2.39
+    },
+    {
+        "text": "but the margins there were enormous.",
+        "start": 596.44,
+        "duration": 1.65
+    },
+    {
+        "text": "In Mississippi, Biden won\nmore than 80% of the vote,",
+        "start": 598.09,
+        "duration": 2.35
+    },
+    {
+        "text": "and Sanders in that state\nended up getting under 15%,",
+        "start": 600.44,
+        "duration": 2.71
+    },
+    {
+        "text": "meaning he picked up zero\ndelegates from Mississippi,",
+        "start": 603.15,
+        "duration": 2.35
+    },
+    {
+        "text": "and in Missouri Biden won\nalmost twice as many as Sanders,",
+        "start": 605.5,
+        "duration": 2.78
+    },
+    {
+        "text": "which once again, I know we\nkeep comparing it to 2016,",
+        "start": 608.28,
+        "duration": 2.2
+    },
+    {
+        "text": "notable because Sanders barely\nlost to Clinton by just .2%.",
+        "start": 610.48,
+        "duration": 3.25
+    },
+    {
+        "text": "And I will say, it's been\nwild to just see how much",
+        "start": 613.73,
+        "duration": 2.66
+    },
+    {
+        "text": "this race has changed in two weeks.",
+        "start": 616.39,
+        "duration": 1.287
+    },
+    {
+        "text": "Right, it went from such a\ndiverse, overcrowded field,",
+        "start": 617.677,
+        "duration": 2.783
+    },
+    {
+        "text": "and it felt like it was\ngoing on for years and years,",
+        "start": 620.46,
+        "duration": 2.45
+    },
+    {
+        "text": "and then out of nowhere,\nboom, Biden went from a guy",
+        "start": 622.91,
+        "duration": 1.99
+    },
+    {
+        "text": "that I was saying to others,\nman, I almost feel bad for him.",
+        "start": 624.9,
+        "duration": 2.64
+    },
+    {
+        "text": "I mean, for years, the\nguy was probably told,",
+        "start": 627.54,
+        "duration": 1.47
+    },
+    {
+        "text": "oh, you should have really\nrun in 2016, you were the one,",
+        "start": 629.01,
+        "duration": 2.85
+    },
+    {
+        "text": "and early on, it seemed like\nhe was getting the traction.",
+        "start": 631.86,
+        "duration": 1.91
+    },
+    {
+        "text": "He had a dying campaign.",
+        "start": 633.77,
+        "duration": 1.27
+    },
+    {
+        "text": "Meanwhile, he's like, yeah,\njust wait for South Carolina",
+        "start": 635.04,
+        "duration": 2.02
+    },
+    {
+        "text": "to everyone, who's like, ha,\nha, ha, yeah, South Carolina.",
+        "start": 637.06,
+        "duration": 2.17
+    },
+    {
+        "text": "And all of a sudden he's\nthe dominant front runner",
+        "start": 639.23,
+        "duration": 2.18
+    },
+    {
+        "text": "winning a total of 14 out\nof the last 20 states.",
+        "start": 641.41,
+        "duration": 1.393
+    },
+    {
+        "text": "Right, and more than winning,",
+        "start": 642.803,
+        "duration": 1.537
+    },
+    {
+        "text": "the number of delegates matter,\nBiden leading there as well,",
+        "start": 644.34,
+        "duration": 2.9
+    },
+    {
+        "text": "and according to experts that delegate gap",
+        "start": 647.24,
+        "duration": 1.86
+    },
+    {
+        "text": "is expected to grow more and more.",
+        "start": 649.1,
+        "duration": 1.93
+    },
+    {
+        "text": "And next Tuesday we have\nfour more major primaries,",
+        "start": 651.03,
+        "duration": 2.08
+    },
+    {
+        "text": "Arizona, Florida, Illinois, Ohio,",
+        "start": 653.11,
+        "duration": 2.33
+    },
+    {
+        "text": "577 delegates up for grabs.",
+        "start": 655.44,
+        "duration": 1.89
+    },
+    {
+        "text": "I know we keep looking back to 2016,",
+        "start": 657.33,
+        "duration": 1.35
+    },
+    {
+        "text": "but Sanders lost all four\nof those states in 2016,",
+        "start": 658.68,
+        "duration": 2.78
+    },
+    {
+        "text": "and by some big margins.",
+        "start": 661.46,
+        "duration": 1.35
+    },
+    {
+        "text": "The rest of the upcoming\nprimaries in the big",
+        "start": 662.81,
+        "duration": 1.6
+    },
+    {
+        "text": "delegate rich states\nalso do not look great,",
+        "start": 664.41,
+        "duration": 1.92
+    },
+    {
+        "text": "and one of the things\nthat stood out to me,",
+        "start": 666.33,
+        "duration": 1.04
+    },
+    {
+        "text": "I know that we talked about, you know,",
+        "start": 667.37,
+        "duration": 1.09
+    },
+    {
+        "text": "who's voting for who.",
+        "start": 668.46,
+        "duration": 1.1
+    },
+    {
+        "text": "Black Democrats and older\ndemocrats seemingly going",
+        "start": 669.56,
+        "duration": 2.31
+    },
+    {
+        "text": "with Biden, Latino Democrats\nand younger Democrats",
+        "start": 671.87,
+        "duration": 2.56
+    },
+    {
+        "text": "going more towards Sanders,\nand regarding that youth vote,",
+        "start": 674.43,
+        "duration": 2.44
+    },
+    {
+        "text": "it seems like there\nmight have been an issue.",
+        "start": 676.87,
+        "duration": 1.74
+    },
+    {
+        "text": "Right, Bernie has long\nbeen banking on the fact",
+        "start": 678.61,
+        "duration": 1.58
+    },
+    {
+        "text": "that he is wildly popular\nwith young voters.",
+        "start": 680.19,
+        "duration": 2.019
+    },
+    {
+        "text": "You look online, you see the energy,",
+        "start": 682.209,
+        "duration": 2.231
+    },
+    {
+        "text": "and he has argued that he\ncan win if they turn out,",
+        "start": 684.44,
+        "duration": 2.24
+    },
+    {
+        "text": "but based on the numbers we're seeing,",
+        "start": 686.68,
+        "duration": 1.34
+    },
+    {
+        "text": "it doesn't appear that\nthat's been happening.",
+        "start": 688.02,
+        "duration": 1.47
+    },
+    {
+        "text": "Looking at the numbers,\nyoung voter turnout",
+        "start": 689.49,
+        "duration": 1.43
+    },
+    {
+        "text": "has remained very low\nin a lot of major races,",
+        "start": 690.92,
+        "duration": 2.1
+    },
+    {
+        "text": "and in fact yesterday turnout\nfor voters aged 18 to 44",
+        "start": 693.02,
+        "duration": 2.77
+    },
+    {
+        "text": "was lower than it was\nin 2016 in Mississippi,",
+        "start": 695.79,
+        "duration": 2.38
+    },
+    {
+        "text": "Missouri, and Michigan, and\nit wasn't like there was",
+        "start": 698.17,
+        "duration": 1.69
+    },
+    {
+        "text": "just lower voter turnout in general.",
+        "start": 699.86,
+        "duration": 1.95
+    },
+    {
+        "text": "In fact, in all three of those states",
+        "start": 701.81,
+        "duration": 1.52
+    },
+    {
+        "text": "voter turnout overall, right, for all ages",
+        "start": 703.33,
+        "duration": 2.42
+    },
+    {
+        "text": "was higher than in 2016,\nespecially significant in Michigan",
+        "start": 705.75,
+        "duration": 2.92
+    },
+    {
+        "text": "where an estimated 1.7\nmillion people voted",
+        "start": 708.67,
+        "duration": 2.65
+    },
+    {
+        "text": "in the Democratic Primary yesterday,",
+        "start": 711.32,
+        "duration": 1.37
+    },
+    {
+        "text": "compared to just 1.2 million in 2016.",
+        "start": 712.69,
+        "duration": 2.49
+    },
+    {
+        "text": "Now, with all of that\nsaid, we look forward",
+        "start": 715.18,
+        "duration": 1.96
+    },
+    {
+        "text": "to what happens next, and\nthere have been kind of two",
+        "start": 717.14,
+        "duration": 2.22
+    },
+    {
+        "text": "notable updates after\nresults started coming in.",
+        "start": 719.36,
+        "duration": 2.21
+    },
+    {
+        "text": "One, we saw Andrew Yang endorse Biden.",
+        "start": 721.57,
+        "duration": 2.06
+    },
+    {
+        "text": "Right now, not fully sure\nhow that's been received.",
+        "start": 723.63,
+        "duration": 2.45
+    },
+    {
+        "text": "Right, if you're using the\nmetric of the number of likes",
+        "start": 726.08,
+        "duration": 1.67
+    },
+    {
+        "text": "on his post talking\nabout Biden and Bernie,",
+        "start": 727.75,
+        "duration": 2.36
+    },
+    {
+        "text": "why he made his choice, you\nthink in general people agree",
+        "start": 730.11,
+        "duration": 2.27
+    },
+    {
+        "text": "with his notion that this\nis about party unity now.",
+        "start": 732.38,
+        "duration": 1.51
+    },
+    {
+        "text": "But then you look to the\ntop and most liked replies",
+        "start": 733.89,
+        "duration": 2.92
+    },
+    {
+        "text": "to those and oh, people\ncalling him a traitor, weak,",
+        "start": 736.81,
+        "duration": 2.72
+    },
+    {
+        "text": "saying he's not a warrior for the people.",
+        "start": 739.53,
+        "duration": 1.67
+    },
+    {
+        "text": "Another writing, \"you did\na great job of hitting",
+        "start": 741.2,
+        "duration": 1.327
+    },
+    {
+        "text": "\"one of your heroes while he was down,\"",
+        "start": 742.527,
+        "duration": 1.653
+    },
+    {
+        "text": "this in reference to Bernie Sanders.",
+        "start": 744.18,
+        "duration": 1.187
+    },
+    {
+        "text": "And two, there was a question of, well,",
+        "start": 745.367,
+        "duration": 1.463
+    },
+    {
+        "text": "what is next for Bernie?",
+        "start": 746.83,
+        "duration": 1.39
+    },
+    {
+        "text": "Right now, it appears almost\nstatistically impossible",
+        "start": 748.22,
+        "duration": 2.1
+    },
+    {
+        "text": "for him to get a majority or\neven a plurality of delegates",
+        "start": 750.32,
+        "duration": 2.61
+    },
+    {
+        "text": "going into the convention.",
+        "start": 752.93,
+        "duration": 0.98
+    },
+    {
+        "text": "We're seeing some people say\nit's time for him to drop out,",
+        "start": 753.91,
+        "duration": 2.25
+    },
+    {
+        "text": "but despite not speaking last night,",
+        "start": 756.16,
+        "duration": 1.69
+    },
+    {
+        "text": "he came out this morning\nand said he is not",
+        "start": 757.85,
+        "duration": 2.069
+    },
+    {
+        "text": "dropping out of the race,\nand he looks forward",
+        "start": 759.919,
+        "duration": 2.051
+    },
+    {
+        "text": "to debating Biden this weekend.",
+        "start": 761.97,
+        "duration": 1.6
+    },
+    {
+        "text": "Right, and so, with that,\nthere's a question of,",
+        "start": 763.57,
+        "duration": 1.42
+    },
+    {
+        "text": "well, what are we gonna\nsee at that debate?",
+        "start": 764.99,
+        "duration": 2.38
+    },
+    {
+        "text": "What kind of Hail Mary,\nhaymaker throwing Bernie",
+        "start": 767.37,
+        "duration": 2.77
+    },
+    {
+        "text": "might we see?",
+        "start": 770.14,
+        "duration": 0.833
+    },
+    {
+        "text": "Right, to which I know\nsome people are worried,",
+        "start": 770.973,
+        "duration": 1.307
+    },
+    {
+        "text": "you know, how much damage\ncould he do in this debate",
+        "start": 772.28,
+        "duration": 2.48
+    },
+    {
+        "text": "to Biden regarding in-fighting,\ndamaging Biden's image,",
+        "start": 774.76,
+        "duration": 3.18
+    },
+    {
+        "text": "and while there's part of me\nthat understands for Democrats",
+        "start": 777.94,
+        "duration": 1.57
+    },
+    {
+        "text": "why you would hope that there's\nnot any more divisiveness,",
+        "start": 779.51,
+        "duration": 2.223
+    },
+    {
+        "text": "the truth of the matter is\nif he's not able to handle",
+        "start": 781.733,
+        "duration": 1.817
+    },
+    {
+        "text": "Sanders, he's not gonna\nbe able to handle Trump.",
+        "start": 783.55,
+        "duration": 2.24
+    },
+    {
+        "text": "But yeah, that's where\nwe are with the race.",
+        "start": 785.79,
+        "duration": 1.22
+    },
+    {
+        "text": "I'd love to know your thoughts in general,",
+        "start": 787.01,
+        "duration": 1.72
+    },
+    {
+        "text": "also, specifically\nregarding the youth vote",
+        "start": 788.73,
+        "duration": 2.31
+    },
+    {
+        "text": "and the lack of it.",
+        "start": 791.04,
+        "duration": 1.2
+    },
+    {
+        "text": "And the last thing we're\ngonna talk about today",
+        "start": 792.24,
+        "duration": 1.55
+    },
+    {
+        "text": "are coronavirus updates, because one,",
+        "start": 793.79,
+        "duration": 1.96
+    },
+    {
+        "text": "de-monetization issues be damned,",
+        "start": 795.75,
+        "duration": 1.76
+    },
+    {
+        "text": "and two, now, this is a\nsituation that is developing",
+        "start": 797.51,
+        "duration": 2.33
+    },
+    {
+        "text": "very fast now, and you\nknow, we've been talking",
+        "start": 799.84,
+        "duration": 1.59
+    },
+    {
+        "text": "about this for weeks now.",
+        "start": 801.43,
+        "duration": 0.87
+    },
+    {
+        "text": "It starts out small.",
+        "start": 802.3,
+        "duration": 0.94
+    },
+    {
+        "text": "All of a sudden, things\nstart jumping and jumping.",
+        "start": 803.24,
+        "duration": 2.09
+    },
+    {
+        "text": "So, to start off right at the top,",
+        "start": 805.33,
+        "duration": 1.35
+    },
+    {
+        "text": "the World Health Organization\nhas officially announced today",
+        "start": 806.68,
+        "duration": 2.58
+    },
+    {
+        "text": "that it has classified the\nnovel coronavirus outbreak",
+        "start": 809.26,
+        "duration": 2.37
+    },
+    {
+        "text": "as a pandemic, adding,\n\"we are deeply concerned\"",
+        "start": 811.63,
+        "duration": 2.44
+    },
+    {
+        "text": "about \"the alarming levels\nof spread and severity,",
+        "start": 814.07,
+        "duration": 2.507
+    },
+    {
+        "text": "\"and by the alarming levels of inaction.\"",
+        "start": 816.577,
+        "duration": 2.543
+    },
+    {
+        "text": "Worldwide, we're seeing there\nare now over 118,000 cases,",
+        "start": 819.12,
+        "duration": 3.41
+    },
+    {
+        "text": "just under 4,300 dead.",
+        "start": 822.53,
+        "duration": 2.45
+    },
+    {
+        "text": "In the United States, the number\nof cases cracked over 1,000",
+        "start": 824.98,
+        "duration": 2.91
+    },
+    {
+        "text": "today, though in the United\nStates there are concerns",
+        "start": 827.89,
+        "duration": 2.08
+    },
+    {
+        "text": "and questions around why\nso few in the United States",
+        "start": 829.97,
+        "duration": 2.38
+    },
+    {
+        "text": "have been tested.",
+        "start": 832.35,
+        "duration": 0.853
+    },
+    {
+        "text": "A number of people thinking\nin the United States",
+        "start": 833.203,
+        "duration": 1.497
+    },
+    {
+        "text": "the number of official cases\nmay be artificially low.",
+        "start": 834.7,
+        "duration": 2.66
+    },
+    {
+        "text": "For example, today you had",
+        "start": 837.36,
+        "duration": 0.833
+    },
+    {
+        "text": "New York Governor Andrew Cuomo saying--",
+        "start": 838.193,
+        "duration": 1.587
+    },
+    {
+        "text": "- When they do the\nretrospective on this one,",
+        "start": 839.78,
+        "duration": 2.92
+    },
+    {
+        "text": "they're going to say why did\nit take the United States",
+        "start": 842.7,
+        "duration": 2.81
+    },
+    {
+        "text": "so long to bring up the testing capacity?",
+        "start": 845.51,
+        "duration": 3.33
+    },
+    {
+        "text": "We knew this was happening\nin November and December.",
+        "start": 848.84,
+        "duration": 2.29
+    },
+    {
+        "text": "We watched China.",
+        "start": 851.13,
+        "duration": 1.56
+    },
+    {
+        "text": "China did something like\n200,000 tests per day.",
+        "start": 852.69,
+        "duration": 5.0
+    },
+    {
+        "text": "South Korea did about\n15,000 tests per day.",
+        "start": 857.84,
+        "duration": 4.4
+    },
+    {
+        "text": "The United States has only\ndone about 5,000 tests to date.",
+        "start": 862.24,
+        "duration": 4.99
+    },
+    {
+        "text": "- Also, you know, since we've\nbeen talking about this,",
+        "start": 867.23,
+        "duration": 1.47
+    },
+    {
+        "text": "we've talked about the\npotential of this changing",
+        "start": 868.7,
+        "duration": 1.82
+    },
+    {
+        "text": "everyday life for pretty much everyone,",
+        "start": 870.52,
+        "duration": 2.37
+    },
+    {
+        "text": "all right, so, there's a big\nconversation that's happening",
+        "start": 872.89,
+        "duration": 1.41
+    },
+    {
+        "text": "and to be had there regarding\nthe delays that we've seen.",
+        "start": 874.3,
+        "duration": 2.6
+    },
+    {
+        "text": "But as far as the more pertinent\nto everyday people now,",
+        "start": 876.9,
+        "duration": 3.02
+    },
+    {
+        "text": "what changes are we seeing,",
+        "start": 879.92,
+        "duration": 1.56
+    },
+    {
+        "text": "the cancellation and postponing\nof events has continued.",
+        "start": 881.48,
+        "duration": 2.65
+    },
+    {
+        "text": "Regarding bigger events and conventions,",
+        "start": 884.13,
+        "duration": 1.84
+    },
+    {
+        "text": "we saw E3 was canceled,",
+        "start": 885.97,
+        "duration": 2.05
+    },
+    {
+        "text": "Coachella has reportedly\nbeen postponed until October.",
+        "start": 888.02,
+        "duration": 2.63
+    },
+    {
+        "text": "We've seen numerous St.\nPatrick's Days canceled,",
+        "start": 890.65,
+        "duration": 2.08
+    },
+    {
+        "text": "including the one in Chicago.",
+        "start": 892.73,
+        "duration": 1.44
+    },
+    {
+        "text": "San Francisco has just outright\nbanned large gatherings",
+        "start": 894.17,
+        "duration": 2.91
+    },
+    {
+        "text": "of 1,000 people or more.",
+        "start": 897.08,
+        "duration": 1.23
+    },
+    {
+        "text": "Reportedly, this order will\nbe in place for at least",
+        "start": 898.31,
+        "duration": 1.86
+    },
+    {
+        "text": "the next two weeks.",
+        "start": 900.17,
+        "duration": 0.9
+    },
+    {
+        "text": "And so, connected with that,\nwe saw a Giants' baseball game",
+        "start": 901.07,
+        "duration": 2.2
+    },
+    {
+        "text": "canceled as well as the announcement that",
+        "start": 903.27,
+        "duration": 1.8
+    },
+    {
+        "text": "the Golden State Warriors\nwill play a game,",
+        "start": 905.07,
+        "duration": 2.13
+    },
+    {
+        "text": "but without any fans.",
+        "start": 907.2,
+        "duration": 1.41
+    },
+    {
+        "text": "So, the people that bought tickets",
+        "start": 908.61,
+        "duration": 1.05
+    },
+    {
+        "text": "will be getting reimbursed.",
+        "start": 909.66,
+        "duration": 0.99
+    },
+    {
+        "text": "Regarding what companies are doing,",
+        "start": 910.65,
+        "duration": 1.13
+    },
+    {
+        "text": "we saw Google make a massive announcement,",
+        "start": 911.78,
+        "duration": 2.27
+    },
+    {
+        "text": "issuing a recommendation\nthat all its employees",
+        "start": 914.05,
+        "duration": 2.08
+    },
+    {
+        "text": "in North America work from\nhome until at least April 10th,",
+        "start": 916.13,
+        "duration": 3.09
+    },
+    {
+        "text": "and actually, as of today,\nthey have issued the same",
+        "start": 919.22,
+        "duration": 1.77
+    },
+    {
+        "text": "recommendation to employees in Europe,",
+        "start": 920.99,
+        "duration": 1.71
+    },
+    {
+        "text": "the Middle East, and Africa.",
+        "start": 922.7,
+        "duration": 1.33
+    },
+    {
+        "text": "Right, and Google's announcement,\nmuch more widespread,",
+        "start": 924.03,
+        "duration": 1.71
+    },
+    {
+        "text": "but joining the likes of Apple,",
+        "start": 925.74,
+        "duration": 1.75
+    },
+    {
+        "text": "Facebook, Microsoft, and Twitter.",
+        "start": 927.49,
+        "duration": 2.15
+    },
+    {
+        "text": "Hell, even for the show over\nthe past week and a half,",
+        "start": 929.64,
+        "duration": 1.79
+    },
+    {
+        "text": "we've been working on a remote solution,",
+        "start": 931.43,
+        "duration": 1.88
+    },
+    {
+        "text": "if we end up having to self-quarantine.",
+        "start": 933.31,
+        "duration": 1.7
+    },
+    {
+        "text": "That way, if we all get stuck at home,",
+        "start": 935.01,
+        "duration": 1.48
+    },
+    {
+        "text": "we can all still get Phil-ed in,",
+        "start": 936.49,
+        "duration": 1.36
+    },
+    {
+        "text": "which I know, definitely was\nthe biggest concern you had",
+        "start": 937.85,
+        "duration": 2.79
+    },
+    {
+        "text": "about the coronavirus.",
+        "start": 940.64,
+        "duration": 1.02
+    },
+    {
+        "text": "You're like, ah, what if\nwe don't have the PDS?",
+        "start": 941.66,
+        "duration": 2.67
+    },
+    {
+        "text": "Screw grandma, am I\ngonna get throat punched",
+        "start": 944.33,
+        "duration": 2.26
+    },
+    {
+        "text": "Monday through Thursday?",
+        "start": 946.59,
+        "duration": 1.12
+    },
+    {
+        "text": "Then, regarding the impact on schools,",
+        "start": 947.71,
+        "duration": 1.53
+    },
+    {
+        "text": "you know, we've talked\nabout school closings",
+        "start": 949.24,
+        "duration": 1.88
+    },
+    {
+        "text": "in the United States.",
+        "start": 951.12,
+        "duration": 0.833
+    },
+    {
+        "text": "There are a number of\ncolleges that are saying, hey,",
+        "start": 951.953,
+        "duration": 1.587
+    },
+    {
+        "text": "for the time being, we're\ngonna switch to online courses.",
+        "start": 953.54,
+        "duration": 2.23
+    },
+    {
+        "text": "Some schools are asking\nstudents to leave their dorms,",
+        "start": 955.77,
+        "duration": 2.29
+    },
+    {
+        "text": "which is also creating an odd situation.",
+        "start": 958.06,
+        "duration": 1.75
+    },
+    {
+        "text": "Right, there's situations where you have",
+        "start": 959.81,
+        "duration": 0.88
+    },
+    {
+        "text": "low income students,\npeople that don't have",
+        "start": 960.69,
+        "duration": 1.87
+    },
+    {
+        "text": "a home to go to that has WiFi.",
+        "start": 962.56,
+        "duration": 2.0
+    },
+    {
+        "text": "There are international\nstudents just here on visas,",
+        "start": 964.56,
+        "duration": 2.48
+    },
+    {
+        "text": "people that rely on the\nschool for housing and food.",
+        "start": 967.04,
+        "duration": 2.99
+    },
+    {
+        "text": "A number of people are\njust confused what the hell",
+        "start": 970.03,
+        "duration": 1.69
+    },
+    {
+        "text": "the next steps are gonna look like, right,",
+        "start": 971.72,
+        "duration": 1.49
+    },
+    {
+        "text": "and that's a developing situation.",
+        "start": 973.21,
+        "duration": 1.36
+    },
+    {
+        "text": "So, we have to see what the hell",
+        "start": 974.57,
+        "duration": 1.45
+    },
+    {
+        "text": "is actually going to happen.",
+        "start": 976.02,
+        "duration": 1.19
+    },
+    {
+        "text": "Also important to remember is that",
+        "start": 977.21,
+        "duration": 0.833
+    },
+    {
+        "text": "it's not just a United States issue.",
+        "start": 978.043,
+        "duration": 1.747
+    },
+    {
+        "text": "According to the United\nNations, \"one in five students",
+        "start": 979.79,
+        "duration": 1.767
+    },
+    {
+        "text": "\"worldwide is staying away\nfrom school due to COVID-19",
+        "start": 981.557,
+        "duration": 2.43
+    },
+    {
+        "text": "\"crisis and an additional\none in four is being kept",
+        "start": 983.987,
+        "duration": 2.74
+    },
+    {
+        "text": "\"out of higher education establishments.\"",
+        "start": 986.727,
+        "duration": 1.703
+    },
+    {
+        "text": "But yeah, those are some of the updates.",
+        "start": 988.43,
+        "duration": 1.29
+    },
+    {
+        "text": "Obviously, we're gonna\nkeep our eye on this.",
+        "start": 989.72,
+        "duration": 1.37
+    },
+    {
+        "text": "It's gonna be a constant story.",
+        "start": 991.09,
+        "duration": 1.58
+    },
+    {
+        "text": "I mean, that's the thing.",
+        "start": 992.67,
+        "duration": 0.833
+    },
+    {
+        "text": "This is likely not a\nstory that just continues",
+        "start": 993.503,
+        "duration": 1.907
+    },
+    {
+        "text": "to the end of the week\nor the end of the month.",
+        "start": 995.41,
+        "duration": 1.66
+    },
+    {
+        "text": "This is very possibly a\nsituation that goes on for months",
+        "start": 997.07,
+        "duration": 3.66
+    },
+    {
+        "text": "in one way or another.",
+        "start": 1000.73,
+        "duration": 0.92
+    },
+    {
+        "text": "At this point, we just\ndon't know to what degree,",
+        "start": 1001.65,
+        "duration": 2.19
+    },
+    {
+        "text": "and a lot of that depends\non the action we see",
+        "start": 1003.84,
+        "duration": 2.33
+    },
+    {
+        "text": "in the coming days.",
+        "start": 1006.17,
+        "duration": 0.84
+    },
+    {
+        "text": "But, that is the story,\nthat's today's show.",
+        "start": 1007.01,
+        "duration": 2.8
+    },
+    {
+        "text": "Of course, I'd love to\nknow your thoughts on this",
+        "start": 1009.81,
+        "duration": 1.78
+    },
+    {
+        "text": "or anything else I talked about today,",
+        "start": 1011.59,
+        "duration": 1.97
+    },
+    {
+        "text": "and hey, if you've been a\npart of the team, the family,",
+        "start": 1013.56,
+        "duration": 1.97
+    },
+    {
+        "text": "appreciate you as always.",
+        "start": 1015.53,
+        "duration": 1.06
+    },
+    {
+        "text": "If you're new here, you wanna\nmake sure you don't miss",
+        "start": 1016.59,
+        "duration": 1.85
+    },
+    {
+        "text": "these daily, weekday videos,\nhit that Subscribe button.",
+        "start": 1018.44,
+        "duration": 2.35
+    },
+    {
+        "text": "Definitely ring that bell\nto turn on notifications.",
+        "start": 1020.79,
+        "duration": 1.88
+    },
+    {
+        "text": "Also, if you're looking for\nmore to watch after this video,",
+        "start": 1022.67,
+        "duration": 1.75
+    },
+    {
+        "text": "you should definitely check\nout that new podcast I did",
+        "start": 1024.42,
+        "duration": 1.82
+    },
+    {
+        "text": "with Daniel Sloss, or\nmaybe you just missed",
+        "start": 1026.24,
+        "duration": 1.85
+    },
+    {
+        "text": "yesterday's show, you wanna catch up.",
+        "start": 1028.09,
+        "duration": 1.55
+    },
+    {
+        "text": "You can click or tap right\nthere to watch either of those.",
+        "start": 1029.64,
+        "duration": 1.97
+    },
+    {
+        "text": "But with that said, of course, as always,",
+        "start": 1031.61,
+        "duration": 1.79
+    },
+    {
+        "text": "my name is Philip DeFranco,\nyou've just been Phil-ed in,",
+        "start": 1033.4,
+        "duration": 2.73
+    },
+    {
+        "text": "I love your faces, and\nI'll see you tomorrow.",
+        "start": 1036.13,
+        "duration": 3.02
+    },
+    {
+        "text": "- I hope you like this video.",
+        "start": 1039.15,
+        "duration": 1.579
+    },
+    {
+        "text": "Subscribe if you like it.",
+        "start": 1040.729,
+        "duration": 2.145
+    }
+]

@@ -1,0 +1,4232 @@
+[
+    {
+        "text": "- Sup ya beautiful bastards.",
+        "start": 0.18,
+        "duration": 1.36
+    },
+    {
+        "text": "Hope you're having a fantastic Monday.",
+        "start": 1.54,
+        "duration": 1.98
+    },
+    {
+        "text": "Welcome back to the Philip DeFranco show.",
+        "start": 3.52,
+        "duration": 1.96
+    },
+    {
+        "text": "Buckle up, hit that like button\nand let's just jump into it.",
+        "start": 5.48,
+        "duration": 2.747
+    },
+    {
+        "text": "And the first thing we're gonna\ntalk about today is TikTok.",
+        "start": 8.227,
+        "duration": 2.723
+    },
+    {
+        "text": "By now, you've probably seen",
+        "start": 10.95,
+        "duration": 1.3
+    },
+    {
+        "text": "that it was reported over the weekend",
+        "start": 12.25,
+        "duration": 1.12
+    },
+    {
+        "text": "that Donald Trump told reporters,",
+        "start": 13.37,
+        "duration": 1.25
+    },
+    {
+        "text": "as far as TikTok is concerned,",
+        "start": 14.62,
+        "duration": 1.444
+    },
+    {
+        "text": "we're banning them from the United States.",
+        "start": 16.064,
+        "duration": 2.056
+    },
+    {
+        "text": "And so the first thing\nI wanna touch on here",
+        "start": 18.12,
+        "duration": 1.45
+    },
+    {
+        "text": "is what could actually\nhappen because there are",
+        "start": 19.57,
+        "duration": 1.87
+    },
+    {
+        "text": "three main options that we've\nseen passed around right now.",
+        "start": 21.44,
+        "duration": 2.08
+    },
+    {
+        "text": "The first possibility would\nbe for Trump to direct",
+        "start": 23.52,
+        "duration": 1.356
+    },
+    {
+        "text": "the commerce department and put TikTok",
+        "start": 24.876,
+        "duration": 1.784
+    },
+    {
+        "text": "on what is called the entity list,",
+        "start": 26.66,
+        "duration": 1.52
+    },
+    {
+        "text": "which would basically block US companies",
+        "start": 28.18,
+        "duration": 1.531
+    },
+    {
+        "text": "from having any commercial\nties with TikTok.",
+        "start": 29.711,
+        "duration": 2.169
+    },
+    {
+        "text": "Another possibility would\nbe to use a law called",
+        "start": 31.88,
+        "duration": 1.91
+    },
+    {
+        "text": "the International Emergency\nEconomic Powers Act,",
+        "start": 33.79,
+        "duration": 2.29
+    },
+    {
+        "text": "which allows a president\nto essentially ban",
+        "start": 36.08,
+        "duration": 1.69
+    },
+    {
+        "text": "any foreign communications products",
+        "start": 37.77,
+        "duration": 1.108
+    },
+    {
+        "text": "that are seen as a threat\nto US national security.",
+        "start": 38.878,
+        "duration": 2.392
+    },
+    {
+        "text": "That option could have\na very extreme outcome.",
+        "start": 41.27,
+        "duration": 2.54
+    },
+    {
+        "text": "According to Stewart Baker,",
+        "start": 43.81,
+        "duration": 1.02
+    },
+    {
+        "text": "a former National Security\nAgency, general counsel,",
+        "start": 44.83,
+        "duration": 1.506
+    },
+    {
+        "text": "if Donald Trump were to use\nthe full force of that order,",
+        "start": 46.336,
+        "duration": 2.013
+    },
+    {
+        "text": "no American could work for them.",
+        "start": 48.349,
+        "duration": 2.191
+    },
+    {
+        "text": "The app store couldn't\nmake them available.",
+        "start": 50.54,
+        "duration": 1.79
+    },
+    {
+        "text": "American advertisers\ncouldn't pay them for ads.",
+        "start": 52.33,
+        "duration": 1.619
+    },
+    {
+        "text": "It would be economically\ndevastating for them.",
+        "start": 53.949,
+        "duration": 2.691
+    },
+    {
+        "text": "Then the third major\noption that we've seen",
+        "start": 56.64,
+        "duration": 1.37
+    },
+    {
+        "text": "being talked about is that Donald Trump",
+        "start": 58.01,
+        "duration": 1.32
+    },
+    {
+        "text": "could basically force\nTikTok's owner ByteDance",
+        "start": 59.33,
+        "duration": 1.94
+    },
+    {
+        "text": "to sell the app or divest\nfrom its US operations.",
+        "start": 61.27,
+        "duration": 2.298
+    },
+    {
+        "text": "That would be done through",
+        "start": 63.568,
+        "duration": 1.362
+    },
+    {
+        "text": "the Committee on Foreign Investment",
+        "start": 64.93,
+        "duration": 1.31
+    },
+    {
+        "text": "in the United States or CFIUS,",
+        "start": 66.24,
+        "duration": 2.04
+    },
+    {
+        "text": "which recommends to the\nPresident if acquisition",
+        "start": 68.28,
+        "duration": 2.05
+    },
+    {
+        "text": "should be rejected or reversed\non national security grounds.",
+        "start": 70.33,
+        "duration": 2.085
+    },
+    {
+        "text": "While they're a lot of technicalities here",
+        "start": 72.415,
+        "duration": 1.935
+    },
+    {
+        "text": "that we will not be diving into.",
+        "start": 74.35,
+        "duration": 1.26
+    },
+    {
+        "text": "All you really need to know for this story",
+        "start": 75.61,
+        "duration": 1.043
+    },
+    {
+        "text": "is that last year, CFIUS,",
+        "start": 76.653,
+        "duration": 1.967
+    },
+    {
+        "text": "which is chaired by Treasury\nSecretary, Steve Mnuchin,",
+        "start": 78.62,
+        "duration": 2.533
+    },
+    {
+        "text": "launched an investigation into ByteDance.",
+        "start": 81.153,
+        "duration": 2.267
+    },
+    {
+        "text": "According to the New York Times,",
+        "start": 83.42,
+        "duration": 0.93
+    },
+    {
+        "text": "a source said that as a result\nof the investigation, CFIUS",
+        "start": 84.35,
+        "duration": 2.9
+    },
+    {
+        "text": "recommended that Trump ordered ByteDance",
+        "start": 87.25,
+        "duration": 1.59
+    },
+    {
+        "text": "to divest from Tiktok,",
+        "start": 88.84,
+        "duration": 1.4
+    },
+    {
+        "text": "which once again is essentially\nanother way of saying,",
+        "start": 90.24,
+        "duration": 1.72
+    },
+    {
+        "text": "forcing them to sell it.",
+        "start": 91.96,
+        "duration": 0.93
+    },
+    {
+        "text": "But, notably there last Friday,",
+        "start": 92.89,
+        "duration": 1.015
+    },
+    {
+        "text": "we saw Trump saying he did not want a deal",
+        "start": 93.905,
+        "duration": 1.66
+    },
+    {
+        "text": "selling TikTok to a US company.",
+        "start": 95.565,
+        "duration": 2.125
+    },
+    {
+        "text": "And when asked if he would use",
+        "start": 97.69,
+        "duration": 1.04
+    },
+    {
+        "text": "the International Emergency\nEconomic Powers Act, he said,",
+        "start": 98.73,
+        "duration": 2.447
+    },
+    {
+        "text": "\"Well, I have that authority.",
+        "start": 101.177,
+        "duration": 1.09
+    },
+    {
+        "text": "\"I can do it with an\nexecutive order or that.\"",
+        "start": 102.267,
+        "duration": 1.973
+    },
+    {
+        "text": "With him also adding at that time,",
+        "start": 104.24,
+        "duration": 1.087
+    },
+    {
+        "text": "\"It's going to be signed tomorrow.\"",
+        "start": 105.327,
+        "duration": 1.483
+    },
+    {
+        "text": "Which obviously did not happen.",
+        "start": 106.81,
+        "duration": 1.57
+    },
+    {
+        "text": "But, whatever we see from Trump\nwill be absolutely massive",
+        "start": 108.38,
+        "duration": 3.42
+    },
+    {
+        "text": "and not just for TikTok.",
+        "start": 111.8,
+        "duration": 1.16
+    },
+    {
+        "text": "Right, very notably, Trump's\nannouncement comes just hours",
+        "start": 112.96,
+        "duration": 2.34
+    },
+    {
+        "text": "after we started seeing\nreports that Microsoft",
+        "start": 115.3,
+        "duration": 1.6
+    },
+    {
+        "text": "was in talks to buy TikTok.",
+        "start": 116.9,
+        "duration": 1.43
+    },
+    {
+        "text": "With sources telling various\noutlets that the talks",
+        "start": 118.33,
+        "duration": 1.67
+    },
+    {
+        "text": "have been underway for some time now.",
+        "start": 120.0,
+        "duration": 1.69
+    },
+    {
+        "text": "With experts saying\nthis was likely because",
+        "start": 121.69,
+        "duration": 1.32
+    },
+    {
+        "text": "of that CFIUS investigation.",
+        "start": 123.01,
+        "duration": 1.167
+    },
+    {
+        "text": "The deal between Microsoft and TikTok,",
+        "start": 124.177,
+        "duration": 2.093
+    },
+    {
+        "text": "which would probably be valued\nsomewhere in the billions.",
+        "start": 126.27,
+        "duration": 2.15
+    },
+    {
+        "text": "I mean, it would be a huge\nwin for both companies,",
+        "start": 128.42,
+        "duration": 1.29
+    },
+    {
+        "text": "For TikTok, even though\nit would be a concession",
+        "start": 129.71,
+        "duration": 2.12
+    },
+    {
+        "text": "to pressure from the Trump administration,",
+        "start": 131.83,
+        "duration": 1.38
+    },
+    {
+        "text": "it would still be better\nthan the alternative.",
+        "start": 133.21,
+        "duration": 1.54
+    },
+    {
+        "text": "Right, it would still\nallow them to keep the app",
+        "start": 134.75,
+        "duration": 1.46
+    },
+    {
+        "text": "in the United States rather\nthan being banned and taking",
+        "start": 136.21,
+        "duration": 1.91
+    },
+    {
+        "text": "a huge hit in users right\nafter it was banned in India.",
+        "start": 138.12,
+        "duration": 2.62
+    },
+    {
+        "text": "But it would also arguably\nbe an even bigger win",
+        "start": 140.74,
+        "duration": 1.675
+    },
+    {
+        "text": "and definitely huge step for Microsoft.",
+        "start": 142.415,
+        "duration": 2.578
+    },
+    {
+        "text": "Unlike pretty much all the\nother big tech companies",
+        "start": 144.993,
+        "duration": 1.821
+    },
+    {
+        "text": "that are their competitors,",
+        "start": 146.814,
+        "duration": 1.196
+    },
+    {
+        "text": "Microsoft doesn't have\na social media platform",
+        "start": 148.01,
+        "duration": 1.576
+    },
+    {
+        "text": "or a social media company,",
+        "start": 149.586,
+        "duration": 1.694
+    },
+    {
+        "text": "unless yes, you count LinkedIn,",
+        "start": 151.28,
+        "duration": 1.37
+    },
+    {
+        "text": "but LinkedIn is hyper hyper specific.",
+        "start": 152.65,
+        "duration": 1.92
+    },
+    {
+        "text": "So if Microsoft did acquire\nTikTok, not only will they just",
+        "start": 154.57,
+        "duration": 2.27
+    },
+    {
+        "text": "instantly have a broadly\nappealing social media company,",
+        "start": 156.84,
+        "duration": 3.02
+    },
+    {
+        "text": "it would be acquiring\none of the most popular,",
+        "start": 159.86,
+        "duration": 1.64
+    },
+    {
+        "text": "fastest growing platforms.",
+        "start": 161.5,
+        "duration": 0.917
+    },
+    {
+        "text": "And that has huge\nimplications for everyone.",
+        "start": 162.417,
+        "duration": 2.013
+    },
+    {
+        "text": "Right, immediately they\nwould become a major rival",
+        "start": 164.43,
+        "duration": 1.97
+    },
+    {
+        "text": "to huge platforms like Facebook,",
+        "start": 166.4,
+        "duration": 1.37
+    },
+    {
+        "text": "which of course also owns Instagram,",
+        "start": 167.77,
+        "duration": 1.112
+    },
+    {
+        "text": "as well as Google, which owns YouTube.",
+        "start": 168.882,
+        "duration": 1.938
+    },
+    {
+        "text": "Especially because many\nof the tech companies",
+        "start": 170.82,
+        "duration": 1.36
+    },
+    {
+        "text": "that are out there, including Facebook,",
+        "start": 172.18,
+        "duration": 1.23
+    },
+    {
+        "text": "are trying to come up with\nalternatives to TikTok,",
+        "start": 173.41,
+        "duration": 2.13
+    },
+    {
+        "text": "and are probably hoping\nthat it gets banned.",
+        "start": 175.54,
+        "duration": 0.917
+    },
+    {
+        "text": "Right, so not only would Microsoft",
+        "start": 176.457,
+        "duration": 1.843
+    },
+    {
+        "text": "get a massive foothold\nin a consumer market",
+        "start": 178.3,
+        "duration": 1.311
+    },
+    {
+        "text": "that it hasn't been a part of before,",
+        "start": 179.611,
+        "duration": 1.749
+    },
+    {
+        "text": "but it would also drastically\nchange the landscape",
+        "start": 181.36,
+        "duration": 1.628
+    },
+    {
+        "text": "of big tech in a fundamental way.",
+        "start": 182.988,
+        "duration": 2.272
+    },
+    {
+        "text": "But with this story, I mean, there,",
+        "start": 185.26,
+        "duration": 1.42
+    },
+    {
+        "text": "there are a lot of confusion.",
+        "start": 186.68,
+        "duration": 0.833
+    },
+    {
+        "text": "You have Trump's\nannouncement and yesterday",
+        "start": 187.513,
+        "duration": 1.219
+    },
+    {
+        "text": "you have the Wall Street\nJournal reporting,",
+        "start": 188.732,
+        "duration": 1.808
+    },
+    {
+        "text": "Microsoft has now paused\nnegotiations to buy TikTok.",
+        "start": 190.54,
+        "duration": 2.145
+    },
+    {
+        "text": "But then, later in that same day,",
+        "start": 192.685,
+        "duration": 1.905
+    },
+    {
+        "text": "Microsoft publishes a blog post.",
+        "start": 194.59,
+        "duration": 1.61
+    },
+    {
+        "text": "In addition to confirming\nfor the first time",
+        "start": 196.2,
+        "duration": 1.45
+    },
+    {
+        "text": "that it was in talks to buy TikTok,",
+        "start": 197.65,
+        "duration": 1.6
+    },
+    {
+        "text": "the company also said that after talks",
+        "start": 199.25,
+        "duration": 1.33
+    },
+    {
+        "text": "between the CEO and Trump,",
+        "start": 200.58,
+        "duration": 1.47
+    },
+    {
+        "text": "Microsoft is prepared\nto continue discussions",
+        "start": 202.05,
+        "duration": 2.01
+    },
+    {
+        "text": "to explore purchase of\nTikTok in the United States.",
+        "start": 204.06,
+        "duration": 2.5
+    },
+    {
+        "text": "And adding, Microsoft fully appreciates",
+        "start": 206.56,
+        "duration": 1.73
+    },
+    {
+        "text": "the importance of addressing\nthe president's concerns.",
+        "start": 208.29,
+        "duration": 2.04
+    },
+    {
+        "text": "It is committed to acquiring TikTok,",
+        "start": 210.33,
+        "duration": 1.346
+    },
+    {
+        "text": "subject to a complete\nsecurity review and providing",
+        "start": 211.676,
+        "duration": 2.081
+    },
+    {
+        "text": "proper economic benefits\nto the United States,",
+        "start": 213.757,
+        "duration": 2.064
+    },
+    {
+        "text": "including the United States Treasury.",
+        "start": 215.821,
+        "duration": 2.679
+    },
+    {
+        "text": "With Microsoft also saying\nit will move quickly",
+        "start": 218.5,
+        "duration": 1.83
+    },
+    {
+        "text": "and complete the discussions\nno later than September 15.",
+        "start": 220.33,
+        "duration": 2.4
+    },
+    {
+        "text": "And they will continue\nto dialogue with Trump",
+        "start": 222.73,
+        "duration": 1.74
+    },
+    {
+        "text": "and his administration.",
+        "start": 224.47,
+        "duration": 0.97
+    },
+    {
+        "text": "With that post, also noting that",
+        "start": 225.44,
+        "duration": 0.98
+    },
+    {
+        "text": "the preliminary proposal\nwould involve a purchase",
+        "start": 226.42,
+        "duration": 1.97
+    },
+    {
+        "text": "of the TikTok service\nin the United States,",
+        "start": 228.39,
+        "duration": 1.434
+    },
+    {
+        "text": "Canada, Australia, and New Zealand,",
+        "start": 229.824,
+        "duration": 2.156
+    },
+    {
+        "text": "and saying Microsoft may\ninvite other American investors",
+        "start": 231.98,
+        "duration": 1.906
+    },
+    {
+        "text": "to be minority owners.",
+        "start": 233.886,
+        "duration": 1.261
+    },
+    {
+        "text": "Also Microsoft going on to\naddress security concerns,",
+        "start": 235.147,
+        "duration": 2.065
+    },
+    {
+        "text": "saying that it will add\nprotections and ensure transparency",
+        "start": 237.212,
+        "duration": 2.434
+    },
+    {
+        "text": "and adding that in\naddition to other measures,",
+        "start": 239.646,
+        "duration": 2.504
+    },
+    {
+        "text": "Microsoft would ensure\nthat all private data",
+        "start": 242.15,
+        "duration": 1.558
+    },
+    {
+        "text": "of TikTok's American\nusers is transferred to",
+        "start": 243.708,
+        "duration": 2.652
+    },
+    {
+        "text": "and remains in the United States.",
+        "start": 246.36,
+        "duration": 1.53
+    },
+    {
+        "text": "To the extent that any such\ndata is currently stored",
+        "start": 247.89,
+        "duration": 2.075
+    },
+    {
+        "text": "or backed up outside the United States,",
+        "start": 249.965,
+        "duration": 1.728
+    },
+    {
+        "text": "Microsoft would ensure\nthat this data is deleted",
+        "start": 251.693,
+        "duration": 2.527
+    },
+    {
+        "text": "from servers outside the\ncountry, after it is transferred.",
+        "start": 254.22,
+        "duration": 2.45
+    },
+    {
+        "text": "So that seemed to indicate that Trump is",
+        "start": 256.67,
+        "duration": 1.28
+    },
+    {
+        "text": "at least open to these negotiations.",
+        "start": 257.95,
+        "duration": 1.311
+    },
+    {
+        "text": "And in fact, as we were recording today,",
+        "start": 259.261,
+        "duration": 2.039
+    },
+    {
+        "text": "we saw Trump addressing the issue",
+        "start": 261.3,
+        "duration": 0.968
+    },
+    {
+        "text": "for the first time since Friday.",
+        "start": 262.268,
+        "duration": 1.672
+    },
+    {
+        "text": "- Here's the deal.",
+        "start": 263.94,
+        "duration": 0.833
+    },
+    {
+        "text": "I don't mind if whether it's\nMicrosoft or somebody else,",
+        "start": 264.773,
+        "duration": 3.657
+    },
+    {
+        "text": "a big company, a secure company,",
+        "start": 268.43,
+        "duration": 1.98
+    },
+    {
+        "text": "very, very American company buy it.",
+        "start": 270.41,
+        "duration": 2.58
+    },
+    {
+        "text": "We set a date, I set a date\nof around September 15,",
+        "start": 272.99,
+        "duration": 3.231
+    },
+    {
+        "text": "at which point it's\ngonna be out of business",
+        "start": 276.221,
+        "duration": 2.419
+    },
+    {
+        "text": "in the United States.",
+        "start": 278.64,
+        "duration": 1.19
+    },
+    {
+        "text": "- Notably there, he\nalso said for any sale,",
+        "start": 279.83,
+        "duration": 1.62
+    },
+    {
+        "text": "some of the money would\nactually have to go",
+        "start": 281.45,
+        "duration": 1.13
+    },
+    {
+        "text": "to the Treasury Department\nbecause they are allowing",
+        "start": 282.58,
+        "duration": 1.73
+    },
+    {
+        "text": "the sale to go forward,",
+        "start": 284.31,
+        "duration": 0.96
+    },
+    {
+        "text": "Though, he didn't explain\nhow that would work legally.",
+        "start": 285.27,
+        "duration": 1.862
+    },
+    {
+        "text": "So that's just a huge reversal from Trump,",
+        "start": 287.132,
+        "duration": 1.808
+    },
+    {
+        "text": "who literally said a few\ndays ago that he didn't want",
+        "start": 288.94,
+        "duration": 1.82
+    },
+    {
+        "text": "to sell TikTok to a new company.",
+        "start": 290.76,
+        "duration": 1.47
+    },
+    {
+        "text": "But according to the New York times,",
+        "start": 292.23,
+        "duration": 1.25
+    },
+    {
+        "text": "Trump seemed to change his\nmind after a series of calls,",
+        "start": 293.48,
+        "duration": 1.829
+    },
+    {
+        "text": "including the one with Microsoft CEO,",
+        "start": 295.309,
+        "duration": 2.291
+    },
+    {
+        "text": "as well as another from\nSenator Lindsey Graham",
+        "start": 297.6,
+        "duration": 1.85
+    },
+    {
+        "text": "who tweeted out his support\nof the idea yesterday.",
+        "start": 299.45,
+        "duration": 1.92
+    },
+    {
+        "text": "With the times also reporting\nthat several of Trump's aids",
+        "start": 301.37,
+        "duration": 2.06
+    },
+    {
+        "text": "had warned that a ban could\nprompt an intense legal battle",
+        "start": 303.43,
+        "duration": 2.238
+    },
+    {
+        "text": "as well as hurt the President's popularity",
+        "start": 305.668,
+        "duration": 2.102
+    },
+    {
+        "text": "with younger Americans.",
+        "start": 307.77,
+        "duration": 1.04
+    },
+    {
+        "text": "But still some of the\nhighest ranking officials",
+        "start": 308.81,
+        "duration": 1.62
+    },
+    {
+        "text": "in the Trump Administration\nhave argued against the sale",
+        "start": 310.43,
+        "duration": 1.69
+    },
+    {
+        "text": "and push for a much\nharder line against China.",
+        "start": 312.12,
+        "duration": 2.7
+    },
+    {
+        "text": "On Saturday, for example,",
+        "start": 314.82,
+        "duration": 0.96
+    },
+    {
+        "text": "you had Trump's top trade\nadvisor, Peter Navarro,",
+        "start": 315.78,
+        "duration": 1.96
+    },
+    {
+        "text": "going on Fox news, and really\ngoing in hard on TikTok.",
+        "start": 317.74,
+        "duration": 2.463
+    },
+    {
+        "text": "- Every time you sign up for TikTok,",
+        "start": 320.203,
+        "duration": 2.53
+    },
+    {
+        "text": "all of your information is\npotentially going right back",
+        "start": 322.733,
+        "duration": 3.847
+    },
+    {
+        "text": "to the Chinese Communist Party,",
+        "start": 326.58,
+        "duration": 1.46
+    },
+    {
+        "text": "the Chinese military and\nthe Chinese government.",
+        "start": 328.04,
+        "duration": 2.114
+    },
+    {
+        "text": "They can use this social,",
+        "start": 330.154,
+        "duration": 2.406
+    },
+    {
+        "text": "the social media apps to steal\nyour personal information,",
+        "start": 332.56,
+        "duration": 3.9
+    },
+    {
+        "text": "your business information, and also judge,",
+        "start": 336.46,
+        "duration": 3.1
+    },
+    {
+        "text": "they use these social\nmedia apps to track you",
+        "start": 339.56,
+        "duration": 2.68
+    },
+    {
+        "text": "and surveil you and\nmonitor your movements.",
+        "start": 342.24,
+        "duration": 2.54
+    },
+    {
+        "text": "This is a national security threat.",
+        "start": 344.78,
+        "duration": 1.76
+    },
+    {
+        "text": "So here's what I would\nask the American people.",
+        "start": 346.54,
+        "duration": 1.826
+    },
+    {
+        "text": "If they're using TikTok and they hear",
+        "start": 348.366,
+        "duration": 2.254
+    },
+    {
+        "text": "the President's gonna basically ban that,",
+        "start": 350.62,
+        "duration": 2.45
+    },
+    {
+        "text": "get on the Trump train with that,",
+        "start": 353.07,
+        "duration": 1.58
+    },
+    {
+        "text": "because that app you're using,",
+        "start": 354.65,
+        "duration": 1.59
+    },
+    {
+        "text": "fun as it may be, is dangerous.",
+        "start": 356.24,
+        "duration": 2.7
+    },
+    {
+        "text": "- [Philip] Also a big thing here",
+        "start": 358.94,
+        "duration": 1.02
+    },
+    {
+        "text": "is that Navarro went after Microsoft.",
+        "start": 359.96,
+        "duration": 1.89
+    },
+    {
+        "text": "- There was like a vicious\nleak that went out,",
+        "start": 361.85,
+        "duration": 2.551
+    },
+    {
+        "text": "trying to push the President into a corner",
+        "start": 364.401,
+        "duration": 2.889
+    },
+    {
+        "text": "and said like, Microsoft was gonna buy us.",
+        "start": 367.29,
+        "duration": 2.58
+    },
+    {
+        "text": "Guess what about Microsoft?",
+        "start": 369.87,
+        "duration": 1.283
+    },
+    {
+        "text": "Couple of things, first of\nall, Microsoft is the software",
+        "start": 371.153,
+        "duration": 4.017
+    },
+    {
+        "text": "that the People's Liberation Army",
+        "start": 375.17,
+        "duration": 1.57
+    },
+    {
+        "text": "and Chinese government run on.",
+        "start": 376.74,
+        "duration": 2.29
+    },
+    {
+        "text": "Second of all,",
+        "start": 379.03,
+        "duration": 1.1
+    },
+    {
+        "text": "Microsoft helped China\nbuild its great firewall.",
+        "start": 380.13,
+        "duration": 3.4
+    },
+    {
+        "text": "- And when speaking to CNN this morning,",
+        "start": 383.53,
+        "duration": 1.3
+    },
+    {
+        "text": "we saw Navarro doubled\ndown on his remarks.",
+        "start": 384.83,
+        "duration": 2.3
+    },
+    {
+        "text": "Again, saying that Microsoft is used",
+        "start": 387.13,
+        "duration": 1.266
+    },
+    {
+        "text": "by the Chinese government\nand that it enabled China",
+        "start": 388.396,
+        "duration": 2.684
+    },
+    {
+        "text": "to engage in surveillance\nand censorship by helping",
+        "start": 391.08,
+        "duration": 2.23
+    },
+    {
+        "text": "to build the firewall and adding.",
+        "start": 393.31,
+        "duration": 1.42
+    },
+    {
+        "text": "- The question is, is Microsoft\ngoing to be compromised?",
+        "start": 394.73,
+        "duration": 3.61
+    },
+    {
+        "text": "Would it be,",
+        "start": 398.34,
+        "duration": 0.95
+    },
+    {
+        "text": "would it be useful to have a\nrule if you sell it that you,",
+        "start": 399.29,
+        "duration": 3.54
+    },
+    {
+        "text": "maybe Microsoft could\ndivest its Chinese holdings,",
+        "start": 402.83,
+        "duration": 3.12
+    },
+    {
+        "text": "and we'd feel more comfortable.",
+        "start": 405.95,
+        "duration": 1.0
+    },
+    {
+        "text": "- It sounds to me like\nyou don't trust them.",
+        "start": 406.95,
+        "duration": 1.37
+    },
+    {
+        "text": "- It's Microsoft, so this is not,",
+        "start": 408.32,
+        "duration": 1.32
+    },
+    {
+        "text": "this is not a white hat company, right?",
+        "start": 409.64,
+        "duration": 3.519
+    },
+    {
+        "text": "That's an American company.",
+        "start": 413.159,
+        "duration": 1.971
+    },
+    {
+        "text": "It's clearly a multinational\ncompany that's made",
+        "start": 415.13,
+        "duration": 3.63
+    },
+    {
+        "text": "billions in China that, that, that,",
+        "start": 418.76,
+        "duration": 2.754
+    },
+    {
+        "text": "that enables Chinese\ncensorship through things",
+        "start": 421.514,
+        "duration": 3.386
+    },
+    {
+        "text": "like Bing and Skype.",
+        "start": 424.9,
+        "duration": 1.36
+    },
+    {
+        "text": "Secretary of State, Mike Pompeo\nalso saying that he agreed",
+        "start": 426.26,
+        "duration": 2.43
+    },
+    {
+        "text": "with Navarro's initial remarks",
+        "start": 428.69,
+        "duration": 1.38
+    },
+    {
+        "text": "in an interview with Fox news yesterday.",
+        "start": 430.07,
+        "duration": 1.65
+    },
+    {
+        "text": "And there notably, he\nalso took a hard line",
+        "start": 431.72,
+        "duration": 1.402
+    },
+    {
+        "text": "against other Chinese\ntech companies as well,",
+        "start": 433.122,
+        "duration": 2.178
+    },
+    {
+        "text": "and seemed to indicate that\nTrump would be taking action",
+        "start": 435.3,
+        "duration": 2.18
+    },
+    {
+        "text": "against more than just TikTok.",
+        "start": 437.48,
+        "duration": 1.33
+    },
+    {
+        "text": "- These Chinese software\ncompanies doing business",
+        "start": 438.81,
+        "duration": 1.79
+    },
+    {
+        "text": "in the United States, whether\nit's TikTok or WeChat.",
+        "start": 440.6,
+        "duration": 1.94
+    },
+    {
+        "text": "There are countless more,\nas Peter Navarro said,",
+        "start": 442.54,
+        "duration": 3.352
+    },
+    {
+        "text": "are feeding data directly to\nthe Chinese Communist Party.",
+        "start": 445.892,
+        "duration": 3.308
+    },
+    {
+        "text": "Their national security\napparatus could be there,",
+        "start": 449.2,
+        "duration": 2.18
+    },
+    {
+        "text": "their facial recognition pattern.",
+        "start": 451.38,
+        "duration": 1.36
+    },
+    {
+        "text": "It could be information\nabout the residents,",
+        "start": 452.74,
+        "duration": 3.1
+    },
+    {
+        "text": "their phone numbers, their friends,",
+        "start": 455.84,
+        "duration": 1.19
+    },
+    {
+        "text": "who they're connected to.",
+        "start": 457.03,
+        "duration": 0.833
+    },
+    {
+        "text": "President Trump has said\nenough, and we're gonna fix it.",
+        "start": 457.863,
+        "duration": 2.787
+    },
+    {
+        "text": "And so he will take action in\nthe coming days with respect",
+        "start": 460.65,
+        "duration": 3.04
+    },
+    {
+        "text": "to a broad array of\nnational security risks",
+        "start": 463.69,
+        "duration": 3.37
+    },
+    {
+        "text": "that are presented by software connected",
+        "start": 467.06,
+        "duration": 2.27
+    },
+    {
+        "text": "to the Chinese Communist Party.",
+        "start": 469.33,
+        "duration": 1.56
+    },
+    {
+        "text": "- But when asked,",
+        "start": 470.89,
+        "duration": 0.833
+    },
+    {
+        "text": "if he thought that Microsoft buying TikTok",
+        "start": 471.723,
+        "duration": 1.347
+    },
+    {
+        "text": "would still create\nsecurity concerns, he said.",
+        "start": 473.07,
+        "duration": 1.926
+    },
+    {
+        "text": "- I promise you the President,\nwhen he makes his decision,",
+        "start": 474.996,
+        "duration": 2.644
+    },
+    {
+        "text": "we'll make sure that everything\nwe have done drives us",
+        "start": 477.64,
+        "duration": 3.7
+    },
+    {
+        "text": "as close to zero risk\nfor the American people.",
+        "start": 481.34,
+        "duration": 2.187
+    },
+    {
+        "text": "- But of course, Pompeo made\nthose comments about timing",
+        "start": 483.527,
+        "duration": 2.173
+    },
+    {
+        "text": "before Trump made his statement today.",
+        "start": 485.7,
+        "duration": 1.51
+    },
+    {
+        "text": "So for right now, while\nthat is still up in the air",
+        "start": 487.21,
+        "duration": 2.33
+    },
+    {
+        "text": "it at least seems that there\nis a 45 day cushion period",
+        "start": 489.54,
+        "duration": 2.34
+    },
+    {
+        "text": "before any drastic actions are taken.",
+        "start": 491.88,
+        "duration": 1.66
+    },
+    {
+        "text": "And you know with the fate\nof TikTok right now unclear,",
+        "start": 493.54,
+        "duration": 1.633
+    },
+    {
+        "text": "we've seen a lot of reactions\nfrom the TikTok user base.",
+        "start": 495.173,
+        "duration": 2.368
+    },
+    {
+        "text": "You know, we've seen some people panic.",
+        "start": 497.541,
+        "duration": 1.759
+    },
+    {
+        "text": "A lot of people saying, hey,",
+        "start": 499.3,
+        "duration": 1.34
+    },
+    {
+        "text": "be sure to follow me and\nanyone else that you want",
+        "start": 500.64,
+        "duration": 1.74
+    },
+    {
+        "text": "on all these other platforms.",
+        "start": 502.38,
+        "duration": 1.25
+    },
+    {
+        "text": "We saw reports of just\nhundreds of thousands of people",
+        "start": 503.63,
+        "duration": 2.29
+    },
+    {
+        "text": "signing up to TikTok\ncompetitors, just in case.",
+        "start": 505.92,
+        "duration": 2.45
+    },
+    {
+        "text": "Right, so you had a lot of people",
+        "start": 508.37,
+        "duration": 0.833
+    },
+    {
+        "text": "taking the situation very seriously.",
+        "start": 509.203,
+        "duration": 1.357
+    },
+    {
+        "text": "You also had people like\nClaudia Conway chiming in.",
+        "start": 510.56,
+        "duration": 2.207
+    },
+    {
+        "text": "\"Yo real Donald Trump,",
+        "start": 512.767,
+        "duration": 0.97
+    },
+    {
+        "text": "\"if you want to just\nban my TikTok account,",
+        "start": 513.737,
+        "duration": 1.73
+    },
+    {
+        "text": "\"why didn't you just say so.",
+        "start": 515.467,
+        "duration": 1.233
+    },
+    {
+        "text": "Claudia, if you don't know, is\nKellyanne Conway's daughter,",
+        "start": 516.7,
+        "duration": 2.71
+    },
+    {
+        "text": "who is just very, very anti-Trump.",
+        "start": 519.41,
+        "duration": 2.32
+    },
+    {
+        "text": "Trolling him constantly, which,",
+        "start": 521.73,
+        "duration": 1.36
+    },
+    {
+        "text": "there is also a belief among\npart of the TikTok base",
+        "start": 523.09,
+        "duration": 2.1
+    },
+    {
+        "text": "that Donald Trump is doing this",
+        "start": 525.19,
+        "duration": 1.03
+    },
+    {
+        "text": "not because of security reasons,",
+        "start": 526.22,
+        "duration": 1.21
+    },
+    {
+        "text": "but because the user base on the platform",
+        "start": 527.43,
+        "duration": 1.82
+    },
+    {
+        "text": "constantly trolls and mocks him.",
+        "start": 529.25,
+        "duration": 1.66
+    },
+    {
+        "text": "And actually inline with this,",
+        "start": 530.91,
+        "duration": 1.25
+    },
+    {
+        "text": "after the news about TikTok",
+        "start": 532.16,
+        "duration": 1.2
+    },
+    {
+        "text": "potentially being shut down came out,",
+        "start": 533.36,
+        "duration": 1.74
+    },
+    {
+        "text": "we saw a lot of people\ncomplimenting Donald Trump.",
+        "start": 535.1,
+        "duration": 2.18
+    },
+    {
+        "text": "Right, being very sarcastic,",
+        "start": 537.28,
+        "duration": 1.1
+    },
+    {
+        "text": "some mockingly building a wall for him.",
+        "start": 538.38,
+        "duration": 1.9
+    },
+    {
+        "text": "We also saw some large creators on TikTok",
+        "start": 540.28,
+        "duration": 1.85
+    },
+    {
+        "text": "jumping into the trend, though,",
+        "start": 542.13,
+        "duration": 0.833
+    },
+    {
+        "text": "not really seeming to have a stance.",
+        "start": 542.963,
+        "duration": 2.597
+    },
+    {
+        "text": "People like Addison Rae, for example,",
+        "start": 545.56,
+        "duration": 1.3
+    },
+    {
+        "text": "who dropped out of\nLouisiana State University",
+        "start": 546.86,
+        "duration": 1.69
+    },
+    {
+        "text": "to become a TikTok.",
+        "start": 548.55,
+        "duration": 0.833
+    },
+    {
+        "text": "Posting a video of herself,",
+        "start": 549.383,
+        "duration": 1.057
+    },
+    {
+        "text": "pretending to knock on LSU\ndoors to let her back in.",
+        "start": 550.44,
+        "duration": 2.34
+    },
+    {
+        "text": "We also want to TikTok's\nUS general manager",
+        "start": 552.78,
+        "duration": 1.82
+    },
+    {
+        "text": "sending out a message to\nthe TikTok community saying,",
+        "start": 554.6,
+        "duration": 2.107
+    },
+    {
+        "text": "\"We've heard your outpouring of support.\"",
+        "start": 556.707,
+        "duration": 1.653
+    },
+    {
+        "text": "Saying \"Thank you.",
+        "start": 558.36,
+        "duration": 0.833
+    },
+    {
+        "text": "\"We're not planning on going anywhere.\"",
+        "start": 559.193,
+        "duration": 1.397
+    },
+    {
+        "text": "And going on to say \"We\nare building the safest app",
+        "start": 560.59,
+        "duration": 1.857
+    },
+    {
+        "text": "\"because we know it's\nthe right thing to do.\"",
+        "start": 562.447,
+        "duration": 1.323
+    },
+    {
+        "text": "But yeah, that's where\nwe are with this story.",
+        "start": 563.77,
+        "duration": 1.65
+    },
+    {
+        "text": "It is gonna be interesting\nto see what happens here.",
+        "start": 565.42,
+        "duration": 2.07
+    },
+    {
+        "text": "My main, honestly, my main concern",
+        "start": 567.49,
+        "duration": 1.478
+    },
+    {
+        "text": "is with the kind of like mid tier",
+        "start": 568.968,
+        "duration": 1.853
+    },
+    {
+        "text": "to small creator on TikTok.",
+        "start": 570.821,
+        "duration": 1.346
+    },
+    {
+        "text": "Right, a lot of the\nbig creators on TikTok,",
+        "start": 572.167,
+        "duration": 1.902
+    },
+    {
+        "text": "in addition to there being\nan interesting crossover",
+        "start": 574.069,
+        "duration": 2.739
+    },
+    {
+        "text": "in the biggest people also\nbeing the people showing up,",
+        "start": 576.808,
+        "duration": 3.072
+    },
+    {
+        "text": "gonna parties during a pandemic.",
+        "start": 579.88,
+        "duration": 1.57
+    },
+    {
+        "text": "Many of them are also so large,",
+        "start": 581.45,
+        "duration": 0.874
+    },
+    {
+        "text": "they've been able to do\neffectively move platforms,",
+        "start": 582.324,
+        "duration": 2.526
+    },
+    {
+        "text": "whether it be YouTube,\nInstagram, whatever.",
+        "start": 584.85,
+        "duration": 1.75
+    },
+    {
+        "text": "They'll be fine,",
+        "start": 586.6,
+        "duration": 0.833
+    },
+    {
+        "text": "but it's kind of the small\nto medium creators that,",
+        "start": 587.433,
+        "duration": 2.287
+    },
+    {
+        "text": "you know, probably\nfailed on other platforms",
+        "start": 589.72,
+        "duration": 2.02
+    },
+    {
+        "text": "that all of a sudden got this big shot,",
+        "start": 591.74,
+        "duration": 1.82
+    },
+    {
+        "text": "they've thrown their lives into it.",
+        "start": 593.56,
+        "duration": 1.33
+    },
+    {
+        "text": "And all of a sudden, now\nit might be going away,",
+        "start": 594.89,
+        "duration": 1.41
+    },
+    {
+        "text": "which is why I'll repeat the same advice",
+        "start": 596.3,
+        "duration": 1.97
+    },
+    {
+        "text": "I've said for over a decade now.",
+        "start": 598.27,
+        "duration": 1.081
+    },
+    {
+        "text": "Constantly move your audience\nto yes, other platforms,",
+        "start": 599.351,
+        "duration": 2.809
+    },
+    {
+        "text": "but also into more\nplaces that you control.",
+        "start": 602.16,
+        "duration": 2.072
+    },
+    {
+        "text": "It can be something as\nsimple as a mailing list.",
+        "start": 604.232,
+        "duration": 2.418
+    },
+    {
+        "text": "Or now you have services like Community,",
+        "start": 606.65,
+        "duration": 1.22
+    },
+    {
+        "text": "that we use with our text line.",
+        "start": 607.87,
+        "duration": 1.24
+    },
+    {
+        "text": "Boom, text me here.",
+        "start": 609.11,
+        "duration": 0.99
+    },
+    {
+        "text": "And for most creators you'll only be able",
+        "start": 610.1,
+        "duration": 1.985
+    },
+    {
+        "text": "to move a small percentage,",
+        "start": 612.085,
+        "duration": 0.833
+    },
+    {
+        "text": "but that is the most important percentage.",
+        "start": 612.918,
+        "duration": 1.732
+    },
+    {
+        "text": "Because at the end of the day,",
+        "start": 614.65,
+        "duration": 0.833
+    },
+    {
+        "text": "none of these platforms\ntruly care about you",
+        "start": 615.483,
+        "duration": 1.544
+    },
+    {
+        "text": "as an individual creative.",
+        "start": 617.027,
+        "duration": 1.953
+    },
+    {
+        "text": "They're looking out for them.",
+        "start": 618.98,
+        "duration": 0.833
+    },
+    {
+        "text": "And then too, as we're seeing with TikTok,",
+        "start": 619.813,
+        "duration": 1.517
+    },
+    {
+        "text": "sometimes there are just\noutside things that happen",
+        "start": 621.33,
+        "duration": 2.34
+    },
+    {
+        "text": "and then shake up the ground.",
+        "start": 623.67,
+        "duration": 1.06
+    },
+    {
+        "text": "Yeah, with that said,",
+        "start": 624.73,
+        "duration": 0.84
+    },
+    {
+        "text": "I'd love to know your\nthoughts on this story.",
+        "start": 625.57,
+        "duration": 1.4
+    },
+    {
+        "text": "Those that do have security\nconcerns regarding TikTok.",
+        "start": 626.97,
+        "duration": 2.01
+    },
+    {
+        "text": "Would Microsoft buying it up,",
+        "start": 628.98,
+        "duration": 1.04
+    },
+    {
+        "text": "kind of take away those concerns?",
+        "start": 630.02,
+        "duration": 1.43
+    },
+    {
+        "text": "Yes, no, why, why not.",
+        "start": 631.45,
+        "duration": 1.34
+    },
+    {
+        "text": "And also any other thoughts\nyou have regarding this story,",
+        "start": 632.79,
+        "duration": 1.715
+    },
+    {
+        "text": "I'd really love to hear from you",
+        "start": 634.505,
+        "duration": 1.285
+    },
+    {
+        "text": "in those comments down below.",
+        "start": 635.79,
+        "duration": 0.98
+    },
+    {
+        "text": "But from that,",
+        "start": 636.77,
+        "duration": 0.833
+    },
+    {
+        "text": "I want to share some stuff I love today,",
+        "start": 637.603,
+        "duration": 0.929
+    },
+    {
+        "text": "and today in awesome,\nbrought to you by Robin Hood,",
+        "start": 638.532,
+        "duration": 2.948
+    },
+    {
+        "text": "and more specifically RobinhoodPhil.com.",
+        "start": 641.48,
+        "duration": 2.31
+    },
+    {
+        "text": "And if you didn't know,",
+        "start": 643.79,
+        "duration": 0.833
+    },
+    {
+        "text": "Robin hood is a fantastic investment app",
+        "start": 644.623,
+        "duration": 1.459
+    },
+    {
+        "text": "for beginners and active\ntraders with no commission fees.",
+        "start": 646.082,
+        "duration": 3.258
+    },
+    {
+        "text": "And when I say active, I really mean it.",
+        "start": 649.34,
+        "duration": 1.43
+    },
+    {
+        "text": "With Robin hood, you can buy\nand sell stock in real time",
+        "start": 650.77,
+        "duration": 2.64
+    },
+    {
+        "text": "whenever the market is open\nand they even offer extended",
+        "start": 653.41,
+        "duration": 2.54
+    },
+    {
+        "text": "trading hours so you don't\nhave to wait to invest.",
+        "start": 655.95,
+        "duration": 1.79
+    },
+    {
+        "text": "And Robin Hood isn't\njust some random sponsor,",
+        "start": 657.74,
+        "duration": 1.85
+    },
+    {
+        "text": "I've actually been using and",
+        "start": 659.59,
+        "duration": 1.1
+    },
+    {
+        "text": "loving their app for several years now.",
+        "start": 660.69,
+        "duration": 1.43
+    },
+    {
+        "text": "And what's really awesome is if today,",
+        "start": 662.12,
+        "duration": 1.35
+    },
+    {
+        "text": "you want to check this out, right?",
+        "start": 663.47,
+        "duration": 1.03
+    },
+    {
+        "text": "You want to see what the app looks like.",
+        "start": 664.5,
+        "duration": 0.833
+    },
+    {
+        "text": "See if this is for you.",
+        "start": 665.333,
+        "duration": 1.337
+    },
+    {
+        "text": "If you sign up using\nRobinhoodphil.com, right?",
+        "start": 666.67,
+        "duration": 2.15
+    },
+    {
+        "text": "You just click that link down below,",
+        "start": 668.82,
+        "duration": 1.58
+    },
+    {
+        "text": "you link your bank account and boom,",
+        "start": 670.4,
+        "duration": 1.49
+    },
+    {
+        "text": "a surprise stock will\nappear in your account.",
+        "start": 671.89,
+        "duration": 1.78
+    },
+    {
+        "text": "Now certain limitations do apply,",
+        "start": 673.67,
+        "duration": 1.31
+    },
+    {
+        "text": "but you don't even need\nmoney in your account",
+        "start": 674.98,
+        "duration": 2.09
+    },
+    {
+        "text": "to get the free stock.",
+        "start": 677.07,
+        "duration": 0.98
+    },
+    {
+        "text": "While there's a good chance\nthat the stock will have a value",
+        "start": 678.05,
+        "duration": 1.69
+    },
+    {
+        "text": "between $2, 50 cents and $10.",
+        "start": 679.74,
+        "duration": 2.19
+    },
+    {
+        "text": "Robin hood also says that\nyou have a one in 200 chance",
+        "start": 681.93,
+        "duration": 2.55
+    },
+    {
+        "text": "to get stocks like Microsoft, Visa",
+        "start": 684.48,
+        "duration": 2.0
+    },
+    {
+        "text": "and even Johnson and Johnson.",
+        "start": 686.48,
+        "duration": 0.919
+    },
+    {
+        "text": "Yeah, main point go to RobinhoodPhil.com",
+        "start": 687.399,
+        "duration": 2.511
+    },
+    {
+        "text": "or just click that link down below.",
+        "start": 689.91,
+        "duration": 1.245
+    },
+    {
+        "text": "You get something fantastic.",
+        "start": 691.155,
+        "duration": 1.455
+    },
+    {
+        "text": "Each sign up helps support the show.",
+        "start": 692.61,
+        "duration": 1.7
+    },
+    {
+        "text": "But yeah, thank you.",
+        "start": 694.31,
+        "duration": 1.22
+    },
+    {
+        "text": "You're welcome, and enjoy.",
+        "start": 695.53,
+        "duration": 1.19
+    },
+    {
+        "text": "For today's TAA,",
+        "start": 696.72,
+        "duration": 0.89
+    },
+    {
+        "text": "I wanted to focus more on stories",
+        "start": 697.61,
+        "duration": 1.89
+    },
+    {
+        "text": "rather than just kind of videos.",
+        "start": 699.5,
+        "duration": 1.19
+    },
+    {
+        "text": "For example, this kid,\nTony, his birth parents,",
+        "start": 700.69,
+        "duration": 2.13
+    },
+    {
+        "text": "unfortunately horrible people.",
+        "start": 702.82,
+        "duration": 1.47
+    },
+    {
+        "text": "They left him literally broken,",
+        "start": 704.29,
+        "duration": 0.914
+    },
+    {
+        "text": "beaten, hours away from death.",
+        "start": 705.204,
+        "duration": 1.756
+    },
+    {
+        "text": "Luckily little Tony gets adopted",
+        "start": 706.96,
+        "duration": 1.35
+    },
+    {
+        "text": "by Paula and Mark Hudgell back in 2016.",
+        "start": 708.31,
+        "duration": 2.43
+    },
+    {
+        "text": "Tony unfortunately has had to go through",
+        "start": 710.74,
+        "duration": 1.22
+    },
+    {
+        "text": "some serious surgeries that left him",
+        "start": 711.96,
+        "duration": 1.4
+    },
+    {
+        "text": "with prosthetic legs, though\nit has not slowed him down.",
+        "start": 713.36,
+        "duration": 2.57
+    },
+    {
+        "text": "In fact, on June 1st,\nlittle five-year-old Tony",
+        "start": 715.93,
+        "duration": 1.76
+    },
+    {
+        "text": "took part in a 10K charity fundraiser.",
+        "start": 717.69,
+        "duration": 2.13
+    },
+    {
+        "text": "And after a local news\nstation picked up his story,",
+        "start": 719.82,
+        "duration": 1.95
+    },
+    {
+        "text": "the amount of money he raised\nfor charity skyrocketed.",
+        "start": 721.77,
+        "duration": 2.34
+    },
+    {
+        "text": "Before the story ran,\nhe had raised $4,000,",
+        "start": 724.11,
+        "duration": 2.2
+    },
+    {
+        "text": "which is actually incredibly impressive.",
+        "start": 726.31,
+        "duration": 1.81
+    },
+    {
+        "text": "As of right now, he and his story",
+        "start": 728.12,
+        "duration": 1.69
+    },
+    {
+        "text": "have raised over $1.6 million.",
+        "start": 729.81,
+        "duration": 2.305
+    },
+    {
+        "text": "I'll link to the charity down below",
+        "start": 732.115,
+        "duration": 1.505
+    },
+    {
+        "text": "if you want to take part,",
+        "start": 733.62,
+        "duration": 0.833
+    },
+    {
+        "text": "but it is to help the Evelina\nLondon Children's Hospital.",
+        "start": 734.453,
+        "duration": 2.317
+    },
+    {
+        "text": "They're actually the same ones",
+        "start": 736.77,
+        "duration": 0.833
+    },
+    {
+        "text": "that helped Tony during his surgeries.",
+        "start": 737.603,
+        "duration": 1.134
+    },
+    {
+        "text": "And it's just a story that warms my heart.",
+        "start": 738.737,
+        "duration": 1.853
+    },
+    {
+        "text": "It shows that no matter\nyour, your obstacles,",
+        "start": 740.59,
+        "duration": 1.82
+    },
+    {
+        "text": "no matter your age, you can do good,",
+        "start": 742.41,
+        "duration": 1.78
+    },
+    {
+        "text": "promote good foster change.",
+        "start": 744.19,
+        "duration": 1.395
+    },
+    {
+        "text": "And finally, if you didn't see it,",
+        "start": 745.585,
+        "duration": 1.605
+    },
+    {
+        "text": "Space X's Dragon Capsule splashed down",
+        "start": 747.19,
+        "duration": 1.85
+    },
+    {
+        "text": "in the Gulf of Mexico yesterday,",
+        "start": 749.04,
+        "duration": 1.21
+    },
+    {
+        "text": "safely returning two astronauts.",
+        "start": 750.25,
+        "duration": 1.478
+    },
+    {
+        "text": "This has an incredibly notable feat.",
+        "start": 751.728,
+        "duration": 1.532
+    },
+    {
+        "text": "It's the first time and over a decade",
+        "start": 753.26,
+        "duration": 1.41
+    },
+    {
+        "text": "that astronauts took off\nfrom the United States",
+        "start": 754.67,
+        "duration": 1.573
+    },
+    {
+        "text": "and the first time ever that\na private company managed",
+        "start": 756.243,
+        "duration": 2.557
+    },
+    {
+        "text": "to put people into orbit and then dock",
+        "start": 758.8,
+        "duration": 1.97
+    },
+    {
+        "text": "with the International Space Station.",
+        "start": 760.77,
+        "duration": 1.53
+    },
+    {
+        "text": "For many, this is the\nstart of a new space race",
+        "start": 762.3,
+        "duration": 0.97
+    },
+    {
+        "text": "with private companies, as Boeing",
+        "start": 763.27,
+        "duration": 2.14
+    },
+    {
+        "text": "is also building a capsule\nto transport astronauts.",
+        "start": 765.41,
+        "duration": 2.27
+    },
+    {
+        "text": "And of course there are\nalso hopes that this leap",
+        "start": 767.68,
+        "duration": 1.47
+    },
+    {
+        "text": "in production and tech\nmight spur the development",
+        "start": 769.15,
+        "duration": 2.07
+    },
+    {
+        "text": "of other tech that will\nallow people to travel",
+        "start": 771.22,
+        "duration": 1.71
+    },
+    {
+        "text": "around the world super fast.",
+        "start": 772.93,
+        "duration": 1.41
+    },
+    {
+        "text": "And if you want to see the full versions",
+        "start": 774.34,
+        "duration": 1.18
+    },
+    {
+        "text": "of everything I just shared,",
+        "start": 775.52,
+        "duration": 0.95
+    },
+    {
+        "text": "the secret link of the day,\nreally anything at all,",
+        "start": 776.47,
+        "duration": 2.51
+    },
+    {
+        "text": "links as always in the\ndescription down below.",
+        "start": 778.98,
+        "duration": 1.588
+    },
+    {
+        "text": "And then let's talk\nabout a fun little story",
+        "start": 780.568,
+        "duration": 2.002
+    },
+    {
+        "text": "that has some range.",
+        "start": 782.57,
+        "duration": 0.95
+    },
+    {
+        "text": "It's a story that covers\nwhy maybe some of the stuff",
+        "start": 783.52,
+        "duration": 1.7
+    },
+    {
+        "text": "you're ordering off of eBay\nand Etsy has been delayed",
+        "start": 785.22,
+        "duration": 2.48
+    },
+    {
+        "text": "and a threat to the\nfuture of our democracy,",
+        "start": 787.7,
+        "duration": 2.42
+    },
+    {
+        "text": "you know, fun stuff.",
+        "start": 790.12,
+        "duration": 1.147
+    },
+    {
+        "text": "You know, the feud with the\nPost Office is not a new thing.",
+        "start": 791.267,
+        "duration": 2.773
+    },
+    {
+        "text": "Republicans have long been\ntrying to privatize the USPS.",
+        "start": 794.04,
+        "duration": 3.04
+    },
+    {
+        "text": "Trump has frequently tweeted\nhis frustrations about it,",
+        "start": 797.08,
+        "duration": 1.85
+    },
+    {
+        "text": "but now it seems that\nhis anger with the USPS",
+        "start": 798.93,
+        "duration": 2.47
+    },
+    {
+        "text": "is colliding with his\nfrustrations with mail in voting.",
+        "start": 801.4,
+        "duration": 2.33
+    },
+    {
+        "text": "But let's back up here because this story",
+        "start": 803.73,
+        "duration": 1.457
+    },
+    {
+        "text": "actually starts in mid July.",
+        "start": 805.187,
+        "duration": 2.003
+    },
+    {
+        "text": "Back then, according to\na Washington Post report,",
+        "start": 807.19,
+        "duration": 1.358
+    },
+    {
+        "text": "the USPS was told to\nmake difficult changes",
+        "start": 808.548,
+        "duration": 2.482
+    },
+    {
+        "text": "that could delay the mail.",
+        "start": 811.03,
+        "duration": 1.22
+    },
+    {
+        "text": "With those changes notably coming from",
+        "start": 812.25,
+        "duration": 1.46
+    },
+    {
+        "text": "the new Postmaster General, Louis DeJoy,",
+        "start": 813.71,
+        "duration": 1.98
+    },
+    {
+        "text": "who was a Trump ally and\na campaign mega donor",
+        "start": 815.69,
+        "duration": 2.32
+    },
+    {
+        "text": "that the president appointed back in May.",
+        "start": 818.01,
+        "duration": 1.44
+    },
+    {
+        "text": "That report saying DeJoy told employees",
+        "start": 819.45,
+        "duration": 1.115
+    },
+    {
+        "text": "that the agency would not survive",
+        "start": 820.565,
+        "duration": 1.328
+    },
+    {
+        "text": "unless it made difficult\nchanges to cut costs.",
+        "start": 821.893,
+        "duration": 2.252
+    },
+    {
+        "text": "And among these new policies,",
+        "start": 824.145,
+        "duration": 1.805
+    },
+    {
+        "text": "you had things like\novertime is prohibited.",
+        "start": 825.95,
+        "duration": 1.89
+    },
+    {
+        "text": "You also have limitations to park points,",
+        "start": 827.84,
+        "duration": 1.7
+    },
+    {
+        "text": "which is when a carrier parks the truck",
+        "start": 829.54,
+        "duration": 1.35
+    },
+    {
+        "text": "at the end of a street and then",
+        "start": 830.89,
+        "duration": 0.98
+    },
+    {
+        "text": "walks a few blocks to deliver.",
+        "start": 831.87,
+        "duration": 1.48
+    },
+    {
+        "text": "It's a very common technique for delivery.",
+        "start": 833.35,
+        "duration": 1.276
+    },
+    {
+        "text": "And on top of that,",
+        "start": 834.626,
+        "duration": 0.974
+    },
+    {
+        "text": "the USPS is also looking\nto cut transportation cost.",
+        "start": 835.6,
+        "duration": 2.354
+    },
+    {
+        "text": "You also have The Intercept reporting",
+        "start": 837.954,
+        "duration": 1.428
+    },
+    {
+        "text": "that not long after this,",
+        "start": 839.382,
+        "duration": 1.758
+    },
+    {
+        "text": "post office workers\nlearned of another policy,",
+        "start": 841.14,
+        "duration": 1.442
+    },
+    {
+        "text": "essentially aimed at having\ncarriers deliver more mail",
+        "start": 842.582,
+        "duration": 2.548
+    },
+    {
+        "text": "in the morning by preventing\nthem from sorting their mail",
+        "start": 845.13,
+        "duration": 2.22
+    },
+    {
+        "text": "in their offices before they go.",
+        "start": 847.35,
+        "duration": 1.3
+    },
+    {
+        "text": "With that report noting that\nthis could actually delay mail",
+        "start": 848.65,
+        "duration": 1.803
+    },
+    {
+        "text": "from getting to its final destination",
+        "start": 850.453,
+        "duration": 1.452
+    },
+    {
+        "text": "by at least a day, if not longer.",
+        "start": 851.905,
+        "duration": 1.67
+    },
+    {
+        "text": "Well, the memo outlining some of this",
+        "start": 853.575,
+        "duration": 1.635
+    },
+    {
+        "text": "says that it is to improve\nconsistency in delivery time.",
+        "start": 855.21,
+        "duration": 2.49
+    },
+    {
+        "text": "We also saw the national president",
+        "start": 857.7,
+        "duration": 1.23
+    },
+    {
+        "text": "of the American Postal Workers\nUnion telling The Intercept.",
+        "start": 858.93,
+        "duration": 2.267
+    },
+    {
+        "text": "\"These are changes aimed at changing",
+        "start": 861.197,
+        "duration": 1.503
+    },
+    {
+        "text": "the entire culture of USPS.\"",
+        "start": 862.7,
+        "duration": 1.41
+    },
+    {
+        "text": "But with these changes,",
+        "start": 864.11,
+        "duration": 1.19
+    },
+    {
+        "text": "what we're ultimately seeing so far,",
+        "start": 865.3,
+        "duration": 1.55
+    },
+    {
+        "text": "more and more reports\nof letters and packages",
+        "start": 866.85,
+        "duration": 1.9
+    },
+    {
+        "text": "being delayed by as many as several days.",
+        "start": 868.75,
+        "duration": 1.347
+    },
+    {
+        "text": "With the Washington Post\nreporting that the postal service",
+        "start": 870.097,
+        "duration": 2.193
+    },
+    {
+        "text": "is experiencing days\nlong backlogs and adding,",
+        "start": 872.29,
+        "duration": 2.6
+    },
+    {
+        "text": "bins of mail ready for delivery\nare sitting in post offices",
+        "start": 874.89,
+        "duration": 2.89
+    },
+    {
+        "text": "because of scheduling and route changes.",
+        "start": 877.78,
+        "duration": 1.74
+    },
+    {
+        "text": "Without the ability to\nwork overtime workers say",
+        "start": 879.52,
+        "duration": 1.93
+    },
+    {
+        "text": "the log jam is worsening\nwithout an end in sight.",
+        "start": 881.45,
+        "duration": 2.49
+    },
+    {
+        "text": "And while that report is\nbroad and it references",
+        "start": 883.94,
+        "duration": 1.73
+    },
+    {
+        "text": "these issues happening\nall over the country.",
+        "start": 885.67,
+        "duration": 1.53
+    },
+    {
+        "text": "We've also seen some\nmore specific reports.",
+        "start": 887.2,
+        "duration": 1.79
+    },
+    {
+        "text": "For example, over the weekend,",
+        "start": 888.99,
+        "duration": 0.92
+    },
+    {
+        "text": "you had the Philadelphia\nInquirer publishing",
+        "start": 889.91,
+        "duration": 1.37
+    },
+    {
+        "text": "a thorough article on what\nwas happening there locally.",
+        "start": 891.28,
+        "duration": 2.51
+    },
+    {
+        "text": "With the outlet reporting\nthat some residents have gone",
+        "start": 893.79,
+        "duration": 1.71
+    },
+    {
+        "text": "upwards of three weeks\nwithout packages and letters,",
+        "start": 895.5,
+        "duration": 2.48
+    },
+    {
+        "text": "leaving them without\nmedication, paychecks and bills.",
+        "start": 897.98,
+        "duration": 2.54
+    },
+    {
+        "text": "Also adding that local\nunion leaders and carriers",
+        "start": 900.52,
+        "duration": 1.89
+    },
+    {
+        "text": "told them that the mail is piling up",
+        "start": 902.41,
+        "duration": 1.57
+    },
+    {
+        "text": "in offices unscanned and unsorted.",
+        "start": 903.98,
+        "duration": 2.27
+    },
+    {
+        "text": "And it's not just happening there.",
+        "start": 906.25,
+        "duration": 1.06
+    },
+    {
+        "text": "In New Jersey for example,",
+        "start": 907.31,
+        "duration": 1.02
+    },
+    {
+        "text": "you had representative\nAndy Kim writing a letter",
+        "start": 908.33,
+        "duration": 1.94
+    },
+    {
+        "text": "to DeJoy saying,",
+        "start": 910.27,
+        "duration": 0.833
+    },
+    {
+        "text": "\"While I understand\nthe serious and ongoing",
+        "start": 911.103,
+        "duration": 1.714
+    },
+    {
+        "text": "\"financial challenges facing the USPS,",
+        "start": 912.817,
+        "duration": 1.586
+    },
+    {
+        "text": "\"I am gravely concerned\nthat operational decisions",
+        "start": 914.403,
+        "duration": 2.594
+    },
+    {
+        "text": "\"that knowingly cause\nthe USPS to fail to meet",
+        "start": 916.997,
+        "duration": 2.19
+    },
+    {
+        "text": "\"its own service delivery standards",
+        "start": 919.187,
+        "duration": 1.55
+    },
+    {
+        "text": "\"could cause catastrophic harm\nto many of my constituents",
+        "start": 920.737,
+        "duration": 2.95
+    },
+    {
+        "text": "\"and people all over the country.\"",
+        "start": 923.687,
+        "duration": 1.283
+    },
+    {
+        "text": "And adding, \"During the\ncurrent coronavirus crisis,",
+        "start": 924.97,
+        "duration": 1.887
+    },
+    {
+        "text": "\"USPS postal workers have been\nthe only reliable interaction",
+        "start": 926.857,
+        "duration": 3.07
+    },
+    {
+        "text": "\"for many of my constituents,\nparticularly seniors.\"",
+        "start": 929.927,
+        "duration": 2.743
+    },
+    {
+        "text": "Noting that many of them need the USPS",
+        "start": 932.67,
+        "duration": 1.89
+    },
+    {
+        "text": "for their medications for\ncancer, diabetes, heart diseases,",
+        "start": 934.56,
+        "duration": 2.74
+    },
+    {
+        "text": "and other conditions that make it",
+        "start": 937.3,
+        "duration": 1.09
+    },
+    {
+        "text": "so they should not be leaving\ntheir homes right now.",
+        "start": 938.39,
+        "duration": 1.8
+    },
+    {
+        "text": "So essentially asking DeJoy and the USPS",
+        "start": 940.19,
+        "duration": 2.11
+    },
+    {
+        "text": "to sort of analyze these\nrules and their impacts.",
+        "start": 942.3,
+        "duration": 2.32
+    },
+    {
+        "text": "And also not just think about this",
+        "start": 944.62,
+        "duration": 1.36
+    },
+    {
+        "text": "in the context of the pandemic,",
+        "start": 945.98,
+        "duration": 1.27
+    },
+    {
+        "text": "but in context to the election as well.",
+        "start": 947.25,
+        "duration": 1.94
+    },
+    {
+        "text": "Right, because one of\nthe biggest things here",
+        "start": 949.19,
+        "duration": 1.07
+    },
+    {
+        "text": "is November 3rd is coming up fast",
+        "start": 950.26,
+        "duration": 1.9
+    },
+    {
+        "text": "and many are worried that\nthese new changes with the USPS",
+        "start": 952.16,
+        "duration": 2.44
+    },
+    {
+        "text": "could have a serious impact\non the general election.",
+        "start": 954.6,
+        "duration": 2.19
+    },
+    {
+        "text": "With people like democratic\nrepresentative Bill Pascrell Jr",
+        "start": 956.79,
+        "duration": 2.57
+    },
+    {
+        "text": "saying, \"With states now\nreliant on voting by mail",
+        "start": 959.36,
+        "duration": 2.127
+    },
+    {
+        "text": "\"to continue elections\nduring the pandemic.",
+        "start": 961.487,
+        "duration": 1.7
+    },
+    {
+        "text": "\"The destabilizing of the Post Office",
+        "start": 963.187,
+        "duration": 1.72
+    },
+    {
+        "text": "\"is a direct attack on\nAmerican democracy itself.\"",
+        "start": 964.907,
+        "duration": 2.763
+    },
+    {
+        "text": "It's also not just Democrats\nchiming in on this.",
+        "start": 967.67,
+        "duration": 1.95
+    },
+    {
+        "text": "You had Washington state's\nRepublican Secretary of State",
+        "start": 969.62,
+        "duration": 2.11
+    },
+    {
+        "text": "Kim Wyman also hitting on\nsimilar points earlier this week.",
+        "start": 971.73,
+        "duration": 2.151
+    },
+    {
+        "text": "Saying, \"Election officials\nare very concerned,",
+        "start": 973.881,
+        "duration": 2.216
+    },
+    {
+        "text": "\"if the Post Office is reducing service,",
+        "start": 976.097,
+        "duration": 1.83
+    },
+    {
+        "text": "\"that we will be able to get\nballots to people in time.\"",
+        "start": 977.927,
+        "duration": 2.323
+    },
+    {
+        "text": "And the implications here would be massive",
+        "start": 980.25,
+        "duration": 1.29
+    },
+    {
+        "text": "for two main reasons.",
+        "start": 981.54,
+        "duration": 1.46
+    },
+    {
+        "text": "First of all, as Arthur Sackler,",
+        "start": 983.0,
+        "duration": 1.47
+    },
+    {
+        "text": "who runs the Coalition for a\n21st Century Postal Service",
+        "start": 984.47,
+        "duration": 2.63
+    },
+    {
+        "text": "explains, \"Like any other mail,",
+        "start": 987.1,
+        "duration": 1.567
+    },
+    {
+        "text": "\"this could complicate what is already",
+        "start": 988.667,
+        "duration": 1.54
+    },
+    {
+        "text": "\"going to be a complicated process.",
+        "start": 990.207,
+        "duration": 2.18
+    },
+    {
+        "text": "\"A huge number of jurisdictions",
+        "start": 992.387,
+        "duration": 1.48
+    },
+    {
+        "text": "\"are totally inexperienced\nin vote by mail.",
+        "start": 993.867,
+        "duration": 2.12
+    },
+    {
+        "text": "\"They have never had the\navalanche of interest",
+        "start": 995.987,
+        "duration": 1.93
+    },
+    {
+        "text": "\"that they have this year.\"",
+        "start": 997.917,
+        "duration": 1.163
+    },
+    {
+        "text": "Right, because of the\npandemic and expanded",
+        "start": 999.08,
+        "duration": 1.43
+    },
+    {
+        "text": "vote by mail laws in most states,",
+        "start": 1000.51,
+        "duration": 1.44
+    },
+    {
+        "text": "experts and election\nofficials are expecting",
+        "start": 1001.95,
+        "duration": 1.58
+    },
+    {
+        "text": "a massive increase in mail in voting.",
+        "start": 1003.53,
+        "duration": 1.93
+    },
+    {
+        "text": "And already, the primaries\nhave shown that to be true.",
+        "start": 1005.46,
+        "duration": 2.36
+    },
+    {
+        "text": "And unfortunately in plenty of places,",
+        "start": 1007.82,
+        "duration": 1.44
+    },
+    {
+        "text": "they have also shown that\nstates are not equipped",
+        "start": 1009.26,
+        "duration": 1.93
+    },
+    {
+        "text": "to deal with a massive increase.",
+        "start": 1011.19,
+        "duration": 1.35
+    },
+    {
+        "text": "But, that's not even the\nmost concerning part,",
+        "start": 1012.54,
+        "duration": 1.81
+    },
+    {
+        "text": "with these delays, there\nare a lot of worries",
+        "start": 1014.35,
+        "duration": 1.56
+    },
+    {
+        "text": "that ballots will arrive\nafter election day.",
+        "start": 1015.91,
+        "duration": 2.08
+    },
+    {
+        "text": "And according to reports,",
+        "start": 1017.99,
+        "duration": 0.833
+    },
+    {
+        "text": "there are laws in 34 States\nthat invalidate ballots",
+        "start": 1018.823,
+        "duration": 2.747
+    },
+    {
+        "text": "that arrive after election day.",
+        "start": 1021.57,
+        "duration": 1.77
+    },
+    {
+        "text": "And that is especially concerning",
+        "start": 1023.34,
+        "duration": 1.3
+    },
+    {
+        "text": "when it comes to swing states",
+        "start": 1024.64,
+        "duration": 1.34
+    },
+    {
+        "text": "because literally all swing states",
+        "start": 1025.98,
+        "duration": 1.97
+    },
+    {
+        "text": "except North Carolina have those laws.",
+        "start": 1027.95,
+        "duration": 1.91
+    },
+    {
+        "text": "And has Benita Gupta,the CEO of",
+        "start": 1029.86,
+        "duration": 1.42
+    },
+    {
+        "text": "the Leadership Conference\non Civil and Human Rights",
+        "start": 1031.28,
+        "duration": 1.87
+    },
+    {
+        "text": "told the Post, \"In states were ballots",
+        "start": 1033.15,
+        "duration": 0.87
+    },
+    {
+        "text": "\"won't count if they are\nreceived after election day,",
+        "start": 1034.02,
+        "duration": 2.757
+    },
+    {
+        "text": "\"the impact could be devastating.\"",
+        "start": 1036.777,
+        "duration": 1.693
+    },
+    {
+        "text": "Noting that could result\nin potentially hundreds of",
+        "start": 1038.47,
+        "duration": 1.95
+    },
+    {
+        "text": "thousands of balance\ngetting rejected and adding",
+        "start": 1040.42,
+        "duration": 1.907
+    },
+    {
+        "text": "\"The delays are going to be unpredictable",
+        "start": 1042.327,
+        "duration": 2.557
+    },
+    {
+        "text": "\"with the cuts being made\non the Postal Service.",
+        "start": 1044.884,
+        "duration": 0.963
+    },
+    {
+        "text": "\"That impact could turn a\nswing state completely.\"",
+        "start": 1045.847,
+        "duration": 2.623
+    },
+    {
+        "text": "Right, so this is a situation",
+        "start": 1048.47,
+        "duration": 1.07
+    },
+    {
+        "text": "that if it is not changed\nwill be a massive deal.",
+        "start": 1049.54,
+        "duration": 2.62
+    },
+    {
+        "text": "Right, because of those new policies",
+        "start": 1052.16,
+        "duration": 1.15
+    },
+    {
+        "text": "that were put into place\nby a Trump loyalist,",
+        "start": 1053.31,
+        "duration": 1.85
+    },
+    {
+        "text": "as well as the fact that Trump himself",
+        "start": 1055.16,
+        "duration": 1.59
+    },
+    {
+        "text": "has frequently attacked mail in voting,",
+        "start": 1056.75,
+        "duration": 1.73
+    },
+    {
+        "text": "oftentimes by making\nnumerous false claims,",
+        "start": 1058.48,
+        "duration": 2.12
+    },
+    {
+        "text": "a lot of experts have said",
+        "start": 1060.6,
+        "duration": 0.93
+    },
+    {
+        "text": "that this move is clearly intentional.",
+        "start": 1061.53,
+        "duration": 2.03
+    },
+    {
+        "text": "This including the likes of Wendy Fields,",
+        "start": 1063.56,
+        "duration": 1.6
+    },
+    {
+        "text": "the Executive Director of\nthe Democracy Initiative,",
+        "start": 1065.16,
+        "duration": 1.93
+    },
+    {
+        "text": "a coalition of voting\nand civil rights groups,",
+        "start": 1067.09,
+        "duration": 1.71
+    },
+    {
+        "text": "who said, \"We have an underfunded",
+        "start": 1068.8,
+        "duration": 1.247
+    },
+    {
+        "text": "\"state and local election system",
+        "start": 1070.047,
+        "duration": 1.49
+    },
+    {
+        "text": "\"and a deliberate slowdown\nin the postal service.\"",
+        "start": 1071.537,
+        "duration": 2.214
+    },
+    {
+        "text": "And adding that she believes\nthat Trump is deliberately",
+        "start": 1073.751,
+        "duration": 2.149
+    },
+    {
+        "text": "orchestrating suppression\nand using the Post Office",
+        "start": 1075.9,
+        "duration": 2.13
+    },
+    {
+        "text": "as a tool to do it.",
+        "start": 1078.03,
+        "duration": 0.89
+    },
+    {
+        "text": "Also, even though he didn't\nmention Trump directly,",
+        "start": 1078.92,
+        "duration": 1.85
+    },
+    {
+        "text": "you had former president Barack\nObama saying similar remarks",
+        "start": 1080.77,
+        "duration": 1.911
+    },
+    {
+        "text": "while speaking of representative",
+        "start": 1082.681,
+        "duration": 1.629
+    },
+    {
+        "text": "John Lewis's funeral last week.",
+        "start": 1084.31,
+        "duration": 1.46
+    },
+    {
+        "text": "- But even as we sit here,",
+        "start": 1085.77,
+        "duration": 2.92
+    },
+    {
+        "text": "there are those in power\nwho are doing their darndest",
+        "start": 1088.69,
+        "duration": 3.65
+    },
+    {
+        "text": "to discourage people from voting",
+        "start": 1093.55,
+        "duration": 2.28
+    },
+    {
+        "text": "by closing polling locations\nand targeting minorities",
+        "start": 1096.69,
+        "duration": 4.31
+    },
+    {
+        "text": "and students with restrictive ID laws",
+        "start": 1101.0,
+        "duration": 3.35
+    },
+    {
+        "text": "and attacking our voting\nrights with surgical precision,",
+        "start": 1104.35,
+        "duration": 4.27
+    },
+    {
+        "text": "even undermining the Postal Service",
+        "start": 1108.62,
+        "duration": 3.17
+    },
+    {
+        "text": "in the run up to an election,",
+        "start": 1111.79,
+        "duration": 2.173
+    },
+    {
+        "text": "that's gonna be dependent\non mail in ballots",
+        "start": 1115.06,
+        "duration": 2.115
+    },
+    {
+        "text": "so people don't get sick.",
+        "start": 1117.175,
+        "duration": 1.795
+    },
+    {
+        "text": "- But on the other side\nof this, USPS leadership",
+        "start": 1118.97,
+        "duration": 2.05
+    },
+    {
+        "text": "has pushed back against these claims",
+        "start": 1121.02,
+        "duration": 1.56
+    },
+    {
+        "text": "with a spokesperson telling reporters",
+        "start": 1122.58,
+        "duration": 1.427
+    },
+    {
+        "text": "\"To be clear, however,",
+        "start": 1124.007,
+        "duration": 1.1
+    },
+    {
+        "text": "\"and despite any\nassertions to the contrary,",
+        "start": 1125.107,
+        "duration": 1.93
+    },
+    {
+        "text": "\"we are not slowing down\nelection mail or any other mail.",
+        "start": 1127.037,
+        "duration": 2.85
+    },
+    {
+        "text": "\"Instead, we continue to employ\na robust and proven process",
+        "start": 1129.887,
+        "duration": 2.93
+    },
+    {
+        "text": "\"to ensure proper handling\nof all election mail,",
+        "start": 1132.817,
+        "duration": 2.08
+    },
+    {
+        "text": "\"consistent with our standards.\"",
+        "start": 1134.897,
+        "duration": 1.423
+    },
+    {
+        "text": "But given the impact\nthat we've seen already,",
+        "start": 1136.32,
+        "duration": 2.59
+    },
+    {
+        "text": "there is a lot of doubt\nregarding that statement.",
+        "start": 1138.91,
+        "duration": 2.55
+    },
+    {
+        "text": "Ultimately, that is\nwhere we are right now.",
+        "start": 1141.46,
+        "duration": 1.69
+    },
+    {
+        "text": "As far as what happens next,",
+        "start": 1143.15,
+        "duration": 1.095
+    },
+    {
+        "text": "a top democratic lawyer did tell the Post",
+        "start": 1144.245,
+        "duration": 1.79
+    },
+    {
+        "text": "that Democrats are\nlitigating against these laws",
+        "start": 1146.035,
+        "duration": 2.455
+    },
+    {
+        "text": "in every swing state with an eye toward",
+        "start": 1148.49,
+        "duration": 1.9
+    },
+    {
+        "text": "getting ballots counted\nthat are postmarked before,",
+        "start": 1150.39,
+        "duration": 2.28
+    },
+    {
+        "text": "but arrive after election day.",
+        "start": 1152.67,
+        "duration": 1.92
+    },
+    {
+        "text": "And while you do have the Post speculating",
+        "start": 1154.59,
+        "duration": 1.3
+    },
+    {
+        "text": "that the combination of, you know,",
+        "start": 1155.89,
+        "duration": 0.99
+    },
+    {
+        "text": "these deadlines during a pandemic",
+        "start": 1156.88,
+        "duration": 1.48
+    },
+    {
+        "text": "and the cutbacks made it\nmight help their case.",
+        "start": 1158.36,
+        "duration": 2.28
+    },
+    {
+        "text": "It is still unclear what\nwould actually happen.",
+        "start": 1160.64,
+        "duration": 1.75
+    },
+    {
+        "text": "And then let's talk about the\nnews around the coronavirus,",
+        "start": 1162.39,
+        "duration": 2.38
+    },
+    {
+        "text": "starting with another disease, Jake Paul.",
+        "start": 1164.77,
+        "duration": 1.95
+    },
+    {
+        "text": "So Jake Paul threw one\nof those pandemic parties",
+        "start": 1166.72,
+        "duration": 2.05
+    },
+    {
+        "text": "that we talked about on previous shows.",
+        "start": 1168.77,
+        "duration": 1.43
+    },
+    {
+        "text": "And since then he gave\nan interview to Insider,",
+        "start": 1170.2,
+        "duration": 1.292
+    },
+    {
+        "text": "where they asked him about his partying",
+        "start": 1171.492,
+        "duration": 1.758
+    },
+    {
+        "text": "during the pandemic, among other things.",
+        "start": 1173.25,
+        "duration": 1.66
+    },
+    {
+        "text": "And he said,",
+        "start": 1174.91,
+        "duration": 0.833
+    },
+    {
+        "text": "\"I don't know what to\nthink of it, to be honest.",
+        "start": 1175.743,
+        "duration": 1.494
+    },
+    {
+        "text": "\"I don't think anyone really does.",
+        "start": 1177.237,
+        "duration": 1.42
+    },
+    {
+        "text": "\"No one has answers.",
+        "start": 1178.657,
+        "duration": 0.94
+    },
+    {
+        "text": "\"Our leadership is failing\nus and everyone kind of just",
+        "start": 1179.597,
+        "duration": 2.25
+    },
+    {
+        "text": "\"doesn't know what to do.",
+        "start": 1181.847,
+        "duration": 1.07
+    },
+    {
+        "text": "\"But, I personally am\nnot the type of person",
+        "start": 1182.917,
+        "duration": 1.96
+    },
+    {
+        "text": "\"who's gonna sit around\nand not live my life.\"",
+        "start": 1184.877,
+        "duration": 2.213
+    },
+    {
+        "text": "So you know, actively throw parties",
+        "start": 1187.09,
+        "duration": 1.7
+    },
+    {
+        "text": "where people without mass congregate",
+        "start": 1188.79,
+        "duration": 0.991
+    },
+    {
+        "text": "very close to one another.",
+        "start": 1189.781,
+        "duration": 1.569
+    },
+    {
+        "text": "And that makes sense\nbecause fuck everyone else.",
+        "start": 1191.35,
+        "duration": 2.13
+    },
+    {
+        "text": "Also side note, when I\ncall Jake Paul a disease,",
+        "start": 1193.48,
+        "duration": 1.518
+    },
+    {
+        "text": "I don't just mean because\nI think he's a bad person.",
+        "start": 1194.998,
+        "duration": 2.672
+    },
+    {
+        "text": "Like I think that people",
+        "start": 1197.67,
+        "duration": 0.833
+    },
+    {
+        "text": "that are throwing these\nparties are assholes.",
+        "start": 1198.503,
+        "duration": 1.457
+    },
+    {
+        "text": "I think the people going to\nthese parties are assholes.",
+        "start": 1199.96,
+        "duration": 2.26
+    },
+    {
+        "text": "And with a large number of creators,",
+        "start": 1202.22,
+        "duration": 1.05
+    },
+    {
+        "text": "if you think someone is an\nasshole, you're just like, well,",
+        "start": 1203.27,
+        "duration": 1.83
+    },
+    {
+        "text": "I'm just not gonna support them.",
+        "start": 1205.1,
+        "duration": 1.17
+    },
+    {
+        "text": "But the disease that is Jake Paul",
+        "start": 1206.27,
+        "duration": 1.55
+    },
+    {
+        "text": "has spread in such a manner",
+        "start": 1207.82,
+        "duration": 1.39
+    },
+    {
+        "text": "that even people who do not support him",
+        "start": 1209.21,
+        "duration": 2.17
+    },
+    {
+        "text": "and maybe even actively\nhate him, are helping him.",
+        "start": 1211.38,
+        "duration": 2.72
+    },
+    {
+        "text": "For example, unless things\nhave changed in the past year.",
+        "start": 1214.1,
+        "duration": 2.32
+    },
+    {
+        "text": "Every time you buy a piece of merchandise",
+        "start": 1216.42,
+        "duration": 1.9
+    },
+    {
+        "text": "from a creator that sells through Fanjoy,",
+        "start": 1218.32,
+        "duration": 1.96
+    },
+    {
+        "text": "you are also helping Jake Paul,",
+        "start": 1220.28,
+        "duration": 1.64
+    },
+    {
+        "text": "as explained on his brother's podcast.",
+        "start": 1221.92,
+        "duration": 1.68
+    },
+    {
+        "text": "- Like one very successful thing",
+        "start": 1223.6,
+        "duration": 1.96
+    },
+    {
+        "text": "that I built with the platform,",
+        "start": 1225.56,
+        "duration": 1.88
+    },
+    {
+        "text": "like just initially like right off the bat",
+        "start": 1227.44,
+        "duration": 1.64
+    },
+    {
+        "text": "was the company called Fanjoy,",
+        "start": 1229.08,
+        "duration": 1.837
+    },
+    {
+        "text": "with, alongside of Chris.",
+        "start": 1230.917,
+        "duration": 4.083
+    },
+    {
+        "text": "- Have you said this?",
+        "start": 1235.0,
+        "duration": 0.843
+    },
+    {
+        "text": "Have you said this before?",
+        "start": 1235.843,
+        "duration": 2.666
+    },
+    {
+        "text": "- I don't think I have.",
+        "start": 1238.509,
+        "duration": 0.833
+    },
+    {
+        "text": "- Have you come out\npublicly and let people know",
+        "start": 1239.342,
+        "duration": 1.898
+    },
+    {
+        "text": "that you built Fanjoy with Chris.",
+        "start": 1241.24,
+        "duration": 1.996
+    },
+    {
+        "text": "Let me get this straight,\nwhen David Dobrik",
+        "start": 1243.236,
+        "duration": 2.664
+    },
+    {
+        "text": "sells a piece of merch, you're\ntechnically getting a cut?",
+        "start": 1245.9,
+        "duration": 3.213
+    },
+    {
+        "text": "- Um, I'm not, no, not like Fanjoy, yeah.",
+        "start": 1250.59,
+        "duration": 4.32
+    },
+    {
+        "text": "- [Logan] But you own\na part of the company.",
+        "start": 1254.91,
+        "duration": 1.497
+    },
+    {
+        "text": "- You have equity in Fanjoy?\n- Yes.",
+        "start": 1256.407,
+        "duration": 1.693
+    },
+    {
+        "text": "So it's building my equity.",
+        "start": 1258.1,
+        "duration": 1.97
+    },
+    {
+        "text": "- And that's also not the only one.",
+        "start": 1260.07,
+        "duration": 1.12
+    },
+    {
+        "text": "He's an investor in Triller,\nthere are other companies,",
+        "start": 1261.19,
+        "duration": 1.99
+    },
+    {
+        "text": "but main point, disease.",
+        "start": 1263.18,
+        "duration": 1.18
+    },
+    {
+        "text": "But hey, main point as\nit pertains to the story.",
+        "start": 1264.36,
+        "duration": 1.84
+    },
+    {
+        "text": "Once again to the\ninfluencers who are really",
+        "start": 1266.2,
+        "duration": 1.87
+    },
+    {
+        "text": "not doing anything with their influence,",
+        "start": 1268.07,
+        "duration": 1.46
+    },
+    {
+        "text": "other than being a bad example right now,",
+        "start": 1269.53,
+        "duration": 1.65
+    },
+    {
+        "text": "I genuinely have zero\nempathy for you whatsoever.",
+        "start": 1271.18,
+        "duration": 2.35
+    },
+    {
+        "text": "If something bad happens to\nyou and my heart goes out",
+        "start": 1273.53,
+        "duration": 3.14
+    },
+    {
+        "text": "to those you may be affecting right now.",
+        "start": 1276.67,
+        "duration": 1.7
+    },
+    {
+        "text": "Especially because this is happening",
+        "start": 1278.37,
+        "duration": 1.27
+    },
+    {
+        "text": "at a time where you have the CDC saying",
+        "start": 1279.64,
+        "duration": 1.44
+    },
+    {
+        "text": "there've been 4.6 million\ncases in the United States.",
+        "start": 1281.08,
+        "duration": 2.97
+    },
+    {
+        "text": "In fact, in California,",
+        "start": 1284.05,
+        "duration": 1.09
+    },
+    {
+        "text": "where a lot of these\ninfluencers are partying,",
+        "start": 1285.14,
+        "duration": 1.43
+    },
+    {
+        "text": "California has now become\nthe first individual state",
+        "start": 1286.57,
+        "duration": 2.07
+    },
+    {
+        "text": "to exceed 500,000 cases.",
+        "start": 1288.64,
+        "duration": 1.78
+    },
+    {
+        "text": "And nationally we have\n154,000 plus deaths.",
+        "start": 1290.42,
+        "duration": 3.19
+    },
+    {
+        "text": "As far as what doctors and experts",
+        "start": 1293.61,
+        "duration": 1.4
+    },
+    {
+        "text": "from the coronavirus taskforce have said",
+        "start": 1295.01,
+        "duration": 1.23
+    },
+    {
+        "text": "over the last few days, the\nlikes of Dr Deborah Birx",
+        "start": 1296.24,
+        "duration": 2.479
+    },
+    {
+        "text": "telling CNN yesterday that we are in",
+        "start": 1298.719,
+        "duration": 1.921
+    },
+    {
+        "text": "a new phase of the virus adding,",
+        "start": 1300.64,
+        "duration": 1.97
+    },
+    {
+        "text": "- But I want to be very clear.",
+        "start": 1302.61,
+        "duration": 1.4
+    },
+    {
+        "text": "What we're seeing today is\ndifferent from March and April.",
+        "start": 1304.01,
+        "duration": 3.3
+    },
+    {
+        "text": "It is extraordinarily wide spread.",
+        "start": 1307.31,
+        "duration": 2.46
+    },
+    {
+        "text": "It's into the rural, as equal urban areas.",
+        "start": 1309.77,
+        "duration": 3.33
+    },
+    {
+        "text": "And to everybody who\nlives in a rural area,",
+        "start": 1313.1,
+        "duration": 2.28
+    },
+    {
+        "text": "you are not immune or\nprotected from this virus.",
+        "start": 1315.38,
+        "duration": 3.34
+    },
+    {
+        "text": "- With her encouraging\neveryone to wear a mask,",
+        "start": 1318.72,
+        "duration": 1.89
+    },
+    {
+        "text": "practice social distancing,",
+        "start": 1320.61,
+        "duration": 1.36
+    },
+    {
+        "text": "be strict about your hygiene.",
+        "start": 1321.97,
+        "duration": 1.5
+    },
+    {
+        "text": "And even saying, if you live\nin a multi-generational home,",
+        "start": 1323.47,
+        "duration": 2.24
+    },
+    {
+        "text": "you should even wear a mask\nthere to protect anyone",
+        "start": 1325.71,
+        "duration": 1.97
+    },
+    {
+        "text": "who could be immunocompromised",
+        "start": 1327.68,
+        "duration": 1.32
+    },
+    {
+        "text": "like older parents or grandparents.",
+        "start": 1329.0,
+        "duration": 1.85
+    },
+    {
+        "text": "And very notably here, those remarks",
+        "start": 1330.85,
+        "duration": 1.23
+    },
+    {
+        "text": "actually came after Speaker\nof the House Nancy Pelosi",
+        "start": 1332.08,
+        "duration": 1.856
+    },
+    {
+        "text": "said that she had no confidence in Birx",
+        "start": 1333.936,
+        "duration": 1.894
+    },
+    {
+        "text": "and her response to the virus.",
+        "start": 1335.83,
+        "duration": 1.38
+    },
+    {
+        "text": "Accusing her and Donald Trump",
+        "start": 1337.21,
+        "duration": 1.16
+    },
+    {
+        "text": "of spreading COVID-19 misinformation.",
+        "start": 1338.37,
+        "duration": 1.88
+    },
+    {
+        "text": "And this morning we had Trump responding",
+        "start": 1340.25,
+        "duration": 1.26
+    },
+    {
+        "text": "in a tweet calling Pelosi\ncrazy and suggesting",
+        "start": 1341.51,
+        "duration": 2.23
+    },
+    {
+        "text": "that quote, \"In order to counter Nancy,",
+        "start": 1343.74,
+        "duration": 1.507
+    },
+    {
+        "text": "\"Deborah took the bait and hit us.",
+        "start": 1345.247,
+        "duration": 1.68
+    },
+    {
+        "text": "\"Pathetic!\"",
+        "start": 1346.927,
+        "duration": 0.833
+    },
+    {
+        "text": "And Birx is not the only doctor",
+        "start": 1347.76,
+        "duration": 1.09
+    },
+    {
+        "text": "Trump has taken aim at in\nthe past couple of days.",
+        "start": 1348.85,
+        "duration": 2.15
+    },
+    {
+        "text": "This weekend he shared a clip\nof Dr Anthony Fauci's hearing,",
+        "start": 1351.0,
+        "duration": 1.781
+    },
+    {
+        "text": "specifically a part where he noted",
+        "start": 1352.781,
+        "duration": 1.669
+    },
+    {
+        "text": "that when countries in Europe shut down,",
+        "start": 1354.45,
+        "duration": 1.52
+    },
+    {
+        "text": "they shut down around 95% of the country.",
+        "start": 1355.97,
+        "duration": 2.07
+    },
+    {
+        "text": "But in the United States,\nwe shut down only 50%,",
+        "start": 1358.04,
+        "duration": 1.562
+    },
+    {
+        "text": "which is why we haven't gone down",
+        "start": 1359.602,
+        "duration": 2.148
+    },
+    {
+        "text": "from our spike in the same way.",
+        "start": 1361.75,
+        "duration": 1.23
+    },
+    {
+        "text": "To which Trump tweeted\nwrong and continued to say",
+        "start": 1362.98,
+        "duration": 1.96
+    },
+    {
+        "text": "our numbers were high\nbecause testing is high.",
+        "start": 1364.94,
+        "duration": 1.89
+    },
+    {
+        "text": "Which of course is\nsomething that Donald Trump",
+        "start": 1366.83,
+        "duration": 1.27
+    },
+    {
+        "text": "has repeated over and over though.",
+        "start": 1368.1,
+        "duration": 1.75
+    },
+    {
+        "text": "Though it's been refuted\nby health experts.",
+        "start": 1369.85,
+        "duration": 1.86
+    },
+    {
+        "text": "The real number that matters\nwhen it comes to testing",
+        "start": 1371.71,
+        "duration": 1.78
+    },
+    {
+        "text": "is the positivity rate.",
+        "start": 1373.49,
+        "duration": 1.19
+    },
+    {
+        "text": "When you go to the John Hopkins website,",
+        "start": 1374.68,
+        "duration": 1.39
+    },
+    {
+        "text": "you check out a state like New York,",
+        "start": 1376.07,
+        "duration": 1.17
+    },
+    {
+        "text": "you see the number of\ndaily tests increasing,",
+        "start": 1377.24,
+        "duration": 1.53
+    },
+    {
+        "text": "which theoretically should allow the state",
+        "start": 1378.77,
+        "duration": 1.62
+    },
+    {
+        "text": "to know how to handle what's going on.",
+        "start": 1380.39,
+        "duration": 1.65
+    },
+    {
+        "text": "And you look at the positivity rate",
+        "start": 1382.04,
+        "duration": 0.96
+    },
+    {
+        "text": "and it has gone drastically down.",
+        "start": 1383.0,
+        "duration": 1.36
+    },
+    {
+        "text": "But then you look at a state like Florida,",
+        "start": 1384.36,
+        "duration": 1.52
+    },
+    {
+        "text": "you see the number of tests\ngoing up, but more importantly,",
+        "start": 1385.88,
+        "duration": 2.42
+    },
+    {
+        "text": "you see the positivity rate going up.",
+        "start": 1388.3,
+        "duration": 1.75
+    },
+    {
+        "text": "The positivity rate is\nshowing the reason for concern",
+        "start": 1390.05,
+        "duration": 2.51
+    },
+    {
+        "text": "and the failures that\nwe've been witnessing.",
+        "start": 1392.56,
+        "duration": 1.6
+    },
+    {
+        "text": "But that said, there's also\narguably some good news",
+        "start": 1394.16,
+        "duration": 2.39
+    },
+    {
+        "text": "coming from Dr Fauci,",
+        "start": 1396.55,
+        "duration": 1.01
+    },
+    {
+        "text": "who said that he is\nconfident that there will be",
+        "start": 1397.56,
+        "duration": 1.51
+    },
+    {
+        "text": "a vaccine for Americans in 2021.",
+        "start": 1399.07,
+        "duration": 1.95
+    },
+    {
+        "text": "And adding that he is \"cautiously\noptimistic that we will",
+        "start": 1401.02,
+        "duration": 2.107
+    },
+    {
+        "text": "\"have a vaccine by the end of this year.\"",
+        "start": 1403.127,
+        "duration": 1.6
+    },
+    {
+        "text": "\"And as we go into 2021.",
+        "start": 1404.727,
+        "duration": 1.78
+    },
+    {
+        "text": "\"I don't think it's dreaming.",
+        "start": 1406.507,
+        "duration": 1.09
+    },
+    {
+        "text": "\"I believe it's a reality and\nwill be shown to be reality.\"",
+        "start": 1407.597,
+        "duration": 2.773
+    },
+    {
+        "text": "Also saying, you know,",
+        "start": 1410.37,
+        "duration": 0.833
+    },
+    {
+        "text": "not everyone is going to be\nable to get it right away.",
+        "start": 1411.203,
+        "duration": 1.917
+    },
+    {
+        "text": "It'll have to be phased in.",
+        "start": 1413.12,
+        "duration": 1.26
+    },
+    {
+        "text": "Though, I will say there\nis actually some reason",
+        "start": 1414.38,
+        "duration": 1.534
+    },
+    {
+        "text": "for concern here that some\npeople might actively choose",
+        "start": 1415.914,
+        "duration": 2.146
+    },
+    {
+        "text": "to not get this vaccine.",
+        "start": 1418.06,
+        "duration": 1.55
+    },
+    {
+        "text": "We've seen more and more reports",
+        "start": 1419.61,
+        "duration": 0.9
+    },
+    {
+        "text": "that it's not just your\nregular anti-vaxxers",
+        "start": 1420.51,
+        "duration": 1.74
+    },
+    {
+        "text": "that are concerned about this one.",
+        "start": 1422.25,
+        "duration": 1.36
+    },
+    {
+        "text": "This in part seeming to stem",
+        "start": 1423.61,
+        "duration": 1.18
+    },
+    {
+        "text": "from the expedited pace of this vaccine,",
+        "start": 1424.79,
+        "duration": 1.98
+    },
+    {
+        "text": "if it were to be done by then.",
+        "start": 1426.77,
+        "duration": 0.833
+    },
+    {
+        "text": "More people than usual\nof a mindset of, okay,",
+        "start": 1427.603,
+        "duration": 1.929
+    },
+    {
+        "text": "I'll let other people try it",
+        "start": 1429.532,
+        "duration": 1.326
+    },
+    {
+        "text": "and then I'll go through the door.",
+        "start": 1430.858,
+        "duration": 1.432
+    },
+    {
+        "text": "But the last thing we're gonna talk about",
+        "start": 1432.29,
+        "duration": 1.49
+    },
+    {
+        "text": "in regards to the coronavirus\nis this story out of Georgia,",
+        "start": 1433.78,
+        "duration": 2.62
+    },
+    {
+        "text": "where we saw a super spreading event",
+        "start": 1436.4,
+        "duration": 1.48
+    },
+    {
+        "text": "at an overnight summer camp.",
+        "start": 1437.88,
+        "duration": 1.21
+    },
+    {
+        "text": "Now this event actually\nhappened back in June,",
+        "start": 1439.09,
+        "duration": 1.77
+    },
+    {
+        "text": "but we are starting to see\nthe reporting and the data.",
+        "start": 1440.86,
+        "duration": 2.1
+    },
+    {
+        "text": "So, at an overnight summer camp,",
+        "start": 1442.96,
+        "duration": 0.939
+    },
+    {
+        "text": "260 campers and staffers\ntested positive for COVID-19.",
+        "start": 1443.899,
+        "duration": 3.238
+    },
+    {
+        "text": "And as the CDC broke it down,",
+        "start": 1447.137,
+        "duration": 1.369
+    },
+    {
+        "text": "this is out of 597 people\nwho were at the camp,",
+        "start": 1448.506,
+        "duration": 2.974
+    },
+    {
+        "text": "meaning that 44% of the\npeople who were there",
+        "start": 1451.48,
+        "duration": 2.07
+    },
+    {
+        "text": "contracted the virus.",
+        "start": 1453.55,
+        "duration": 1.02
+    },
+    {
+        "text": "It's also worth noting that the median age",
+        "start": 1454.57,
+        "duration": 1.46
+    },
+    {
+        "text": "of the campers, there was 12.",
+        "start": 1456.03,
+        "duration": 1.43
+    },
+    {
+        "text": "The median age of the staff was 17.",
+        "start": 1457.46,
+        "duration": 1.87
+    },
+    {
+        "text": "And according to NBC news, 231\nof those 260 positive cases",
+        "start": 1459.33,
+        "duration": 3.94
+    },
+    {
+        "text": "where for people aged 17 and under.",
+        "start": 1463.27,
+        "duration": 1.87
+    },
+    {
+        "text": "But also, this situation\ncould actually be worse",
+        "start": 1465.14,
+        "duration": 1.97
+    },
+    {
+        "text": "because according to the CDC,",
+        "start": 1467.11,
+        "duration": 1.049
+    },
+    {
+        "text": "test results were only\navailable for 344 people",
+        "start": 1468.159,
+        "duration": 3.081
+    },
+    {
+        "text": "or 58% of the attendees.",
+        "start": 1471.24,
+        "duration": 1.608
+    },
+    {
+        "text": "And so this is an important story",
+        "start": 1472.848,
+        "duration": 1.322
+    },
+    {
+        "text": "because there is this narrative right now",
+        "start": 1474.17,
+        "duration": 1.39
+    },
+    {
+        "text": "that kids don't get the virus,",
+        "start": 1475.56,
+        "duration": 1.23
+    },
+    {
+        "text": "which people are kind of relying on",
+        "start": 1476.79,
+        "duration": 1.25
+    },
+    {
+        "text": "when it comes to the idea\nof reopening schools.",
+        "start": 1478.04,
+        "duration": 1.715
+    },
+    {
+        "text": "So you have people saying, well,",
+        "start": 1479.755,
+        "duration": 1.055
+    },
+    {
+        "text": "that's not supported by this\nmassive super spreading event.",
+        "start": 1480.81,
+        "duration": 2.162
+    },
+    {
+        "text": "Now that said, looking into the specifics",
+        "start": 1482.972,
+        "duration": 1.898
+    },
+    {
+        "text": "of this story for what it's worth,",
+        "start": 1484.87,
+        "duration": 1.21
+    },
+    {
+        "text": "it appears that there were safety measures",
+        "start": 1486.08,
+        "duration": 1.21
+    },
+    {
+        "text": "that just weren't taken.",
+        "start": 1487.29,
+        "duration": 0.94
+    },
+    {
+        "text": "For example,",
+        "start": 1488.23,
+        "duration": 0.833
+    },
+    {
+        "text": "for some reason only staff\nwere required to wear masks.",
+        "start": 1489.063,
+        "duration": 2.267
+    },
+    {
+        "text": "The campers were not.",
+        "start": 1491.33,
+        "duration": 0.99
+    },
+    {
+        "text": "There were also no protocols\nfor proper ventilation",
+        "start": 1492.32,
+        "duration": 1.95
+    },
+    {
+        "text": "like opening windows and doors.",
+        "start": 1494.27,
+        "duration": 1.63
+    },
+    {
+        "text": "With the CDC also noting,",
+        "start": 1495.9,
+        "duration": 1.094
+    },
+    {
+        "text": "\"This investigation adds\nto the body of evidence",
+        "start": 1496.994,
+        "duration": 2.583
+    },
+    {
+        "text": "\"demonstrating that children of all ages",
+        "start": 1499.577,
+        "duration": 1.7
+    },
+    {
+        "text": "\"are susceptible to SARS-CoV-2 infection,",
+        "start": 1501.277,
+        "duration": 2.2
+    },
+    {
+        "text": "\"and contrary to early reports,",
+        "start": 1503.477,
+        "duration": 1.81
+    },
+    {
+        "text": "\"might play an important\nrole in transmission.\"",
+        "start": 1505.287,
+        "duration": 2.093
+    },
+    {
+        "text": "Which is why we've seen an\nincreasing number of reports",
+        "start": 1507.38,
+        "duration": 1.96
+    },
+    {
+        "text": "indicating that this could be a warning",
+        "start": 1509.34,
+        "duration": 1.122
+    },
+    {
+        "text": "when it comes to opening\nschools in the fall.",
+        "start": 1510.462,
+        "duration": 2.188
+    },
+    {
+        "text": "But ultimately that is where\nwe are with this story now.",
+        "start": 1512.65,
+        "duration": 1.87
+    },
+    {
+        "text": "And I just want to pass\nthe question off to you.",
+        "start": 1514.52,
+        "duration": 1.36
+    },
+    {
+        "text": "I know we covered several\ndifferent aspects to it.",
+        "start": 1515.88,
+        "duration": 1.89
+    },
+    {
+        "text": "But any and all parts that\nyou want to chime in on.",
+        "start": 1517.77,
+        "duration": 1.597
+    },
+    {
+        "text": "I'd love to hear from you in\nthose comments down below.",
+        "start": 1519.367,
+        "duration": 1.953
+    },
+    {
+        "text": "And that is where I'm\ngoing to end today's show.",
+        "start": 1521.32,
+        "duration": 1.99
+    },
+    {
+        "text": "As always, thanks for supporting",
+        "start": 1523.31,
+        "duration": 0.87
+    },
+    {
+        "text": "these daily dives into the news.",
+        "start": 1524.18,
+        "duration": 1.29
+    },
+    {
+        "text": "Whether it be a like, or maybe\nyou share it on social media.",
+        "start": 1525.47,
+        "duration": 2.32
+    },
+    {
+        "text": "Also thanks again to RobinhoodPhil.com.",
+        "start": 1527.79,
+        "duration": 1.91
+    },
+    {
+        "text": "Thank you for supporting today's show",
+        "start": 1529.7,
+        "duration": 1.19
+    },
+    {
+        "text": "and hooking our viewers\nup when they sign up.",
+        "start": 1530.89,
+        "duration": 1.81
+    },
+    {
+        "text": "But with that said, of course,",
+        "start": 1532.7,
+        "duration": 1.31
+    },
+    {
+        "text": "as always my name's Phillip DeFranco,",
+        "start": 1534.01,
+        "duration": 1.84
+    },
+    {
+        "text": "you've just been filled in.",
+        "start": 1535.85,
+        "duration": 1.34
+    },
+    {
+        "text": "I love yo faces and I'll see you tomorrow.",
+        "start": 1537.19,
+        "duration": 2.563
+    }
+]
